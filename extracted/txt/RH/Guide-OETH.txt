@@ -1,0 +1,4495 @@
+
+----- page 1 -----
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+GUIDE  
+de l’OETH 
+Obligation d’Emploi  
+des  
+Travailleurs Handicapés 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Connaître l’OETH 
+Déclarer en DSN 
+Rôle de l’Urssaf et de l’Agefiph 
+En savoir plus… 
+ Version 2.5 – 7 avril 2026
+
+----- page 2 -----
+2 
+ 
+ 
+ 
+La loi du 5 septembre 2018 pour la liberté de 
+choisir son avenir professionnel simplifie les 
+déclarations des entreprises liées à l’obligation 
+d’emploi des travailleurs handicapés, en intégrant 
+cette formalité en DSN et en transférant la gestion 
+des déclarations au réseau des Urssaf. 
+Toutes les entreprises, quels que soient leurs 
+effectifs, doivent déclarer mensuellement le statut 
+de travailleur handicapé de leurs salariés via la 
+DSN. A partir des déclarations de statuts de 
+salariés handicapés, l’Urssaf notifie au 15 mars de 
+chaque année l’effectif de travailleurs handicapés 
+de l’année précédente. 
+Si une entreprise de 20 salariés et plus n’emploie 
+pas un minimum de 6 % de travailleurs handicapés, elle doit verser une 
+contribution annuelle. Celle-ci est calculée et déclarée par chaque entreprise 
+concernée, et est versée à l’Urssaf le 5 ou 15 mai de chaque année. 
+Si les entreprises déclarent l’achat de produits ou de services auprès d’un 
+établissement et service d’aide par le travail (Esat), d’entreprises adaptées, de 
+travailleurs indépendants handicapés ou d’un salarié porté reconnu bénéficiaire 
+de l’obligation d’emploi, elles peuvent les valoriser en déduction de la contribution 
+due.  
+De même, certains types de dépenses directes donnent droit à une réduction du 
+montant de la contribution, telles que la réalisation de travaux favorisant 
+l’accessibilité des locaux de l’entreprise aux travailleurs handicapés, la mise en 
+œuvre de moyens pour le maintien dans l’emploi ou la reconversion 
+professionnelle de salariés handicapés, les dépenses de sensibilisation et de 
+formation au handicap des salariés, ou le coût de prestations d’accompagnement 
+dans l’emploi de travailleurs handicapés assurées par des organismes extérieurs 
+à l’entreprise (associations, Esat, entreprises adaptées,…). 
+L’employeur peut également s’acquitter de son obligation d’emploi en faisant 
+application d’un accord agréé prévoyant la mise en œuvre d’un programme 
+pluriannuel en faveur des travailleurs handicapés, pour une durée maximale de 
+trois ans, renouvelable une fois.  
+Ce guide vous accompagne dans vos démarches auprès de l’Urssaf. 
+ 
+Bonne lecture !
+
+----- page 3 -----
+3 
+ 
+41 
+La déclaration mensuelle des BOETH 
+51 
+La déclaration annuelle de l’OETH 
+74 
+Versement pour dépenses non réalisées au terme d’un accord 
+agréé 
+05 
+Contexte et enjeux 
+07 
+La réforme de l’OETH 
+13 
+L’assujettissement à l’OETH 
+17 
+Les effectifs 
+25 
+Le calcul de la contribution annuelle 
+36 
+Mise en œuvre de l’OETH par accord agréé 
+39  La Taxation Forfaitaire majorée OETH applicable à partir de 
+2024 sur les périodes d’emplois 2023 et ultérieures 
+83 
+Questions générales 
+87 
+Questions sur la déclaration des BOETH 
+89 
+Questions sur la contribution 
+91 
+Questions sur les déductions 
+103 Questions sur les accords agréés 
+109 Contacts 
+111 Glossaire 
+ 
+ 
+ 
+Connaître l’OETH 
+Déclarer en DSN 
+En savoir plus… 
+Rôle de l’Urssaf et de l’Agefiph 
+79 
+Rôle de l’Urssaf et de la CGSS 
+80 
+Rôle de l’Agefiph
+
+----- page 4 -----
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CONNAITRE L’OETH
+
+----- page 5 -----
+5 
+ 
+ 
+ 
+Des sociétés, associations ou cabinets de conseil démarchent les entreprises 
+concernant l'obligation d'emploi des travailleurs handicapés (OETH) afin d’obtenir 
+les effectifs de travailleurs handicapés ou prétendent que les entreprises 
+n’atteignent pas leur obligation d’emploi afin de proposer des offres payantes 
+permettant de diminuer le montant de la contribution. 
+ 
+Certaines prétendent agir au nom de l’Urssaf pour obtenir ces informations. 
+Les entreprises n’ont aucune obligation de communiquer leurs effectifs de 
+travailleurs handicapés à un tiers. Par ailleurs, seules les Urssaf sont habilitées à 
+calculer les effectifs de travailleurs handicapés, à partir des déclarations 
+mensuelles en DSN, et à les communiquer. Aucune société n’est mandatée par 
+l’Urssaf pour réclamer ces informations.  
+Si vous veniez à être contactés sur ce sujet et avez des doutes, contactez votre 
+Urssaf. 
+Si vous pensez qu’il s’agit bien de démarches commerciales mensongères et 
+trompeuses, nous vous invitons à consulter le site économie.gouv.fr et saisir la 
+direction générale de la concurrence, de la consommation et de la répression des 
+fraudes (DGCCRF) : contacter la DGCCRF. Également sur le portail du Ministère 
+du Travail, de la Santé, des Solidarités et des Familles : Arnaques et fraudes à 
+l’obligation d’emploi des personnes handicapées 
+ 
+Obligation d’emploi  
+des travailleurs handicapés  
+  
+Attention aux démarches 
+frauduleuses !
+
+----- page 6 -----
+6 
+ 
+ 
+L’Agefiph n’est pas en charge de la DOETH et du recouvrement de la contribution 
+financière due le cas échéant par les entreprises. Elle assure la gestion des fonds 
+collectés grâce auxquels elle délivre des services et des aides financières visant 
+à favoriser l’emploi des personnes handicapées. 
+L’Agefiph est l’interlocutrice des entreprises pour : 
+> 
+les demandes concernant les déclarations et contributions réalisées au titre 
+de l’obligation d’emploi de l’année 2019 et des années précédentes ; 
+> 
+les informations sur les principes généraux de la réforme de l’Obligation 
+d’emploi des travailleurs handicapés ; 
+> 
+le conseil et l’accompagnement pour développer l’emploi des personnes 
+handicapées ; 
+> 
+les aides financières destinées à faciliter le recrutement, le maintien dans 
+l’emploi et l’évolution professionnelle de salariés handicapés 
+ 
+Depuis 1987, les entreprises privées et les établissements publics industriels et 
+commerciaux (EPIC) de 20 salariés et plus ont l’obligation d’employer 6% de 
+personnes handicapées.  
+Jusqu’en 2020, chaque année, elles adressaient à l’Agefiph leur DOETH, et, 
+lorsque leur taux d’emploi était inférieur à 6%, elles versaient une contribution 
+financière collectée et gérée par l’Agefiph. 
+Le transfert aux Urssaf de la DOETH et de la collecte de la contribution due au 
+titre de l’obligation d’emploi des travailleurs handicapés est établi par la loi n° 
+2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel. 
+Cette loi a simplifié l’obligation d’emploi des travailleurs handicapés (OETH) en 
+intégrant la DOETH dans la Déclaration Sociale Nominative (DSN).  
+Ainsi :  
+> 
+Depuis le 1er janvier 2020, la déclaration du statut des travailleurs handicapés 
+des salariés est réalisée dans les DSN mensuelles ; 
+> 
+Depuis 2021, la DOETH et le recouvrement de la contribution due en cas de 
+non-respect de l’obligation d’emploi, sont gérés par l’Urssaf. L'Urssaf est 
+l’interlocuteur unique des entreprises du Régime Général sur les champs de 
+la déclaration et du recouvrement des contributions.  
+Les services de l’Etat, les collectivités publiques et les établissements publics 
+administratifs (EPA) sont également concernés par l’OETH. Les déclarations et 
+les contributions du secteur public sont versées auprès du Fonds pour l'Insertion 
+La réforme de l ’OETH
+
+----- page 7 -----
+7 
+ 
+des Personnes Handicapées dans la Fonction Publique (FIPHFP). Ce fonds n’est 
+pas concerné par le transfert de la DOETH et du recouvrement de la contribution 
+Agefiph aux Urssaf. 
+ 
+Déclarations : mode d’emploi 
+ 
+Chaque mois 
+Toutes les entreprises doivent déclarer dans le « bloc contrat » de leurs DSN 
+mensuelles le titre de reconnaissance administrative de leurs salariés, dits 
+Bénéficiaires de l’obligation d’emploi de travailleurs handicapés (BOETH).  
+ 
+Au plus tard le 15 mars 2026 
+L’Urssaf calcule et met à disposition des entreprises, au titre de l’exercice annuel 
+2025 : 
+> 
+L’effectif d’assujettissement à l’OETH (effectif moyen annuel ou effectifs 
+permanents conformément à l’article D. 5212-1 du code du travail) ; 
+> 
+Le nombre de BOETH devant être employés au titre de l’OETH de l’année 
+(niveau d’obligation d’emploi de travailleurs handicapés) ; 
+> 
+L’effectif des BOETH employés par l’entreprise au titre de l’OETH de 
+l’année ; 
+> 
+L’effectif de salariés employés par l’entreprise relevant d’un Emploi 
+exigeant des conditions d’aptitudes particulières (ECAP). 
+ 
+Le calcul de ces effectifs est réalisé sur la base des déclarations et des éventuelles 
+régularisations (blocs changements) faites par l’entreprise en DSN.  
+Les entreprises de travail temporaire et groupements d’employeurs 
+adressent aux entreprises utilisatrices les attestations d’emplois de BOETH 
+intérimaires et mis à disposition. 
+Les entreprises adaptées, les établissements ou services d’aides par le 
+travail, les travailleurs indépendants handicapés et les entreprises de 
+portage salarial adressent aux entreprises clientes les attestations des dépenses 
+annuelles ouvrant droit à déductions. 
+ 
+Sur la période d’emploi d’avril 2026 la déclaration annuelle  
+Les employeurs occupant 20 salariés et plus au cours de l’année 2025 
+déclareront la contribution et les éventuelles déductions au travers de la DSN 
+d’avril 2026, exigible au 5 ou 15 mai 2026.
+
+----- page 8 -----
+8 
+ 
+ 
+ 
+La déclaration comportera : 
+> 
+le nombre de salariés BOETH mis à sa disposition par une entreprise de 
+travail temporaire ou un groupement d’employeurs ; 
+> 
+le montant de la déduction non-plafonnée liée à la passation de contrats de 
+fournitures, de sous-traitance, ou de prestations de service avec des 
+entreprises adaptées, des établissements ou services d’aides par le travail, 
+des travailleurs indépendants handicapés ou des entreprises de portage 
+salarial (si le salarié porté est bénéficiaire de l’obligation d’emploi), calculé en 
+application de l’article D. 5212-22 ; 
+> 
+le montant de la déduction non-plafonnée liée aux dépenses déductibles, 
+calculé en application de l’article D. 5212-23 ; 
+> 
+le montant de la déduction non-plafonnée liée au nombre de salariés de 
+l’entreprise exerçant des emplois exigeant des conditions d’aptitude 
+particulière, calculé en application de l’alinéa 3 de l’article L. 5212-9 ; 
+> 
+le cas échéant, s’il s’acquitte de l’obligation d’emploi par la conclusion d’un 
+accord agréé de branche, de groupe, ou d’entreprise mentionné à l’article L. 
+5212-8 ; 
+> 
+le montant de la contribution brute avant déductions calculée conformément 
+à l’article D.5212-20 ; 
+> 
+le montant de la contribution nette  
+> 
+le montant de la contribution réelle due.
+
+----- page 9 -----
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Réglementation applicable 
+La loi n°2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir 
+professionnel, parue au JO du 6 septembre 2018, porte une simplification de 
+l’obligation d’emploi des travailleurs handicapés en intégrant la DOETH dans la 
+DSN. 
+Parallèlement, elle transfère le dépôt de cette obligation déclarative de l’Agefiph 
+au réseau des Urssaf au 1er janvier 2020. Le décret n°2019-522 du 27 mai 2019 
+relatif à la déclaration obligatoire d'emploi des travailleurs handicapés, paru au 
+JO du 28 mai 2019, vise les modalités suivantes : 
+> 
+modalités de calcul des effectifs d’assujettissement ; 
+> 
+modalités de calcul du nombre de BOETH devant être employés ; 
+> 
+modalités de calcul des effectifs BOETH effectivement employés ; 
+> 
+informations déclarées par l’employeur dans le cadre de la DOETH ; 
+> 
+information du comité social et économique de l’entreprise. 
+Le décret n°2019-523 du 27 mai 2019 fixant les modalités de calcul de la 
+contribution due au titre de l'obligation d'emploi des travailleurs handicapés, 
+mutilés de guerre et assimilés paru au JO du 28 mai 2019, vise les modalités 
+suivantes : 
+> 
+modalités de calcul de la contribution annuelle ; 
+> 
+barème de la contribution fixé selon la taille de l’entreprise ; 
+> 
+sur-contribution pour les entreprises n’employant pas de BOETH et n’ayant pas 
+Les entreprises paieront le montant de la contribution au moment du 
+dépôt de leur DSN mensuelle d’avril 2026 et exigible au 5 ou 15 mai 2026. 
+ 
+Sauf cas de radiation d’entreprise entre le 1er janvier 2026 et la date 
+d’exigibilité de la DOETH au 5 ou 15 mai 2026, la déclaration annuelle 
+des entreprises en activité au moment de la date d’exigibilité ne doit pas 
+être transmise en avance. 
+ 
+En revanche, les entreprises radiées au plus tard le 31 décembre 2025 
+ne sont pas concernées par la déclaration annuelle les 5 ou 15 mai 2026. 
+Les entreprises radiées entre le 1er janvier 2026 et la date d’exigibilité de 
+la DOETH au 5 ou 15 mai 2026 effectuent leur déclaration en avance 
+dans la dernière DSN mensuelle avant radiation. 
+x 
+Bon à savoir
+
+----- page 10 -----
+10 
+ 
+recours à des contrats de sous-traitance pendant une période supérieure à 3 
+ans ; 
+> 
+modalités de calcul de la déduction liée aux achats de biens et services auprès 
+des Entreprises Adaptées (EA), Établissement et service d'aide par le travail 
+(Esat) et Travailleurs indépendants handicapés (TIH) (sous-traitance) ; 
+> 
+liste et modalités de calcul de la déduction liée aux dépenses déductibles ; 
+> 
+modalités de calcul transitoires de la contribution sur la période allant du 1er 
+janvier 2020 au 31 décembre 2024. 
+ 
+Le décret n° 2019-521 du 27 mai 2019 relatif à la mise en œuvre de l'obligation 
+d'emploi des travailleurs handicapés par application d'un accord agréé, paru au 
+JO du 28 mai 2019, vise les modalités suivantes : 
+> 
+périmètre de l’accord agréé : entreprise, groupe et branche ; 
+> 
+contenu de l’accord agréé ; 
+> 
+détermination du budget de l’accord agréé ; 
+> 
+modalités d’agrément des accords et autorités compétentes ; 
+> 
+bilan et contrôle des accords agréés ; 
+> 
+durée de l’accord agréé et possibilité de renouvellement ; 
+> 
+mesures transitoires. 
+ 
+Le décret n° 2018-1337 du 28 décembre 2018 portant extension et adaptation 
+de la partie réglementaire du code du travail, et de diverses dispositions 
+relatives au travail, à l’emploi et à la formation professionnelle à Mayotte, paru 
+au JO du 30 décembre 2018. 
+Le décret n° 2019-566 du 7 juin 2019 relatif à la majoration de l’alimentation du 
+compte personnel de formation pour les salariés bénéficiaires de l’obligation 
+d’emploi, paru au JO du 8 juin 2019. 
+L’ordonnance n° 2019-861 visant à assurer la cohérence de diverses 
+dispositions législatives avec la loi n° 2018-771 du 5 septembre 2018 pour la 
+liberté de choisir son avenir professionnel, parue au JO du 22 août 2019. 
+L’arrêté du 25 novembre 2019 relatif aux modalités de demande ou de 
+renouvellement 
+d’agrément 
+d’accords 
+en 
+faveur 
+des 
+travailleurs 
+handicapés, paru au JO du 3 décembre 2019. 
+L'arrêté du 12 décembre 2019 fixant le modèle d'attestation relative aux 
+bénéficiaires de l'obligation d'emploi des travailleurs handicapés mis à 
+disposition par une entreprise de travail temporaire ou un groupement 
+d'employeurs, paru au JO du 15 décembre 2019. 
+Le décret n° 2020-1350 du 5 novembre 2020 relatif à l’obligation d’emploi en 
+faveur des travailleurs handicapés, paru au JO du 6 novembre 2020.
+
+----- page 11 -----
+11 
+ 
+ 
+ 
+ 
+L’arrêté du 19 novembre 2020 fixant le modèle d'attestation relative aux achats 
+auprès des entreprises adaptées, des établissements ou services d'aide par le 
+travail, des travailleurs indépendants handicapés et des entreprises de portage 
+salarial lorsque le salarié porté est reconnu bénéficiaire de l'obligation d'emploi 
+au sens de l'article L. 5212-13, paru au JO du 29 novembre 2020. 
+L’arrêté du 19 novembre 2020 fixant le modèle d'attestation annuelle portant 
+sur le nombre de bénéficiaires de l'obligation d'emploi mis à disposition par 
+une entreprise de travail temporaire ou un groupement d'employeurs auprès 
+d'un employeur, paru au JO du 29 novembre 2020. 
+L’article 119 de la loi de finances n°2021-1900 du 30 décembre 2021 pour 
+2022 fixe la période à retenir pour apprécier le nombre de salariés en statut 
+de travailleur handicapés. 
+Le décret n° 2023-296 du 20 avril 2023 relatif aux modalités de fixation du 
+montant de la contribution liée à l'obligation d'emploi des travailleurs 
+handicapés en l'absence de déclaration annuelle de l'employeur et modifiant 
+le calendrier des obligations déclaratives. 
+Décret n° 2023-296 du 20 avril 2023 
+ 
+Le décret n° 2025-1294 du 24 décembre 2025 relatif aux dépenses 
+déductibles de la contribution annuelle due au titre de l’obligation d’emploi 
+des travailleurs handicapés  
+(Le décret prolonge pour une durée de cinq années la déductibilité des dépenses 
+de partenariats à travers une adhésion ou une convention avec des associations 
+ou organismes œuvrant pour la formation, l'insertion sociale et professionnelle de 
+personnes handicapées que l’employeur accueille ou embauche, de la 
+contribution annuelle due au titre de l’obligation d’emploi des travailleurs 
+handicapés. Il fixe par ailleurs les modalités de cette déduction. Ces dispositions 
+s’appliquent aux dépenses réalisées à compter de l’année 2025). 
+Décret n°2025-1294 du 24 décembre 2025 
+ 
+Texte n°6 de l’arrêté du 3 mars 2026 portant application du décret n° 2025-
+1294 du 24 décembre 2025 relatif aux dépenses déductibles de la 
+contribution annuelle due au titre de l'obligation d'emploi des travailleurs 
+handicapés. 
+Arrêté du 3 mars 2026 portant application du décret n° 2025-1294 du 24 décembre 
+2025 relatif aux dépenses déductibles de la contribution annuelle due au titre de 
+l'obligation d'emploi des travailleurs handicapés
+
+----- page 12 -----
+12 
+ 
+Le décret n° 2026-86 du 13 février 2026 relatif au reliquat de fin d’accord 
+agrée mentionné à l’article L.5212-8 du code du travail en matière d’emploi 
+des travailleurs handicapés, permettant aux Urssaf de procéder au 
+recouvrement des reliquats  
+Décret n° 2026-86 du 13 février 2026
+
+----- page 13 -----
+13 
+ 
+ 
+Toutes les entreprises de 20 salariés et plus sont assujetties 
+à l’OETH 
+Les entreprises de 20 salariés et plus, y compris les établissements publics 
+industriels et commerciaux (EPIC), sont assujetties à l’obligation d’emploi en 
+faveur des travailleurs handicapés (OETH).  
+Conformément à l’article L. 5212-3 du code du travail, l’assujettissement est 
+apprécié au niveau de l’entreprise, et non par établissement ou par établissement 
+autonome.  
+Les entreprises sont redevables d’une contribution si le taux d'emploi de 
+personnes handicapées rapporté à leur effectif moyen annuel est inférieur à 6%.  
+L’article L. 130-1 du Code de la sécurité sociale s’applique au calcul : 
+> 
+de l’effectif moyen annuel de l’entreprise qui permet de déterminer le seuil 
+d’assujettissement à l’obligation d’emploi de 20 salariés ; 
+> 
+du ratio d’emploi de 6% de travailleurs handicapés.  
+Conformément à l’article D. 5212-1 du code du travail, certaines structures ne sont 
+toutefois assujetties que sur leurs seuls effectifs permanents, c’est-à-dire après 
+exclusion des effectifs intérimaires, mis à disposition, ou portés,  
+> 
+Les entreprises de travail temporaire ; 
+> 
+Les groupements d’employeurs ; 
+> 
+Les entreprises de portage salarial ; 
+> 
+Les agences de mannequins ; 
+> 
+Les associations intermédiaires ; 
+> 
+Les entreprises de travail temporaire à temps partagé. 
+Les entreprises de moins de 20 salariés ne sont pas assujetties à l’OETH. 
+Cependant, conformément à l’article D. 5212-1 du code du travail, elles doivent, 
+comme les entreprises de 20 salariés et plus, déclarer en DSN le statut de 
+travailleur handicapés de leurs salariés. 
+ 
+ 
+L’assujettissement à l’OETH
+
+----- page 14 -----
+14 
+ 
+ 
+Entreprises de 20 salariés et plus 
+Entreprises de moins de 20 salariés 
+Au titre de la période d’emploi 2025, 
+les entreprises de 20 salariés et plus 
+sont assujetties à l’obligation de 
+déclaration et, le cas échéant, au 
+paiement d’une contribution annuelle 
+auprès de l’Urssaf, qui sera portée sur 
+la DSN en 2026, dans le cas où elles 
+ne respecteraient pas leur obligation 
+d’emploi de travailleurs handicapés, à 
+savoir l’emploi d’un ratio minimum de 
+6 
+% 
+de 
+travailleurs 
+handicapés 
+rapporté à l’effectif moyen annuel de 
+l’entreprise. 
+Ce ratio d’emploi sera calculé et sera 
+notifié par l’Urssaf, à partir des statuts 
+de salariés handicapés déclarés en 
+2025 ou régularisés sur la même 
+période : afin que ce calcul soit réalisé 
+par l’Urssaf de façon exacte, il est 
+donc essentiel que ces entreprises 
+réalisent la déclaration mensuelle du 
+statut de leurs travailleurs handicapés 
+et les éventuelles régularisations. 
+Par ailleurs, ces données permettront 
+à l’Agefiph de connaître l’emploi des 
+travailleurs handicapés dans les TPE 
+et d’accompagner ces dernières par 
+une offre de services adaptée. 
+Les entreprises de moins de 20 
+salariés   ne sont pas assujetties à 
+l’OETH 
+(pas 
+de 
+déclaration 
+annuelle, ni de contribution), elles 
+sont néanmoins concernées par 
+l’obligation déclarative mensuelle 
+de leurs BOETH. 
+Ces données permettent à l’Agefiph 
+de 
+connaître 
+l’emploi 
+des 
+travailleurs handicapés dans les 
+TPE 
+et 
+d’accompagner 
+ces 
+dernières par une offre de services 
+adaptée. 
+Neutralisation sur cinq ans de l’assujettissement à l’OETH 
+Depuis le 1er janvier 2020 : 
+- Les entreprises franchissant le seuil d’effectif de 20 salariés bénéficient d’une 
+neutralisation sur 5 années consécutives avant d’être assujettie à l’OETH. 
+- Les entreprises nouvellement créées à partir du 1er janvier 2020, qui occupent 
+au moins 20 salariés au moment de leur création, disposent également d’une 
+période de neutralisation avant d’être assujetties. 
+Dans ces 2 situations, si l’effectif moyen annuel de l’entreprise repasse sous le 
+seuil de 20 salariés, elle bénéficie de nouveau du délai de neutralisation de 5 ans 
+avant d’être assujettie à l’OETH. 
+L'entreprise doit néanmoins continuer à déclarer mensuellement les BOETH 
+qu'elle emploie, quels que soient ses effectifs.
+
+----- page 15 -----
+15
+
+----- page 16 -----
+16 
+ 
+ 
+Effectif moyen annuel OETH, ou effectif d’assujettissement 
+OETH 
+L’effectif moyen annuel OETH (EMA OETH) est calculé par l’Urssaf pour 
+déterminer l’assujettissement à l’OETH et le niveau d’obligation d’emploi de 
+l’entreprise. Les effectifs transmis par l’Urssaf prennent en compte les blocs de 
+régularisation et sont calculés à partir des données consolidées. 
+Seules les entreprises de 20 salariés et plus sont assujetties à l’OETH et le niveau 
+d’obligation d’emploi, exprimé en nombre de BOETH, correspond à 6 % de l’EMA 
+OETH.  
+L’atteinte ou non de l’effectif d’assujettissement de 20 salariés pour l’OETH au titre 
+d’une année N sera vérifié l’année suivante N+1. Ainsi, l’EMA OETH, ou effectif 
+d’assujettissement à l’obligation d’emploi à retenir au titre d’une année N est 
+l’effectif moyen annuel au 31 décembre de l’année N, calculé sur la base de la 
+moyenne des effectifs déterminés chaque mois au titre de cette même année civile 
+N. 
+Conformément à l’article L. 5212-3 du code du travail, l’effectif d’assujettissement 
+est apprécié au niveau de l’entreprise, et non par établissement ou par 
+établissement autonome. 
+Conformément à l’article D. 5212-1 du code du travail, l’EMA OETH est calculé 
+selon les mêmes règles que l’effectif moyen annuel d’une entreprise déterminée 
+pour l’application des dispositions du code de la sécurité sociale, aux exceptions 
+suivantes : 
+> 
+pour 
+les 
+entreprises 
+de 
+travail 
+temporaire, 
+les 
+associations 
+intermédiaires, les agences de mannequins, les entreprises de travail à 
+temps partagé, seuls sont pris en compte les effectifs permanents : les 
+contrats de missions et les CDI intérimaires ne sont pas pris en compte dans 
+le calcul de l’EMA OETH de l’ETT ; 
+> 
+pour les groupements d’employeurs et les entreprises de portage 
+salarial, seuls sont pris en compte les effectifs permanents : les salariés 
+portés et mis à disposition par un groupement d'employeurs ne sont pas pris 
+en compte dans le calcul de l’EMA OETH du groupement ou de l’entreprise 
+de portage salarial. 
+ 
+ 
+Les effectifs
+
+----- page 17 -----
+17 
+ 
+Les bénéficiaires de l’obligation d’emploi des travailleurs 
+handicapés (BOETH) à employer 
+Tout employeur assujetti à l’OETH doit employer des BOETH dans la proportion 
+minimale de 6 % de l’effectif de ses salariés. Ce taux de 6% est révisable tous les 
+cinq ans, en référence à la part des bénéficiaires de l’obligation d’emploi dans la 
+population active et à leur situation au regard du marché du travail, après avis du 
+Conseil national consultatif des personnes handicapées. 
+Ce niveau d’obligation d’emploi à respecter par un employeur est exprimé en 
+nombre de BOETH à employer. Il est calculé en rapportant le ratio de 6 % à 
+l’effectif moyen annuel OETH, correspondant à la moyenne des effectifs, calculés 
+chaque mois de l’année précédente. 
+Le nombre de BOETH à employer est arrondi à l’entier inférieur. 
+ 
+Règle d’arrondi à l’entier inférieur sur l’obligation d’emploi
+
+----- page 18 -----
+18 
+ 
+Les bénéficiaires de l’obligation d’emploi des travailleurs 
+handicapés (BOETH) employés 
+ 
+Les Bénéficiaires de l’Obligation d’Emploi de Travailleurs Handicapés (BOETH) 
+employés correspondent aux travailleurs handicapés réellement employés par 
+l’entreprise. Ils sont exprimés en nombre de BOETH. 
+Conformément à l’article L. 130-1 du code de la sécurité sociale, le nombre de 
+BOETH employés est calculé avec deux décimales après la virgule. Il n’est donc 
+pas arrondi à l’entier inférieur. Les BOETH employés sont décomptés quelles que 
+soient la durée et la nature de leur contrat. 
+Conformément à l’article D. 5212-3 du code du travail, l’effectif des BOETH inclut 
+tous types de contrats sans exception : 
+> 
+les BOETH en CDI, CDD, contrats d’alternance, … 
+> 
+les BOETH accueillis en stage par l’employeur, quelle qu’en soit la durée, 
+ainsi que les jeunes de plus de seize ans bénéficiaires de droits à la prestation 
+de compensation du handicap, de l’allocation compensatrice pour tierce 
+personne ou de l’allocation d’éducation de l’enfant handicapé qui disposent 
+d’une convention de stage ; 
+> 
+les BOETH accueillis pour des périodes de mise en situation en milieu 
+professionnel (PMSMP). 
+Sont inclus également parmi les BOETH les bénéficiaires mis à disposition par les 
+entreprises de travail temporaire et par les groupements d'employeurs. 
+En revanche, un salarié porté (travailleur en portage salarial) ayant la qualité de 
+BOETH n’est décompté ni dans l’effectif BOETH de l’entreprise d’accueil, ni dans 
+celui de l’entreprise de portage.  La prestation du salarié porté handicapé pourra 
+être valorisée par l’entreprise au titre des déductions liées à la passation de contrat 
+de fournitures, de sous-traitance ou de prestations de services. 
+Pour les employeurs, l’effectif total des BOETH employés correspond à la somme 
+de :  
+> 
+l’effectif des BOETH dits « internes », employés par l’entreprise au cours de 
+l’année civile, et qui sera communiqué par l’Urssaf ;  
+> 
+et l’effectif des BOETH dits « externes », mis à disposition par une entreprise 
+de travail temporaire ou un groupement d’employeur tel qu’indiqué sur la ou 
+les attestations reçues selon les modalités décrites ci-après.
+
+----- page 19 -----
+19 
+ 
+ 
+BOETH internes 
+Les BOETH internes correspondent aux effectifs BOETH de l’entreprise de l’année 
+de référence, déclarés mensuellement dans le bloc contrat de la DSN (bloc 40).  
+A partir des données déclarées par les entreprises, l’Urssaf notifie à l’entreprise 
+l’effectif moyen annuel des BOETH internes. 
+ 
+BOETH externes 
+Les BOETH externes sont les travailleurs handicapés mis à disposition par des 
+groupements d’employeurs et entreprises de travail temporaire. Les effectifs de 
+BOETH externes sont notifiés par les entreprises de travail temporaire et les 
+groupements d’employeurs conformément à l'arrêté du 12 décembre 2019 (paru 
+au JO du 15 décembre 2019). Les associations intermédiaires, agences de 
+mannequins et entreprises de travail à temps partagé (ETTP) sont également 
+concernées par cette obligation de déclaration.   
+Ainsi, les entreprises de travail temporaire, les groupements d’employeurs, les 
+associations intermédiaires, agences de mannequins et entreprises de travail à 
+temps partagé (ETTP) adresseront aux entreprises utilisatrices les attestations 
+d’emplois de BOETH intérimaires et mis à disposition. Cette attestation informera 
+l’entreprise utilisatrice de l’effectif moyen annuel des bénéficiaires de l'obligation 
+d'emploi des travailleurs handicapés qu’elle aura occupés.  
+Le nombre de BOETH externes sera déclaré par l’entreprise utilisatrice dans la 
+rubrique S21.G00.13.003 de la DSN porteuse de la contribution OETH.
+
+----- page 20 -----
+20 
+ 
+ 
+ 
+Valorisation des BOETH de 50 ans et plus 
+Conformément à l’article D. 5212-3 du code du travail, des modalités spécifiques 
+de calcul s’appliquent aux BOETH âgés d’au moins 50 ans. L’effectif moyen 
+annuel des BOETH âgés de 50 ans ou plus pris en compte au cours de l’année 
+civile dans l’effectif total des BOETH sera multiplié par un facteur de 1,5 ; et ce 
+afin d’inciter les entreprises à recruter et à maintenir en emploi les travailleurs 
+handicapés âgés. 
+Cette valorisation est calculée par l’Urssaf dans le calcul de l’effectif BOETH. 
+ 
+Surpondération des BOETH de 50 ans et plus
+
+----- page 21 -----
+21 
+ 
+Calculs des effectifs de BOETH en cas de reconnaissance en cours 
+d’année
+
+----- page 22 -----
+22 
+ 
+Les différentes catégories de BOETH  
+Les différentes catégories de bénéficiaires de l’obligation d’emploi des travailleurs 
+handicapés sont les suivantes : 
+> 
+travailleur reconnu handicapé par la commission des droits et de l'autonomie 
+des personnes handicapées ; 
+> 
+victime d'accident du travail ou de maladie professionnelle ayant entraîné 
+une incapacité permanente au moins égale à 10 % et titulaire d'une rente ; 
+> 
+titulaire d'une pension d'invalidité à condition que l'invalidité réduise au moins 
+des deux tiers sa capacité de travail ; 
+> 
+titulaire d'une allocation ou d'une rente d'invalidité dans les conditions 
+définies par la loi n°91-1389 du 31 décembre 1991 ; 
+> 
+titulaire de la carte "mobilité inclusion" portant la mention "invalidité" (L. 241-
+3 du Code de l'action sociale et des familles) ; 
+> 
+titulaire de l'allocation aux adultes handicapés ; 
+> 
+ayant droit à la prestation de compensation du handicap, à l'allocation 
+compensatrice pour tierce personne ou à l'allocation d'éducation de l'enfant 
+handicapé bénéficiant d'un stage (L. 5212-7 du Code du travail). 
+> 
+bénéficiaire mentionné à l'article L. 241-2 du Code des pensions militaires 
+d'invalidité et des victimes de la guerre ; 
+> 
+bénéficiaire mentionné aux articles L. 241-3 et L. 241-4 du Code des 
+pensions militaires d'invalidité et des victimes de la guerre ; 
+> 
+bénéficiaire mentionné aux articles L. 241-5 et L. 241-6 du Code des 
+pensions militaires d'invalidité et des victimes de guerre ; 
+Pour les entreprises employant des fonctionnaires, elles peuvent renseigner 
+également l'une des catégories suivantes relevant de la fonction publique :  
+> 
+agent public reclassé (Article L. 351-5 2° du Code général de la Fonction 
+Publique) ; 
+> 
+agent public bénéficiaire d'une allocation temporaire d'invalidité (Article L. 
+351-5 3° du Code général de la Fonction Publique). 
+Il convient de noter qu’un BOETH ne peut pas être pris en compte plusieurs fois 
+dans le calcul de l’effectif total des BOETH employés au motif qu’il entre dans 
+plusieurs catégories de bénéficiaires. 
+ 
+Les emplois nécessitant des conditions d’aptitudes particulières  
+A partir des données déclarées par les entreprises, l’effectif moyen annuel des 
+Emplois exigeant des conditions d’aptitudes particulières (Ecap) est calculé et 
+notifié par l’Urssaf. Les Ecap correspondent à des emplois pour lesquels la loi 
+dispose que l'entreprise n'est pas tenue de les proposer à des salariés reconnus 
+handicapés.  L’employeur valorise les Ecap par leur identification via le code PCS-
+ESE (S21.G00.40.004).
+
+----- page 23 -----
+23 
+ 
+ 
+Une entreprise peut bénéficier d’une déduction égale à l’effectif annuel moyen des 
+Ecap de l’année de référence multipliée par 17 fois le Smic horaire brut en vigueur 
+pour l’année N.  
+La liste des emplois concernés est la suivante : 
+N° de 
+nomenclature 
+Intitulé de la nomenclature des Professions et Catégories Socioprofessionnelles-Emplois des 
+salariés des entreprises (PCS-ESE) 
+389b 
+Officiers et cadres navigants techniques et commerciaux de l'aviation civile. 
+389c 
+Officiers et cadres navigants techniques de la marine marchande. 
+480b 
+Maîtres d'équipage de la marine marchande et de la pêche. 
+526e 
+Ambulanciers. 
+533a 
+Pompiers. 
+533b 
+Agents techniques forestiers, gardes des espaces naturels, exclusivement 
+pour les gardes-chasse et les gardes-pêche. 
+534a 
+Agents civils de sécurité et de surveillance, excepté les gardiens d'usine et les 
+gardiens de nuit. 
+534b 
+Convoyeurs de fonds, gardes du corps, enquêteurs privés et métiers assimilés. 
+546a 
+Contrôleurs des transports (personnels roulants). 
+546d 
+Hôtesses de l'air et stewards. 
+546e 
+Autres agents et hôtesses d'accompagnement (transports, tourisme). 
+553b 
+Vendeurs polyvalents des grands magasins. 
+624d 
+Monteurs qualifiés en structures métalliques. 
+621a 
+Chefs d'équipe du gros œuvre et des travaux publics. 
+621b 
+Ouvriers qualifiés du travail en béton. 
+621c 
+Conducteurs qualifiés d'engins de chantiers du bâtiment et des travaux publics. 
+621e 
+Autres ouvriers qualifiés des travaux publics. 
+621g 
+Mineurs de fond qualifiés et autres ouvriers qualifiés des industries d'extraction 
+(carrières, pétrole, gaz...). 
+632a 
+Maçons qualifiés. 
+632c 
+Charpentiers en bois qualifiés. 
+632e 
+Couvreurs qualifiés. 
+641a 
+Conducteurs routiers et grands routiers. 
+641b 
+Conducteurs de véhicules routiers de transport en commun. 
+643a 
+Conducteurs livreurs et coursiers. 
+651a 
+Conducteurs d'engins lourds de levage. 
+651b 
+Conducteurs d'engins lourds de manœuvre. 
+652b 
+Dockers. 
+654b 
+Conducteurs qualifiés d'engins de transport guidés (sauf remontées 
+mécaniques). 
+654c 
+Conducteurs qualifiés de systèmes de remontées mécaniques. 
+656b 
+Matelots de la marine marchande. 
+656c 
+Capitaines et matelots timoniers de la navigation fluviale. 
+671c 
+Ouvriers non qualifiés des travaux publics et du travail du béton. 
+671d 
+Aides-mineurs et ouvriers non qualifiés de l'extraction. 
+681a 
+Ouvriers non qualifiés du gros œuvre du bâtiment. 
+691a 
+Conducteurs d'engins agricoles ou forestiers. 
+692a 
+Marins pêcheurs et ouvriers de l'aquaculture.
+
+----- page 24 -----
+24 
+ 
+Stagiaires déclarés en DSN  
+ 
+L'employeur peut, s'il le souhaite, valoriser le statut BOETH d'un stagiaire même 
+non rémunéré.  
+Pour cela, il est nécessaire de déclarer en DSN ce statut afin qu’il soit pris en 
+compte dans le calcul des statuts BOETH de l'entreprise. Les stagiaires non 
+rémunérés doivent être déclarés en DSN en renseignant la rubrique « Nature du 
+contrat - S21.G00.40.007 » du bloc « Contrat (contrat de travail, convention, 
+mandat) - S21.G00.40 » avec la nature « 29 - Convention de stage (hors formation 
+professionnelle) » et une rémunération à zéro.
+
+----- page 25 -----
+25 
+ 
+Synthèse : identification des effectifs BOETH 
+Lorsque l’employeur n’atteint pas le taux d’obligation par l’emploi direct de 
+bénéficiaires de l’obligation d’emploi des travailleurs handicapés (BOETH), soit 
+6% de son effectif moyen annuel OETH, il est redevable d’une contribution 
+annuelle.  
+La contribution annuelle doit être déterminée par l’employeur au travers de 
+plusieurs étapes de calcul successives : 
+1. 
+Le calcul de la contribution OETH brute avant déductions 
+2. 
+Le calcul de la contribution OETH nette 
+3. 
+Le calcul de la contribution OETH nette après écrêtement (uniquement pour des 
+régularisations antérieures à 2025) 
+4. 
+Le calcul de la contribution OETH réelle due
+
+----- page 26 -----
+26 
+ 
+ 
+ 
+Le calcul de la contribution OETH brute avant déduction 
+Conformément à l’article D. 5212-20 du code du travail, la contribution annuelle, 
+avant déductions, est égale au produit des éléments suivants : 
+> 
+nombre de bénéficiaires de l’obligation d’emploi manquants, résultant de 
+l’écart entre le nombre de bénéficiaires de l’obligation d’emploi devant être 
+employés en application des dispositions de l’article L. 5212-2 du code du 
+travail (taux d’obligation d’emploi rapporté à l’effectif moyen annuel d’OETH, 
+arrondi à l’entier inférieur) et le nombre de bénéficiaires réellement employés, 
+calculés en application de l’article D. 5212-3 du code du travail. 
+> 
+montants 
+suivants 
+déterminés 
+en 
+fonction 
+de 
+l’effectif 
+d’assujettissement de l’entreprise : 
+- 
+400 fois le Smic horaire brut dans les entreprises de 20 à moins de 250 
+salariés ; 
+- 
+500 fois le Smic horaire brut dans les entreprises de 250 à moins de 750 
+salariés ; 
+- 
+600 fois le Smic horaire minimum brut dans les entreprises de 750 
+salariés et plus. 
+Le Smic brut applicable est le salaire applicable au 31 décembre de l’année au 
+titre de laquelle la contribution est due.  
+Au 31 décembre 2025, le SMIC horaire brut (Décret n° 2024-951 du 23 octobre 
+2024 portant relèvement du salaire minimum de croissance) est de : 
+> 
+11,88 euros en métropole et dans les Dom ; 
+> 
+8,98 euros à Mayotte (dans le département de Mayotte, le montant de la 
+contribution se calcule en effet sur la base du SMIC horaire brut mahorais). 
+ 
+Formule de calcul de la contribution brute avant déductions (étape 1) 
+Un simulateur de contribution est disponible sur le site de 
+l’Agefiph afin de faciliter les calculs de contribution des entreprises :
+https://www.agefiph.fr/employeur/simulateur_doeth 
+ 
+Bon à savoir
+
+----- page 27 -----
+27 
+ 
+ 
+ 
+Sur-contribution pour absence d’emploi de travailleur handicapé, de 
+contrat de sous-traitance, sans accord agréé sur une période supérieure 
+à 3 années consécutives 
+Conformément à l’article D. 5212-21 du code du travail, le montant mentionné au 
+point précédent est fixé à 1500 fois le Smic horaire brut quel que soit le nombre 
+de salariés employés, pour les entreprises soumises à l’obligation n'ayant, au 
+cours des 3 dernières années, et de façon cumulative : 
+➢ 
+employé aucun travailleur handicapé bénéficiaire de l’obligation d’emploi  
+➢ 
+conclu aucun contrat de fournitures, de sous-traitance ou de services, 
+dans les conditions prévues à l'article L. 5212-10-1 du code du travail, 
+dont le montant serait supérieur sur quatre ans à 600 fois le Smic horaire 
+brut  
+➢ 
+pas d’accord agréé en vigueur, tel que mentionné à l’article L. 5212-8 du 
+code du travail. 
+ 
+   Bon à savoir 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pour l’année 2025, l’entreprise « Exemple » a : 
+> 
+Un EMA de 55 
+> 
+Un EMA BOETH de 1,38 
+> 
+Une obligation d’emploi de : 55 x 6% = 3,30 ; dont on retient l’arrondi à l’unité 
+inférieure) soit 3 
+> 
+le SMIC horaire brut en vigueur au 31/12/2025 est de 11,88 € 
+> 
+Un coefficient multiplicateur applicable à la taille de l’entreprise « Exemple » à 
+400 (compte tenu de son EMA de 55 compris entre 20 et 250) 
+ 
+Au titre de 2025, la contribution brute avant déductions de l’entreprise 
+« Exemple » est de : (3 – 1,38) x 11,88 x 400 = 7698,24 € 
+Exemple 
+Afin d’éviter l’application de cette sur-contribution, l’employeur peut  
+satisfaire au moins l’une des 3 conditions précitées (Employer au moins un 
+BOETH  salarié, stagiaire (y compris en période de mise en situation en 
+milieu professionnel), ou externe (intérimaire, mis à disposition par un 
+groupement d’employeurs, mannequinat, temps partagé), ou Passer un ou 
+plusieurs contrats de sous-traitance auprès du secteur protégé/adapté ou 
+TIH ou BOETH en portage salarial, ou Appliquer un accord agréé ; au 
+cours des 4 années (3 années précédentes + année de référence).
+
+----- page 28 -----
+28 
+ 
+Dans les cas de franchissement de seuil ou de création d’entreprise, l’année 
+de référence à prendre en compte, pour l’application des règles relatives à la sur-
+contribution, est l’année à partir de laquelle s’applique l’obligation d’emploi. 
+ 
+Le calcul des déductions et de la contribution OETH nette  
+L’employeur peut déduire du montant de la contribution brute certaines 
+dépenses ou certains montants. Les déductions sont des dépenses de 
+l’employeur en faveur de l’emploi des bénéficiaires de l’obligation d’emploi 
+des travailleurs handicapés, venant minorer le montant de la contribution pour 
+l’emploi des travailleurs handicapés.  
+Les déductions sont déclarées par le cotisant sur la base des montants bruts 
+non plafonnés. Les déductions applicables à la contribution sont les suivantes. 
+ 
+Dépenses déductibles 
+Conformément à l’article D. 5212-23 du code du travail, les dépenses 
+déductibles sont relatives : 
+> 
+à la réalisation de diagnostics et de travaux afin de rendre les locaux de 
+l’entreprise accessibles aux bénéficiaires de l’obligation d’emploi ; 
+> 
+au maintien dans l’emploi au sein de l’entreprise et à la reconversion 
+professionnelle de bénéficiaires de l’obligation d’emploi par la mise en œuvre 
+de moyens humains, techniques ou organisationnels compensatoires à la 
+situation de handicap, à l’exclusion des dépenses déjà prises en charge ou 
+faisant l’objet d’aides financières délivrées par d’autres organismes ; 
+> 
+aux prestations d’accompagnement des bénéficiaires de l’obligation d’emploi, 
+aux actions de sensibilisation et de formation des salariés réalisées par 
+d’autres organismes pour le compte de l’entreprise afin de favoriser la prise 
+de poste et le maintien en emploi des bénéficiaires de l’obligation d’emploi. 
+ 
+Dépense déductible 
+Caractéristiques 
+La réalisation de diagnostics et 
+de travaux 
+Cette dépense est effectuée en vue 
+de rendre les locaux accessibles 
+aux bénéficiaires de l’obligation 
+d’emploi hors obligations légales 
+Le maintien dans l’emploi au 
+sein de l’entreprise et la 
+reconversion professionnelle de 
+bénéficiaires de l’obligation 
+d’emploi 
+Cette dépense concerne la mise en 
+œuvre de moyens humains, 
+techniques ou organisationnels 
+compensatoires à la situation de 
+handicap. 
+Exclusions : 
+> 
+dépenses déjà prises en
+
+----- page 29 -----
+29 
+ 
+ 
+En complément des déductions prévues à l'article D. 5212-23 du code du travail, 
+et conformément au Décret n° 2025-1294 du 24 décembre 2025, peuvent être 
+déduites les dépenses exposées au titre du partenariat, par voie de 
+convention ou d'adhésion, avec des associations ou organismes œuvrant 
+pour la formation, l'insertion sociale et professionnelle de personnes 
+handicapées que l'employeur accueille ou embauche, à l'exclusion des 
+participations aux opérations de mécénat. Ces dispositions spécifiques sont 
+applicables jusqu'au 31 décembre 2029 
+Pour déduire les dépenses de partenariats, l'employeur doit justifier, au titre de 
+l'année de référence, de la conclusion avec un des bénéficiaires mentionnés à 
+l’article L. 5212-13 du code du travail, d'un des contrats suivants : 
+1° Un contrat de travail à durée indéterminée ; 
+2° Un contrat à durée déterminée d'au moins six mois ; 
+3° Un contrat d'apprentissage ; 
+4° Un contrat de professionnalisation ; 
+5° Une convention de stage d'au moins six mois. 
+Au plus tard le 15 mars de l'année suivant celle au titre de laquelle la déclaration 
+relative à l'obligation d'emploi est effectuée, les associations ou organismes 
+œuvrant pour la formation, l'insertion sociale et professionnelle de personnes 
+handicapées transmettent, selon un modèle défini par arrêté du ministre chargé 
+de l'emploi, aux employeurs avec lesquels des partenariats ont été conclus, par 
+voie de convention ou d'adhésion, la liste des personnes bénéficiaires de 
+l'obligation d'emploi pour lesquelles a été signé un contrat ou une convention. 
+L’employeur peut déduire ces dépenses du montant de sa contribution annuelle 
+dans la limite de 10 % du montant de la contribution annuelle calculée selon 
+les dispositions de l’article D. 5212-19 du code du travail. Le montant des 
+déductions est à déclarer hors taxes. Les sommes sont en euros et les centimes 
+ne sont pas inclus. 
+charge par d’autres 
+organismes ; 
+> 
+dépenses faisant l’objet d’aides 
+financières délivrées par 
+d’autres organismes. 
+Les prestations 
+d’accompagnement des 
+bénéficiaires de l’obligation 
+d’emploi ainsi que les actions 
+de sensibilisation et de 
+formation des salariés délivrées 
+par d’autres organismes 
+Cette dépense doit permettre de 
+favoriser la prise de poste et le 
+maintien en emploi des 
+bénéficiaires de l’obligation 
+d’emploi.
+
+----- page 30 -----
+30 
+ 
+ 
+Déductions liées à la passation de contrat de fournitures, de sous-
+traitance ou de prestations de services passés avec des entreprises 
+adaptées, des établissements ou services d’aides par le travail et/ou avec 
+des travailleurs indépendants handicapés 
+Conformément à l’article L. 5212-10-1 du code du travail, peuvent être déduites 
+du montant de la contribution OETH annuelle, les dépenses supportées 
+directement par l'entreprise, effectivement réglées au cours de l’année, et 
+afférentes à des contrats de fourniture, de sous-traitance ou de prestations 
+de services qu'elle passe avec :  
+> 
+des entreprises adaptées ; 
+> 
+des établissements ou services d'aide par le travail ; 
+> 
+des travailleurs indépendants handicapés reconnus bénéficiaires de 
+l'obligation d'emploi au sens de l'article L. 5212-13 du code du travail ; 
+> 
+des entreprises de portage salarial lorsque le salarié porté est reconnu 
+bénéficiaire de l’obligation d’emploi au sens de l’article L. 5212-13 précité. 
+Conformément à l’article D. 5212-7 du code du travail, les entreprises adaptées, 
+les établissements ou services d’aide par le travail, les travailleurs 
+indépendants handicapés et les entreprises de portage salarial adressent à 
+leurs entreprises clientes une attestation annuelle avant le 31 janvier. 
+Cette attestation indique : 
+> 
+le montant du prix hors taxes des fournitures, travaux ou prestations figurant 
+aux contrats réglés par l’entreprise au cours de l’année considérée ; 
+> 
+le montant de la différence entre ce prix hors taxe et les coûts des matières 
+premières, des produits, des matériaux, de la sous-traitance, des 
+consommations intermédiaires et des frais de vente et de commercialisation, 
+effectivement payé dans l’année ; 
+> 
+le montant de la déduction avant plafonnement prévue au premier alinéa de 
+l’article D. 5212-22 du code du travail. 
+Conformément à l’article D. 5212-22 du code du travail, le montant de la déduction 
+résultant de la conclusion de contrats de fournitures, de sous-traitance ou de 
+prestations de services avec des entreprises adaptées, des établissements ou 
+services d’aide par le travail, des travailleurs indépendants handicapés ou des 
+entreprises de portage salarial est calculé en appliquant un taux de 30 % au prix 
+hors taxes des fournitures, travaux ou prestations figurant au contrat, duquel 
+sont déduits les coûts des matières premières, des produits, des matériaux, de la 
+sous-traitance, des consommations intermédiaires et des frais de vente et de 
+commercialisation. 
+L’employeur peut déduire ces dépenses dans la limite : 
+> 
+de 50 % du montant de la contribution brute avant déductions lorsqu’il 
+emploie moins de 3 % de BOETH dans ses effectifs ;
+
+----- page 31 -----
+31 
+ 
+> 
+de 75 % du montant de la contribution brute avant déductions lorsqu’il 
+emploie plus de 3 % de BOETH dans ses effectifs. 
+En cas de contrats conclus par un groupement d’achats, le montant de la 
+déduction est réparti entre les différents employeurs membres du groupement 
+d’achat due à proportion de leurs dépenses respectives. 
+Déduction liée aux emplois exigeant des conditions d’aptitude 
+particulières 
+Le montant de la déduction prenant en compte les emplois exigeant des conditions 
+d’aptitude particulières est égal au produit de l’effectif moyen annuel des salariés 
+de l’entreprise occupant un emploi Ecap par 17 fois le salaire horaire minimum de 
+croissance brut. 
+Contrairement aux autres déductions, la déduction liée aux Ecap ne donne pas 
+lieu à un plafonnement. La déduction peut donc annuler le paiement de la 
+contribution annuelle. 
+Schéma explicatif des déductions de la contribution brute (étape 2) pour 
+déterminer la contribution nette (après déductions)
+
+----- page 32 -----
+32 
+ 
+  
+ 
+ 
+Pour l’année 2025, l’entreprise « Exemple » a un EMA de 55, un EMA BOETH de 
+1,38, un EMA ECAP de 2. Elle a donc un taux d’emploi OETH (en %) de : 1,38 / 
+55 x 100 = 2,51%. 
+Elle emploie donc moins de 3 % de BOETH dans ses effectifs EMA (2,51% est 
+inférieur à 3%). 
+> 
+Sa déduction liée aux emplois exigeant des conditions d’aptitude 
+particulières est de : 2 x 17 x 11,88 = 403,92 € (rappel EMA ECAP x 17 SMIC 
+horaire brut en vigueur - le SMIC horaire brut en vigueur au 31/12/2025 est de 
+11,88 €) 
+ 
+Courant 2025, l’entreprise « Exemple » a mandaté une prestation de services 
+auprès d’un ESAT. L’ESAT lui a transmis l’attestation* notifiée du montant de la 
+déduction avant plafonnement de cette prestation de services avec les 
+informations suivantes : le montant de la déduction pour prestation de sous-
+traitance avant plafonnement (calculé par l’ESAT) est de 1000 €. 
+*Ces informations peuvent également être présentes sur la facture. 
+ 
+Au titre de 2025, la contribution brute avant déductions de l’entreprise « Exemple » 
+est de : 7698,24 €. Le taux d’obligation d’emploi de l’entreprise « Exemple » est de 
+2,51%, (ce qui est inférieur à 3%). Elle applique le taux de 50% au montant de la 
+contribution brute avant déductions soit : 7698,24 x 50% = 3849,12 €.  Le montant 
+de la déduction (pour prestation de sous-traitance) avant plafonnement de 1000 € 
+est inférieur à 3849,12 €. 
+> 
+Sa déduction liée à la passation de contrat de fournitures, de sous-traitance 
+ou de prestations de services passés avec des entreprises adaptées est donc 
+de 1000 €. 
+ 
+Courant 2025, l’entreprise « Exemple » a réglé une facture liée à des travaux 
+d’accessibilité de 1500 €.  Elle applique le taux de 10% au montant de la 
+contribution brute avant déductions soit 7698,24 x 10% = 769,82 €. 
+Le montant de la déduction (pour travaux d’accessibilité) avant plafonnement de 
+1500 € est supérieur à 769,82 €. Son montant pour dépenses déductibles liées aux 
+travaux d’accessibilité est de : 769,82 € puisque le plafond de 10% est atteint. 
+ 
+Soit un montant total de déductions de : 403,92 + 1000 + 769,82 = 2173,74 € 000 
+€ 
+Ainsi, pour l’année 2025, l’entreprise « Exemple » a une contribution nette  
+de : 7698,24 – (403,92 + 1000 + 769,82) = 5524,50 € 
+Exemple
+
+----- page 33 -----
+33 
+ 
+A titre transitoire, entre le 1er janvier 2020 et le 31 décembre 2024, le montant 
+de la contribution annuelle due au titre de l’obligation d’emploi des 
+travailleurs handicapés faisait l’objet d’une modulation (écrêtement). Cette 
+modulation concernait tous les employeurs, qu’ils aient versé ou non une 
+contribution au titre de l’année précédente. Depuis le 1er janvier 2025, cette 
+modulation n’est plus en vigueur. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Calcul de la contribution réellement due 
+La contribution réellement due correspond à la contribution payée par l’entreprise 
+auprès de l’Urssaf après calcul des déductions éventuellement décomptées. 
+ 
+Schéma explicatif de la définition de la contribution réelle due (étape 3) 
+ 
+ 
+ 
+ 
+ 
+ 
+L’entreprise « Exemple » n’est pas signataire d’un accord agréé. 
+Son montant de contribution nette au titre de 2025 est de 
+4762,25 €.  
+Sa contribution OETH réelle due est égale à 4762,25 €.  
+Exemple  
+ L’écrêtement ne sera plus applicable sur la période d’emploi 2025, et donc 
+absent dans la déclaration annuelle OETH d’Avril 2026, sauf pour des 
+régularisations sur les millésimes strictement antérieurs à 2025
+
+----- page 34 -----
+34 
+ 
+ 
+L’employeur peut respecter son obligation d’emploi de travailleurs handicapés par 
+l’application d’un accord de branche, de groupe, ou d'entreprise agréée. 
+Les dossiers de demande d’agrément (ou de renouvellement d’agrément) doivent 
+désormais être déposés de manière normalisée et dématérialisée via l’applicatif 
+AGAPE’TH (arrêté du 13 juin 2024 modifiant l'arrêté du 25 novembre 2019 relatif 
+aux modalités de demande ou de renouvellement d'agrément d'accords en faveur 
+des travailleurs handicapés). 
+Sont concernées toutes les entreprises du secteur privé occupant 20 salariés et 
+plus faisant application d’un accord agréé de branche, de groupe, ou d’entreprise 
+prévoyant la mise en œuvre d’un programme pluriannuel en faveur des 
+travailleurs handicapés. 
+Ce plan doit être assorti d’objectifs quantitatifs et qualitatifs, dont des objectifs 
+relatifs au taux d’emploi et au nombre de recrutement de bénéficiaires de 
+l’obligation d’emploi des travailleurs handicapés, ainsi que le financement 
+prévisionnel de ces actions. 
+Depuis 2020, un seul renouvellement de l’accord selon les nouvelles dispositions 
+de la loi pour la liberté de choisir son avenir professionnel est possible : 
+ 
+ 
+Conformément à l’article R. 5212-12 du code du travail, les entreprises doivent 
+consacrer au financement du programme annuel ou pluriannuel de l’accord un 
+montant au moins égal à celui qu’il aurait dû verser à l’Urssaf ou à la CGSS, sans 
+toutefois prendre en compte le montant des dépenses déductibles mentionnées à 
+l’article L. 5212-11 du code du travail.  
+Mise en œuvre de l’OETH par accord agréé
+
+----- page 35 -----
+35 
+ 
+Conformément à l’article R. 5212-13 du code du travail, le montant prévisionnel 
+total consacré au financement du programme de l’accord est établi sur la base du 
+montant de la contribution versée l’année précédant la mise en œuvre de l’accord, 
+hors dépenses déductibles mentionnées à l’article L. 5212-11 du code du travail, 
+multiplié par le nombre d’années de la durée de l’accord.  
+Le montant est révisé chaque année sur la base du montant de la contribution qui 
+aurait dû être versée l’année précédente, hors dépenses déductibles mentionnées 
+à l’article L. 5212-11 du code du travail (L’onglet Bilan financier d’AGAPE’TH doit 
+être complété chaque année notamment à ce titre).  
+Les montants prévus au titre d’une année et qui n’ont pas été dépensés dans cette 
+même année peuvent être reportés sur l’année suivante. 
+Ensuite, conformément à l’article R. 5212-17 du code du travail, un bilan final de 
+l’accord est établi par l’employeur et adressé à l’autorité administrative ayant 
+délivré l’agrément. Les onglets Bilan qualitatif et Bilan financier d’AGAPE’TH 
+doivent être renseignés à ce titre.  
+Ce bilan final établit notamment le solde entre les dépenses effectivement 
+réalisées et le montant total des contributions théoriquement dues au titre de 
+l’OETH pendant la durée de l’accord.  
+En cas de solde négatif, si l’accord agréé n’est pas renouvelé, un versement pour 
+dépenses non réalisées sera notifié à l’entreprise par : 
+> 
+la DGEFP (cas des accords de branche) ; 
+> 
+la DDETS (cas des accords de groupe, d’entreprise ou d’établissement). 
+Une copie de cette notification est adressée à l’Urssaf ou la CGSS dont dépend 
+l’employeur.  
+Le montant dû doit ensuite être déclaré et versé par l'employeur à l’Urssaf. Ce 
+versement doit être effectué à la première date d'échéance des cotisations et 
+contributions sociales, à l'issue d'un délai de deux mois suivant la réception de la 
+notification.
+
+----- page 36 -----
+36 
+ 
+ 
+Le décret n° 2023-296 du 20 avril 2023 relatif aux modalités de fixation du 
+montant de la contribution liée à l’obligation d’emploi des travailleurs handicapés 
+en l’absence de déclaration annuelle de l’employeur et modifiant le calendrier des 
+obligations déclaratives met à la charge des entreprises non-déclarantes de la 
+DOETH une contribution forfaitaire calculée par l’Urssaf et complète les dispositifs 
+précédemment cités. 
+ 
+Une contribution forfaitaire majorée est appliquée par l’Urssaf sur les non-
+déclarants de la DOETH à partir de décembre 2024, sur la période d’emploi 2023 
+(et ultérieures). Elle correspond au produit, majoré de 25 %, du coefficient 
+applicable en fonction de l'effectif d'assujettissement de l'entreprise par la 
+différence entre le nombre de bénéficiaires de l'obligation d'emploi devant être 
+employés et le nombre de bénéficiaires de l'obligation d'emploi déclarés, le cas 
+échéant, par l'employeur au cours de l'année. Le taux de majoration est augmenté 
+de cinq points à chaque échéance non déclarée consécutive. 
+ 
+Le schéma de calcul appliqué est le suivant : 
+ 
+Taxation forfaitaire  
+=  
+[(Nombre BOETH à employer – EMA BOETH employés x SMIC 
+horaire brut x Coefficient multiplicateur) x (1+25%)] 
++ majoration du taux de 25% de 5 points par année d’absence déclarative 
+ 
+Exemple d'une entreprise de plus de 750 salariés, n'ayant pas déclaré de 
+contribution OETH 2024 à l'exigibilité des 5 ou 15 mai 2025 
+ 
+ 
+ 
+La contribution déterminée en application du décret est notifiée par l’Urssaf avant 
+le 31 décembre de l'année au cours de laquelle la déclaration aurait dû être 
+souscrite.  
+ 
+L’application de la taxation forfaitaire OETH 
+conformément au décret n°2023-296 du 20 avril 2023
+
+----- page 37 -----
+37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DECLARER EN DSN
+
+----- page 38 -----
+38 
+ 
+ 
+ 
+La déclaration mensuelle des BOETH  
+Depuis la période d’emploi de janvier 2020, conformément à l’article D.5212-4 
+du code du travail, tout employeur, quels que soient ses effectifs, doit 
+déclarer les informations relatives aux bénéficiaires de l’obligation d’emploi 
+dans la DSN. Cette formalité consiste à mentionner la qualité de bénéficiaire de 
+l’obligation d’emploi des travailleurs handicapés (BOETH) du salarié employé, et à 
+préciser la situation dans lequel se trouve le BOETH. 
+Le statut de BOETH concerne : 
+> 
+toutes les personnes employées dans l’entreprise ; 
+> 
+les bénéficiaires accueillis en stage par l’employeur, quelle qu’en soit la durée, 
+ainsi que les jeunes de plus de seize ans bénéficiaires de droits à la prestation 
+de compensation du handicap, de l’allocation compensatrice pour tierce 
+personne ou de l’allocation d’éducation de l’enfant handicapé qui disposent 
+d’une convention de stage ; 
+> 
+les bénéficiaires accueillis pour des périodes de mise en situation en milieu 
+professionnel (PMSMP). 
+A cette fin, doit être renseigné au niveau du bloc « Contrat (contrat de travail, 
+convention, mandat) - S21.G00.40 », le statut BOETH de l’individu au sein de la 
+rubrique « Statut BOETH - S21.G00.40.072 ». 
+Un seul statut peut être renseigné dans la rubrique « Statut BOETH - 
+S21.G00.40.072». Dans le cas d’un travailleur handicapé relevant de plusieurs statuts 
+BOETH, le processus étant déclaratif, le travailleur handicapé choisit le statut qu’il 
+souhaite déclarer à son employeur et lui transmet le justificatif correspondant.  
+La déclaration mensuelle des BOETH 
+En complément de cette partie du guide de la contribution OETH, nous 
+vous invitons à consulter les consignes déclaratives disponible sur 
+ Consignes relatives à l'OETH en DSN 
+x 
+Bon à savoir
+
+----- page 39 -----
+39 
+ 
+Si le travailleur handicapé communique plusieurs statuts et plusieurs justificatifs à son 
+employeur, il convient de privilégier celui dont la durée de validité est la plus longue. 
+Dans l’hypothèse où plusieurs justificatifs permanents auraient été produits par le 
+même salarié, l’employeur déclare le statut de son choix. 
+ 
+Quels sont les statuts à déclarer ? 
+Pour un salarié, un seul des statuts suivants (correspondant à ceux prévus par      
+l’article L. 5212-13 du code du travail) devra être renseigné par son numéro dans 
+la rubrique « Statut BOETH - S21.G00.40.072 ».  
+> 
+01 - Travailleur reconnu handicapé par la commission des droits et de 
+l'autonomie des personnes handicapées ; 
+> 
+02 - Victime d'accident du travail ou de maladie professionnelle ayant entraîné 
+une incapacité permanente au moins égale à 10 % et titulaire d'une rente ; 
+> 
+03 - Titulaire d'une pension d'invalidité à condition que l'invalidité réduise au 
+moins des deux tiers sa capacité de travail ; 
+> 
+06 - Titulaire d'une allocation ou d'une rente d'invalidité dans les conditions 
+définies par la Loi n° 91-1389 du 31 décembre 1991 ; 
+> 
+07 - Titulaire de la carte "mobilité inclusion" portant la mention "invalidité"  
+(L. 241-3 du Code de l'action sociale et des familles) ; 
+> 
+08 - Titulaire de l'allocation aux adultes handicapés ; 
+> 
+12 - Ayant droit à la prestation de compensation du handicap, à l'allocation 
+compensatrice pour tierce personne ou à l'allocation d'éducation de l'enfant 
+handicapé bénéficiant d'un stage (L. 5212-7 du Code du travail). 
+Les codes statuts BOETH suivants relèvent de la fonction publique. Ils sont à déclarer 
+en DSN uniquement par les entreprises employant des fonctionnaires : 
+> 
+04 - Bénéficiaire mentionné à l'article L.241-2 du Code des pensions militaires 
+d'invalidité et des victimes de la guerre ; 
+> 
+05 - Bénéficiaire mentionné aux articles L.241-3 et L.241-4 du Code des 
+pensions militaires d'invalidité et des victimes de la guerre ; 
+> 
+09 - Bénéficiaire mentionné aux articles L.241-5 et L.241-6 du Code des 
+pensions militaires d'invalidité et des victimes de guerre ; 
+> 
+10 - Agent public reclassé (3ème alinéa de l'article L.323-5 du Code du travail) ; 
+> 
+11 - Agent public bénéficiaire d'une allocation temporaire d'invalidité (4ème 
+alinéa de l'article L.323-5 du Code du travail).
+
+----- page 40 -----
+40 
+ 
+Le tableau ci-joint établit une correspondance entre les codes statuts BOETH 
+présents en DSN au niveau de la rubrique « Statut BOETH - S21.G00.40.072 » et 
+les types de reconnaissance de la qualité de bénéficiaire OETH présents 
+dans le formulaire Cerfa 11391*21 qui était en vigueur pour les exercices 2019 
+et antérieurs : 
+ 
+ 
+ 
+ 
+ 
+Codes présents en rubrique « 
+Statut BOETH - S21.G00.40.072 » 
+Case correspondante dans la 
+partie « Types de 
+reconnaissance de la qualité de 
+bénéficiaire » du Cerfa 11391*21 
+01 - Travailleur reconnu handicapé 
+par la commission des droits et de 
+l'autonomie des personnes 
+handicapées 
+RQTH 
+02 - Victime d'accident du travail 
+ou de maladie professionnelle 
+ayant entraîné une incapacité 
+permanente au moins égale à 10 
+% et titulaire d'une rente  
+AT/MP 
+03 - Titulaire d'une pension 
+d'invalidité à condition que 
+l'invalidité réduise au moins des 
+deux tiers sa capacité de travail  
+Pension d’invalidité 
+06 - Titulaire d'une allocation ou 
+d'une rente d'invalidité dans les 
+conditions définies par la Loi n°91-
+1389 du 31 décembre 1991 
+Sapeur-pompier volontaire 
+07 - Titulaire de la carte "mobilité 
+inclusion" portant la mention 
+"invalidité" (L. 241-3 du Code de 
+l'action sociale et des familles)  
+Carte d’invalidité (min. 80%) 
+08 - Titulaire de l'allocation aux 
+adultes handicapés  
+AAH
+
+----- page 41 -----
+41 
+ 
+> 
+La qualité de BOETH pour le code statut « 01 - Travailleur reconnu handicapé 
+par la commission des droits et de l'autonomie des personnes handicapées » est 
+indiquée dans la notification de la reconnaissance de la qualité de travailleur 
+handicapé (RQTH) délivré par la commission des droits et de l’autonomie des 
+personnes handicapées (CDAPH) au sein des maisons départementales pour 
+les personnes handicapées (MDPH).  
+> 
+Les attestations prouvant la qualité de BOETH pour les codes statuts « 02 - 
+Victime d'accident du travail ou de maladie professionnelle ayant entraîné une 
+incapacité permanente au moins égale à 10 % et titulaire d'une rente » et « 03 - 
+Titulaire d'une pension d'invalidité à condition que l'invalidité réduise au moins 
+des deux tiers sa capacité de travail » sont délivrées par les Cpam ou la MSA. 
+> 
+Les bénéficiaires concernés pour le code statut BOETH « 12 - Ayant droit à la 
+prestation de compensation du handicap, à l'allocation compensatrice pour tierce 
+personne ou à l'allocation d'éducation de l'enfant handicapé bénéficiant d'un 
+stage (L.5212-7 du Code du travail) » sont les stagiaires qui ne peuvent pas 
+relever des autres catégories de BOETH (en raison de leur âge notamment). Ils 
+n’étaient pas identifiés dans ce CERFA mais sont désormais identifiés via la DSN 
+avec ce code. 
+ 
+Stagiaires non rémunérés et personnes bénéficiant d’une PMSMP  
+En plus des salariés, les stagiaires non rémunérés et les personnes bénéficiant 
+d’une PMSMP (Période de mise en situation en milieu professionnel) sont 
+également concernés par la déclaration mensuelle des BOETH.  
+Les stagiaires non rémunérés doivent être déclarés en DSN en renseignant la 
+rubrique « Nature du contrat – S21.G00.40.007 » du bloc « Contrat (contrat de 
+travail, convention, mandat) – S21.G00.40 » avec la nature « 29 - Convention de 
+stage (hors formation professionnelle) » et une rémunération à zéro. 
+Les personnes bénéficiant d’une période de mise en situation en milieu 
+professionnel (PMSMP) doivent être déclarés en DSN en renseignant l’énuméré « 
+93 – Période de mise en situation en milieu professionnel » au niveau de la rubrique 
+« Dispositif de politique publique et conventionnel - S21.G00.40.008 ». La déclaration 
+de cette notion au niveau de la rubrique « Dispositif de politique publique et 
+conventionnel - S21.G00.40.008 » doit s’accompagner d’une déclaration de la 
+rubrique « Nature du contrat - S21.G00.40.007 » contenant la valeur « 90 - Autre 
+nature de contrat, convention, mandat ».
+
+----- page 42 -----
+42 
+ 
+ 
+ 
+Que faire en cas d’erreur sur un effectif notifié par l’Urssaf ? 
+Correction de l’effectif des BOETH internes : 
+L’effectif étant calculé par l’Urssaf ou la CGSS au regard des éléments déclarés 
+dans les DSN mensuelles de l’année N-1, les corrections sont à apporter, 
+salarié par salarié, au niveau du bloc « Changements Contrat – S21.G00.41 
+» renseigné avec une date de modification et de la rubrique « Ancien statut BOETH 
+- S21.G00.41.048 » avec une profondeur de calcul de la paie renseignée au 
+premier jour du mois de ce changement. 
+Il faut procéder de la manière suivante :  
+ 
+ 
+> 
+Renseigner la rubrique « Statut BOETH - S21.G00.40.072 » avec un des 12 
+statuts proposés (ne pas renseigner la rubrique si l’individu ne disposait pas, en 
+fait, de statut BOETH).  
+> 
+Renseigner un bloc « Changements Contrat - S21.G00.41 » avec les rubriques 
+suivantes :  
+• 
+« Date de la modification - S21.G00.41.001 » avec la date d’effet de la valeur 
+portée en rubrique « Statut BOETH - S21.G00.40.072 » ;  
+• 
+« Ancien statut BOETH - S21.G00.41.048 » avec la valeur initialement 
+déclarée ;   
+• 
+« Profondeur de recalcul de la paie - S21.G00.41.028 » avec une date 
+renseignée au premier jour du mois depuis lequel court la valeur déclarée 
+dans la rubrique « Ancien statut BOETH - S21.G00.41.048 ». (en cas de 
+changements multiples, se référer à la note sur les changements en DSN). 
+Dans le cas où la date de début de contrat est supérieure à ce premier jour 
+du mois, la rubrique « Profondeur de recalcul de la paie - S21.G00.41.028 
+» doit être renseignée avec la date de début de contrat.  
+Exemple
+
+----- page 43 -----
+43 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+L’entreprise « Exemple » prend connaissance le 2 mai 2025 qu’un de ses salariés 
+dispose d’un statut de BOETH depuis le 7 juillet 2024.  
+L’entreprise déclare, lors de la DSN mensuelle de mai 2025 exigible les 5 ou 15 
+juin 2025, pour le salarié concerné :  
+1. 
+un « Statut BOETH - S21.G00.40.072 » = l’un des statuts possibles 
+2. 
+un bloc « Changements Contrat - S21.G00.41 », avec les rubriques suivantes : 
+> 
+« Date de la modification - S21.G00.41.001 » = 07072024 (date d’effet de 
+la valeur portée en rubrique « Statut BOETH - S21.G00.40.072 ») ; 
+> 
+« Ancien statut BOETH - S21.G00.41.048 » = 99 – Absence de statut 
+BOETH ; 
+> 
+« Profondeur de recalcul de la paie - S21.G00.41.028 » = 01072024 
+(permet de renseigner depuis quelle date en antériorité il est procédé à 
+un réexamen de la paie. Cette date doit être renseignée au premier jour 
+d’un mois civil ou à la date de début du contrat).  
+ 
+Soit schématiquement pour un statut BOETH de travailleur handicapé reconnu par 
+la commission des droits et de l’autonomie des personnes handicapées : 
+ 
+Exemple
+
+----- page 44 -----
+44 
+ 
+Comment déclarer la fin d’un statut de travailleur handicapé dans la DSN ? 
+Le principe de la DSN est de déclarer la situation réelle du salarié en fin de 
+mois et de mobiliser les blocs changement pour valoriser les périodes infra-
+mensuelles couvertes par le statut de travailleur handicapé. 
+ 
+Un salarié de l’entreprise « Exemple » dispose d’un statut de travailleur 
+handicapé qui prend fin (et dont le renouvellement n’est pas demandé) au 15 
+juin 2024.  
+L’entreprise « Exemple » doit déclarer, dans la DSN mensuelle de juin 2024 
+exigible le 5 ou 15 juillet 2024, de la façon suivante :  
+> 
+aucun statut BOETH dans la rubrique « Statut BOETH - S21.G00.40.072 
+» (puisqu’en fin de mois, le salarié n’est plus bénéficiaire de l’OETH) ; 
+> 
+un bloc « Changements Contrat - S21.G00.41 » avec les rubriques : 
+- 
+« Date de la modification - S21.G00.41.001 » = 16062024 
+(lendemain de la date de fin de reconnaissance de travailleur 
+handicapé) ; 
+- 
+« Ancien statut BOETH - S21.G00.41.048 » = la valeur (entre 01 et 
+12) de l’ancien statut BOETH ; 
+- 
+« Profondeur de recalcul de la paie - S21.G00.41.028 » = 01062024 
+(cette date doit être renseignée au premier jour du mois civil au 
+cours duquel la fin de reconnaissance de qualité de BOETH a eu 
+lieu). 
+ 
+ 
+Exemple
+
+----- page 45 -----
+45 
+ 
+ 
+ 
+ 
+Le décret n° 2018-850 du 5 octobre 2018 relatif à la simplification 
+de la procédure de reconnaissance de la qualité de travailleur handicapé et 
+à l'amélioration de l'information des bénéficiaires de l'obligation d'emploi 
+permet à l’employeur de déclarer le statut de BOETH au bloc « Statut 
+BOETH - S21.G00.40.072 » pendant une période de 4 mois après la fin 
+de validité de la reconnaissance d’un travailleur handicapé qui aurait 
+fait une demande de renouvellement avant la date de fin de validité. Le 
+bénéfice de la prorogation demeure acquis quelle que soit la décision finale. 
+ 
+Pour précision, l’ordonnance n° 202-312 du 25 mars 2020 relative 
+à la prolongation des droits sociaux, dispose que par dérogation aux 
+dispositions des articles L. 541-2 et L. 821-4 du code de la sécurité sociale 
+et L. 241-3, L. 241-6 et L. 245-2 du code de l'action sociale et des familles, 
+les bénéficiaires des droits et prestations dont l'accord sur ces droits et 
+prestations expire entre le 12 mars et le 31 juillet 2020 ou a expiré avant le 
+12 mars mais n'a pas encore été renouvelé à cette date, bénéficient d'une 
+prolongation de la durée de cet accord d'une durée de six mois à compter 
+de la date d'expiration de cet accord ou à compter du 12 mars s'il a expiré 
+avant cette date, renouvelable une fois par décret, sans nouvelle décision 
+de la commission des droits et de l'autonomie des personnes handicapées 
+prévue à l'article L. 146-9 du code ou, le cas échéant, du président du 
+conseil départemental. L’ordonnance précise les prestations et droits 
+concernés dont notamment l’allocation aux adultes handicapés et la carte 
+mobilité handicap, la prestation de compensation du handicap ainsi que tous 
+les droits ou prestations relevant de la compétence de la commission des 
+droits et de l’autonomie des personnes handicapées. 
+x 
+Bon à savoir
+
+----- page 46 -----
+46 
+ 
+Emplois exigeant des conditions d’aptitudes particulières 
+Conformément à l’article L. 5212-9 du code du travail, le montant de la contribution à 
+l’OETH peut être modulé en fonction des Ecap, occupés par des salariés de l'entreprise. 
+Les Ecap correspondent à des emplois qui, de par leurs exigences en matière d’aptitude 
+rendent difficile le recrutement de travailleurs handicapés.  
+Le calcul des effectifs moyens annuels d’Ecap sera assuré par l’Urssaf à partir des 
+effectifs correspondant à certains codes PCS-ESE. 
+ 
+Comment déclarer les codes PCS-ESE ? 
+Les Ecap seront identifiés par le code PCS-ESE. C’est pourquoi une attention 
+particulière doit être apportée à la qualité de la donnée portée sur ce code. 
+Le code PCS-ESE des salariés est renseigné dans le bloc « Contrat (contrat de travail, 
+convention, 
+mandat) 
+» 
+en 
+rubrique 
+« 
+Code 
+profession 
+et 
+catégorie 
+socioprofessionnelle (PCS-ESE) - S21.G00.40.004 ». 
+Le code PCS-ESE est composé de 3 chiffres et 1 lettre : 
+> 
+les groupes socioprofessionnels ; 
+> 
+les catégories socioprofessionnelles ; 
+> 
+les professions. 
+ 
+Comment corriger les codes PCS-ESE des salariés ? 
+Les corrections concernant l’effectif sont à apporter, salarié par salarié, au niveau 
+du bloc « Changements Contrat – S21.G00.41 » avec : 
+> 
+une date de modification (date du changement de caractéristique du contrat) 
+à la rubrique « Date de la modification - S21.G00.41.001 » ; 
+> 
+un « Ancien code profession et catégorie socioprofessionnelle (PCS-ESE) - 
+S21.G00.41.019 » ; 
+> 
+une « Profondeur de recalcul de la paie - S21.G00.41.028 renseignée au 
+premier jour du mois ou le changement de caractéristique du contrat est 
+constatée.
+
+----- page 47 -----
+47 
+ 
+Entreprises de travail temporaire, de portage salarial et 
+groupements d’employeurs 
+Les entreprises de travail temporaire (ETT), groupement d’employeurs et les 
+entreprises de portage salarial, même si les BOETH mis à disposition sont pris 
+en compte dans l’entreprise d’accueil (soit à titre de BOETH externe pour les 
+deux premiers cas soit en déduction pour le dernier cas), sont tenus de 
+déclarer en DSN le statut BOETH de tous leurs salariés, permanents ou mis à 
+disposition, et ce conformément à l’article D. 5212-4 du code du travail. 
+ 
+Comment déclarer les salariés permanents ou mis à disposition pour ces 
+catégories d’entreprise ? 
+ 
+L’assujettissement à l’OETH est déterminé en fonction de l’effectif calculé selon les 
+modalités fixées à l’article L. 130-1 du code de la sécurité sociale. 
+Mais certaines structures ne seront assujetties que sur leurs seuls effectifs 
+permanents, c’est-à-dire après exclusion des effectifs intérimaires, mis à disposition, 
+ou portés : 
+> 
+Les entreprises de travail temporaire ; 
+> 
+Les groupements d’employeurs ; 
+> 
+Les entreprises de portage salarial ; 
+> 
+Les associations intermédiaires ; 
+> 
+Les agences de mannequins ; 
+> 
+Les entreprises de travail à temps partagé (ETTP). 
+Afin que l’Urssaf calcule les seuls effectifs permanents des entreprises de travail 
+temporaire (hors intérimaires), de portage salarial (hors salariés portés) et des 
+groupements d’employeurs (hors salariés mis à disposition), il est indispensable  
+que :    
+> 
+les entreprises de travail temporaire identifient le statut de leurs intérimaires ; 
+> 
+les entreprises de portage salarial identifient le statut de leurs salariés portés ; 
+> 
+les groupements d’employeurs identifient le statut de leurs salariés mis à 
+disposition.
+
+----- page 48 -----
+48 
+ 
+ 
+ 
+Spécificités 
+Déclaration à réaliser 
+Entreprise de 
+portage 
+salarial 
+L’assujettissement à l’OETH est 
+déterminé en fonction de 
+l’effectif calculé selon les 
+modalités fixées à l’article L. 
+130-1 du code de la sécurité 
+sociale. 
+Mais certaines structures ne 
+sont assujetties que sur leurs 
+seuls effectifs permanents, 
+c’est-à-dire après exclusion des 
+effectifs intérimaires, mis à 
+disposition, ou portés (article D. 
+5212-3 du code du travail) 
+Le portage salarial est une 
+relation contractuelle tripartite 
+dans laquelle un salarié d’une 
+entreprise de portage salarial 
+effectue une prestation pour le 
+compte d'entreprises clientes. 
+Afin que l’Urssaf calcule les 
+seuls effectifs permanents des 
+entreprises de portage, il est 
+indispensable de renseigner à 
+partir de janvier 2021 le statut 
+de leurs salariés portés. Afin de 
+préciser la nature de la mise à 
+disposition externe du salarié, 
+deux rubriques sont créées en 
+version de norme DSN P20V01 
+: 
+> 
+« Cas de mise à 
+disposition externe 
+d'individus de 
+l'établissement 
+S21.G00.40.074 », au 
+niveau du bloc « Contrat 
+(contrat de travail, 
+convention, mandat) - 
+S21.G00.40 » 
+> 
+« Ancien cas de mise à 
+disposition externe 
+d'individus de 
+l'établissement 
+S21.G00.41.050 » au 
+niveau du bloc « 
+Changements Contrat - 
+S21.G00.41 ». 
+ 
+La notion de salarié porté sera 
+traduite par l’énuméré 01 - 
+Individu en portage salarial 
+(une attestation devra être 
+adressée à l’entreprise cliente). 
+Groupement 
+d’employeurs  L’assujettissement à l’OETH est 
+déterminé en fonction de 
+l’effectif calculé selon les 
+modalités fixées à l’article L. 
+130-1 du code de la sécurité 
+Afin que l’Urssaf calcule les 
+seuls effectifs permanents de 
+groupements d’employeurs 
+(hors salariés mis à 
+disposition), il est indispensable
+
+----- page 49 -----
+49 
+ 
+ 
+ 
+ 
+sociale. 
+Mais certaines structures ne 
+seront assujetties que sur leurs 
+seuls effectifs permanents, 
+c’est-à-dire après exclusion des 
+effectifs intérimaires, mis à 
+disposition, ou portés (article D. 
+5212-3 du code du travail). 
+Les groupements d'employeurs 
+sont des groupements de 
+personnes entrant dans le 
+champ d'application d'une 
+même convention collective. Ils 
+peuvent être constitués dans le 
+but de mettre à la disposition 
+de leurs membres, des salariés 
+liés à ces groupements par un 
+contrat de travail. 
+ 
+ 
+qu’à partir de janvier 2021 les 
+groupements d’employeurs 
+renseignent le statut de leurs 
+salariés mis à disposition. 
+Afin de préciser la nature de la 
+mise à disposition externe du 
+salarié, 2 rubriques sont créées 
+dans la norme DSN P20V01 : 
+> 
+« Cas de mise à 
+disposition externe 
+d'individus de 
+l'établissement 
+S21.G00.40.074 », au 
+niveau du bloc Contrat 
+(contrat de travail, 
+convention, mandat) - 
+S21.G00.40 
+> 
+« Ancien cas de mise à 
+disposition externe 
+d'individus de 
+l'établissement 
+S21.G00.41.050 » au 
+niveau du bloc « 
+Changements Contrat - 
+S21.G00.41 ». 
+ 
+La notion de « mis à disposition 
+» sera traduite par l’énuméré 
+02 - Individu mis à disposition 
+dans un établissement 
+adhérent du groupement 
+d'employeurs
+
+----- page 50 -----
+50 
+ 
+ 
+ 
+Déclaration sur un seul établissement de l’entreprise  
+Conformément à l’article D. 5212-8 du code du travail, lorsque l’entreprise 
+comprend plusieurs établissements, la déclaration et le versement sont effectués 
+par un seul de ses établissements. 
+Cette règle concerne : 
+> 
+la déclaration de la contribution et des déductions ; 
+> 
+la déclaration des effectifs moyens annuels de BOETH externes ; 
+> 
+la déclaration de l’accord agréé. 
+Déclaration des BOETH externes  
+La déclaration annuelle des BOETH externes est assurée par les entreprises via 
+la DSN. Pour ce faire, les entreprises de travail temporaire, les groupements 
+d’employeurs, les associations intermédiaires, agences de mannequins et 
+entreprises de travail à temps partagé (ETTP) délivrent aux entreprises 
+utilisatrices (leurs entreprises clientes) une attestation. 
+L'arrêté du 12 décembre 2019 fixe le modèle d'attestation relative aux 
+bénéficiaires de l'obligation d'emploi des travailleurs handicapés mis à disposition 
+par une entreprise de travail temporaire ou un groupement d'employeurs (paru au 
+JO du 15 décembre 2019). 
+Les dispositions de l’arrêté entrent en vigueur à compter du 1er janvier 2020 pour 
+la déclaration prévue à l'article D. 5212-8 et effectuée à compter de l'année 2021. 
+Le contenu de l'attestation prévue à l'article D. 5212-6 du code du travail est établi 
+selon le modèle figurant en annexe de l’arrêté. 
+ 
+La déclaration annuelle de l’OETH 
+En complément de cette partie du guide de la contribution OETH, 
+nous vous invitons à consulter les consignes déclaratives disponible sur 
+ Consignes relatives à l'OETH en DSN 
+x 
+Bon à savoir
+
+----- page 51 -----
+51 
+ 
+ 
+Le nombre de BOETH externes est à déclarer par le biais du bloc « Complément 
+OETH - S21.G00.13 » de cardinalité (0,*) enfant du bloc « Entreprise - 
+S21.G00.06». 
+Ce bloc contiendra les rubriques suivantes : 
+> 
+« Accord agréé OETH - S21.G00.13.001 ».  
+o 
+Cette rubrique sera d’usage conditionnel ; 
+« Type BOETH - S21.G00.13.002 » avec, le cas échéant, les énumérés :  
+« 01 - BOETH intérimaires », 
+« 02 - BOETH salariés d'un groupement d'employeurs mis à disposition »,   
+« 03 - BOETH stagiaires n’ayant pas fait l’objet d’une déclaration nominative au 
+préalable » 
+A compter de la période d’emploi 2024, 3 nouveaux énumérés sont disponibles 
+en norme DSN du bloc13.002 
+« 04 - BOETH salariés d’une association intermédiaire mis à disposition »,  
+« 05 - BOETH salariés d’une agence de mannequin mis à disposition »,  
+« 06 - BOETH salariés d’une entreprise de travail à temps partagé (ETTP) mis à 
+disposition » 
+ 
+> 
+Cette rubrique sera d’usage conditionnel ; 
+> 
+« Nombre BOETH - S21.G00.13.003 » permettant de déclarer le nombre 
+(avec deux décimales) du « Type BOETH - S21.G00.13.002 » renseigné. 
+o 
+ Ce nombre pourra contenir 5 chiffres avant la virgule. Cette rubrique 
+sera d’usage conditionnel, mais un contrôle CCH sera mis en place 
+pour la rendre obligatoire en cas de présence de la rubrique « Type 
+BOETH - S21.G00.13.002 » ;   
+> 
+« Millésime de rattachement – S21.G00.13.004 » au format AAAA permettant 
+de déclarer l’année de référence de l’exercice annuelle OETH.  
+o 
+Cette rubrique sera d’usage obligatoire ;
+
+----- page 52 -----
+52 
+ 
+ 
+ 
+Que faire en cas d’erreur sur un effectif de BOETH externe ? 
+Les corrections sont à apporter au niveau des blocs « Type BOETH externe - 
+S21.G00.13.002 – » et « Nombre BOETH externe - S21.G00.13.003 », en mode 
+annule et remplace. 
+Pour l’exercice de référence 2025, l’entreprise « Exemple », non signataire 
+d’un accord agréé, est utilisatrice d’intérimaires dont l’effectif est de 12,56. 
+Elle doit déclarer, dans la DSN mensuelle d’avril 2026 exigible le 5 ou 15 
+mai 2026, le bloc « Complément OETH - S21.G00.13 » de la façon suivante 
+:  
+ 
+▪13.001 : Accord agréé OETH = na
+▪13.002 : Type BOETH externe = 01 - BOETH intérimaires 
+▪13.003 : Nombre BOETH externe = 12,56
+▪13.004 : Millésime de rattachement = 2025
+DSN - Bloc 13 – Complément OETH
+Pour l’exercice annuel 2025 déclaré en 
+2026, le millésime de rattachement à 
+inscrire est « 2025 »
+Exemple
+
+----- page 53 -----
+53 
+ 
+ 
+ 
+A noter, qu’une régularisation de la rubrique « Millésime de rattachement – 
+S21.G00.13.004 » est également possible en cas d’erreur. 
+ 
+ 
+ 
+Il convient de noter que la modification des éléments déclarés au 
+bloc « Complément OETH - S21.G00.13 » peuvent occasionner l’obligation 
+de réaliser un complément de versement dans le cas où une contribution 
+annuelle DOETH a déjà été déclarée. 
+x 
+Bon à savoir 
+Pour l’exercice de référence 2025, l’entreprise « Exemple », non signataire 
+d’un accord agréé, a déclaré dans la DSN mensuelle d’avril 2026 exigible le 5 
+ou 15 mai 2026, le bloc « Complément OETH - S21.G00.13 » avec effectif est 
+de BOETH externe de type BOETH intérimaires à 12,56. 
+Elle procède à une régularisation en juillet 2026 pour une erreur survenue sur 
+l’effectif d’intérimaires BOETH externe, réévalué à 12,95 dans la déclaration 
+initiale de mai 2026, de la façon suivante : 
+ 
+ 
+Exemple
+
+----- page 54 -----
+54 
+ 
+Déclaration de la contribution  
+Sont concernées toutes les entreprises du secteur privé occupant 20 salariés et 
+plus n’ayant pas, parmi leurs effectifs, le minimum légal de bénéficiaires de 
+l’obligation d’emploi des travailleurs handicapés, soit 6 % de l’effectif 
+d’assujettissement à l’OETH, arrondi à l’entier inférieur.  
+Conformément à l’article D. 5212-20 du code du travail, lorsque le niveau 
+d’obligation n’est pas atteint par l’emploi direct de bénéficiaires de l’obligation 
+d’emploi des travailleurs handicapés (BOETH) exprimé en nombre de BOETH, 
+l’employeur est redevable d’une contribution (avant déductions) égale au 
+produit : 
+1° du nombre de bénéficiaires de l’obligation d’emploi manquants. 
+Ce nombre résulte de l’écart entre celui des bénéficiaires de l’obligation d’emploi 
+devant être employés en application des dispositions de l’article D. 5212-2 et le 
+nombre de bénéficiaires réellement employés. 
+2° et d’un produit du Smic horaire brut selon une tranche considérant 
+l’effectif de l’entreprise pour l’année d’assujettissement : 
+> 
+400 fois le Smic horaire brut dans les entreprises de 20 à moins de 250 
+salariés ; 
+> 
+500 fois le Smic horaire brut dans les entreprises de 250 à moins de 750 
+salariés ; 
+> 
+600 fois le Smic horaire minimum brut dans les entreprises de 750 salariés et 
+plus. 
+Le Smic brut applicable est le salaire applicable au 31 décembre de l’année au 
+titre de laquelle la contribution est due. 
+La contribution annuelle doit être déclarée en plusieurs étapes au travers : 
+1. 
+du bloc « Cotisation établissement - S21.G00.82 » ; 
+2. 
+du bloc « Cotisation agrégée - S21.G00.23 ». 
+ 
+Déclaration du bloc « Cotisation établissement - S21.G00.82 » 
+La contribution annuelle doit être déclarée au travers du bloc « Cotisation 
+établissement - S21.G00.82 » en renseignant les rubriques « Valeur - 
+S21.G00.82.001 », « Code de cotisation - S21.G00.82.002 », « Date de début de 
+période de rattachement - S21.G00.82.003 » et « Date de fin de période de 
+rattachement - S21.G00.82.004 » pour l’ensemble des codes de cotisation. 
+Les codes de cotisation à utiliser sont les suivants :
+
+----- page 55 -----
+55 
+ 
+> 
+065 - Contribution OETH brute avant déductions ; 
+> 
+066 - Contribution OETH nette ; 
+> 
+067 - Contribution OETH nette après écrêtement (strictement pour les 
+régularisations antérieures à 2025) ; 
+> 
+068 - Contribution OETH réelle due. 
+Il est obligatoire de réaliser la déclaration simultanée de chacun de ces codes 
+avec la même période de rattachement (date de début et de fin). 
+Les montants de contribution, pour ces types de cotisation, sont exprimés en euros 
+et doivent être arrondis à l’euro le plus proche. 
+ 
+Type de 
+cotisation 
+déclarée 
+Modalités de déclaration en DSN – Bloc « Cotisation 
+établissement - S21.G00.82 » 
+Contribution 
+brute avant 
+déductions 
+La contribution brute, calculée conformément à l’article D. 
+5112-20 du code du travail est à déclarer comme suit, 
+selon votre cas : 
+> 
+« Valeur - S21.G00.82.001 » = montant, en euros, 
+de la contribution brute avant déductions 
+> 
+« Code de cotisation - S21.G00.82.002 » = « 065 - 
+Contribution OETH brute avant déductions » 
+> 
+« Date de début de période de rattachement - 
+S21.G00.82.003 » = 0101[N-1] 
+> 
+« Date de fin de période de rattachement - 
+S21.G00.82.004 » = 3112[N-1] 
+Contribution 
+nette  
+La contribution nette avant écrêtement correspond à la 
+contribution brute après application des déductions. Elle 
+est à déclarer comme suit, selon votre cas : 
+> 
+« Valeur - S21.G00.82.001 » = montant, en euros, 
+de la contribution nette avant écrêtement 
+> 
+« Code de cotisation - S21.G00.82.002 » = « 066 - 
+Contribution OETH nette» 
+> 
+« Date de début de période de rattachement - 
+S21.G00.82.003 » = 0101[N-1] 
+> 
+« Date de fin de période de rattachement - 
+S21.G00.82.004 » = 3112[N-1] 
+Contribution 
+nette après 
+écrêtement 
+(Uniquement 
+pour les 
+régularisations 
+La contribution nette après écrêtement correspond à la 
+contribution brute après application des déductions et en tenant 
+compte du dispositif transitoire d’écrêtement. Elle est à déclarer 
+comme suit, selon votre cas : 
+> 
+« Valeur - S21.G00.82.001 » = montant, en euros, de la 
+contribution nette après écrêtement
+
+----- page 56 -----
+56 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+antérieures à 
+2025) 
+> 
+« Code de cotisation - S21.G00.82.002 » = « 067 - 
+Contribution OETH nette après écrêtement » 
+> 
+« Date de début de période de rattachement - 
+S21.G00.82.003 » = 0101[N-1] 
+> 
+« Date de fin de période de rattachement - S21.G00.82.004 
+» = 3112[N-1] 
+Contribution 
+réelle due 
+La contribution réelle due doit être déclarée comme suit : 
+> 
+« Valeur - S21.G00.82.001 » = montant, en euros, 
+de la contribution réelle due 
+> 
+« Code de cotisation - S21.G00.82.002 » = « 068 - 
+Contribution OETH réelle due » 
+> 
+« Date de début de période de rattachement - 
+S21.G00.82.003 » = 0101[N-1] 
+> 
+« Date de fin de période de rattachement - 
+S21.G00.82.004 » = 3112[N-1] 
+Pour l’ensemble des codes de cotisation, il est obligatoire de 
+valoriser les rubriques « Date de début de période de rattachement - 
+S21.G00.82.003 » et « Date de fin de période de rattachement 
+S21.G00.82.004 » de manière identique. 
+La valorisation de ces rubriques doit se rapporter à l’exercice 
+annuel de référence considéré, soit l’année civile précédant la déclaration, 
+à l’exclusion de toute autre période. 
+x 
+Bon à savoir
+
+----- page 57 -----
+57 
+ 
+Déclaration du bloc « Cotisation agrégée - S21.G00.23 » 
+Le montant de la contribution réelle due déclaré dans la rubrique « Code de 
+cotisation - S21.G00.82.002 » avec le code « 068 - Contribution OETH réelle due», 
+doit également être déclaré au niveau du bloc « Cotisation agrégée – 
+S21.G00.23». 
+L’employeur doit déclarer le bloc « Cotisation agrégée – S21.G00.23 » en 
+renseignant les rubriques obligatoires « S21.G00.23.001 – Code de cotisation », 
+« S21.G00.23.002 – Qualifiant d’assiette » et « S21.G00.23.004 – Montant 
+assiette ». 
+En rubrique « S21.G00.23.001 – Code de cotisation », l’employeur renseignera le 
+code « CTP 730 DOETH – Contribution annuelle ». 
+ 
+ 
+ 
+Type de 
+cotisation 
+déclarée 
+Modalités de déclaration en DSN – Bloc « Cotisation 
+agrégée - S21.G00.23 
+Contribution 
+OETH réelle 
+due = 
+Cotisation 
+agrégée 
+pour l’OETH 
+La contribution réelle due doit être déclarée comme suit : 
+> 
+« S21.G00.23.001 – Code de cotisation » = « CTP 730 
+- Contribution annuelle » 
+> 
+« S21.G00.23.002 – Qualifiant d’assiette » = « 920 – 
+Autre Assiette » 
+> 
+« S21.G00.23.004 – Montant assiette » = montant, en 
+euros, de la contribution réelle due (Ce CTP a un 
+taux à 100%, c’est ce montant qui est retenu pour 
+le recouvrement de la contribution et qui est 
+reporté dans le montant total des cotisations dues 
+auprès de l’Urssaf). 
+ 
+ 
+Voir également le Guide Urssaf – Comment déclarer et régulariser les 
+cotisations Urssaf en DSN disponible sur le site urssaf.fr. 
+ 
+x 
+Bon à savoir
+
+----- page 58 -----
+58 
+ 
+ 
+Pour l’exercice de référence 2025, l’entreprise « Exemple » a calculé : 
+> 
+Un montant de contribution brute avant déduction de 7698,24 € 
+> 
+Un montant de contribution nette de 5524,50 € 
+> 
+Un montant de contribution réelle due de 5524,50 € (elle n’est pas 
+signataire d’un accord agréé). 
+Elle déclare dans la DSN mensuelle d’avril 2026 exigible le 5 ou 15 mai 
+2026, les blocs « Cotisation établissement - S21.G00.82 » et « Cotisation 
+agrégée - S21.G00.23 » de la façon suivante :  
+ 
+ 
+ 
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+7698
+065  Contribution OETH brute avant déductions
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+552 
+066  Contribution OETH nette 
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+552 
+068  Contribution OETH réelle due
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001  Code de cotisation
+002  Qualifiant d assiette
+004  Montant d assiette
+DSN  Bloc 23   Cotisation agrégée  S21  00 23 
+730 DOETH  CONTRIBUTION ANNUELLE
+920  Autre Assiette
+552 
+Rubrique
+ alorisation
+Exemple
+
+----- page 59 -----
+59 
+ 
+Que faire en cas d’erreur sur les éléments de contribution déclarés ? 
+En bloc « Cotisation établissement - S21.G00.82 », les montants de contribution 
+OETH déclarés sont liés les uns aux autres, le nombre de corrections dépend 
+donc de la valeur où est située l’erreur déclarative. 
+Toute modification d’une des valeurs a un impact sur les valeurs suivantes 
+(dans l’ordre de leur énumération) : il convient de bien respecter cet 
+ordonnancement afin d’éviter toute anomalie.  
+Exemple : 
+Une erreur sur le montant de contribution nette (valeur « 066 - Contribution 
+OETH nette ») nécessitera de corriger les montants suivants : 
+> 
+« 066 - Contribution OETH nette » ; 
+> 
+« 068 - Contribution OETH réelle due ». 
+Dans cet exemple, la contribution brute (« 065 - Contribution OETH brute avant 
+déductions ») ne doit pas être modifiée puisque l’erreur déclarative est 
+intervenue dans la valeur suivante. 
+Pour ces valeurs, la régularisation est établie en mode « annule et remplace » 
+ou en mode « différentiel » de la ligne ou des lignes concernée(s). 
+Après modification des éléments déclaratifs en bloc « Cotisation établissement - 
+S21.G00.82 », une régularisation est nécessaire au niveau du bloc « Cotisation 
+agrégée - S21.G00.23 » à la rubrique « Montant assiette - S21.G00.23.004 » sur 
+la DSN de l’établissement où le paiement de la contribution a été initialement 
+déclaré et sur la même période d’emploi (voir le Guide Urssaf – Comment déclarer 
+et régulariser les cotisations Urssaf en DSN disponible sur le site urssaf.fr).
+
+----- page 60 -----
+60 
+ 
+ 
+Pour rappel, pour l’exercice de référence 2025, l’entreprise « Exemple » a 
+calculé et déclaré :  
+> 
+Un montant de contribution brute avant déduction de 7698 ,24 € 
+> 
+Un montant de contribution nette de 5524,50 € 
+> 
+Un montant de contribution réelle due de 5524,50 € (elle n’est pas 
+signataire d’un accord agréé). 
+> 
+Une déduction liée aux emplois exigeant des conditions d’aptitude 
+particulières de 403,92 € 
+> 
+Une déduction liée à la passation de contrat de fournitures, de sous-
+traitance ou de prestations de services passés avec des entreprises 
+adaptées de 1000 € 
+> 
+Une dépense liée à des travaux d’accessibilité aux bénéficiaires de 
+l’obligation d’emploi de 769,82 €. 
+Elle se rend compte que la déduction de 1000 € a été calculée de manière 
+erronée et qu’elle est en réalité de 0 €.  
+Pour l’exercice de référence 2025, l’entreprise « Exemple », souhaite 
+régulariser le montant de contribution nette à 6524,50 € au lieu de 5524,50 €.  
+Sur la base de ce nouveau montant de contribution nette après déductions, elle 
+a recalculé un montant de contribution réelle due de 6524,50 € (elle n’est pas 
+signataire d’un accord agréé). 
+On reprendra sa déclaration initiale présentée dans l’Exemple précédent. 
+Elle régularise dans la DSN mensuelle de juin 2026 exigible le 5 ou 15 juillet 
+2026, les blocs « Cotisation établissement - S21.G00.82 » et « Cotisation 
+agrégée - S21.G00.23 » de la façon suivante : 
+ 
+Exemple
+
+----- page 61 -----
+61 
+ 
+ 
+ 
+ 
+• 
+En mode « Annule et remplace » :  
+1. elle déclare une DSN qui annule : 
+ 
+ 
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+ 7698
+065  Contribution OETH brute avant déductions
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+ 552 
+066  Contribution OETH nette 
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+ 552 
+068  Contribution OETH réelle due
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001  Code de cotisation
+002  Qualifiant d assiette
+004  Montant d assiette
+DSN  Bloc 23   Cotisation agrégée  S21  00 23 
+730 DOETH  CONTRIBUTION ANNUELLE
+920  Autre Assiette
+ 552 
+Rubrique
+ alorisation
+
+----- page 62 -----
+62 
+ 
+ 
+ 
+2. 
+elle déclare une DSN qui remplace : 
+ 
+ 
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+7698
+065  Contribution OETH brute avant déductions
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+652 
+066  Contribution OETH nette 
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+652 
+068  Contribution OETH réelle due
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001  Code de cotisation
+002  Qualifiant d assiette
+004  Montant d assiette
+DSN  Bloc 23   Cotisation agrégée  S21  00 23 
+730 DOETH  CONTRIBUTION ANNUELLE
+920  Autre Assiette
+652 
+Rubrique
+ alorisation
+
+----- page 63 -----
+63 
+ 
+ 
+ 
+• 
+Ou en mode « différentiel », elle déclare des valeurs 
+différentielles : 
+ 
+ 
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+0
+065  Contribution OETH brute avant déductions
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+1000
+066  Contribution OETH nette 
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+1000
+068  Contribution OETH réelle due
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001  Code de cotisation
+002  Qualifiant d assiette
+004  Montant d assiette
+DSN  Bloc 23   Cotisation agrégée  S21  00 23 
+730 DOETH  CONTRIBUTION ANNUELLE
+920  Autre Assiette
+1000
+Rubrique
+ alorisation
+
+----- page 64 -----
+64 
+ 
+ 
+ 
+ 
+Autre exemple de régularisation pour une minoration de contribution 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 23.001 : Code de cotisation   730
+ 23.002 :  ualifiant d'assiette   920  Autre assiette
+ 23.003 : Taux de cotisation   100
+ 23.00  : Montant d'assiette   31 5
+ 23.005 : Montant de cotisation   non renseigné
+Bloc 23
+ 23.001 : Code de cotisation   730
+ 23.002 :  ualifiant d'assiette   920  Autre assiette
+ 23.003 : Taux de cotisation   100
+ 23.00  : Montant d'assiette    100
+ 23.005 : Montant de cotisation   non renseigné
+Bloc 23
+                       
+                  
+                 
+Déclaration annuelle de la contribution à l OETH
+contenant une erreur
+Déclaration annuelle de la contribution à l OETH
+après correction
+                         
+               
+                  
+                      
+                    
+                  
+                   
+Cas d un employeur qui procède à une régularisation pour une erreur survenue à compter de la contribution OETH 
+brute avant déductions :
+065  Contribution OETH brute avant déductions 
+066  Contribution OETH nette
+068  Contribution OETH réelle due
+Bloc 82
+31 5
+2100
+2100
+002  Code de cotisation
+001   aleur
+065  Contribution OETH brute avant déductions 
+066  Contribution OETH nette 
+068  Contribution OETH réelle due
+ 100
+ 100
+ 100
+002  Code de cotisation
+001   aleur
+Bloc 82
+Dans tous les cas de régularisation de la contribution OETH réelle 
+due déclarée en rubrique S21.G00.82.002, un complément ou une 
+minoration du montant déclaré dans les données agrégées en rubrique 
+S21.G00.23.004 sera nécessaire. 
+x 
+Bon à savoir
+
+----- page 65 -----
+65 
+ 
+Déclaration des déductions  
+La valeur des déductions à déclarer est celle réellement payée par l’entreprise ; 
+les plafonds sont pris en compte dans le calcul de la contribution nette avant 
+écrêtement : 
+> 
+le montant de la déduction liée à l’effectif moyen annuel des salariés occupant 
+des Ecap, calculé en application de l’alinéa 3 de l’article L. 5212-9 du code 
+du travail ; 
+> 
+le montant de la déduction non-plafonnée liée à la passation de contrats de 
+fournitures, de sous-traitance, ou de prestations de service avec des 
+entreprises adaptées, des établissements ou services d’aides par le 
+travail, avec des travailleurs indépendants handicapés et les entreprises 
+de portage salarial lorsque le salarié porté est bénéficiaire de 
+l’obligation d’emploi, calculé en application de l’article D. 5212-22 du code 
+du travail ; 
+> 
+le montant de la déduction non-plafonnée liée aux dépenses déductibles, 
+calculé en application de l’article D. 5212-23 du code du travail. 
+ 
+Type de 
+déduction 
+Modalités de déclaration en DSN 
+Déduction 
+liée 
+au 
+nombre 
+de 
+salariés 
+exerçant des 
+ECAP 
+Avant le 31 janvier de l’année N, l’Urssaf calculera et mettra 
+à votre disposition l’effectif de salariés exerçant des ECAP 
+au regard des éléments déclarés dans les DSN mensuelles 
+de l’année N-1 au niveau du bloc « S21.G00.40.004 - Code 
+profession et catégorie socioprofessionnelle (PCS-ESE) ». 
+Cette déduction est à déclarer comme suit, selon votre cas : 
+> 
+« Valeur - S21.G00.82.001 » = montant en euros non 
+plafonné 
+> 
+« Code de cotisation - S21.G00.82.002 » = « 060 - 
+Déduction ECAP » 
+> 
+« Date de début de période de rattachement - 
+S21.G00.82.003 » = 0101[N-1] 
+> 
+« Date de fin de période de rattachement - 
+S21.G00.82.004 » = 3112[N-1] 
+Déduction 
+liée 
+à 
+la 
+passation de 
+contrats 
+de 
+fourniture, 
+de 
+sous-
+traitance ou 
+de 
+Avant le 31 janvier de l’année N, les entreprises adaptées, 
+les établissements ou services d’aide par le travail et les 
+travailleurs indépendants handicapés adressent à leurs 
+entreprises clientes une attestation annuelle relative à 
+l’année N-1. Cette déduction est à déclarer comme suit, 
+selon votre cas : 
+> 
+« Valeur - S21.G00.82.001 » = montant en euros non 
+plafonné
+
+----- page 66 -----
+66 
+ 
+ 
+ 
+ 
+ 
+prestations 
+de service 
+> 
+« Code de cotisation - S21.G00.82.002 » = « 061 - 
+Déduction de sous-traitance (EA, Esat, TIH, EPS) » 
+> 
+« Date de début de période de rattachement - 
+S21.G00.82.003 » = 0101[N-1] 
+> 
+« Date de fin de période de rattachement - 
+S21.G00.82.004 » = 3112[N-1] 
+Dépenses 
+déductibles 
+Les dépenses que vous engagez au titre de travaux 
+d’accessibilité, 
+au 
+maintien 
+et 
+à 
+la 
+reconversion 
+professionnelle ainsi qu’aux prestations d’accompagnement 
+et de sensibilisation en faveur de l’emploi de travailleurs 
+handicapés sont à déclarer comme suit, selon votre cas :  
+> 
+« Valeur - S21.G00.82.001 » = montant en euros non 
+plafonné 
+> 
+« Code de cotisation - S21.G00.82.002 » = (selon le 
+type de déduction à déclarer) « 062 - Dépense 
+déductible liée aux travaux d’accessibilité  , ou « 
+063 - Dépense déductible liée au maintien et à la 
+reconversion professionnelle », ou « 064 - Dépense 
+déductible liée aux prestations d’accompagnement 
+et de sensibilisation », ou « 072 - Dépense 
+déductible 
+liée 
+aux 
+partenariats 
+avec 
+des 
+associations » 
+> 
+« Date de début de période de rattachement - 
+S21.G00.82.003 » = 0101[N-1] 
+> 
+« Date de fin de période de rattachement - 
+S21.G00.82.004 » = 3112[N-1] 
+Pour l’ensemble des codes de cotisation pour les déductions, il est 
+obligatoire de valoriser les rubriques « Date de début de période de 
+rattachement - S21.G00.82.003 » et « Date de fin de période de 
+rattachement S21.G00.82.004 » de manière identique. 
+La valorisation de ces rubriques doit se rapporter à l’exercice 
+annuel considéré, soit l’année civile précédant la déclaration, à l’exclusion 
+de toute autre période. 
+x 
+Bon à savoir
+
+----- page 67 -----
+67 
+ 
+Que faire en cas d’erreur sur une déduction ? 
+ 
+Correction de la déduction Ecap  
+La correction de la déduction Ecap est à apporter au niveau du bloc « Code de 
+cotisation - S21.G00.82.002 » avec la valeur « 060 - Déduction Ecap » en 
+précisant le montant en euros dans la rubrique « Valeur – S21.G00.82.001 » dans 
+un bloc de régularisation en mode « annule et remplace » ou différentiel. 
+Correction des déductions liées à la sous-traitance ou aux dépenses 
+déductibles  
+La correction de ces déductions est à apporter au niveau de la rubrique « Code 
+de cotisation - S21.G00.82.002 » avec les valeurs concernées à savoir : 
+> 
+« 061 - Déduction de sous-traitance (EA, Esat, TIH, EPS) » ; 
+> 
+« 062 - Dépense déductible liée aux travaux d’accessibilité » ; 
+> 
+« 063 - Dépense déductible liée au maintien et à la reconversion 
+professionnelle » ; 
+> 
+« 064 - Dépense déductible liée aux prestations d’accompagnement et de 
+sensibilisation » ; 
+> 
+« 072 - Dépense déductible liée aux partenariats avec des associations » 
+Il est nécessaire de préciser le montant hors taxe en euros dans la rubrique « 
+Valeur – S21.G00.82.001 » dans un bloc de régularisation en mode annule et 
+remplace ou différentiel. 
+La modification de ces éléments peut occasionner l’obligation de réaliser un 
+complément de versement dans le cas où une contribution annuelle DOETH a 
+déjà été déclarée. 
+Après modification des éléments déclaratifs, une régularisation est nécessaire au 
+niveau du bloc « Cotisation agrégée - S21.G00.23 » à la rubrique « Montant 
+assiette - S21.G00.23.004 » sur la DSN de l’établissement où le paiement de la 
+contribution a été initialement déclaré et sur la même période d’emploi (voir le 
+Guide Urssaf – Comment déclarer et régulariser les cotisations Urssaf en DSN 
+disponible sur le site urssaf.fr).
+
+----- page 68 -----
+68 
+ 
+ 
+ 
+ 
+ 
+Exemple de correction sur une déduction ayant un impact sur la contribution
+
+----- page 69 -----
+69 
+ 
+ 
+ 
+ 
+ 
+ 
+Exemple de correction sur une déduction n’ayant pas d’impact sur la contribution
+
+----- page 70 -----
+70 
+ 
+Déclaration des accords agréés  
+Déclaration de l’accord agréé en DSN 
+Les informations concernant les accords agréés sont à porter au bloc  
+« Complément OETH - S21.G00.13 » à la rubrique « S21.G00.13.001 – Accord 
+agréé OETH » en précisant l’exercice annuel de référence concerné par 
+l’application de l’accord dans la rubrique « S21.G00.13.004 – Millésime de 
+rattachement ».  
+Tous les accords agréés d’un même millésime doivent être déclarés dans la même 
+DSN. 
+ 
+ 
+Le référentiel des accords agréés en cours de validité provenant 
+de la Direction Générale du Travail (DGT) est mis à disposition sur le site 
+net-entreprises.fr et mis à jour annuellement. Le numéro à renseigner dans 
+la déclaration est le numéro d’agrément indiqué dans l’arrêté portant 
+agrément de l’accord d’entreprise, de groupe, ou de branche. 
+Pour l’exercice de référence 2025, l’entreprise « Exemple », signataire d’un 
+accord agréé, est utilisatrice d’intérimaires dont l’effectif est de 12,56. 
+Elle doit déclarer, dans la DSN mensuelle d’avril 2026 exigible le 5 ou 15 mai 
+2026, le bloc « Complément OETH - S21.G00.13 » de la façon suivante :  
+ 
+Exemple 
+ 13.001 : Accord agréé OETH   D00000000iii
+ 13.002 : Type BOETH externe   01  BOETH intérimaires 
+ 13.003 : Nombre BOETH externe   12,56
+ 13.00  : Millésime de rattachement   2025
+DSN  Bloc 13  Complément OETH
+Pour l exercice annuel 2025 déclaré en 
+2026, le millésime de rattachement à 
+inscrire est  2025 
+                            
+                        
+                         
+                             
+                         
+x 
+Bon à savoir
+
+----- page 71 -----
+71 
+ 
+ 
+Déclaration de l’absence de contribution annuelle pour cause d’accord 
+agréé 
+La contribution annuelle doit être déclarée en plusieurs étapes au travers du bloc 
+« Cotisation établissement - S21.G00.82 » et de ses rubriques « Valeur - 
+S21.G00.82.001 » et « Code de cotisation - S21.G00.82.002 » pour les codes 
+« 065 », « 066 », « 067 » et « 068 ».  
+L’année renseignée au niveau des rubriques « Date de début de période de 
+rattachement - S21.G00.82.003 » et « Date de fin de période de rattachement - 
+S21.G00.82.004 » doit être identique. La contribution déclarée doit se rapporter à 
+l’année d’emploi de référence, soit l’année civile précédant la déclaration en DSN, 
+à l’exclusion de toute autre période. 
+La particularité de l’entreprise signataire d’un accord agréé vient du fait qu’elle 
+doit, dans tous les cas de figure, déclarer une contribution réelle due (code 068 - 
+Contribution OETH réelle due) à 0 (zéro). 
+Par ailleurs, pour calculer la contribution nette avant écrêtement, l’entreprise 
+signataire d’un accord agréé ne déduit que seulement, le cas échéant, la 
+déduction liée au nombre de salariés exerçant des ECAP et la déduction liée à la 
+passation de contrats de fourniture, de sous-traitance ou de prestations de service. 
+Elle ne déduira pas les dépenses déductibles prévues aux articles L.5212-11 et 
+5212-23 du code du travail. La contribution nette avant écrêtement ainsi calculé 
+est déclarée avec le code « 066 » au bloc « Cotisation établissement - 
+S21.G00.82 ». 
+A noter que la déclaration des déductions suit les mêmes consignes déclaratives 
+que celle présentées au chapitre « Déclaration des déductions ».
+
+----- page 72 -----
+72 
+ 
+ 
+Les entreprises signataires d’un accord agréé doivent déclarer le montant 
+de la contribution annuelle OETH pour l’exercice annuel de référence 
+considéré à l’Urssaf ou la CGSS, comme indiqué précédemment et au travers 
+de l’exemple ci-après. 
+Néanmoins, les entreprises signataires d’un accord agréé de branche doivent 
+verser le montant de leur contribution aux structures porteuses de l’accord 
+(HandiEM, Association OETH, Crédit agricole, Banque Populaire, Caisse 
+d’épargne) et non auprès de l’Urssaf ou de la CGSS. Le montant à verser 
+correspond à la contribution nette après écrêtement (sans considération des 
+dépenses déductibles), et ne sera donc pas reporté au bloc « Versement 
+organisme de protection sociale - S21.G00.20 ».  
+Pour les entreprises sous accord d’entreprise ou de groupe, le montant versé 
+correspond au montant du budget de l’accord pour l’année considérée. 
+Exemple 
+Pour l’exercice de référence 2025, supposons que notre entreprise 
+« Exemple », est signataire d’un accord agréé. Elle aura calculé : 
+> 
+Un montant de contribution brute avant déduction de 7698,24 € 
+> 
+Un montant de contribution nette (après déduction, s’il s’agit de 
+dépenses autre que les dépenses déductibles prévues aux articles 
+L.5212-11 et 5212-23 du CT) de 6306,56 € 
+Dans ce scénario signataire d’un accord agréé, elle n’a pas pris en 
+compte les dépenses déductibles mais seulement : sa déduction 
+liée aux emplois exigeant des conditions d’aptitude particulières de 
+391,68 €, et sa déduction plafonnée liée à la passation de contrat 
+de fournitures, de sous-traitance ou de prestations de services 
+passés avec des entreprises adaptées de 1000 €. 
+  noter, qu’elle déclarera en DSN, les déductions non plafonnées. 
+> 
+Un montant de contribution réelle due à 0 € (car elle est signataire 
+d’un accord agréé). 
+Elle déclare dans la DSN mensuelle d’avril 2026 exigible le 5 ou 15 mai 
+2026, les blocs « Cotisation établissement - S21.G00.82 » et « Cotisation 
+agrégée - S21.G00.23 » de la façon suivante : 
+ 
+x 
+Bon à savoir
+
+----- page 73 -----
+73 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+7698
+065  Contribution OETH brute avant déductions
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+6306
+066  Contribution OETH nette 
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001   aleur
+002  Code de cotisation
+003  Date de début de période de rattachement
+004  Date de fin de période de rattachement
+005  Référence réglementaire
+DSN  Bloc 82   Cotisation établissement  S21  00 82 
+0
+068  Contribution OETH réelle due
+01012025
+31122025
+ enseigner ici les    chiffres du    E        
+Rubrique
+ alorisation
+001  Code de cotisation
+002  Qualifiant d assiette
+004  Montant d assiette
+DSN  Bloc 23   Cotisation agrégée  S21  00 23 
+730 DOETH  CONTRIBUTION ANNUELLE
+920  Autre Assiette
+0
+Rubrique
+ alorisation
+
+----- page 74 -----
+74 
+ 
+ 
+ 
+Dans le cas où une entreprise n’a pas réalisé l’ensemble des dépenses auxquelles 
+elle s’était engagée dans le cadre d’un accord agréé, la DGEFP (cas des accords 
+de branche) ou la DDETS (cas des accords de groupe, d’entreprise ou 
+d’établissement) notifie le montant du versement à réaliser. L’entreprise doit 
+déclarer son paiement en DSN mensuelle. 
+La copie de notification à l’entreprise est adressée à l’Urssaf ou la CGSS dont 
+dépend l’employeur. Le montant dû doit être déclaré et versé par l'employeur à 
+l’Urssaf ou la CGSS.  
+Ce versement doit être effectué auprès de l’Urssaf ou la CGSS, à la première date 
+d'échéance des cotisations et contributions sociales, à l'issue d'un délai de deux 
+mois suivant la réception de la notification. 
+Conformément à l’article D. 5212-8 du code du travail, lorsque l’entreprise 
+comprend plusieurs établissements, la déclaration et le versement sont 
+effectués par un seul de ses établissements. 
+Le montant est à déclarer par la structure porteuse de l’accord agréé (que ce soit 
+l’entreprise porteuse au sein du groupe dans le cadre d’un accord de groupe, soit 
+la structure porteuse de l’accord de branche dans le cadre d’un accord de branche) 
+dans la rubrique « Valeur – S21.G00.82.001 » en précisant le libellé « 069 - 
+Dépenses OETH prévues par l’accord et non réalisées » dans la rubrique « 
+Code de cotisation - S21.G00.82.002 », soit  
+Ce montant doit également être déclaré au niveau du bloc « Cotisation agrégée - 
+S21.G00.23 » en renseignant la rubrique « S21.G00.23.004 – Montant assiette » 
+du CTP 740 Accords dépenses non eng DOETH (voir le Guide Urssaf – 
+Comment déclarer et régulariser les cotisations Urssaf en DSN disponible sur le 
+site urssaf.fr). 
+ 
+Depuis le Décret n° 2026-86 du 13 février 2026, les Urssaf peuvent procéder au 
+recouvrement des reliquats.  
+En effet, le décret précise les modalités de détermination et de notification du 
+reliquat de fin d'accord agréé par l'autorité administrative. Il détermine les 
+modalités de dépôt du bilan récapitulatif des accords agréés et allonge le délai 
+Versement pour dépenses non réalisées au 
+terme d’un accord agréé
+
+----- page 75 -----
+75 
+ 
+de déclaration pour les employeurs. Il détaille la procédure de recouvrement 
+par les organismes de sécurité sociale compétents en cas de carence de 
+la déclaration ou du versement par les employeurs. Enfin, il définit la 
+procédure applicable en cas de renouvellement de l'agrément et de report total 
+ou partiel du reliquat de fin d'accord agréé. 
+ 
+Dépenses OETH prévues par l’accord et non réalisées (après bilan d’un accord 
+agréé) 
+ 
+ 
+ 
+ 
+Cas exceptionnel : lorsque la déclaration de la valeur « 069 - 
+Dépenses OETH prévue par l’accord et non réalisées » (rubrique « Code de 
+cotisation - S21.G00.82.002 ») intervient sur la même période d’emploi que 
+celle de l’exigibilité de la contribution annelle, le montant déclaré avec la 
+valeur « 069 - Dépenses OETH prévues par l’accord et non réalisées » ne 
+doit pas être intégré dans celui déclaré avec la valeur « 068 - Contribution 
+OETH réelle due ». 
+x 
+Bon à savoir
+
+----- page 76 -----
+76 
+ 
+Bloc 
+Rubrique 
+Donnée 
+40 – Contrat de travail 
+Statut BOETH - 40.072 
+Statut BOETH de l’individu 
+41 – Changement 
+contrat 
+Ancien statut BOETH - 
+41.048 
+99 - Absence de statut BOETH 
+40 – Contrat de travail 
+Nature du contrat – 
+40.007 
+PMSMP - 29 - Convention de 
+stage (hors formation 
+professionnelle) 
+40 – Contrat de travail 
+Cas de mise à disposition 
+externe d'individus de 
+l'établissement 40.074 
+01 - Individu en portage salarial 
+02 - Individu mis à disposition 
+dans un établissement 
+adhérent du groupement 
+d'employeurs 
+03 – Contrat de mission 
+(contrat de travail temporaire) » 
+ou bien  
+03 - Individu d'une entreprise 
+adaptée mis à disposition  
+41 – Changement 
+contrat 
+Ancien cas de mise à 
+disposition externe 
+d'individus de 
+l'établissement 41.050 
+01 - Individu en portage salarial 
+02 - Individu mis à disposition 
+dans un établissement 
+adhérent du groupement 
+d'employeurs 
+03 – Contrat de mission 
+(contrat de travail temporaire) » 
+ou bien  
+03 - Individu d'une entreprise 
+adaptée mis à disposition 
+40 – Contrat de travail 
+Dispositif de politique 
+publique et conventionnel 
+- 40.008 
+93 – Période de mise en 
+situation en milieu 
+professionnel 
+40 – Contrat de travail 
+Nature du contrat – 
+40.007 
+90 - Autre nature de contrat, 
+convention, mandat 
+13 – Entreprise Bloc 
+enfant : Complément 
+OETH   
+Accord agréé OETH - 
+13.001 
+Type alphanumérique 
+13 – Entreprise Bloc 
+enfant : Complément 
+OETH   
+Type BOETH externe - 
+13.002 
+ 
+01 - BOETH intérimaires 
+02 - BOETH salariés d'un 
+groupement d'employeurs mis 
+à disposition 
+13 – Entreprise Bloc 
+enfant : Complément 
+OETH   
+Nombre BOETH externe - 
+13.003 
+5 chiffres avant la virgule, deux 
+décimales 
+13 – Entreprise Bloc 
+enfant : Complément 
+OETH   
+Millésime de rattachement 
+– 13.004 
+Format AAAA 
+82 – Cotisation 
+Valeur - 82.001 
+060 - Déduction Ecap
+
+----- page 77 -----
+77 
+ 
+Synthèse des rubriques DSN déclarées 
+ 
+ 
+ 
+établissement 
+Code de cotisation - 
+82.002 
+ 
+061 - Déduction de sous-
+traitance (EA, Esat, TIH) 
+062 - Dépense déductible liée 
+aux travaux d’accessibilité 
+063 - Dépense déductible liée 
+au maintien et à la 
+reconversion professionnelle  
+064 - Dépense déductible liée 
+aux prestations 
+d’accompagnement et de 
+sensibilisation 
+82 – Cotisation 
+établissement 
+Valeur - 82.001 
+Code de cotisation - 
+82.002 
+ 
+065 - Contribution OETH brute 
+avant déductions 
+066 - Contribution OETH nette  
+067 - Contribution OETH nette 
+après écrêtement (uniquement pour 
+les périodes antérieures à 2025) 
+068 - Contribution OETH réelle 
+due 
+069 - Dépenses OETH prévues 
+par l’accord et non réalisées
+
+----- page 78 -----
+78 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ROLE DE L’URSSAF  
+ET DE L’A EFIPH
+
+----- page 79 -----
+79 
+ 
+ 
+ 
+ 
+Une mission de conseil dans les obligations déclaratives 
+ 
+La contribution OETH est recouvrée et contrôlée par l’Urssaf selon les règles et 
+sous les garanties et sanctions applicables au recouvrement des cotisations du 
+régime général de la sécurité sociale.  
+L’Urssaf accompagne et conseille les entreprises dans la réalisation de leurs 
+obligations déclaratives et contributives : questions générales relatives à 
+l'assujettissement, à la déclaration, à la contribution et aux déductions assistance 
+DSN, questions relatives au paiement… 
+L’Urssaf est en charge des sujets suivants : 
+> 
+assujettissement et redevabilité des entreprises ; 
+> 
+enregistrement de la déclaration de la contribution ; 
+> 
+enregistrement de la déclaration des déductions et des accords agréés ; 
+> 
+recouvrement de la contribution et affectation du paiement ; 
+> 
+contrôle de l’application de la législation (contrôle sur pièces et sur place). 
+> 
+notification de la taxation forfaitaire majorée en cas d’absence de déclaration 
+de la DOETH à l’exigibilité de l’année en cours 
+ 
+ 
+ 
+ 
+Rôle de l’Urssaf et de la CGSS 
+Les services de l’Urssaf : 
+www.urssaf.fr 
+Tél. 3957, du lundi au vendredi. 
+x 
+Bon à savoir
+
+----- page 80 -----
+80 
+ 
+ 
+ 
+ 
+ 
+L’Agefiph est l’interlocutrice des entreprises pour : 
+> 
+les demandes concernant les déclarations et contributions réalisées au titre 
+de l’obligation d’emploi de l’année 2019 et des années précédentes ; 
+> 
+les informations sur les principes généraux de la réforme de l’obligation 
+d’emploi des travailleurs handicapés ; 
+> 
+le conseil et l’accompagnement pour développer l’emploi des personnes 
+handicapées ; 
+> 
+les aides financières destinées à faciliter le recrutement, le maintien dans 
+l’emploi et l’évolution professionnelle de salariés handicapés. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les services et aides financières de l’Agefiph aux entreprises en ligne sur 
+www.agefiph.fr  :  
+> 
+un espace emploi destiné à mettre en relation candidats et recruteurs 
+www.agefiph.fr/emploi 
+> 
+un centre de ressources proposant témoignages et outils 
+www.agefiph.fr/centre-de-ressources 
+> 
+un simulateur pour évaluer les incidences des actions handicap de 
+l’entreprise sur le montant de la contribution 
+www.agefiph.fr/employeur/simulateur_doeth  
+ 
+Le Réseau des référents handicap (RRH) permet aux entreprises de 
+participer à des ateliers d’échanges de pratiques et à des groupes de travail 
+sur l’ensemble du territoire. En savoir plus sur www.agefiph.fr/aides-
+handicap/reseau-des-referents-handicap-rrh. 
+ 
+Les services et les aides financières apportent des réponses opérationnelles 
+aux besoins des personnes en situation de handicap et à ceux des 
+entreprises. 
+ 
+Rôle de l’Agefiph 
+x 
+Bon à savoir
+
+----- page 81 -----
+81 
+ 
+ 
+ 
+ 
+L’Agefiph accompagne toutes les entreprises et propose : 
+> 
+des solutions pour inclure le handicap aux politiques de ressources 
+humaines ; 
+> 
+des solutions pour recruter une personne en situation de handicap ; 
+> 
+des solutions pour maintenir dans l’emploi une personne en situation de 
+handicap. 
+ 
+L’Agefiph met à disposition des entreprises une offre complète et 
+personnalisée : 
+Un accompagnement  
+Les collaborateurs de l’Agefiph sont les interlocuteurs privilégiés des 
+entreprises pour élaborer et mettre en place des politiques d’emploi en faveur 
+des personnes en situation de handicap. En fonction des besoins, personnes 
+et entreprises peuvent bénéficier du conseil de prestataires sélectionnés par 
+l’Agefiph. Des spécialistes de différents handicaps peuvent, par exemple, être 
+mobilisés pour évaluer précisément les conséquences du handicap sur l’emploi 
+et identifier les solutions pour les compenser. 
+Des aides financières 
+En fonction des projets, des aides financières sont proposées pour couvrir tout 
+ou partie des dépenses liées à la compensation du handicap dans l’emploi, 
+cofinancer un projet de formation ou inciter au recrutement en alternance. 
+Certaines aides nécessitent une analyse de la situation, d’autres peuvent être 
+sollicitées directement auprès de l’Agefiph. 
+Une convention signée avec l’Agefiph, pour une durée maximum non 
+renouvelable de trois ans, est également un moyen destiné à impulser une 
+dynamique handicap au sein de l’entreprise. Durant la période de la 
+convention, l’Agefiph accompagne l’entreprise dans la mise en œuvre de son 
+projet et peut apporter un soutien financier en complément de 
+l’investissement de l’entreprise. 
+ 
+Le détail des services et des aides financières de l’Agefiph aux entreprises 
+est disponible sur www.agefiph.fr/employeur
+
+----- page 82 -----
+82 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+EN SAVOIR PLUS…
+
+----- page 83 -----
+83 
+ 
+Quelle est l’obligation de l’employeur dans le cadre de 
+l’OETH ? 
+Toute entreprise occupant au moins 20 salariés est tenue d'employer à plein 
+temps ou à temps partiel des travailleurs handicapés.  
+Le niveau d’obligation d’emploi est exprimé en nombre de BOETH (bénéficiaires 
+de l’obligation d’emploi des travailleurs handicapés) à employer et correspond 
+à 6 % de l’effectif d’assujettissement de l’entreprise, arrondi à l’entier inférieur  
+Les travailleurs handicapés entrant dans cette obligation d’emploi sont 
+qualifiés de « BOETH ». Les entreprises ne remplissant pas cette obligation 
+doivent s'acquitter d'une contribution. 
+ 
+Comment puis-je connaître le ratio d’emploi de 6 % de 
+travailleurs handicapés à employer, rapporté à l’effectif total 
+de l’entreprise ? 
+Toute entreprise doit employer des travailleurs handicapés, dits « BOETH » dans 
+la proportion minimale de 6 % de l’effectif de ses salariés : 
+> 
+emploi direct de bénéficiaires, y compris contrats d’apprentissage, contrats 
+d’alternance, stagiaires et bénéficiaires accueillis pour des PMSMP (périodes 
+de mise en situation en milieu professionnel) ; 
+> 
+intérimaires et salariés en situation de handicap mis à disposition par les 
+entreprises de travail temporaire et les groupements d’employeurs. 
+Pour calculer le nombre de BOETH à employer, on multiplie l’effectif 
+d’assujettissement de l’entreprise par le taux d’obligation d’emploi de 6 %, 
+que l’on arrondit à l’entier inférieur. 
+Comment l’effectif de travailleurs handicapés (BOETH) de 
+l’entreprise est-il calculé ? 
+L’effectif de travailleurs handicapés (BOETH) employé par l’entreprise est calculé 
+et notifié par l’Urssaf, à partir des statuts de salariés handicapés déclarés en DSN 
+mensuelle. 
+Depuis la déclaration annuelle OETH de 2024 portant sur la période d’emploi de 
+2023, les effectifs transmis par l’Urssaf prennent en compte les blocs de 
+Questions générales
+
+----- page 84 -----
+84 
+ 
+régularisation et sont calculés à partir des données consolidées. 
+  
+Comment l’effectif d’assujettissement à l’OETH sera-t-il 
+calculé ? 
+Les effectifs d’assujettissement à l’obligation d’emploi seront évalués selon les 
+règles du code de la sécurité sociale.  
+Ils seront donc : 
+> 
+comptabilisés en moyenne annuelle (effectif moyen annuel ou EMA) ; 
+> 
+appréciés au niveau de l’entreprise, et non pour chacun des établissements. 
+ 
+ 
+Quel est le processus déclaratif ? 
+Toutes les entreprises doivent déclarer dans le bloc contrat de leurs DSN 
+mensuelles le statut de BOETH de leurs salariés.  
+Au plus tard le 15 mars de chaque année : 
+L’Urssaf ou la CGSS calcule et met à disposition des entreprises, au titre de 
+l’exercice annuel de l’année précédente : 
+> 
+l’effectif d’assujettissement OETH ; 
+> 
+l’effectif des BOETH employés par l’entreprise ; 
+> 
+l’effectif des salariés relevant d’un Ecap ; 
+ 
+Certaines entreprises ne sont assujetties que sur leurs seuls 
+effectifs permanents : 
+• 
+Les entreprises de travail temporaire ; 
+• 
+Les groupements d’employeurs ; 
+• 
+Les entreprises de portage salarial. 
+• 
+Les agences de mannequins ;  
+• 
+Les associations intermédiaires ;  
+• 
+Les entreprises de travail temporaire à temps partagé.  
+ 
+x 
+Bon à savoir
+
+----- page 85 -----
+85 
+ 
+Avant le 31 janvier de chaque année : 
+Les ETT et groupements d’employeurs adressent aux entreprises utilisatrices les 
+attestations d’emplois de BOETH intérimaires et mis à disposition.  
+Les entreprises adaptées, les établissements ou services d’aides par le travail, les 
+travailleurs indépendants handicapés et les entreprises de portage salarial lorsque 
+le salarié porté est reconnu bénéficiaire de l’obligation d’emploi, adressent aux 
+entreprises clientes les attestations des dépenses annuelles ouvrant droit à 
+déductions. 
+Déclaration annuelle des entreprises assujetties : 
+Les employeurs occupant 20 salariés et plus déclarent au travers de la DSN 
+exigible au 5 ou 15 mai de chaque année : 
+> 
+le nombre de salariés handicapés mis à sa disposition par une entreprise de 
+travail intérimaire ou un groupement d’employeurs ; 
+> 
+le montant de la déduction non-plafonnée liée à la passation de contrats de 
+fournitures, de sous-traitance, ou de prestations de service avec des 
+entreprises adaptées, des établissements ou services d’aides par le travail, 
+des travailleurs indépendants handicapés ou des entreprises de portage 
+salarial ;  
+> 
+le montant de la déduction non-plafonnée liée aux dépenses déductibles ; 
+> 
+le montant de la déduction non-plafonnée liée au nombre de salariés de 
+l’entreprise exerçant des emplois exigeant des conditions d’aptitude 
+particulière (ECAP) ;  
+> 
+le cas échéant, s’il s’acquitte de l’obligation d’emploi par la conclusion d’un 
+accord agréé de branche, de groupe, ou d’entreprise ;  
+> 
+le montant de la contribution brute avant déduction ; 
+> 
+le montant de la contribution nette; 
+> 
+le montant de la contribution OETH réelle due 
+ 
+ 
+Les entreprises paieront le montant de la 
+contribution au moment du dépôt de leur DSN 
+mensuelle d’avril 2026, exigible au 5 ou 15 mai 2026. 
+x 
+Bon à savoir
+
+----- page 86 -----
+86 
+ 
+ 
+Toutes les entreprises seront-elles redevables d’une 
+contribution au titre de l’obligation d’emploi de travailleurs 
+handicapés ? 
+Seules les entreprises de 20 salariés et plus sont assujetties à l’OETH et, à ce 
+titre, potentiellement redevables d’une contribution annuelle qui sera à déclarer 
+auprès de l’Urssaf. 
+Les entreprises assujetties à l’OETH sont redevables d’une contribution dans le 
+cas où elles ne respecteraient pas leur obligation d’emploi de travailleurs 
+handicapés, à savoir l’emploi d’un ratio minimum de 6 % de travailleurs 
+handicapés rapporté à l’effectif moyen annuel de l’entreprise, si elles ne sont pas 
+couvertes par le délai de 5 ans de mise en conformité lors du franchissement du 
+seuil de vingt salariés ou si elles n’ont pas signé ou adhéré à un accord agréé. 
+ 
+L'obligation d'emploi des ETT, ainsi que les groupements 
+d’employeurs et les entreprises de portage salarial est-elle 
+calculée sur l'ensemble des salariés ? 
+Pour les entreprises de travail temporaire, les entreprises de portage salarial et 
+les groupements d'employeurs, l'effectif salarié ne prend pas en compte les 
+salariés mis à disposition ou portés mais leurs seuls salariés permanents. 
+Afin que l’Urssaf calcule les seuls effectifs permanents des entreprises de travail 
+temporaire (hors intérimaires), des entreprises de portage salarial (hors salariés 
+portés) et des groupements d’employeurs (hors salariés mis à disposition), il est 
+indispensable que : 
+- 
+les entreprises de travail temporaire renseignent la nature des contrats 
+de leurs salariés intérimaires ; 
+> 
+les entreprises de portage salarial renseignent la nature des contrats de 
+leurs salariés portés ; 
+> 
+et que les groupements d’employeurs renseignent la nature de la 
+situation de leurs salariés mis à disposition.
+
+----- page 87 -----
+87 
+ 
+Que doivent déclarer les entreprises en DSN ? 
+Les entreprises, quels que soient leurs effectifs, doivent déclarer en DSN le statut 
+de leurs travailleurs handicapés salariés mais également le statut des 
+travailleurs handicapés accueillis dans le cadre d'un stage ou d'une PMSMP.  
+Pour cela, l'entreprise doit compléter le bloc "Contrat" des salariés en 
+mentionnant la qualité de travailleur handicapé du salarié concerné par la 
+précision de la catégorie du titre de reconnaissance (les catégories sont listées à 
+l’article L. 5212-13 du code du travail). 
+ 
+ 
+ 
+Toutes les entreprises doivent-elles déclarer le statut de 
+travailleur handicapé de leurs salariés ? 
+L'obligation de déclaration du statut de travailleur handicapé concerne tous les 
+employeurs qui emploient au minimum une personne, quelle que soit la nature 
+du contrat (CDD, CDI, contrat d'apprentissage…). 
+Que risque une entreprise dont l'effectif est inférieur à 20 
+salariés, qui n'a pas effectué de déclaration de ses travailleurs 
+handicapés ? 
+Aucune sanction pour non-déclaration du statut de travailleur handicapé 
+d’un salarié n’est prévue.  
+Néanmoins, il est très important de déclarer ces statuts, car les données 
+déclarées permettront notamment à l’Agefiph de connaître l’emploi des 
+travailleurs handicapés dans les TPE et d’accompagner ces dernières par une 
+offre de services adaptée.  
+ 
+ 
+Aucun justificatif n’est à adresser à l’Urssaf. 
+Questions sur la déclaration des BOETH 
+x 
+Bon à savoir
+
+----- page 88 -----
+88 
+ 
+Les salariés handicapés risquent de ne pas vouloir 
+transmettre leur titre en qualité de bénéficiaire de l’obligation 
+d’emploi via la DSN pour des questions de secret médical. 
+Qui va détenir cette information et quels en sont les usages ? 
+Les travailleurs handicapés ont la liberté de transmettre ou non leur titre en 
+qualité de bénéficiaire de l’obligation d’emploi. Cette information sera prise en 
+compte par l'employeur au même titre que d'autres informations relatives à la 
+situation personnelle du salarié (situation familiale, adresse du domicile etc.). 
+Le gestionnaire de paie qui déclare l'information en DSN n'a pas accès à la 
+nature du handicap de la personne, uniquement à la catégorie de bénéficiaire 
+de l'obligation d'emploi dont cette personne relève. Le gestionnaire de paie n'a 
+donc pas accès à des données d'ordre médical. Cette information d’un statut de 
+travailleur handicapé est adressée à l’Urssaf dans le cadre de la déclaration 
+relative à l'obligation d'emploi. Le titre portant qualité de BOETH du salarié n’est 
+pas adressé à l’Urssaf. L’Urssaf, ainsi que le déclarant en DSN, sont bien sûr tenus 
+au secret professionnel.  
+Comment le secret médical est-il respecté en DSN ? Des 
+salariés handicapés pourraient ne pas vouloir transmettre leur 
+reconnaissance administrative via la DSN pour des raisons 
+de confidentialité ? 
+Le système automatisé de traitement des données tel qu’il est organisé aujourd'hui 
+en DSN permet de filtrer de façon sécurisée les informations à transmettre 
+aux différents organismes concernés par les données sociales ou fiscales. 
+L’arrêté du 30 novembre 2016 (NOR : ECFS1631117A – JORF n° 0288 du 11 
+décembre 2016) fixe les données de la déclaration sociale nominative 
+adressées aux administrations et organismes compétents, et permet une 
+communication ciblée des dites données. 
+De plus, le système DSN est totalement conforme au RGPD et a été validé par 
+la Cnil, il présente donc un haut niveau de sécurisation.
+
+----- page 89 -----
+89 
+ 
+Quel est le taux du Smic à prendre en compte ?  
+Le Smic horaire est le Smic en vigueur au 31 décembre de l'année au titre de 
+laquelle la contribution est due. 
+Par exemple, pour la contribution due en 2026 au titre de l’année 2025, la valeur 
+du Smic à prendre en compte est celle du 31 décembre 2025 (11,88 euros) 
+Quels justificatifs sont à adresser à l’Urssaf ou la CGSS lors 
+du règlement de la contribution ?  
+Tous les justificatifs de déductions sont à conserver par l'employeur :  
+> attestations annuelles pour les achats auprès des EA/Esat/TIH ou auprès des 
+EPS si le salarié porté est bénéficiaire de l'obligation d'emploi ; 
+> justificatifs des dépenses déductibles ; 
+> attestations annuelles des entreprises de travail temporaire y compris les 
+entreprises adaptées de travail temporaire et des groupements d'employeurs 
+portant sur le nombre de BOETH intérimaires et mis à disposition. 
+> les pièces justificatives des statuts BOETH doivent être conservées. 
+L'emploi direct sera-t-il le seul moyen d'éviter la sur-
+contribution ? 
+Pour éviter la sur-contribution avec l'application du coefficient de 1500, l'employeur 
+doit, au cours des 4 années (3 années précédentes + année de référence), soit 
+avoir : 
+> recruté au moins un BOETH ; 
+> passé un contrat de fourniture, de sous-traitance ou de prestations de services 
+avec une EA, un Esat, un TIH ou une EPS si le salarié porté est bénéficiaire 
+de l'obligation d'emploi, d'un montant supérieur à 600 fois le smic horaire en 
+vigueur au 31 décembre de l'année de référence ; 
+> appliqué un accord agréé. 
+>  
+Quel est le montant minimum de la sous-traitance 
+permettant d'éviter la sur-contribution ? 
+Le montant du prix hors taxes payé des contrats de fournitures, de sous-traitance 
+ou de services, duquel sont déduits les coûts des matières premières, des 
+produits, des matériaux, de la sous-traitance, des consommations intermédiaires 
+et des frais de vente et de commercialisation, doit être supérieur, sur quatre ans, 
+à 600 fois le Smic horaire en vigueur au 31 décembre de l’année de référence. 
+Questions sur la contribution
+
+----- page 90 -----
+90 
+ 
+ 
+ 
+ 
+ 
+Pour les employeurs n'ayant employé aucun travailleur handicapé 
+bénéficiaire de l'obligation d'emploi, ou n'ayant pas conclu de contrats de 
+fournitures, de sous-traitance ou de services, ou n'ayant pas conclu 
+d'accord agréé pendant une période supérieure à trois ans, le montant 
+mentionné au 2° de l'article D. 5212-20 est fixé à 1500 fois le smic horaire, 
+quel que soit le nombre de salariés employés. 
+ 
+Pour les entreprises n'ayant employé aucun bénéficiaire de l'OETH, mais 
+ayant uniquement recours à la sous-traitance, le montant du prix hors taxes 
+payé des contrats de fournitures, de sous-traitance ou de services, duquel 
+sont déduits les coûts des matières premières, des produits, des matériaux, 
+de la sous-traitance, des consommations intermédiaires et des frais de 
+vente et de commercialisation, doit être supérieur, sur quatre ans, à 600 
+fois le smic horaire afin d'éviter la sur-contribution (coefficient 1500). 
+x 
+Bon à savoir
+
+----- page 91 -----
+91 
+ 
+Quelles sont les déductions applicables ? 
+La contribution d'une entreprise, calculée en fonction du nombre de BOETH 
+manquants, peut être réduite par trois types de déductions. 
+Ces dernières concernent : 
+1- La sous-traitance : les achats auprès des EA, des Esat, des travailleurs 
+indépendants handicapés (TIH) et des entreprises de portage salarial (EPS) 
+lorsque le salarié porté est bénéficiaire de l'obligation d'emploi 
+2 - ECAP : le montant lié à l'effectif des Ecap de l’entreprise dont la liste est fixée 
+par décret. 
+3 - Les dépenses déductibles, c’est-à-dire celles supportées directement par 
+l'entreprise et destinées à favoriser l'accueil, l'insertion ou le maintien dans l'emploi 
+des travailleurs handicapés. 
+ 
+ 
+Pour rappel : A compter du 31 décembre 2024, les 2 mesures de 
+dépenses déductibles suivantes ne seront plus applicables sur les 
+périodes d’emplois postérieures à 202  :  
+• 
+Dépenses déductibles liées à la participation à des 
+évènements ;  
+• 
+Dépense déductible liées aux actions concourant à la 
+professionnalisation et aux achats auprès des EA, ESAT, 
+TIH 
+ 
+ 
+A compter de l’année 2025, la mesure de dépense déductible liées 
+aux partenaires avec des associations est prolongée pour 5 années, 
+soit jusqu’au 31/12/2029, conformément au Décret n° 2025-1294 du 
+24 décembre 2025, relatif aux dépenses déductibles de la 
+contribution annuelle due au titre de l’obligation d’emploi des 
+travailleurs handicapés 
+I. Jusqu'au 31 décembre 2029, peuvent être déduites de sa contribution 
+annuelle en application de l'article L. 5212-11 du code du travail, en 
+complément des déductions prévues à l'article D. 5212-23 du même 
+code et dans les conditions prévues par le cinquième alinéa du même 
+article, les dépenses exposées par l'employeur assujetti à l'obligation 
+d'emploi des travailleurs handicapés au titre du partenariat, par voie de 
+convention ou d'adhésion, avec des associations ou organismes œuvrant 
+pour la formation, l'insertion sociale et professionnelle de personnes 
+Questions sur les déductions
+
+----- page 92 -----
+92 
+ 
+handicapées que l'employeur accueille ou embauche, à l'exclusion des 
+participations aux opérations de mécénat. 
+ 
+II. Pour déduire les dépenses de partenariats mentionnées au I, 
+l'employeur doit justifier, au titre de l'année de référence, de la conclusion 
+avec un des bénéficiaires mentionnés à l'article L. 5212-13 du code du 
+travail, 
+de 
+l'un 
+des 
+contrats 
+suivants 
+: 
+1° Un contrat de travail à durée indéterminée ; 
+2° Un contrat à durée déterminée d'au moins six mois ; 
+3° Un contrat d'apprentissage ; 
+4° Un contrat de professionnalisation ; 
+5° Une convention de stage d'au moins six mois. 
+III. Au plus tard le 15 mars de l'année suivant celle au titre de laquelle la 
+déclaration relative à l'obligation d'emploi est effectuée, les associations 
+ou organismes œuvrant pour la formation, l'insertion sociale et 
+professionnelle de personnes handicapées transmettent, selon un 
+modèle défini par arrêté du ministre chargé de l'emploi*, aux 
+employeurs avec lesquels des partenariats ont été conclus, par voie de 
+convention ou d'adhésion, la liste des personnes bénéficiaires de 
+l'obligation d'emploi pour lesquelles a été signé un contrat ou une 
+convention mentionné au II. 
+*Arrêté du 3 mars 2026 portant application du décret n° 2025-1294 du 24 
+décembre 2025 relatif aux dépenses déductibles de la contribution 
+annuelle due au titre de l'obligation d'emploi des travailleurs handicapés 
+Un plafond des dépenses déductibles est-il prévu ? 
+L'employeur peut déduire le montant H.T. de certaines dépenses dans la limite de 
+10 % du montant de la contribution brute annuelle (montant de la contribution 
+retenue avant déductions). 
+Le montant des dépenses déductibles à retenir est le montant HT figurant sur la 
+facture. Ce montant est plafonné à 10% du montant de la contribution annuelle 
+brute (avant déductions). Pour appliquer la déduction il faut que la facture soit 
+payée l’année au titre de laquelle la déclaration est faite.
+
+----- page 93 -----
+93 
+ 
+ 
+ 
+ 
+ 
+Les entreprises qui relèvent d'un accord agréé peuvent-elles 
+déclarer des dépenses déductibles ? 
+L‘entreprise signataire d’un accord agréé ne doit pas déclarer de montants de 
+dépenses déductibles. Ainsi pour ces entreprises, seules les déductions 
+suivantes sont à déclarer à la rubrique « Code cotisation - S21.G00.82.002 » : 
+- 060 - Déduction ECAP  
+- 061 - Déduction de sous-traitance (EA, ESAT, TIH)  
+ 
+Il convient de renseigner en euros HT le montant non plafonné réellement payé 
+par l’entreprise au cours de l’exercice d’emploi concerné, dans la rubrique « 
+Valeur - S21.G00.82.001 », arrondis à l’euro le plus proche.  
+ 
+Il est à noter que l’année renseignée au niveau des rubriques « Date de début de 
+période de rattachement - S21.G00.82.003 » et « Date de fin de période de 
+rattachement - S21.G00.82.004 » doit être identique (du 01/01/N au 31/12/N). La 
+déduction déclarée doit en effet se rapporter à l’année civile précédant la 
+déclaration à l’exclusion de toute autre période.  
+ 
+Les dépenses déductibles sont détaillées par le décret n° 2019-523 du 27 mai 
+2019 :  
+ 
+Les dépenses déductibles sont relatives :  
+> 
+« 1° A la réalisation de diagnostics et de travaux afin de rendre les locaux de 
+l'entreprise accessibles aux bénéficiaires de l'obligation d'emploi  
+> 
+« 2° Au maintien dans l'emploi au sein de l'entreprise et à la reconversion 
+professionnelle de bénéficiaires de l'obligation d'emploi par la mise en œuvre de 
+moyens humains, techniques ou organisationnels compensatoires à la situation de 
+handicap, à l'exclusion des dépenses déjà prises en charge ou faisant l'objet 
+d'aides financières délivrées par d'autres organismes 
+L'employeur est habilité à déduire de sa contribution la part des dépenses 
+restant à sa charge et non prise en charge par l'Agefiph ou par tout autre 
+organisme (exemple : organismes de Sécurité Sociale…). 
+ 
+L'avantage représenté par cette déduction ne peut se cumuler avec une 
+aide accordée pour le même objet par l'Agefiph. 
+x 
+Bon à savoir
+
+----- page 94 -----
+94 
+ 
+> 
+« 3° Aux prestations d'accompagnement des bénéficiaires de l'obligation d'emploi, 
+aux actions de sensibilisation et de formation des salariés réalisées par d'autres 
+organismes pour le compte de l'entreprise afin de favoriser la prise de poste et le 
+maintien en emploi des bénéficiaires de l'obligation d'emploi 
+ 
+L'employeur peut déduire du montant de sa contribution annuelle ces dépenses dans 
+la limite de 10 % du montant de la contribution annuelle calculée en application de 
+l'article D. 5212-20. » 
+ 
+En quoi consiste la réalisation de diagnostics et de travaux 
+afin de rendre les locaux accessibles aux bénéficiaires de 
+l'obligation d'emploi en dehors des obligations légales ? 
+L’article L. 111-7 du code de la construction pose un principe général 
+d’accessibilité des locaux et notamment des locaux de travail aux personnes 
+handicapées quel que soit le type de handicap (physique, sensoriel, cognitif, 
+mental ou psychique, etc.). L'article R. 4214-26 du code du travail prévoit que les 
+lieux de travail sont considérés comme accessibles lorsque les personnes 
+handicapées peuvent accéder, circuler, se repérer ou évacuer avec la plus grande 
+autonomie. Les lieux de travail doivent être conçus pour permettre l’adaptation des 
+postes de travail ou à rendre ultérieurement possible l'adaptation des postes de 
+travail.  
+Le principe général d’accessibilité des locaux de travail est complété par 
+l’obligation d’aménagement raisonnable du poste de travail. Les employeurs 
+doivent prendre des mesures appropriées en fonction des besoins dans une 
+situation concrète pour permettre aux travailleurs handicapés, au cas par cas, 
+d’accéder à un emploi ou de conserver un emploi correspondant à leur 
+qualification, de l’exercer ou d’y progresser ou pour qu’une formation adaptée à 
+leur besoin leur soit dispensée. Les obligations de l’employeur découlent de la 
+combinaison des articles L. 5213-6 et R. 4225-6 et suivants du code du travail. 
+La nature de ces dépenses doit avoir un lien direct avec l’emploi de 
+travailleurs handicapés et aller au-delà de l’obligation légale d’accessibilité.  
+Exemples : 
+> aménagement de parking de stationnement 
+> installation d’un ascenseur 
+Quelles actions de maintien en emploi peuvent être 
+considérées comme une dépense déductible ?
+
+----- page 95 -----
+95 
+ 
+Les dépenses relatives au déploiement de moyens compensatoires au 
+handicap en lien avec l’exécution du travail peuvent être valorisées au titre des 
+dépenses déductibles et ce, pour la partie non-prise en charge par d’autres 
+organismes (Agefiph, organismes de Sécurité sociale, MDPH…). 
+A titre d’exemple, sont concernés le surcoût lié à l’achat d’une prothèse 
+auditive, ou le coût d’une aide à la communication (interprétariat en langue 
+des signes). 
+Les dépenses relatives à la prise en charge de rémunération ou de complément 
+de rémunération ne sont en revanche pas imputables au titre des dépenses 
+déductibles. 
+L'intervention d'un ergonome, peut-elle être considérée 
+comme une dépense déductible ? 
+L'intervention d'un ergonome par un organisme externe, peut être 
+considérée comme une dépense déductible dans le cadre d'un maintien ou 
+d'une reconversion professionnelle à condition que cette dépense de l'employeur 
+n'entre pas dans son obligation légale d'aménagement. 
+Le reste à charge par l'employeur suite à l'aide à l'adaptation 
+des situations de travail (AST), peut-il être déduit au titre des 
+dépenses déductibles ? 
+Le reste à charge par l'employeur dans le cadre d'une AST peut être valorisé 
+au titre de dépenses déductibles dans le cadre d'un maintien ou d'une 
+reconversion professionnelle. 
+La reconversion professionnelle doit être interne, il s'agit d'une action de 
+maintien dans l'emploi. La reconversion externe implique, quant à elle, une 
+action d'insertion et ne peut pas faire l'objet d'une dépense déductible. 
+Les dépenses sur les aménagements de poste sont-elles 
+déductibles ? 
+Les surcoûts liés aux dépenses sur les aménagements de poste dans le 
+cadre d'un maintien en emploi peuvent être valorisés. 
+Les employeurs doivent prendre des mesures appropriées en fonction des 
+besoins dans une situation concrète pour permettre aux travailleurs 
+handicapés d’accéder à un emploi ou de conserver un emploi correspondant
+
+----- page 96 -----
+96 
+ 
+à leur qualification, de l’exercer ou d’y progresser ou pour qu’une formation 
+adaptée à leur besoin leur soit dispensée. 
+Les obligations de l’employeur découlent de la combinaison de l’article L. 
+5213-6 ci-dessus et de l’article R. 4225-6 et suivants qui prévoient « que le poste 
+de travail ainsi que les locaux sanitaires sont aménagés de telle sorte que les 
+travailleurs puissent y accéder facilement. Leurs postes de travail ainsi que les 
+signaux de sécurité qui les concernent sont aménagés si leur handicap l’exige. 
+Des installations sanitaires appropriées sont mises à disposition des travailleurs 
+handicapés. Le système d’alarme sonore est complété par des systèmes adaptés 
+au handicap des personnes concernées ». 
+ 
+ 
+ 
+ 
+Les diagnostics constituent une obligation légale et leurs montants ne 
+peuvent être valorisés au titre des dépenses déductibles. 
+Au-delà de l’obligation légale, le surcoût généré par des aménagements dits 
+raisonnables, desquels sont déduites les aides Agefiph ou d’autres 
+organismes extérieurs (organismes de Sécurité sociale, MDPH), pourront 
+être valorisés au titre des dépenses déductibles. 
+Exemple 1  
+Dans le cadre d'un maintien dans l'emploi, pour la partie non-prise en charge 
+par d’autres organismes, sont déductibles : écrans informatiques, télé-
+agrandisseurs et claviers adaptés aux problèmes visuels, logiciels de 
+grossissement de caractères ; éclairages spécifiques ; amplificateurs 
+téléphoniques ; bureaux adaptés pour les personnes handicapées ayant des 
+difficultés de rapport à l’espace ; fauteuils adaptés pour les personnes ayant 
+une pathologie dorsale. 
+Exemple 2 
+Les aménagements de poste sont déductibles dans le cadre d'un 
+maintien dans l'emploi. Néanmoins, dans le cadre d'un recrutement, 
+l'employeur peut solliciter l'Agefiph pour mobiliser une aide à 
+l'adaptation des situations de travail si cela est nécessaire.
+
+----- page 97 -----
+97 
+ 
+ 
+ 
+En quoi consistent les prestations d'accompagnement des 
+bénéficiaires ? 
+Il s'agit de prestations délivrées par des associations ou organismes 
+externes à l'entreprise. Ces prestations d'accompagnement s'adressent aux 
+bénéficiaires ainsi qu'au collectif de travail ou aux managers, dans le cadre d'un 
+recrutement ou d'un maintien en emploi.  
+Le job coaching est une prestation d'accompagnement. 
+Les actions de sensibilisation et de formation afin de favoriser 
+la prise de poste et le maintien dans l’emploi des bénéficiaires 
+de l'OETH doivent-elles concerner l'ensemble des salariés ? 
+Les dépenses déductibles doivent avoir un lien direct avec l’emploi et le 
+maintien en emploi des bénéficiaires. Ces actions doivent concerner une partie 
+ou l'ensemble des salariés de l'entreprise dans une situation précise, à savoir 
+l’embauche (effective ou à venir) ou le maintien dans l’emploi d’un travailleur 
+handicapé dans l’entreprise.  
+Les actions de sensibilisation et de formation peuvent concerner l'ensemble 
+des salariés mais également être ciblées en fonction des différentes parties 
+prenantes de l'entreprise (direction, managers de proximité, collègues), selon les 
+besoins. 
+Ces actions de sensibilisation et de formation peuvent prendre différentes 
+formes dispensées par des organismes extérieurs à l'entreprise : formation, 
+troupes de théâtre, production de film, affiche, document, événementiel.  
+Est-ce que la participation aux frais de transport pour se 
+rendre sur son lieu de travail peut être considérée comme une 
+dépense déductible ? 
+Cette dépense n’est plus considérée comme déductible.  
+La mise en place de moyens de transports adaptés dans le cadre de déplacements 
+professionnels ne peut plus être pris en compte dans le cadre des dépenses
+
+----- page 98 -----
+98 
+ 
+déductibles, sauf s'il s'agit de mesures indispensables au maintien en emploi d'un 
+salarié handicapé. 
+Néanmoins, l'entreprise peut orienter son salarié bénéficiaire de l'obligation 
+d'emploi vers l'Agefiph afin de mobiliser l'aide aux déplacements. 
+Dans le cadre d'un recrutement, l'employeur peut solliciter l'Agefiph pour mobiliser 
+une aide à l'adaptation des situations de travail si nécessaire. 
+Les cotisations auprès d'organismes qui ont pour finalité 
+l'accueil, l'insertion ou le maintien dans l'emploi de 
+bénéficiaires, peuvent-elles être déclarées au titre des 
+dépenses déductibles ? 
+Ces cotisations rentrent dans le champ des dépenses déductibles dans les 
+conditions définies par le décret relatif à diverses mesures relatives à l’obligation 
+d’emploi en faveur des travailleurs handicapés (décret du 5 novembre 2020 relatif 
+à l’obligation d’emploi en faveur des travailleurs handicapés). 
+L'adhésion aux organismes tels que le Gesat, Handeco, etc. 
+peut-elle être considérée comme une dépense déductible ? 
+Cette adhésion rentre jusqu’au 31 décembre 202  dans le champ des 
+dépenses déductibles tel qu'il est défini par le décret relatif à l’obligation d’emploi 
+en faveur des travailleurs handicapés (décret du 5 novembre 2020 relatif à 
+l’obligation d’emploi en faveur des travailleurs handicapés). Elle est considérée 
+comme une action concourant notamment à la professionnalisation des EA, des 
+Esat ou des TIH ainsi qu’au développement des achats auprès de ces acteurs. Ce 
+dispositif ne sera plus applicable sur la DOETH 2025 à déposer en 2026, mais 
+reste éligible pour des régularisations entre 2020 et 2024. 
+ 
+Les mécénats de compétences sont-ils pris en compte dans 
+les dépenses déductibles ? 
+Les dépenses effectuées par une entreprise dans le cadre du mécénat de 
+compétences ont pour objectif d'accompagner un autre organisme mais pas 
+d'augmenter le taux d'emploi de personnes handicapées dans l'entreprise 
+concernée. Ces dépenses ne peuvent donc pas être prises en compte dans 
+le cadre des dépenses déductibles.
+
+----- page 99 -----
+99 
+ 
+ 
+ 
+Le bilan de compétences peut-il entrer dans le cadre des 
+dépenses déductibles ? 
+Le bilan de compétences entre dans les dispositifs de droit commun (CPF, CEP, 
+plan de formation). Dans ce contexte, il ne peut être considéré comme une 
+dépense déductible. 
+Comment est valorisé le recours à la sous-traitance ? 
+Le montant de la déduction résultant de la conclusion de contrats de fournitures, 
+de sous-traitance ou de prestations de services avec des Esat, EA, TIH ou des 
+EPS (si le salarié porté est bénéficiaire de l'obligation d'emploi), est calculé en 
+appliquant un taux de 30 % au coût de main d'œuvre (prix hors taxes des 
+fournitures, travaux ou prestations figurant au contrat, duquel sont déduits les 
+coûts des matières premières, des produits, des matériaux, de la sous-traitance, 
+des consommations intermédiaires et des frais de vente et de commercialisation).  
+Lorsque le taux d’emploi dans l’entreprise est inférieur à 3 %, le montant 
+déductible est plafonné à 50 % du montant de la contribution brute avant 
+déductions. Lorsque le taux d’emploi est supérieur ou égal à 3 %, le montant 
+déductible est plafonné à 75 % du montant de la contribution brute avant 
+déductions. 
+En DSN, l'entreprise renseigne le montant de la déduction non-plafonnée liée 
+à la passation de contrats de fournitures, de sous-traitance ou de prestations de 
+services. 
+ 
+Comment déclarer les montants de la sous-traitance dans le 
+Les personnes handicapées mises à disposition par une EA ou un Esat (à 
+ne pas confondre avec les personnes handicapées mises à disposition par 
+une entreprise extérieure, entreprise de travail temporaire ou groupement 
+d’employeurs) sont comptabilisées dans le cadre de la déduction relative 
+aux achats de biens et services par l’entreprise cliente auprès de l’EA 
+ou de l’Esat. 
+x 
+Bon à savoir
+
+----- page 100 -----
+100 
+ 
+cas de contrats effectués sur divers établissements de 
+l'entreprise ou de contrats conclus par un groupement 
+d'achats ? 
+En DSN, l’entreprise déclare le montant de la déduction non-plafonnée liée 
+à la passation de contrats de fournitures, de sous-traitance, ou de 
+prestations de service avec des EA, des Esat, des TIH ou des salariés BOETH 
+portés par une entreprise de portage salarial.  
+Pour les contrats passés par une entreprise, celle-ci valorise l’ensemble de ses 
+attestations. 
+Pour les contrats conclus par divers établissements d’une entreprise, celle-ci 
+recense l’ensemble des attestations des divers établissements afin de les 
+valoriser.  
+Pour les contrats conclus par un groupement d’achats, le montant de la déduction 
+est réparti entre les différentes entreprises membres du groupement d’achats au 
+prorata du montant d’achat de l’entreprise par rapport au montant total de l’achat. 
+En cas de co-traitance, comment récupérer l'attestation 
+permettant d'effectuer la déduction du montant de la 
+contribution ? 
+Le donneur d’ordre a un contrat spécifique avec chaque prestataire. 
+La relation entre le donneur d’ordre et le prestataire EA, Esat, TIH ou 
+Entreprise de Portage Salarial (si le salarié porté est bénéficiaire de l'obligation 
+d'emploi) est directe. Dans ce contexte, il récupère l’attestation avant le 31 
+janvier N+1, dans laquelle sera indiqué le montant à déduire de la contribution  
+brute avant déductions qu'il devra reporter en DSN. 
+ 
+ 
+ 
+ 
+S’il y a un contrat de mandat, et que la facture est au nom et pour le compte 
+du donneur d’ordre, ce dernier récupère auprès des prestataires du secteur 
+protégé et adapté (EA, Esat, TIH ou salarié BOETH mis à disposition par 
+une entreprise de portage salarial), les attestations avec le montant à 
+déduire de la contribution brute avant déductions. 
+Le mandataire peut être l’une des entreprises ou une tierce personne 
+morale. 
+x 
+Bon à savoir
+
+----- page 101 -----
+101 
+ 
+Un montant minimum de sous-traitance sur 4 années pour 
+éviter la sur-contribution, est-il toujours en vigueur ? 
+En effet, pour éviter l’application d’une sur-contribution, le montant du prix hors 
+taxes payé des contrats de fournitures, de sous-traitance ou de services, duquel 
+sont déduits les coûts des matières premières, des produits, des matériaux, de la 
+sous-traitance, des consommations intermédiaires et des frais de vente et de 
+commercialisation, doit être supérieur, sur 4 ans, à 600 fois le salaire horaire 
+minimum de croissance brut. 
+ 
+Le CDD Tremplin est-il considéré comme de l'emploi direct ? 
+L’Entreprise Adaptée peut vendre une prestation au client avec une 
+personne en CDD Tremplin comme une autre prestation traditionnelle (soit 
+sur site client, soit pour ses propres besoins internes). 
+Dans ce contexte, il s'agit alors du recours à la sous-traitance auprès d'une 
+entreprise adaptée.  
+ 
+ 
+Le coefficient de valorisation de 1,5 accordée au travailleurs 
+handicapés séniors, peut-il être également appliqué aux 
+travailleurs indépendants handicapés séniors ? 
+Non, seuls les salariés bénéficient d’un coefficient de valorisation majoré. Les 
+travailleurs indépendants handicapés ne sont pas valorisés en tant que BOETH. 
+En revanche, les dépenses d’une entreprise ayant conclu une prestation de 
+services avec un TIH pourront faire l’objet d’une déduction de la contribution au 
+titre de la sous-traitance avec le secteur protégé et adapté.  
+Un travailleur handicapé en CDD Tremplin est employé et rémunéré par une 
+entreprise adaptée. Il est donc comptabilisé dans les effectifs BOETH de 
+cette entreprise adaptée. 
+Il peut être amené à travailler dans une autre entreprise dans le cadre d'un 
+contrat de prestation de services passé entre l'entreprise adaptée et 
+l'entreprise cliente. Dans ce cas, la prestation est facturée par l'entreprise 
+adaptée et peut être valorisée par l'entreprise cliente en déduction du 
+montant de la contribution due au titre de l'obligation d'emploi. 
+x 
+Bon à savoir
+
+----- page 102 -----
+102 
+ 
+Dans ce contexte, les travailleurs indépendants handicapés de 50 ans et plus 
+ne pourront faire l'objet de la valorisation accordée aux bénéficiaires de 50 
+ans et plus.
+
+----- page 103 -----
+103 
+ 
+Quelles sont les modalités de dépôt de la demande d'un 
+accord agréé ? 
+Le dossier de demande d'agrément de l'accord doit comporter : 
+> le récépissé du dépôt de l'accord ; 
+> un état des lieux préalable comportant notamment des données générales sur 
+l'entreprise, le groupe ou la branche professionnelles et sur son ou ses 
+secteurs d'activité, ainsi qu'un bilan de la situation des conditions de travail et 
+de l'emploi des travailleurs handicapés ; 
+> l'accord signé comprenant la mise en œuvre d'un programme pluriannuel d'une 
+durée maximale de trois ans et comportant un plan d'embauche et un plan de 
+maintien dans l'emploi des travailleurs handicapés, des objectifs annuels et 
+des indicateurs de suivi, ainsi que le budget prévisionnel consacré au 
+financement des différentes actions programmées. 
+Quelle autorité délivre l'agrément ? 
+Les autorités administratives compétentes pour l'agrément des accords sont : 
+> accord de branche : le ministre chargé de l'emploi ; 
+> accord d'entreprise : le préfet du département où est situé le siège de 
+l’entreprise ; 
+> accord de groupe concernant des entreprises situées dans plusieurs 
+départements : le préfet du département où est situé le siège de l'entreprise 
+dominante (définis à l’art. L. 2331-1 du code du commerce). 
+L'autorité administrative compétente délivre l'agrément selon un modèle 
+d’arrêtés. 
+ 
+Comment effectuer une demande de renouvellement d'un 
+accord agréé ? 
+Le dossier de demande de renouvellement d'agrément de l'accord doit 
+comporter : 
+> un bilan qualitatif et quantitatif du précédent accord agréé arrivé à échéance, 
+comprenant notamment l'évolution du nombre de bénéficiaires de l'obligation 
+d'emploi mentionnés à l'article L. 5212-13 du code du travail rapporté à l'effectif 
+d'assujettissement constatée sur la durée de l'accord et le nombre de ces 
+bénéficiaires dont le recrutement a été effectif au cours de la durée de l'accord, 
+par type de contrat, ainsi que les éléments financiers rapportés aux différentes 
+actions programmées ; 
+> selon l'employeur, la présentation faite chaque année devant le comité social 
+Questions sur les accords agréés
+
+----- page 104 -----
+104 
+ 
+et économique ou le comité de groupe ou la branche du bilan annuel du 
+précédent accord ; 
+> le nouvel accord signé ; 
+> le récépissé de dépôt du nouvel accord signé. 
+ 
+Les entreprises dont l'accord agréé se terminait au 31/12/2019 pouvaient, 
+procéder à un renouvellement de 3 ans (couvrant 2020, 2021 et 2022) en 
+appliquant les nouvelles modalités. Cet accord peut faire l'objet d'un dernier 
+renouvellement (de 3 ans) allant jusqu'à fin 2025. 
+ 
+ 
+Dans le cas d'un accord agréé déjà renouvelé une fois (en 
+2021 par exemple et se terminant en 2024), est-il possible de 
+renouveler une fois pour 3 ans ? 
+Depuis 2020, les accords agréés ne peuvent être renouvelés qu'une seule 
+fois pour une durée de 3 ans, à l'exception des accords d'établissements qui ne 
+peuvent plus être renouvelés. 
+Si l'accord en cours se termine en 2024, l'entreprise peut effectuer un seul 
+accord pour une durée de 3 ans. Les employeurs concernés doivent transmettre 
+à la DDETS un budget modificatif sur la base des nouvelles modalités de mise en 
+œuvre de l’OETH et de calcul de la contribution. 
+ 
+ 
+Pour les entreprises qui ont renouvelé leurs accords à diverses reprises 
+avant 2020 : 
+> si l'accord en cours se termine au 31/12/2019, l'entreprise pourra 
+conclure un accord de 3 ans selon les nouvelles modalités 
+renouvelables une fois ; 
+> si l'accord en cours se termine en 2020 ou ultérieurement, l'entreprise 
+ne pourra le renouveler qu'une seule fois pour 3 ans. Les employeurs 
+concernés doivent donc transmettre à la DDETS un budget modificatif 
+sur la base des nouvelles modalités de mise en œuvre de l’OETH et 
+de calcul de la contribution. Le document modificatif doit bien être 
+transmis à la DDETS à la date de dépôt de l’agrément et de la DOETH 
+au 31 mars 2020. 
+x 
+Bon à savoir
+
+----- page 105 -----
+105 
+ 
+Dans le cadre de la négociation d'un nouvel accord agréé, 
+comment calculer le budget ? 
+Le montant du financement par l’employeur du programme pluriannuel est au 
+moins égal, par année, au montant de la contribution qui aurait été due au titre de 
+l’année, à l’exclusion de la déduction correspondant aux dépenses déductibles.  
+La mesure d’écrêtement s’applique après le calcul de ce montant, uniquement 
+pour les périodes d’emplois de 2020 à 202 . A compter de la période 
+d’emploi 2025 l’écrêtement est supprimé. Le montant minimum du budget de 
+l’accord est donc le suivant : Il convient de calculer la contribution brute sur la 
+durée de l’accord, puis de déduire les « ECAP » et la « sous-traitance ». Une fois 
+le montant calculé, il convient d’appliquer l’écrêtement.  
+ 
+Le montant est révisé chaque année, sur la base du montant de la contribution 
+qui aurait dû être versée l’année précédente. 
+Les budgets non dépensés au titre d’une année peuvent être reportés sur 
+l’année suivante. 
+ 
+ 
+ 
+> 
+Montant de contribution brute avant déductions (065) : 100 000 €  
+> 
+Déduction ECAP (060) : 1 000 €  
+> 
+Déduction sous-traitance (061) : 3 000 €  
+> 
+Montant du budget de l’accord après déductions applicables (066) : 
+96 000 €  
+> 
+Budget prévisionnel accord : 96 000 €  
+Exemple 
+Les actions de sensibilisation, qui incluent les actions de communication 
+internes, peuvent être financées dans le cadre du budget de l'accord. Mais 
+elles sont plafonnées puisque, avec les dépenses de pilotage, elles ne 
+peuvent pas dépasser 25 % du budget total de l'accord. 
+x 
+Bon à savoir
+
+----- page 106 -----
+106 
+ 
+ 
+Comment sont comptabilisées les dépenses réalisées 
+pendant la durée du programme de l’accord ? 
+La déduction relative aux « dépenses déductibles » mentionnées à l'article L. 
+5212-11 du code du travail, ne doit pas être prise en compte dans le calcul du 
+montant minimum du budget de l’accord.  
+Pour rappel : le montant du financement par l’employeur du programme 
+pluriannuel est au moins égal, par année, au montant de la contribution qui aurait 
+été due au titre de l’année, à l’exclusion de la déduction correspondant aux 
+dépenses déductibles. 
+La mesure d’écrêtement s’applique après le calcul de ce montant, uniquement 
+pour les périodes d’emplois de 2020 à 202 . A compter de la période 
+d’emploi 2025 l’écrêtement est supprimé. 
+Le montant minimum du budget de l’accord est donc le suivant : il convient de 
+partir de la contribution brute sur la durée de l’accord, puis de déduire les « ECAP 
+» et la « sous-traitance ». Une fois le montant calculé, il convient d’appliquer 
+l’écrêtement. 
+Le montant des dépenses déductibles ne doit pas être pris en compte dans le 
+montant de la contribution qui sert de référence au calcul du budget de l'accord 
+car ces dépenses correspondent au financement d’actions qui peuvent figurer 
+dans le programme de l’accord. Les dépenses déductibles ne doivent donc pas 
+être valorisées. 
+Comment se déroule la déduction liée à la sous-traitance pour 
+les entreprises sous l’égide d’un accord agréé ? 
+Le montant de contribution qui sert de référence au calcul du budget de l'accord 
+> 
+Montant de contribution brute avant déductions (065) : 100 000 € 
+> 
+Déduction ECAP (060) : 1 000 € 
+> 
+Déduction sous-traitance (061) : 3 000 € 
+> 
+Montant du budget de l’accord après déductions applicables (066) : 
+96 000 € 
+> 
+Budget prévisionnel accord : 96 000 € 
+Exemple
+
+----- page 107 -----
+107 
+ 
+prend bien en compte la déduction au titre de la sous-traitance, les dépenses de 
+sous-traitance n'étant pas des dépenses éligibles au budget d'un accord agréé. 
+ 
+ 
+Dans le cadre d'un accord agréé, le budget dédié à la 
+communication externe peut-il être inclus dans le budget de 
+l'accord agréé ? 
+Les actions de communication externes ne font pas partie des dépenses éligibles. 
+Elles peuvent figurer dans un accord agréé mais ne peuvent pas être financées 
+par le budget de l'accord agréé. Seules les opérations de communication interne, 
+à destination des salariés de l'entreprise, peuvent être prises en charge par le 
+budget de l'accord agréé.
+
+----- page 108 -----
+108 
+ 
+ 
+Sur le web 
+> 
+https://www.agefiph.fr/ 
+> 
+https://www.agefiph.fr/articles/obligation/tout-savoir-sur-
+lobligation-demploi-des-travailleurs-handicapes 
+> 
+ AGAPE’TH (modalités de demande ou de renouvellement d'agrément d'accords 
+en faveur des travailleurs handicapés). 
+ 
+Module e-learning auto-formation OETH (portail Agefiph) 
+> 
+Déclarer l'OETH en DSN en toute simplicité ! - Modul'pro de l'inclusion 
+(agefiph.fr) 
+ 
+Par mail 
+> 
+entreprises@agefiph.asso.fr pour des informations relatives à la politique 
+d’emploi des personnes handicapées  
+> 
+doeth@agefiph.asso.fr pour les informations relatives à la déclaration 2019 
+et années antérieures ou aux modalités de calcul de la contribution 
+> 
+reformeoeth@agefiph.asso.fr pour les informations relatives à la réforme et 
+au simulateur 
+ 
+Simulateur 
+> 
+Un simulateur de calcul de la contribution est mis également à disposition sur 
+le site de l’Agefiph : https://www.agefiph.fr/employeur/simulateur_doeth 
+ 
+Par téléphone 
+> 
+0 800 11 10 09 (services et appel gratuit), de 9h00 à 18h00 du lundi au 
+vendredi
+
+----- page 109 -----
+109 
+ 
+ 
+ 
+ 
+ 
+ 
+Sur le web 
+> 
+https://www.urssaf.fr 
+ 
+> 
+Guide Urssaf (urssaf.fr)  
+ 
+> 
+Documentation - Urssaf.fr 
+ 
+> 
+Accueil - Le portail officiel des déclarations sociales (net-
+entreprises.fr) 
+ 
+> 
+Déclaration de la contribution annuelle relative à l'Obligation d'Emploi 
+des travailleurs handicapés 
+ 
+ 
+ 
+ 
+ 
+Par téléphone 
+> 
+3957, du lundi au vendredi. 
+Toutes les informations sur la déclaration en 
+DSN
+
+----- page 110 -----
+110 
+ 
+ 
+AAH : Allocation aux adultes handicapés – Aide financière permettant à des adultes 
+handicapés d'avoir un minimum de ressources. 
+AGEFIPH : Association de gestion du fonds pour l'insertion des personnes 
+handicapées - Organisme ayant pour mission de favoriser l’accès et le maintien dans 
+l’emploi des personnes handicapées. 
+BOETH : Bénéficiaire de l’obligation d'emploi des travailleurs handicapés – 
+Travailleur Handicapé. 
+CGSS : Caisse générale de sécurité sociale - Organisme ayant notamment pour 
+mission le recouvrement des cotisations et contributions, dont la DOETH, dans les 
+départements d’outre-mer (hors Mayotte). 
+CSSM : Caisse de sécurité sociale de Mayotte - Organisme ayant notamment pour 
+mission le recouvrement des cotisations et contributions, dont la DOETH, dans le 
+département de Mayotte. 
+DDETS : Direction Départementale, de l’Emploi, du Travail et des Solidarités 
+- Interlocutrice unique pour les entreprises et les acteurs socio-économiques 
+DOETH : Déclaration d’obligation d'emploi des travailleurs handicapés – Obligation 
+de déclarer par le biais de la DSN les informations relatives à la contribution potentiellement 
+due, les déductions opérées par l’entreprise, l’existence d’un accord agréé etc. 
+DSN : Déclaration sociale nominative 
+EA : Entreprise adaptée - Entreprise permettant à des personnes en situation de 
+handicap d’accéder à l’emploi dans des conditions adaptées à leurs capacités. 
+ECAP : Emplois exigeant des conditions d’aptitudes particulières – Emplois que 
+l’entreprise n’est pas tenue de proposer à des salariés reconnus handicapés Car ils 
+correspondent à des emplois qui, de par leurs exigences en matière d’aptitude rendent 
+difficile le recrutement de travailleurs handicapés 
+EPS : Entreprise de portage salarial 
+ESAT : Etablissement et services d'aide par le travail - Etablissements médico-sociaux 
+qui ont pour objectif l'insertion sociale et professionnelle des adultes handicapés. 
+ETT : Entreprise de travail temporaire – Entreprise de salariés intérimaires. 
+Glossaire
+
+----- page 111 -----
+111 
+ 
+ETTP : Entreprise de travail à temps partagé – Entreprise de salariés mis à disposition 
+d’entreprises clientes. 
+FIPHFP : Fonds pour l'insertion des personnes handicapées dans la fonction 
+publique – Organisme de recouvrement des contributions financières versées par les 
+employeurs publics soumis à l’obligation d’emploi des personnes handicapées. 
+OETH : Obligation d'emploi des travailleurs handicapés – Obligation aux 
+établissements assujettis de porter la part des travailleurs handicapés au seuil de 6 % de 
+leur effectif d’assujettissement. 
+PMSMP : Périodes de mise en situation en milieu professionnel - Dispositif ouvert à 
+toute personne faisant l’objet d’un accompagnement social et/ou professionnel  
+RQTH : Reconnaissance de la qualité de travailleur handicapé 
+TIH : Travailleur indépendant handicapé 
+URSSAF : Union pour le recouvrement des cotisations de sécurité sociale et 
+d’allocations familiales - Organisme ayant pour mission principale la collecte et le 
+recouvrement et la redistribution aux autres organismes de protection sociale des 
+cotisations et contributions, dont la contribution due par les entreprises au titre de l’OETH.

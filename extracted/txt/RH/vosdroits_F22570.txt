@@ -1,0 +1,228 @@
+
+----- page 1 -----
+Contribution à la formation professionnelle (CFP)
+Vérifié le 21 janvier 2026 - Entreprendre Service Public / Direction de l'information légale et administrative (Premier ministre)
+La contribution à la formation professionnelle (CFP) finance les dispositifs d'accès à la formation
+continue des salariés et des demandeurs d'emploi. Elle est collectée par l'Urssaf via la déclaration
+sociale nominative (DSN). Le taux de cette contribution dépend de l'effectif de l'entreprise et du
+secteur d'activité. En cas d'emploi de salariés en CDD, une contribution spécifique (CPF-CDD) doit
+être versée par l'employeur.
+Quelles sont les entreprises concernées ?
+La contribution légale minimale à la formation professionnelle concerne les sociétés quelles que soient leur forme
+juridique, leur régime d'imposition, leur activité et leur effectif.
+À noter
+Le travailleur indépendant doit participer au financement de sa propre formation professionnelle continue. Pour en
+savoir plus, consultez la fiche sur la Contribution à la formation professionnelle (CFP) des entrepreneurs individuels
+(https://entreprendre.service-public.gouv.fr/vosdroits/F23459) .
+Des versements supplémentaires peuvent être prévus pour le financement de la formation. Ces versements peuvent
+avoir lieu dans le cadre d'un accord professionnel national. On parle de contribution conventionnelle à la formation.
+C'est par exemple le cas des entreprises de la branche de l'industrie des jeux et du jouet. Les contributions
+conventionnelles supplémentaires de formation professionnelle sont versées aux opérateurs de compétences (OPCO).
+À noter
+Depuis le 1er janvier 2026, l’Urssaf peut prélever ces contributions conventionnelles pour certaines branches
+professionnelles.
+L'entreprise peut également décider de faire des versements volontaires supplémentaires pour le financement de la
+formation.
+Comment calculer l'effectif de l'entreprise ?
+Pour déterminer le taux applicable, il faut calculer l'effectif
+(https://entreprendre.service-public.gouv.fr/vosdroits/F24332) de l'entreprise.
+L'effectif à prendre en compte pour une année (N) correspond à l'effectif moyen annuel (EMA) « sécurité sociale » de
+l'année civile précédente (N-1).
+L'Urssaf calcule les effectifs à partir des informations déclarées contenues dans la déclaration sociale nominative
+(DSN (https://entreprendre.service-public.gouv.fr/vosdroits/F34059) ).
+
+----- page 2 -----
+Pour connaître les règles de calcul des effectifs, il faut se reporter au site de l'Urssaf
+(https://www.urssaf.fr/accueil/employeur/cotisations/calcul-effectif/comment-calculer-effectif.html) et au Bulletin
+officiel de la sécurité sociale (BOSS) (https://boss.gouv.fr/portail/accueil/regles-dassujettissement/effectif.html) .
+Références juridiques
+Code de la sécurité sociale : article L130-1 (https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038610272/)
+Décompte et déclaration des effectifs
+Que se passe-t-il en cas de franchissement des seuils d'effectif ?
+Depuis le 1er janvier 2020, le franchissement à la hausse d'un seuil d'effectif est pris en compte lorsque ce seuil est
+atteint ou dépassé pendant 5 années civiles consécutives.
+Exemple :
+Une entreprise de 10 salariés est soumise à la contribution au taux de 0,55 %. Elle franchit le seuil de 11 salariés en
+2023.
+Elle sera soumise au taux de 1 %, applicable aux entreprises de 11 salariés et plus en 2028, à la condition que son
+effectif reste supérieur ou égal à 11 salariés pendant 5 années consécutives.
+Le franchissement à la baisse d'un seuil d'effectif sur une année civile a pour effet de faire courir un nouveau délai de
+5 ans.
+Ainsi, lorsque son effectif repasse sous le seuil de 11 salariés, l'entreprise dispose à nouveau de 5 ans avant d'être
+soumise au taux de 1 % qui s'applique aux entreprises de 11 salariés et plus
+Exemple :
+Un employeur sous le seuil de 11 salariés au 1er janvier 2021 (effectif calculé avec les données de l'année 2020) franchit
+ce seuil au 1er janvier 2022 (données de l'année 2021).
+Les conséquences de ce franchissement seront prises en compte à compter du 1er janvier 2026 si les 2 conditions
+suivantes sont réunies :
+Effectif de 11 salariés atteint ou dépassé pendant 5 années civiles consécutives, c'est-à-dire pour les années 2022 à
+2026
+Effectif de l'année 2027 (calculé avec les données de l'année 2026) est également au moins égal à 11 salariés.
+Références juridiques
+Code de la sécurité sociale : article L130-1 (https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038610272/)
+Décompte et déclaration des effectifs
+Quel est le taux de la contribution à la formation professionnelle ?
+Le taux de la contribution légale de formation professionnelle dépend du nombre de salariés de l'entreprise. Il existe
+également des taux spécifiques dans certains secteurs d'activité.
+Cas général
+Le taux de la contribution légale de formation professionnelle varie selon l'effectif de l'entreprise.
+Entreprise de moins de 11 salariés
+Contribution légale
+Le taux de la contribution légale à la formation professionnelle est de 0,55 % de la masse salariale brute.
+La masse salariale brute correspond au montant annuel global des rémunérations imposables et de tous les avantages
+en nature versés aux salariés. Sont donc inclus : les salaires et les cotisations salariales, les rémunérations versées aux
+mandataires sociaux mais aussi les primes, les indemnités, les pourboires.
+
+----- page 3 -----
+Les rémunérations versées aux apprentis sont exonérées de la CFP.
+À savoir  
+Pour un stagiaire sous convention de stage, la fraction de gratification excédant le seuil de franchise de cotisations,
+est également soumise à la CFP.
+Contribution CPF-CDD
+En plus de la contribution de 0,55 %, en cas d'emploi de salariés en CDD, une contribution CPF-CDD est due. Elle
+s'élève à 1 % de la masse salariale versée aux titulaires d'un CDD.
+Les CDD suivants ne donnent pas lieu au versement de la contribution spécifique à la formation :
+Contrat d'accompagnement dans l'emploi
+Contrat d'apprentissage (https://entreprendre.service-public.gouv.fr/vosdroits/F2918)
+Contrat de professionnalisation
+Contrats conclus avec un travailleur saisonnier
+Entreprises de 11 salariés et plus
+Contribution légale
+Le taux de la contribution légale à la formation professionnelle est de 1 % de la masse salariale brute.
+La masse salariale brute correspond au montant annuel global des rémunérations imposables et de tous les avantages
+en nature versés aux salariés. Sont donc inclus : les salaires et les cotisations salariales, les rémunérations versées aux
+mandataires sociaux mais aussi les primes, les indemnités, les pourboires, etc.
+À savoir  
+Pour un stagiaire sous convention de stage, la fraction de gratification excédant le seuil de franchise de cotisations,
+est également soumise à la CFP.
+Contribution CPF-CDD
+En plus de la contribution de 0,55 %, en cas d'emploi de salariés en CDD, une contribution CPF-CDD est due. Elle
+s'élève à 1 % de la masse salariale versée aux titulaires d'un CDD.
+Les CDD suivants ne donnent pas lieu au versement de la contribution spécifique à la formation :
+Contrat d'accompagnement dans l'emploi
+Contrat d'apprentissage (https://entreprendre.service-public.gouv.fr/vosdroits/F2918)
+Contrat de professionnalisation (https://entreprendre.service-public.gouv.fr/vosdroits/F15478)
+Contrats conclus avec un travailleur saisonnier
+Secteur du travail temporaire
+Le taux de la contribution minimale pour les entreprises de travail temporaire est fixé à 1 % de la masse salariale brute.
+La masse salariale brute correspond au montant annuel global des rémunérations imposables et de tous les avantages
+en nature versés aux salariés. Sont donc inclus : les salaires et les cotisations salariales, mais aussi les primes, les
+indemnités, les pourboires, etc.
+Les rémunérations versées aux mandataires sociaux sont soumises à la CFP.
+
+----- page 4 -----
+Les entreprises de travail temporaire sont soumises également à une contribution conventionnelle fixée par un accord
+de branche dont le taux est au moins égal à 0,30 % du montant du salaire retenu pour le calcul des cotisations
+sociales.
+Secteur du bâtiment et des travaux publics
+Les employeurs du bâtiment et des travaux publics versent une cotisation fixée par un accord professionnel.
+En l'absence d'accord, le taux de contribution est le suivant :
+0,30 % pour les entreprises relevant du secteur des métiers du bâtiment
+0,22 % pour les entreprises relevant du secteur des travaux publics
+Secteur du spectacle
+Les employeurs d'intermittents du spectacle ne sont pas redevables de la CFP et de la contribution CPF-CDD mais
+d'une cotisation spécifique prévue par un accord collectif.
+Le taux de cette contribution ne peut pas être inférieure à 2 % des rémunérations versées aux intermittents pendant
+l'année en cours.
+Références juridiques
+Code du travail : articles L6331-1 et L6331-2
+(https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189901/#LEGISCTA000037
+Obligation de financement des employeurs de moins de 11 salariés
+Code du travail : articles L6331-3 et L6331-4
+(https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189902/#LEGISCTA000038
+Obligation de financement des employeurs de 11 salariés et plus
+Code du travail : article L6331-6 (https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043701735)
+Contribution spécifique CPF-CDD
+Code du travail : article L6331-69
+(https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048849229?idSecParent=LEGISCTA000006189904)
+Cotisation spécifique pour les entreprises de travail temporaire
+Code du travail : article L6331-38 (https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044981911)
+Cotisation spécifique au secteur BTP
+Code du travail : article L6331-55
+(https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043701729?idSecParent=LEGISCTA000006189904)
+Cotisation spécifique pour les employeurs d’intermittents du spectacle
+Comment déclarer la contribution à la formation professionnelle ?
+La contribution légale de formation professionnelle est déclarée
+(https://net-
+entreprises.custhelp.com/app/answers/detail_dsn/a_id/2503/kw/d%C3%A9claration%20de%20contribution%20%C3%A
+ mensuellement (comme les cotisations de sécurité sociale) par l'employeur lors de la déclaration sociale nominative
+(DSN).
+Déclaration sociale nominative (DSN) (https://entreprendre.service-public.gouv.fr/vosdroits/R56352)
+La masse salariale doit être déclarée via la déclaration sociale nominative (DSN) de la façon suivante :
+Pour les entreprises de moins de 11 salariés : Code Type Personnel (CTP) 959.
+Pour les entreprises de 11 salariés et plus : Code Type Personnel (CTP) 971.
+Pour les entreprises soumises à la CFP-CDD : Code Type Personnel (CTP) 987.
+Pour plus de précisions, vous pouvez vous reporter au document
+(https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/formation-professionnelle.html) mis à
+disposition par l'Urssaf.
+À savoir
+
+----- page 5 -----
+Qui peut m'aider ?
+Le Service Public Conseillers entreprises
+Vous avez un projet, une difficulté, une question du quotidien ?
+Simple et gratuit : vous êtes rappelé(e) dans les 5 jours par LE conseiller qui peut vous aider.
+Une branche professionnelle peut instaurer, par accord de branche étendu, une contribution conventionnelle. Cette
+contribution est spécifique à une convention collective.
+Pour certaines branches, et pour les rémunérations versées à partir de janvier 2026, cette contribution
+conventionnelle doit être déclarée par l’employeur tous les mois en DSN, selon la même fréquence que la
+contribution prévue par la loi.
+La déclaration et le versement de cette contribution sont liés à l’identifiant de convention collective (IDCC) déclaré
+en DSN par l’employeur.
+Pour plus de précisions, consultez les consignes déclaratives
+(https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/3326) sur le site net-entreprises.fr.
+Textes de loi et références
+Code du travail : articles L6331-1 et L6331-2
+(https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189901/#LEGISCTA00003
+Obligation de financement des employeurs de moins de 11 salariés
+Code du travail : articles L6331-3 et L6331-4
+(https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189902/#LEGISCTA00003
+Obligation de financement des employeurs de 11 salariés et plus
+Code du travail : article L6331-6 (https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043701735)
+Contribution spécifique CPF-CDD
+Code du travail : article L6331-69
+(https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048849229?idSecParent=LEGISCTA000006189904)
+Cotisation spécifique pour les entreprises de travail temporaire
+Code du travail : article L6331-38 (https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044981911)
+Cotisation spécifique au secteur BTP
+Code du travail : article L6331-55
+(https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043701729?idSecParent=LEGISCTA000006189904)
+Cotisation spécifique pour les employeurs d’intermittents du spectacle
+Code de la sécurité sociale : article L130-1 (https://www.legifrance.gouv.fr/codes/id/LEGISCTA000038610272/)
+Décompte et déclaration des effectifs
+Décret n°2018-1209 du 21 décembre 2018 relatif à l'agrément et au fonctionnement des opérateurs de
+compétences (https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037848195/)
+Bulletin officiel de la Sécurité sociale (BOSS) : contribution à la formation professionnelle et à l'apprentissage
+(https://boss.gouv.fr/portail/accueil/regles-dassujettissement/formationpro-apprentissage.html)
+Contribution à la formation professionnelle
+Voir aussi
+Règles de calcul des effectifs d’une entreprise (https://entreprendre.service-public.gouv.fr/vosdroits/F24332)
+Contribution à la formation professionnelle (CFP) des entrepreneurs individuels (y compris des micro-
+entrepreneurs) (https://entreprendre.service-public.gouv.fr/vosdroits/F23459)
+Taxe d’apprentissage (TA) (https://entreprendre.service-public.gouv.fr/vosdroits/F22574)
+Comment est calculé l'effectif d'une entreprise ?
+(https://www.urssaf.fr/accueil/employeur/cotisations/calcul-effectif/comment-calculer-effectif.html)
+Urssaf
+
+----- page 6 -----
+Seuils d’effectifs applicables pour déterminer l’assujettissement à certaines contributions
+(https://boss.gouv.fr/portail/accueil/regles-dassujettissement/effectif.html)
+BOSS (Bulletin officiel de la sécurité sociale)
+Contributions à la formation professionnelle (CPF et CPF-CDD)
+(https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/formation-professionnelle.html)
+Urssaf
+Modalités déclaratives de la contribution à la formation professionnelle
+(https://net-
+entreprises.custhelp.com/app/answers/detail_dsn/a_id/2503/kw/d%C3%A9claration%20de%20contribution%20%C3%
+Net-entreprises.fr
+Modalités déclaratives de la CPF-CDD
+(https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2502/kw/CPF%20CDD)
+Net-entreprises.fr
+Comment déclarer en DSN les contributions conventionnelles de formation professionnelle et de dialogue social ?
+(https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/3326)
+Net-entreprises.fr
+La formation professionnelle continue (https://www.insee.fr/fr/statistiques/8305548?sommaire=8306008)
+Institut national de la statistique et des études économiques (Insee)
+Liste des opérateurs de compétences (OPCO)
+(https://travail-emploi.gouv.fr/les-operateurs-de-competences-opco)
+Ministère chargé du travail

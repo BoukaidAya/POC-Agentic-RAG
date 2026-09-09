@@ -1,0 +1,3588 @@
+
+----- page 1 -----
+Contrat d’interface  
+Prélèvement à la source  
+des cotisations sociales des 
+auto-entrepreneurs par les  
+plateformes numériques  
+ 
+Phase « Déclaration » 
+ 
+Version 2026-2 du 31/03/2026
+
+----- page 2 -----
+2
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+ 
+ 
+ 
+Tramage bleu : modifications et compléments d’information apportés dans la version 2026-1. 
+Tramage vert : modifications et compléments d’information apportés dans la version 2026-2.
+Version 
+Crée ou 
+modifié le 
+Nature des mises à jour et commentaires 
+1.0 
+15/04/2025 
+Version initiale 
+2025-1 
+25/09/2025 
+Version mise à jour :  
+Retrait du RT40 (« erreur bloquante :  le bloc EntityUserDeclaration doit 
+être présent au moins une fois dans le fichier ») 
+Ajout du PNDE_RF05 
+ 
+Ajout du cas particulier bac à sable 
+ 
+Mise à jour de la liste des natures d’activité 
+Mise à jour du SD006 et du SD007 
+2025-2 
+16/10/2025 
+Version mise à jour : 
+Ajout de la nature d’activité Restaurateur 
+2026-1 
+26/01/2026 
+Version mise à jour : 
+- 
+Ajout de l’information indiquant qu’il faut uniquement déclarer 
+les chiffres d’affaires supérieurs à 0€ (Chapitre 2.2) 
+- 
+Ajout de la nécessité de transmettre le chiffre d’affaires et le 
+montant de prélèvement à 0€ dans le cas où un utilisateur à un 
+taux de prélèvement à 0,000% (Chapitre 2.2) 
+- 
+Ajout d’un complément d’information sur le flux de régularisation 
+(Chapitre 2.3.2) 
+- 
+Ajout de la nature d’activité NA10 – Chambre d’hôte et 
+suppression de la précision sous la table (chapitre 3.1.1)  
+- 
+Ajout d’une précision concernant le caractère obligatoire du 
+champ adresse email (Chapitre 3.3.11) 
+- 
+Modification des champs obligatoires et facultatifs d’un flux de 
+régularisation (Chapitre 3.3.13 et Chapitre 5.3.11) 
+- 
+Ajout de précisions sur la métadonnée attendue du fichier 
+compressé (Chapitre 3.4.7) 
+- 
+Ajout d’un contrôle de second niveau pour un flux de 
+régularisation (Chapitre 3.5.7) 
+- 
+Ajout de l’annexe 4 correspondant au schéma XSD d’un flux de 
+régularisation (document annexe) 
+2026-2 
+31/03/2026 
+- 
+Ajout d’une précision concernant la régularisation de chiffre 
+d’affaires (chapitre 2.3.2) 
+- 
+Ajout d’une précision concernant les identifiants TVA non 
+connus (chapitre 3.2). 
+- 
+Ajout de précisions sur les champs relatifs à la TVA pour un 
+utilisateur (chapitre 3.2) 
+- 
+Retrait du champ email comme un champ obligatoire (chapitre 
+3.3.11 ; 5.3.9). Les annexes XSD ont été mises à jour en 
+conséquence. 
+- 
+Modification de la précision sur la métadonnée et le nom du 
+fichier attendu après compression (chapitre 3.4.7)
+
+----- page 3 -----
+3
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+ 
+Sommaire 
+1. Introduction ........................................................................................................ 5 
+1.1 Objectifs et contenu du document ................................................................................................... 5 
+1.2 Glossaire .......................................................................................................................................... 5 
+2. Général ................................................................................................................ 7 
+2.1 Cadre légal ...................................................................................................................................... 7 
+2.2 Processus ........................................................................................................................................ 7 
+2.3 Déroulé de la phase de déclaration ................................................................................................. 8 
+2.3.1 Fichier de « déclaration principale » ............................................................................................................... 9 
+2.3.2 Fichier de « régularisation » ............................................................................................................................ 9 
+2.4 Cas spécifique d’un flux Bac à Sable ............................................................................................ 11 
+2.4.1 Utilisateurs entrant dans le champ de prélèvement – fonctionnement du Bac à sable ................................. 11 
+3. Fichier déclaration ........................................................................................... 12 
+3.1 Règles métiers ............................................................................................................................... 12 
+3.1.1 Natures d’activité .......................................................................................................................................... 12 
+3.2 Données de déclaration à transmettre .......................................................................................... 12 
+3.3 Format des fichiers d’échange ...................................................................................................... 14 
+3.3.1 Schéma applicable ....................................................................................................................................... 14 
+3.3.2 Le message et les blocs de données ............................................................................................................ 14 
+3.3.3 Le message et les informations techniques d'identification .......................................................................... 14 
+3.3.4 Multiplicité ..................................................................................................................................................... 14 
+3.3.5 Niveau d'exigence des données ................................................................................................................... 15 
+3.3.6 Schéma XSD ................................................................................................................................................ 15 
+3.3.7 DPDE_UCN .................................................................................................................................................. 16 
+3.3.8 DPDE_UCN / MessageSpec (dpid:MessageSpec_Type) ............................................................................. 16 
+3.3.9 DPDE_UCN / DPDEBody (dpde:Body_Type) ............................................................................................... 17 
+3.3.10 
+DPDE_UCN / DPDEBody / EntityUserDeclaration (dpde:EntityUserDeclaration_Type) ......................... 18 
+3.3.11 
+DPDE_UCN / DPDEBody / EntityUserDeclaration / ContactDetails (dpde:ContactDetails_Type) .......... 19 
+3.3.12 
+DPDE_UCN / DPDEBody / EntityUserIdentification / ContactDetails / PostalAddress 
+(dpde:PostalAddress_Type) .................................................................................................................................. 20 
+3.3.13 
+DPDE_UCN / DPDEBody / EntityUserDeclaration / Activity (dpde:Activity_Type) .................................. 21 
+3.4 Caractéristiques des fichiers ......................................................................................................... 23 
+3.4.1 Format du fichier ........................................................................................................................................... 23 
+3.4.2 Indication de l’Identifiant de Plateforme Numérique ...................................................................................... 23 
+3.4.3 Règles de nommage du fichier Déclaration .................................................................................................. 23 
+3.4.4 Compression ................................................................................................................................................. 23 
+3.4.5 Taille maximum du fichier ............................................................................................................................. 24 
+3.4.6 Encodage du fichier XML .............................................................................................................................. 24 
+3.5 Contrôles opérés sur le fichier de déclaration ............................................................................... 24 
+3.5.1 Nomenclature des codes anomalies ............................................................................................................. 25 
+3.5.2 Contrôles de premier niveau - Fichier ........................................................................................................... 25 
+3.5.3 Contrôles de premier niveau - Validation format XML .................................................................................. 25 
+3.5.4 Contrôles de premier niveau - Validation format XSD .................................................................................. 25 
+3.5.5 Contrôles de premier niveau - Validation format message ........................................................................... 26 
+3.5.6 Contrôles de second niveau ......................................................................................................................... 26 
+3.5.7 Contrôles de second niveau – Déclaration ................................................................................................... 28
+
+----- page 4 -----
+4
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+4. Fichier Rapport Global .................................................................................... 29 
+4.1 Les règles métiers ......................................................................................................................... 29 
+4.2 Les données .................................................................................................................................. 29 
+4.3 Format des fichiers d'échange ...................................................................................................... 30 
+4.3.1 Schéma applicable ....................................................................................................................................... 30 
+4.3.2 Le message et les blocs de données ............................................................................................................ 30 
+4.3.3 Description structure XML ............................................................................................................................. 31 
+4.3.4 DPGR_UCN .................................................................................................................................................. 32 
+4.3.5 DPGR_UCN / MessageSpec (dpgr:MessageSpec_Type) ............................................................................ 32 
+4.3.6 DPGR_UCN / DPGRBody (dpgr:Body_Type) ............................................................................................... 33 
+5. Fichier Rapport détaillé ................................................................................... 37 
+5.1 Les règles métiers ......................................................................................................................... 37 
+5.2 Données renvoyées par l’Urssaf ................................................................................................... 37 
+5.3 Format des fichiers d'échange ...................................................................................................... 38 
+5.3.1 Schéma applicable ....................................................................................................................................... 38 
+5.3.2 Le message et les blocs de données ............................................................................................................ 38 
+5.3.3 Le message et les informations techniques d'identification .......................................................................... 39 
+5.3.4 Description structure XML ............................................................................................................................. 39 
+5.3.5 DPDR_UCN .................................................................................................................................................. 40 
+5.3.6 DPDR_UCN / MessageSpec (dpdr:MessageSpec_Type) ............................................................................ 40 
+5.3.7 DPDR_UCN / DPDRBody (dpdr:Body_Type) ............................................................................................... 42 
+5.3.8 DPDR_UCN / DPDRBody / EntityUserResult (dpdr:EntityUserResult_Type) ............................................... 42 
+5.3.9 DPDR_UCN / DPDRBody / EntityUserResult / ContactDetails (dpid:ContactDetails_Type)......................... 43 
+5.3.10 
+DPDR_UCN / DPDRBody / EntityUserResult / ContactDetails / PostalAddress 
+(dpid:PostalAddress_Type) ................................................................................................................................... 43 
+5.3.11 
+DPDR_UCN / DPDRBody / EntityDeclarationResult / Activity (dpdr:ActivityResult_Type) ..................... 44 
+6. Fichier des utilisateurs avec signalement ..................................................... 48 
+6.1 Les règles métiers ......................................................................................................................... 48 
+6.2 Format du fichier d’échange .......................................................................................................... 48 
+7. Assistance ........................................................................................................ 49
+
+----- page 5 -----
+5
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+1. INTRODUCTION 
+1.1 Objectifs et contenu du document 
+Ce document décrit le fonctionnement et le mode opératoire pour l’échange de données entre les 
+plateformes et l’Urssaf concernant la phase de déclaration en mode échange de fichier. 
+Pour une bonne compréhension du présent document, il est recommandé que le lecteur maîtrise les 
+langages XML et XML Schema Definition (XSD). 
+1.2 Glossaire 
+Acronyme 
+Terme 
+Signification 
+ 
+Commentaire 
+UCN 
+Urssaf Caisse Nationale 
+ 
+RG 
+Rapport Général 
+Emis systématiquement pour tout envoi de 
+fichier 
+AE 
+Auto-entrepreneur 
+ 
+RD 
+Rapport Détaillé 
+Emis seulement si le fichier émis par la 
+plateforme est exploitable 
+DPDE 
+Digital Platform DEclaration 
+Norme pour la déclaration principale des 
+utilisateurs d’une Plateforme Numérique 
+DPRA 
+Digital Platform Rate 
+Norme pour Fichier des utilisateurs à 
+prélever avec taux par nature d’activité (en 
+réponse d’un flux DPID) 
+DPGR 
+Digital Platform Global Report 
+Norme pour Fichier de Rapport Général 
+DPDR 
+Digital Platform Detail Report 
+Norme pour Fichier de Rapport Détaillé 
+DPUA 
+Digital Platform Users with Anomalies 
+Norme pour le Fichier des utilisateurs avec 
+signalement 
+Mois M 
+Mois de prélèvement 
+ 
+Mois M-1 
+Mois précédant le mois de prélèvement 
+Phase d’identification 
+Mois M+1 
+Mois suivant le mois de prélèvement 
+Phase de déclaration 
+PPN 
+Prélèvement des cotisations des 
+usagers des Plateformes Numériques 
+ 
+SIREN 
+Système d’Identification du Répertoire 
+des Entreprises 
+Numéro unique attribué par l'INSEE à 
+chaque entreprise lors de sa création. Ce 
+numéro identifie l'entité juridique, peu 
+importe le nombre d'établissements qu'elle 
+possède. 
+SIRET 
+Système d'identification du répertoire 
+des établissements 
+Il est la concaténation d’un SIREN et d’un 
+code NIC
+
+----- page 6 -----
+6
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+Acronyme 
+Terme 
+Signification 
+ 
+Commentaire 
+Urssaf 
+Union de recouvrement des cotisations 
+de Sécurité sociale et d'allocations 
+familiales 
+ 
+XML 
+Extensible Mark-up Language 
+ 
+XSD 
+XML Schema Definition 
+ 
+CA 
+Chiffre d’affaires
+
+----- page 7 -----
+7
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+2. GENERAL 
+2.1 Cadre légal 
+L’article 6 de la loi de financement de la sécurité sociale (LFSS) pour 2024 prévoit la mise en place, en 
+2027, d’une obligation de prélèvement obligatoire, par les opérateurs de plateformes, des cotisations 
+sociales dues par les auto-entrepreneurs sur les transactions réalisées via leur l’intermédiaire.  
+Pour la plateforme, cette obligation se traduira par : 
+ La transmission à l’Urssaf des données d’identification de ses utilisateurs qu'elle 
+collecte notamment à l'inscription 
+ Pour limiter la charge en gestion pour les opérateurs de plateformes tout en sécurisant les 
+montants prélevés, l’Urssaf indiquera en retour si l’utilisateur doit être prélevé (car effectivement 
+affilié à l’Urssaf), et le taux de cotisation applicable à chaque situation (catégorie de cotisation, 
+exonération, etc.) 
+ La détermination du taux de prélèvement applicable à chaque auto-entrepreneur est donc de la 
+responsabilité de l’Urssaf 
+ La déclaration des chiffres d’affaires (CA) réalisés par les auto-entrepreneurs par 
+son intermédiaire ; 
+ Le paiement à l'Urssaf des montants prélevés à ses utilisateurs au titre des 
+cotisations sociales dues. 
+L’obligation se limitera aux seules opérations pour lesquelles la plateforme joue un rôle d’intermédiation 
+financière, et à l’exception des transactions en espèce. 
+En cas de soustraction de la plateforme à ses obligations (défaut de prélèvement ou de déclaration), la 
+loi prévoit des sanctions inspirées de celles déjà applicables aux entreprises.  
+ 
+2.2 Processus 
+Le dispositif de prélèvement des cotisations sociales des utilisateurs de plateformes 
+numériques est une obligation réglementaire qui se décline opérationnellement en trois phases, 
+sur un rythme mensuel :  
+ Phase 1 (fin mois M-1) : identification des utilisateurs à prélever 
+ En fin de mois M-1, la plateforme interroge l’Urssaf afin d’identifier les utilisateurs à prélever (auto-
+entrepreneurs) et le cas échéant le ou les taux de cotisations à appliquer pour les prélèvements 
+du mois suivant. 
+ Plateforme  Urssaf : transmission du fichier de ses utilisateurs. 
+ Urssaf  Plateforme : transmission en retour de la liste des utilisateurs à prélever et du taux de 
+prélèvement applicable à chaque utilisateur. 
+ 
+ Phase 2 (pendant le mois M) : prélèvement au « fil de l’eau » des cotisations 
+sociales dues sur les transactions réalisées par ses utilisateurs 
+ Plateforme :  
+• Calcule le montant des cotisations à prélever sur le chiffre d’affaires réalisés par l’utilisateur 
+(calcul sur la base du taux de prélèvement communiqué par l’Urssaf)
+
+----- page 8 -----
+8
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+• Déduit le montant des cotisations du versement qu’elle réalise à l’utilisateur 
+• Transactions concernées : Celles pour lesquelles la plateforme joue un rôle d’intermédiation 
+financière, et à l’exception des transactions en espèce. 
+ 
+ Phase 3 (début M+1) : déclaration à l’Urssaf + Paiement par virement bancaire 
+ Plateforme  Urssaf :  
+• Transmission du fichier des utilisateurs prélevés au cours du mois M avec, pour chaque 
+utilisateur, le chiffre d’affaires réalisé, le montant de cotisations prélevées et les informations 
+liées à la TVA.  
+• Les utilisateurs ayant reçu un taux à 0,000% durant la phase d’identification doivent tout de 
+même voir leurs chiffres d’affaires transmis avec un montant de prélèvement à 0. 
+• Paiement du montant total des cotisations prélevées au cours du mois M par virement 
+bancaire. 
+Ce document se focalise uniquement sur la phase de déclaration. Pour la phase d’identification, il 
+convient de se référer au document UCN-ContratInterface-PhaseIdentification_FR 
+ 
+2.3 Déroulé de la phase de déclaration 
+ 
+Les déclarations sont effectuées au travers de l’espace en ligne par dépôt de fichier XML.  
+Les fichiers peuvent être de deux natures : 
+ Fichier de « déclaration principale » (§2.3.1) 
+ Fichier de « régularisation » (§2.3.2) 
+ 
+Lors du dépôt, le système attribue immédiatement un identifiant unique Urssaf au fichier déposé. Un 
+contrôle de premier niveau est alors réalisé : 
+ En cas d’échec du contrôle de premier niveau, le fichier est rejeté et un rapport 
+global est généré et envoyé à la plateforme dans un délai maximal de 2 heures (une 
+notification par courriel est également envoyée). La plateforme doit alors corriger les 
+erreurs et redéposer le fichier jusqu’à ce que le contrôle de premier niveau soit validé. 
+ Si le contrôle de premier niveau est réussi, le montant du reversement est calculé 
+à partir des éléments déclaratifs du flux et l’utilisateur est notifié du virement à effectuer, 
+par mail et sur son espace connecté. 
+Une fois le fichier accepté par l’Urssaf, un traitement (contrôle de second niveau) est effectué. 
+Sous réserve de bonne exécution du reversement correspondant au montant déclaré dans le flux, la 
+prise en compte de niveau 2 est opérée dans un délai moyen de moins de 8 heures et un délai 
+maximum de deux jours calendaires et produit les fichiers : 
+ Rapport Global 
+Un rapport global est généré pour indiquer si le fichier fourni par la plateforme a été accepté ou 
+rejeté. 
+ Rapport Détaillé
+
+----- page 9 -----
+9
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+Si le fichier de la plateforme est accepté, un rapport détaillé est alors produit. Ce document inclut, 
+pour chaque utilisateur, les informations suivantes : 
+ Confirmation du statut d'auto-entrepreneur reconnu par l'Urssaf. 
+ Indication pour chaque déclaration si cette dernière a été acceptée ou refusée et les motifs de 
+signalements correspondants. 
+ 
+ Liste des utilisateurs avec signalement 
+Si le fichier de la plateforme est accepté, un fichier « liste des utilisateurs avec signalement » est 
+alors produit. Ce document ne contient que les utilisateurs avec au moins un signalement, ainsi que 
+les signalements associés. 
+ 
+2.3.1 Fichier de « déclaration principale » 
+Pour chaque mois de prélèvement M, la plateforme doit transmettre, pour chaque utilisateur, le chiffre 
+d’affaires réalisé par nature d’activité et le montant des cotisations prélevées correspondant. 
+Le fichier de déclaration référence, pour chaque utilisateur, et pour chaque nature d’activité, le montant 
+du chiffre d’affaires qu’il a réalisé via la plateforme ainsi que le montant prélevé correspondant. 
+La plateforme doit par ailleurs reverser à l’Urssaf le montant total des cotisations prélevées au cours du 
+mois M par virement bancaire. Le fichier de déclaration principale doit être adressé au préalable de ce 
+virement. La validation du fichier de déclaration principale par l’Urssaf est conditionnée par la conformité 
+entre le montant total prélevé et le montant total reversé. 
+Pour chaque mois de prélèvement M, il n’est autorisé qu’un seul fichier de déclaration principale valide.  
+Toute déclaration complémentaire ou corrective doit être opérée au travers du dispositif de 
+régularisation. 
+Il est attendu une déclaration pour les chiffres d’affaires strictement supérieurs à 0€ uniquement.  
+ 
+2.3.2 Fichier de « régularisation » 
+Dans certaines situations, les informations communiquées (chiffre d’affaires et/ou les cotisations 
+prélevées) pour le mois de prélèvement M, et prises en compte par l’Urssaf dans le cadre d’un dépôt 
+de 
+fichier 
+de 
+déclaration 
+principale, 
+peuvent 
+devoir 
+être 
+rectifiées 
+ou 
+complétées. 
+Dans ces situations, la plateforme doit rectifier sa déclaration, en transmettant un fichier 
+de régularisation et en effectuant, en cas de besoin, un virement complémentaire.  
+Ces déclarations pourront être deux natures : 
+ Déclaration « Rectificative » d’une déclaration déjà validée. Il s’agit : 
+o 
+d’une régularisation du chiffre d’affaires transmis en annule et remplace, 
+éventuellement associé à un montant de prélèvement complémentaire. Si aucun 
+prélèvement complémentaire n’est associé à la déclaration régularisée pour un 
+utilisateur, le champ ContributionAmount ne doit pas être transmis. 
+o 
+d'une régularisation du seul montant de prélèvement si la plateforme n’avait pas 
+transmis la totalité du montant prélevé à l'utilisateur. Dans ce cas le champ Turnover 
+ne doit pas être transmis. 
+ Déclaration Initiale dans le cas d’une déclaration tardive (cas d’un individu, ou d’une activité non 
+déclarée dans le fichier de déclaration). Dans ce cas, la déclaration doit comporter le chiffre 
+d’affaires ainsi que le versement de prélèvement correspondant. 
+Lors d’une régularisation, la plateforme peut régulariser le montant de CA, en annule et remplace et/ou 
+déclarer un complément de montant prélevé. Le montant de CA en annule et remplace peut-être à 0€ 
+si la plateforme veut indiquer que la totalité du CA pour ce mois est à annuler.
+
+----- page 10 -----
+10
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+Exemple 1 pour une plateforme et un mois de prélèvement M ayant deux natures 
+d’activité possibles, « Livraison » et « VTC » : Pour l’utilisateur X, la plateforme a 
+adressée à tort une déclaration pour l’activité « Livraison » alors que l’utilisateur relève de 
+l’activité « VTC ». La plateforme doit transmettre dans un fichier de régularisation :  
+ 
+- Une déclaration de régularisation « rectificative » pour M pour la nature d’activité 
+« Livraison » 
+avec 
+un 
+montant 
+de 
+CA 
+et 
+sans 
+le 
+champ 
+« montant 
+de 
+prélèvement »(annulation de la déclaration M de X sur activité « Livraison »)  
+ 
+- Une déclaration de régularisation « initiale » pour M pour la nature d’activité « VTC » le 
+montant de CA et sans le champ « montant de prélèvement ». 
+ 
+Exemple 2 pour une plateforme et un mois de prélèvement M ayant une nature d’activité 
+possible, « Livraison » : Pour l’utilisateur X, la plateforme a adressé une déclaration pour 
+l’activité « Livraison » avec un montant de CA correct et en omettant de transmettre la 
+totalité du prélèvement réalisé (Y euros ont été prélevés, mais seulement Z euros ont été 
+indiqués et payé pour la déclaration pour cette période). La plateforme doit transmettre 
+dans un fichier de régularisation :  
+ 
+Une déclaration de régularisation « rectificative » pour M pour la nature d’activité 
+« Livraison » sans indiquer la balise montant de CA et un montant de prélèvement égal à 
+la différence entre le montant transmis initialement (Y) et le montant total réellement prélevé 
+(Z)  (complément de prélèvement de la déclaration M de X sur activité « Livraison »). La 
+plateforme doit alors réaliser le versement complémentaire de prélèvement. 
+ 
+Exemple 3 pour une plateforme et un mois de prélèvement M ayant une nature d’activité 
+possible, « Livraison » : Pour l’utilisateur X, la plateforme a adressé une déclaration pour 
+l’activité « Livraison » avec un montant de CA incorrect et en omettant de transmettre la 
+totalité du prélèvement réalisé (Y euros ont été prélevés, mais seulement Z euros ont été 
+indiqués et payé pour la déclaration pour cette période). La plateforme doit transmettre 
+dans un fichier de régularisation :  
+ 
+Une déclaration de régularisation « rectificative » pour M pour la nature d’activité 
+« Livraison » avec un montant de CA et un montant de prélèvement égal à la différence 
+entre le montant transmis initialement (Y) et le montant total réellement prélevé (Z)  (Annule 
+et remplace sur le CA et complément de prélèvement de la déclaration M de X sur activité 
+« Livraison »). La plateforme doit alors réaliser le versement complémentaire de 
+prélèvement. 
+ 
+Le fichier de « régularisation » pourra concerner plusieurs mois de prélèvement.  
+Pour une même période, plusieurs fichiers de « régularisation » validés par l’Urssaf sont admis. 
+Dans le cas d’un virement complémentaire sur régularisation, il est attendu que le fichier 
+de régularisation soit adressé au préalable du reversement financier correspondant. Dans ce contexte, 
+la validation du fichier par l’Urssaf est conditionnée par la conformité entre le montant total régularisé 
+prélevé et le montant total reversé au titre de cette régularisation. 
+Un fichier de régularisation doit contenir, pour un utilisateur, soit un montant de CA ou soit un montant 
+de prélèvement ou soit les deux selon ce que la plateforme a à régulariser.
+
+----- page 11 -----
+11
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+2.4 Cas spécifique d’un flux Bac à Sable 
+2.4.1 Utilisateurs entrant dans le champ de prélèvement – fonctionnement du Bac à 
+sable 
+Dans le cas d’un flux Bac à Sable, la plateforme transmet des utilisateurs fictifs ou issus de sa propre 
+base. Afin de permettre une réconciliation des données et la production de l’ensemble des rapports, un 
+contournement des règles de gestion est appliqué aux 10 premières déclarations d’activités d’un flux 
+de déclaration bac à sable (DPDESB). Cela permet d’inclure le cas où une plateforme numérique n’a 
+pas, au moment de l’expérimentation des flux de déclarations principales avec l’Urssaf, d’utilisateurs 
+auto-entrepreneurs. 
+Ces 10 premières déclarations d’activités seront alors considérées comme entrant dans le champ de 
+prélèvement du dispositif et les utilisateurs associés à ces déclarations d’activités seront considérés 
+comme rentrant dans le champ du dispositif, à la seule condition que la balise <IN> de l’utilisateur soit 
+correctement formée sur les 9 premiers caractères transmis et soit un SIREN valide. La déclaration de 
+l’activité elle sera soumise aux mêmes contrôles qu’une activité n’étant pas contournée.
+
+----- page 12 -----
+12
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+3. FICHIER DECLARATION  
+3.1 Règles métiers 
+3.1.1 Natures d’activité 
+Concernant la liste des natures d’activités : 
+Natures d’activités possibles  
+NA01 
+ VTC 
+NA02 
+ Livraison 
+NA03 
+ Location de meublés cas général  
+NA04 
+ Location de meublés de tourisme classé (LMTC) 
+NA05 
+ Location de biens meubles 
+NA06 
+ Achat-Vente 
+NA07 
+ Prestations de service artisanales ou commerciales 
+NA08 
+ Prestations de service libérale (cours de ski, cours de maths..) 
+NA09 
+Restaurateur 
+NA10 
+Chambre d’hôte 
+ 
+ 
+ 
+3.2 Données de déclaration à transmettre 
+Les données nécessaires à l’élaboration du fichier « Déclaration principale » ou « Régularisation » 
+fourni par les plateformes sont :
+
+----- page 13 -----
+13
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+Données 
+Attribut 
+Commentaires 
+Général – DPDE_UCN - MessageSpec 
+Identifiant de la 
+plateforme 
+PlatformId 
+Il s’agit de l’identifiant plateforme fourni par l’Urssaf 
+lors de la prise en compte de l’inscription 
+Date de référence du 
+message 
+RefDate 
+Pour une déclaration principale, mois de 
+prélèvement du fichier de déclaration. 
+Pour une déclaration de régularisation, année et le 
+mois pour lequel le message a été constitué. 
+(AAAA-MM) 
+Numéro de séquence 
+SequenceNumber 
+Numéro incrémenté par le dépositaire à chaque 
+envoi de fichier au titre d’un même mois de dépôt. 
+Etat civil – DPDE_UCN – DPDEBody - EntityUserIdentification 
+Nom 
+LastName 
+Il peut s’agir du nom patronymique ou du nom 
+d’usage 
+Prénom 
+FirstName 
+Il peut s’agir du prénom patronymique ou du 
+prénom d’usage 
+Date de naissance 
+BirthDate 
+ 
+Lieu de naissance 
+PlaceOfBirth 
+ 
+Identifiant de l’utilisateur – DPDE_UCN – DPDEBody - EntityUserIdentification 
+SIRET ou à défaut 
+SIREN 
+IN 
+Si la plateforme ne dispose pas du SIRET complet 
+(14 positions), elle doit indiquer à minima le SIREN 
+(9 positions).
+Identifiant 
+utilisateur 
+UserRefId 
+Identifiant de l’utilisateur fixé librement par le 
+dépositaire 
+Coordonnées de contact – DPDE_UCN – DPDEBody - EntityUserIdentification -  ContactDetails 
+Adresse courriel 
+EmailAddress 
+Téléphone 
+PhoneNumber 
+Adresse postale -– DPDE_UCN – DPDEBody -  EntityUserIdentification -  ContactDetails - PostalAddress 
+Adresse 1 
+Street1 
+Numéro, type et nom de la voie 
+Adresse 2 
+Street2 
+Complément d’adresse : bâtiment, étage, numéro 
+d’appartement 
+Code postal 
+PostalCode 
+ 
+Ville 
+City 
+ 
+Pays 
+Country 
+ 
+Données déclarations - DPDE_UCN – DPDEBody - EntityUserDeclaration - Activity 
+Mois de prélèvement 
+ReportingPeriod 
+A ne remplir qu’en cas de flux « régularisation ». 
+Correspond au mois de prélèvement de l’activité 
+Code de l’activité 
+Code 
+Nature de l’activité déclaré (cf  §3.3.1) 
+Montant du CA 
+Turnover 
+Avec décimales 
+Montant prélevé 
+ContributionAmount 
+Avec décimales 
+N° d'identification de 
+TVA 
+VATIdentificationNumber 
+Numéro d’identification de TVA de l’utilisateur, si la 
+plateforme le connait. 
+Si l’utilisateur est en attente de son numéro, alimenter 
+le champ avec un numéro transitoire (4 X suivi du 
+SIREN, exemple : XXXX788617793) 
+ 
+Ce champ est obligatoire si le champ 
+VATDeductedFromSalesIndicator est renseigné pour 
+l’utilisateur. 
+ 
+Ce champ doit être omis pour l’utilisateur si le champ 
+VATDeductedFromSalesIndicator est également omis. 
+Indicateur TVA déduite 
+du CA 
+VATDeductedFromSalesIndicator 
+Ce champ est obligatoire si VATIdentificationNumber 
+est renseigné pour un utilisateur. 
+Ce champ doit être omis pour l’utilisateur si le champ 
+VATIdentificationNumber est également omis.
+
+----- page 14 -----
+14
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+ 
+3.3 Format des fichiers d’échange 
+3.3.1 Schéma applicable 
+Le schéma à utiliser par les plateformes est disponible dans la zone documentaire de la page Plateforme 
+Numérique sur urssaf.fr, à l’adresse suivante : https://www.urssaf.fr/accueil/tiers-declarant/plateforme-
+numerique.html  (document : Plateforme numérique_Annexes Contrat Interface Déclaration_Schémas 
+XSD_FR) 
+Il s’agit de l’annexe 1 « Schéma XSD – Fichier de déclaration ». Les plateformes doivent utiliser ce 
+schéma pour le flux Déclaration afin de valider les flux qu’ils fourniront via le Portail Plateformes 
+Numériques. 
+3.3.2 Le message et les blocs de données 
+Au niveau le plus haut, le fichier comporte un bloc nommé DPDE_UCN (encore appelé message 
+DPDE_UCN). 
+Le message DPDE_UCN est composé d'un bloc MessageSpec et d'un unique bloc DPDEBody. Le bloc 
+MessageSpec caractérise le message DPDE_UCN tandis que le bloc DDEDBody identifie les 
+informations concernant les cotisants travaillant pour la plateforme (EntityUserDeclaration). 
+Les informations des messages DPDE_UCN permettent de constituer un fichier XML dont les 
+caractéristiques techniques sont abordées dans les chapitres 3.3.7 Description des structures XML 
+et 3.4 Caractéristiques des fichiers. 
+La taille maximale du message ne peut excéder 100 Mo après compression. 
+Que ce soit pour un flux de Déclaration Principale ou pour un flux de Déclaration de Régularisation, les 
+caractéristiques globales du fichier sont identiques. Certains champs (tel que le reportingPeriod) vont 
+varier en fonction du type de flux. 
+ 
+3.3.3 Le message et les informations techniques d'identification 
+Le message DPDE_UCN (flux déclaration) comporte des informations techniques qui visent à identifier, 
+de manière unique et non ambiguë, les blocs de message DPDE_UCN. 
+ 
+Ces informations techniques sont obligatoires. Elles se trouvent dans : 
+ le bloc MessageSpec (de niveau message) ; 
+ le bloc EntityUserDeclaration (de niveau bloc d'information, également appelé enregistrement). 
+ 
+3.3.4 Multiplicité 
+Pour chaque balise XML, la liste suivante précise la multiplicité (ou cardinalité) de l'information : 
+Multi
+Commentaire
+[0..1] 
+0 ou 1 information 
+[0..n] 
+0 à n information(s) 
+[1..1] 
+1 et une seule information 
+[1..n] 
+1 à n information(s) 
+0 – La plateforme ne connait pas le montant de TVA 
+1 – Le montant de CA déclaré par la plateforme est 
+hors TVA
+
+----- page 15 -----
+15
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+3.3.5 Niveau d'exigence des données 
+Pour chaque élément, ou attribut de données XML, est indiqué le caractère obligatoire ou facultatif. Le 
+niveau d'exigence des données est caractérisé comme suit : 
+Exigence 
+Code utilisé
+Commentaire
+Validation 
+V
+Élément obligatoire et contrôlé par les schémas XSD 
+Facultatif 
+F
+Élément facultatif.  
+ 
+3.3.6 Schéma XSD 
+Les schémas XSD de collecte établie par l’Urssaf sont disponibles dans la zone documentaire de la 
+page Plateforme Numérique sur urssaf.fr, à l’adresse suivante : https://www.urssaf.fr/accueil/tiers-
+declarant/plateforme-numerique.html 
+(document : 
+Plateforme 
+numérique_CI 
+Phase 
+Déclaration_Annexes_Schémas XSD_VFR)
+
+----- page 16 -----
+16
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+3.3.7 DPDE_UCN 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+ 
+ 
+ 
+DPDE_UCN 
+<dpde:DPDE_UCN> 
+[1..1] 
+ 
+ 
+V 
+Elément racine 
+ 
+ 
+ 
+DPDE_UCN 
+version= 
+[1..1] 
+Max 10 
+char 
+xs:string 
+V 
+Version du schéma 
+DPDE utilisée pour créer 
+le flux (1.0 pour la 
+version initiale décrite 
+dans ce document). 
+1 
+ 
+> 
+MessageSpec 
+<dpde:MessageSpec> 
+[1..1] 
+ 
+dpde:MessageSpec_Ty
+pe 
+V 
+ 
+2 
+ 
+> 
+DPDEBody 
+<dpde:DPDEBody> 
+[1..1] 
+ 
+dpde:DPDE_Type 
+V 
+ 
+ 
+3.3.8 DPDE_UCN / MessageSpec (dpid:MessageSpec_Type) 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1 
+ 
+ 
+MessageSpec 
+<dpde:DPDE_UCN> 
+[1..1] 
+ 
+dpde:MessageSpec_Type
+V 
+ 
+1.1 
+ 
+> 
+MessageType 
+<dpde:MessageType> 
+[1..1] 
+ 
+dpde:MessageType 
+V 
+DPDE pour un flux 
+déclaration principale 
+réel. 
+DPDESB pour un flux 
+déclaration principale 
+test. 
+DPRE pour un flux 
+déclaration régularisation 
+réel. 
+1.2 
+ 
+> 
+PlatformId 
+<dpde:PlatformId> 
+[1..1] 
+7 char 
+xs:string 
+V 
+Identifiant unique de la 
+plateforme, fourni en 
+retour d’inscription par 
+l’Urssaf 
+1.3 
+ 
+> 
+RefDate 
+<dpde: RefDate > 
+[1..1] 
+ 
+xs:string 
+V 
+Dans le cas d’un flux de 
+déclaration
+
+----- page 17 -----
+17
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+« principale » (DPDE ou 
+DPDESB) : 
+Mois de prélèvement du 
+flux (AAAA-MM) 
+Dans le cadre d’un flux 
+de déclaration 
+« régularisation » 
+(DPRE) : 
+Date de création du 
+fichier (AAAA-MM) 
+1.4 
+ 
+> 
+SequenceNumber 
+<dpde:SequenceNumber>
+[1..1] 
+ 
+3 digit 
+V 
+Numéro de séquence du 
+flux sur 3 caractères 
+numériques, incrémenté 
+par le dépositaire à 
+chaque envoi de fichier 
+durant le même mois. 
+1.5 
+ 
+> 
+MessageRefID 
+<dpde:MessageRefId> 
+[0..1] 
+Free 
+text. 
+Max 88 
+char 
+xs:string 
+F 
+Identifiant de message 
+fixé librement par le 
+dépositaire, il permet de 
+faciliter le chainage avec 
+les rapports/fichiers 
+produits en réponse au 
+traitement de ce flux. 
+Cet identifiant ne peut 
+pas contenir de point-
+virgule « ; ». Ce 
+caractère sera changé 
+pour une virgule « , » si 
+présent au dépôt. 
+3.3.9 DPDE_UCN / DPDEBody (dpde:Body_Type) 
+N°Zone
+Or
+Niveau
+Objet
+<balise XML>
+Multi
+Taille
+Type
+Exigence
+Commentaire
+2 
+ 
+ 
+DPDEBody 
+ 
+[1..1] 
+ 
+dpde:DPDE_Type 
+V
+
+----- page 18 -----
+18
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone
+Or
+Niveau
+Objet
+<balise XML>
+Multi
+Taille
+Type
+Exigence
+Commentaire
+2.1 
+ 
+> 
+EntityUserDeclaration 
+<dpde:EntityUserDeclaration> 
+[1..n] 
+ 
+dpde:EntityUserDeclaration_Type 
+V 
+ 
+ 
+3.3.10 DPDE_UCN / DPDEBody / EntityUserDeclaration (dpde:EntityUserDeclaration_Type) 
+N°Zone
+Or 
+Niveau
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence
+Commentaire 
+2.1 
+ 
+ 
+EntityUserDeclaration 
+<dpde:EntityUserDeclaration> 
+[1..N] 
+ 
+dpde:EntityUserDeclaration_Type 
+V 
+Utilisateurs déclarés  
+2.1.1 
+ 
+> 
+IN 
+<dpde:IN> 
+[1..1] 
+14 digits 
+or 9 
+digits 
+xs:string 
+V 
+SIRET ou SIREN de 
+l’auto-entrepreneur 
+2.1.2 
+ 
+> 
+LastName 
+<dpde:LastName> 
+[0..1] 
+ 
+xs:string 
+F 
+Nom de l’utilisateur.  
+Format : Caractères 
+alphabétique + les accents 
+minuscules et majuscules 
+à á â ã ä å è é ê ë ì í î ï ò 
+ó ô õ ö ñ ù ú û ü ý ÿ ç – 
+tiret, apostrophe et espace
+2.1.3 
+ 
+> 
+FirstName 
+<dpde:FirstName> 
+[0..1] 
+ 
+xs:string 
+F 
+Prénom de l’utilisateur. 
+Format : Caractères 
+alphabétique + les accents 
+minuscules et majuscules 
+à á â ã ä å è é ê ë ì í î ï ò 
+ó ô õ ö ñ ù ú û ü ý ÿ ç – 
+tiret, apostrophe et espace
+2.1.4 
+ 
+> 
+BirthDate 
+<dpde:BirthDate> 
+[0..1] 
+ 
+xs:date 
+F 
+Date de naissance au 
+format AAAA-MM-JJ 
+2.1.5 
+ 
+> 
+PlaceOfBirth 
+<dpde:PlaceOfBirth> 
+[0..1] 
+ 
+xs:string 
+F 
+Lieu de naissance 
+Format : Caractères
+
+----- page 19 -----
+19
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone
+Or 
+Niveau
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence
+Commentaire 
+alphabétique + les accents 
+minuscules et majuscules 
+à á â ã ä å è é ê ë ì í î ï ò 
+ó ô õ ö ñ ù ú û ü ý ÿ ç – 
+tiret, apostrophe et espace
+2.1.6 
+ 
+> 
+UserRefId 
+<dpde:UserRefId> 
+[0..1] 
+88 char 
+max. 
+xs:string 
+F 
+Identifiant de l’utilisateur 
+fixé librement par le 
+dépositaire, il permet de 
+faciliter le chainage avec 
+les rapports/fichiers 
+produits en réponse au 
+traitement  
+Cet identifiant ne peut pas 
+contenir de point-virgule 
+« ; ». Ce caractère sera 
+changé pour une virgule 
+« , » si présent au dépôt. 
+2.1.7 
+ 
+> 
+ContactDetails 
+<dpde:ContactDetails> 
+[1..1] 
+ 
+dpde:ContactDetails_Type 
+V 
+Information de contact de 
+l’utilisateur 
+2.1.8 
+ 
+> 
+Activity 
+<dpde:Activity> 
+[1..1] 
+ 
+dpde:Activity_Type 
+V 
+Déclaration du CA et de la 
+cotisation par nature 
+d’activité 
+3.3.11 DPDE_UCN / DPDEBody / EntityUserDeclaration / ContactDetails (dpde:ContactDetails_Type) 
+N°Zone
+Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence
+Commentaire 
+2.1.7 
+ 
+> 
+ContactDetails 
+<dpde:ContactDetails> 
+[1..1] 
+ 
+dpde:ContactDetails_Type 
+V 
+Information de contact de 
+l’utilisateur 
+2.1.7.1 
+ 
+> 
+PostalAddress 
+<dpde: PostalAddress> 
+[0..1] 
+ 
+dpde:PostalAddress_Type 
+F 
+Adresse postale
+
+----- page 20 -----
+20
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone
+Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence
+Commentaire 
+2.1.7.2 
+ 
+> 
+EmailAddress 
+<dpde:EmailAddress> 
+[0..1] 
+ 
+xs:string 
+F 
+Adresse courriel 
+2.1.7.3 
+ 
+> 
+PhoneNumber 
+<dpde:PhoneNumber> 
+[0..1] 
+ 
+xs:string 
+F 
+Numéro de téléphone 
+ 
+3.3.12 DPDE_UCN / DPDEBody / EntityUserIdentification / ContactDetails / PostalAddress (dpde:PostalAddress_Type) 
+N°Zone
+Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille Type 
+Exigence 
+Commentaire 
+2.1.7.1 
+ 
+ 
+PostalAddress 
+<dpde:PostalAddress> 
+[0..1] 
+ 
+dpde:PostalAddress_Type 
+F 
+Information sur l’adresse 
+postale de l’utilisateur 
+2.1.7.1.1
+ 
+> 
+Street1 
+<dpde:Street1> 
+[0..1] 
+ 
+xs:string 
+F 
+Le numéro de voie, le type de voie 
+ainsi que le nom de la voie, 
+exemple :  
+8, rue des Lilas  
+2.1.7.1.2
+ 
+> 
+Street2 
+<dpde:Street2> 
+[0..1] 
+ 
+xs:string 
+F 
+Champ spécifique aux informations 
+secondaires de l’adresse de 
+l’utilisateur. Peut contenir un 
+numéro d’appartement, un étage 
+ou un bâtiment, exemple : 
+Bâtiment B, 3-ème étage 
+2.1.7.1.3
+ 
+> 
+PostalCode 
+<dpde:PostalCode> 
+[0..1] 
+ 
+xs:string 
+F 
+Code postal, exemple :  
+75001 
+2.1.7.1.4
+ 
+> 
+City 
+<dpde:City> 
+[0..1] 
+ 
+xs:string 
+F 
+Ville, exemple :  
+Paris 
+2.1.7.1.5
+ 
+> 
+Pays 
+<dpde:Country> 
+[0..1] 
+ 
+xs;string 
+F 
+Pays, exemple :  
+France
+
+----- page 21 -----
+21
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+3.3.13 DPDE_UCN / DPDEBody / EntityUserDeclaration / Activity (dpde:Activity_Type) 
+N°Zone
+Or
+Niveau
+Objet 
+<balise XML> 
+Multi
+Taille
+Type 
+Exigence
+Commentaire 
+2.1.8 
+ 
+> 
+Activity 
+<dpde:Activity> 
+[1..1] 
+ 
+dpde:Activity_Type
+V 
+Déclaration par nature 
+d’activité 
+2.1.8.1 
+ 
+> 
+ReportingPeriod 
+<dpde:ReportingPeriod> 
+[0..1] 
+ 
+xs:string 
+F 
+MessageType {DPRE} 
+Cette donnée identifie l’année et 
+le mois pour laquelle se rapporte 
+la déclaration en utilisant le 
+format AAAA-MM. 
+ 
+A ne pas renseigner pour les 
+MessageType {DPDE,DPDESB}
+2.1.8.2 
+ 
+> 
+Code 
+<dpde:Code> 
+[1..1] 
+ 
+dpde:Enum_Activity 
+V 
+Code de la nature d’activité 
+2.1.8.3 
+ 
+> 
+Turnover 
+<dpde:Turnover> 
+[1..1] 
+ 
+xs:decimal 
+V 
+Chiffre d'affaires 
+MessageType {DPRE} 
+Cette donnée est facultative pour 
+un flux de régularisation. Au 
+moins l’un des deux champs 
+Turnover ou ContributionAmount 
+doit être fourni dans le bloc 
+EntityUserDeclaration, ou les 
+deux. 
+MessageType {DPDE,DPDESB}
+Cette donnée est obligatoire. 
+2.1.8.4 
+ 
+> 
+ContributionAmount 
+<dpde:ContributionAmount> 
+[1..1] 
+ 
+xs:decimal 
+V 
+Montant de la cotisation 
+MessageType {DPRE}
+
+----- page 22 -----
+22
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone
+Or
+Niveau
+Objet 
+<balise XML> 
+Multi
+Taille
+Type 
+Exigence
+Commentaire 
+Cette donnée est facultative pour 
+un flux de régularisation. Au 
+moins l’un des deux champs 
+Turnover ou ContributionAmount 
+doit être fourni dans le bloc 
+EntityUserDeclaration, ou les 
+deux. 
+MessageType {DPDE,DPDESB}
+Cette donnée est obligatoire. 
+2.1.8.5 
+ 
+> 
+VATIdentificationNumber 
+<dpde:VATIdentificationNumber> 
+[0..1] 
+ 
+xs:string 
+F 
+Obligatoire si le 
+VATDeductedFromSalesIndicator 
+est renseigné. 
+A omettre si le 
+VATDeductedFromSalesIndicator 
+est vide. 
+2.1.8.6 
+ 
+> 
+VATDeductedFromSalesIndicator
+<dpde:VATDeductedFromSalesIndicator>
+[0..1] 
+1 char
+xs:string 
+0 or 1 
+F 
+Obligatoire si le N° d'identification 
+de TVA est renseigné. 
+A omettre si le 
+VATIdentificationNumber est 
+vide. 
+ 
+0 – La plateforme ne connait pas 
+le montant de TVA 
+1 – Le montant de CA déclaré 
+par la plateforme est hors TVA
+
+----- page 23 -----
+23
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+3.4 Caractéristiques des fichiers 
+3.4.1 Format du fichier 
+Le fichier doit être de type texte respectant la syntaxe XML. Il est obligatoire de suffixer le fichier, avant 
+compression, avec l'extension « .xml ».  
+3.4.2 Indication de l’Identifiant de Plateforme Numérique 
+Identifiant unique délivré à l’issu de l’inscription de la plateforme Numérique au dispositif de prélèvement 
+Urssaf. 
+3.4.3 Règles de nommage du fichier Déclaration 
+Il est attendu que le nom du fichier de déclaration respecte le format suivant : 
+< MessageType>_<PlatformId>_<RefDate>_<SequenceNumber>.xml 
+Paramètres
+Valeur
+Format
+Précision
+< MessageType > 
+DPDE  
+DPDESB 
+DPRE 
+Alphabétique
+DPDE pour un flux de 
+déclaration principale réel. 
+DPDESB pour un flux de 
+déclaration principale test. 
+DPRE pour un flux 
+régularisation. 
+< PlatformId > 
+ID de la plateforme 
+Numérique 
+ 
+< RefDate > 
+AAAA-MM 
+Alphabétique 
+Dans le cas d’un flux de 
+déclaration « principale » 
+(DPDE ou DPDESB) : 
+Mois de prélèvement du flux 
+(AAAA-MM) 
+ 
+Dans le cadre d’un flux de 
+déclaration « régularisation » 
+(DPRE) : 
+Date de création du fichier 
+(AAAA-MM) 
+< SequenceNumber >
+Le numéro de séquence, composé de 
+trois chiffres, est incrémenté de 1 à 
+chaque dépôt successif d’un fichier de 
+déclaration 
+principale 
+ou 
+de 
+régularisation pour une même mois de 
+dépôt. 
+Pour un même mois de dépôt, ce numéro 
+doit être strictement supérieur au plus 
+élevé des numéros de séquence déjà 
+transmis. 
+Ce numéro de séquence est rappelé 
+dans les rapports produits par l’Urssaf. 
+Numérique 
+Exemple des numéros de 
+séquence à transmettre pour un 
+mois donné. 
+ 
+Le 1er février, une déclaration 
+principale est déposée avec le 
+numéro de séquence 001. 
+ 
+Le 23 février, une régularisation 
+est déposée avec le numéro de 
+séquence 002. 
+ 
+Le 25 février, une régularisation 
+est déposée avec un numéro de 
+séquence 003. 
+ 
+3.4.4 Compression  
+Le fichier doit être obligatoirement être compressé au format GZIP avant son envoi.  
+Le choix de l'outil de compression est libre. Le logiciel préconisé par l’Urssaf est 7zip. Vous pouvez 
+télécharger le logiciel ici : https://www.7-zip.org/.  
+Exemple :
+
+----- page 24 -----
+24
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+- Envoi d'un fichier compressé constitué le 9 juin 2024 pour un flux de déclaration principale pour 
+le mois de mai 2024 par 
+l'identifiant 7458253 : DPDE_7458253_2024-05_001.xml.gz 
+ 
+- Suivi de l’envoi d’un fichier de régularisation constitué le 20 juin 2024 pour un flux de 
+régularisation pour le mois de février, mars, avril par l’identifiant 7458253 :  DPRE_7458253_2024-
+06_002.xml.gz 
+ 
+- Suivi de l’envoi d’un fichier de régularisation constitué le 24 juin 2024 pour un flux de 
+régularisation pour le mois de mai par l’identifiant 7458253 :  DPRE_7458253_2024-06_003.xml.gz  
+ 
+3.4.5 Taille maximum du fichier  
+La taille du fichier ne pourra pas excéder 100 méga-octets après compression.  
+3.4.6 Encodage du fichier XML 
+Le fichier doit être encodé en UTF-8 sans BOM (Byte-Order Mark).  
+3.4.7 Métadonnée du fichier compressé 
+Le fichier compressé doit inclure la métadonnée ArchivedFileName contenant le nom du fichier et son 
+extension .xml une fois décompressé. Dans le cas où la méta-donnée ArchivedFileName n’est pas 
+renseignée pour le fichier compressé, le nom du fichier compressé est utilisé. Le nom du fichier 
+compressé devra par consequent suivre ce format :  
+< MessageType>_<PlatformId>_<ReportingPeriod>_<SequenceNumber>.xml.gz 
+Exemple : pour l'envoi d'un fichier compressé pour une demande "Declaration" 
+de test pour le mois de mai 2024 par l'identifiant 7458253 :  
+DPDESB_7458253_2024-05_001.xml.gz 
+3.5 Contrôles opérés sur le fichier de déclaration 
+Chaque fichier « déclaration » passe par deux phases de contrôles : 
+ Contrôles Niveau 1 : l’objectif est de s’assurer que le fichier déposé par la plateforme 
+est exploitable.  Si une seule des règles de contrôle n’est pas respectée, le fichier est 
+rejeté et ne fera pas l’objet d’un contrôle de second niveau. Le motif de rejet sera 
+indiqué dans le Rapport Global. 
+ Contrôles Niveau 2 : l’objectif est de traiter individuellement chaque utilisateur (et ses 
+déclarations) présent dans le fichier : 
+ Si une règle bloquante n’est pas respectée au niveau du bloc « EntityUserDeclaration », les 
+déclarations pour ce dernier ne sont pas traitées.  
+ Si une règle bloquante n’est pas respectée au niveau du sous-bloc « Activity » du bloc 
+« EntityUserDeclaration », la déclaration pour ce dernier n’est pas traitée. 
+ La ou les règles non respectées sont restituées dans le Rapport Détaillé. 
+ 
+Les contrôles de niveau 1 sont réalisés successivement en quatre étapes dans l'ordre : 
+1. Exploitabilité du fichier : les contrôles dits « Fichier » ;  
+2. Vérification que le fichier XML est bien formé, c’est-à-dire qu’il est conforme aux 
+recommandations du W3C : contrôles dits « Validation format XML » ;  
+3. Vérification que le fichier XML est valide au regard du schéma de collecte Urssaf : contrôles 
+dits « Validation format XSD » ;
+
+----- page 25 -----
+25
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+4. Vérification que le fichier XML comporte un bloc MessageSpec conforme aux attendus : 
+contrôles dits « Validation format du Message ». 
+ 
+L'échec d'un contrôle à une quelconque des quatre étapes implique :  
+ Le rejet du fichier dans sa totalité : un Rapport Global, mis à disposition dans un délai de deux 
+heures après le dépôt du fichier de déclaration de la plateforme, précisera la cause du rejet. La 
+plateforme sera invitée à déposer un nouveau fichier après correction de la cause signalée. 
+ L’arrêt de prise en compte du flux. 
+ 
+3.5.1 Nomenclature des codes anomalies 
+Dans la suite du document et par souci de concision, les codes d’anomalie correspondant à des 
+contrôles s’appliquant à tout type de message sont préfixés ( {préfixe} )  
+Selon le type de message (MessageType), ils sont restitués en substituant au {préfixe} les valeurs : 
+ « PNDE » pour les types de message DPDE & DPDESB (flux déclaration principale réel ou test) 
+ « PNRE » pour le type de message DPRE (flux déclaration régularisation réel) 
+ 
+3.5.2 Contrôles de premier niveau - Fichier 
+Code anomalie
+Libellé d’anomalie
+{préfixe}_RT01 
+Erreur bloquante : « Fichier illisible » 
+{préfixe}_RT02 
+Erreur bloquante : « Fichier vide » 
+{préfixe}_RT03 
+Erreur bloquante : « Fichier GZIP non conforme » 
+{préfixe}_RT04 
+Erreur bloquante : « La taille du fichier est supérieure à la limite autorisée » 
+{préfixe}_RT05 
+Erreur bloquante : « L'extension du fichier n'est pas .xml » 
+{préfixe}_RT06 
+Information : « Le nom de fichier ne respecte pas la norme définie » 
+Exemple :  
+PNDE_RT02 sera émis dans le cas d’un dépôt de fichier de flux de déclaration principale vide. 
+PNRE_RT02 s’il s’agit d’un flux de régularisation. 
+ 
+3.5.3 Contrôles de premier niveau - Validation format XML 
+Code 
+anomalie
+Caractère 
+spécial
+Libellé d’anomalie 
+{préfixe}_RT07 
+ 
+Erreur bloquante : « Le fichier XML ne respecte pas les 
+recommandations XML du W3C (Fichier XML non 
+conforme) » 
+{préfixe}_RT08 
+Encodage 
+Erreur bloquante : « l’encodage du fichier est non 
+conforme (doit être UTF-8 sans BOM) » 
+ 
+3.5.4 Contrôles de premier niveau - Validation format XSD 
+Code anomalie
+Libellé d’anomalie
+{préfixe}_RT09 
+Erreur bloquante « fichier XML non conforme au XSD »
+
+----- page 26 -----
+26
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+Le contrôle de niveau « Validation format XSD » est opéré au travers d’un parseur XML/XSD. 
+En cas de non-conformité de format, il peut entrainer l’indication d’un message détaillé technique. 
+ 
+3.5.5 Contrôles de premier niveau - Validation format message 
+Liste des contrôles de type technique :  
+Motif Anomalie
+Libellé d’anomalie
+{préfixe}_RT10 
+Erreur bloquante : « Les tags MessageType, PlatformId, RefDate, SequenceNumber 
+ne doivent pas être vides. » 
+{préfixe}_RT11 
+Erreur bloquante : « Le tag MessageType doit contenir uniquement les valeurs 
+DPDE ou DPDESB lors d’une transmission sur la page Déclaration et DPRE sur la 
+page Régularisation. » 
+{préfixe}_RT12 
+Erreur bloquante : « Le tag MessageType DPDE est interdit en environnement Bac à 
+Sable. » 
+{préfixe}_RT13 
+Erreur bloquante : « Le tag MessageType DPRE est interdit en environnement Bac à 
+Sable. » 
+{préfixe}_RT14 
+Erreur bloquante : « Le tag MessageType DPDESB est interdit en environnement 
+Production. » 
+{préfixe}_RT15 
+Erreur bloquante : « Le tag PlatformId doit contenir un identifiant numérique unique 
+de 7 chiffres pour chaque plateforme. » 
+{prefixe}_RT16 
+Erreur bloquante : « Le tag RefDate doit être au format AAAA-MM et correspondre 
+au mois du flux de données. » 
+{prefixe}_RT17 
+Le tag SequenceNumber doit contenir un identifiant numérique sur 3 positions 
+{prefixe}_RT18 
+Le tag SequenceNumber doit avoir une valeur supérieure à celle associée à la 
+séquence de votre dernier envoi lisible par l’Urssaf. 
+{prefixe}_RT19 
+Traitement simultané de fichier interdit. 
+Un fichier est déjà en cours de traitement pour votre plateforme. 
+ 
+Liste des contrôles fonctionnels : 
+Motif Anomalie
+Libellé d’anomalie
+{préfixe}_RF01 
+Plateforme non reconnue. 
+PNDE_RF02 
+Mois de prélèvement incompatible. 
+{prefixe}_RF04 
+Incohérence montant du virement/montant prélevé. 
+PNDE_RF05 
+Un fichier de déclaration principale pour cette période de prélèvement a déjà été 
+intégré. 
+ 
+3.5.6 Contrôles de second niveau 
+À ce stade, chaque enregistrement EntityUserDeclaration sera traité de manière individuelle, afin de 
+déterminer s’il pourra être traité (car valide) ou rejeté (un motif de rejet sera alors indiqué). 
+Les contrôles de second niveau sont opérés uniquement si le fichier n’a pas été globalement rejeté à la 
+suite des contrôles de premier niveau.Contrôles de second niveau – Utilisateur 
+ 
+Contrôles de type technique :
+
+----- page 27 -----
+27
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+Motif Anomalie 
+Libellé d’anomalie
+Priorité *
+{préfixe}_RT41 
+Le tag LastName ne peut pas être vide ou contenir des sauts de 
+lignes ou de tabulation 
+3 
+{préfixe}_RT42 
+Le tag FirstName ne peut pas être vide ou contenir des sauts de 
+lignes ou de tabulation 
+3 
+{préfixe}_RT43 
+Le tag BirthDate ne respecte pas le format AAAA-MM-JJ 
+3 
+{préfixe}_RT45 
+Le tag PlaceOfBirth ne doit pas contenir de sauts de lignes ou de 
+tabulation si le champ est présent. 
+3 
+{préfixe}_RT46 
+Le tag EmailAddress ne doit pas contenir de sauts de lignes ou 
+de tabulation si le champ est présent. 
+2 
+{préfixe}_RT47 
+Le tag EmailAddress ne contient pas une adresse courriel valide. 2 
+{préfixe}_RT48 
+Le tag Street1 ne doit pas contenir de sauts de lignes ou de 
+tabulation si le champ est présent. 
+4 
+{préfixe}_RT49 
+Le tag Street2 ne doit pas contenir de sauts de lignes ou de 
+tabulation si le champ est présent. 
+4 
+{préfixe}_RT50 
+Le tag City ne doit pas contenir de sauts de lignes ou de 
+tabulation si le champ est présent. 
+4 
+{préfixe}_RT51 
+Le tag PostalCode ne doit pas contenir de sauts de lignes ou de 
+tabulation si le champ est présent. 
+4 
+{préfixe}_RT52 
+Le tag PhoneNumber ne doit pas contenir de caractères non 
+numériques (espaces autorisés uniquement entre les groupes de 
+2 chiffres). 
+4 
+{préfixe}_RT53 
+Le tag LastName ne doit contenir que des caractères 
+alphabétiques et éventuellement des caractères spéciaux 
+autorisés (les accents minuscules et majuscules à á â ã ä å è é ê 
+ë ì í î ï ò ó ô õ ö ñ ù ú û ü ý ÿ ç – tiret, apostrophe et espace). 
+3 
+{préfixe}_RT54 
+Le tag FirstName ne doit contenir que des caractères 
+alphabétiques et éventuellement des caractères spéciaux 
+autorisés (les accents minuscules et majuscules à á â ã ä å è é ê 
+ë ì í î ï ò ó ô õ ö ñ ù ú û ü ý ÿ ç – tiret, apostrophe et espace). 
+2 
+{préfixe}_RT55 
+Le tag BirthDate doit être une date passée (ne doit pas être 
+postérieure à la date du jour). 
+3 
+{préfixe}_RT56 
+ContactDetails doit contenir au moins un sous-élément valide (si 
+l’élément est présent). 
+1 
+{préfixe}_RT57 
+PostalAddress doit contenir au moins un sous-élément valide (si 
+l’élément est présent). 
+4 
+{prefixe]_RT58 
+Le tag Country ne doit pas contenir de sauts de lignes ou de 
+tabulation si le champ est présent. 
+4 
+{prefixe}_RT59 
+Le tag PlaceOfBirth ne doit contenir que des caractères 
+alphabétiques et éventuellement des caractères spéciaux 
+autorisés (les accents minuscules et majuscules à á â ã ä å è é ê 
+ë ì í î ï ò ó ô õ ö ñ ù ú û ü ý ÿ ç – tiret, apostrophe et espace). 
+4 
+{préfixe}_RT60 
+Nous avons rencontré une erreur technique. 
+1 
+ 
+Contrôles fonctionnels : 
+Motif Anomalie
+Libellé d’anomalie
+Priorité *
+{préfixe}_SU001 
+Rejet de l’ensemble des déclarations : « Utilisateur inconnu » 
+2 
+{préfixe}_SU004 
+Rejet des déclarations dupliquées : « Présence d’une autre 
+déclaration pour cette nature d’activité »  
+2
+
+----- page 28 -----
+28
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+{préfixe}_SU005 
+Information : « Pas d’interrogation pour identification pour cette 
+période » 
+3 
+*L’indice de priorité fixe l’ordre de restitution des signalements dans le « rapport détaillé » et dans le « Fichier des 
+utilisateurs avec signalement » 
+Contrôles fonctionnels sur le champ IN : 
+Motif Anomalie
+Libellé d’anomalie
+Priorité *
+PNRA_S001 
+Erreur bloquante : SIREN et/ou SIRET absents (IN) 
+1 
+PNRA_S002 
+Erreur bloquante : SIREN non numérique (IN) 
+1 
+PNRA_S003 
+Erreur bloquante : SIREN invalide (IN) 
+1 
+PNRA_S004 
+Information : SIRET non numérique (IN) 
+1 
+ 
+3.5.7 Contrôles de second niveau – Déclaration 
+Contrôles fonctionnels pour l’ensemble des flux : 
+Code anomalie
+Libellé d’anomalie
+Priorité
+{préfixe}_SD001 
+Rejet de la déclaration : « Nature d’activité incohérente » 
+2 
+{préfixe}_SD002 
+Rejet de la déclaration : « Montant de prélèvement supérieur au 
+plafond » 
+2 
+{préfixe}_SD003 
+Rejet de la déclaration : « Montant du chiffre d’affaires supérieur 
+au plafond » 
+2 
+{préfixe}_SD006 
+Rejet de la déclaration : « Numéro d’identification de TVA de 
+l’utilisateur non renseigné » (si l’indicateur est renseigné en 0 ou 
+en 1) 
+2 
+{préfixe}_SD007 
+Rejet de la déclaration : « Indicateur TVA déduite du CA non 
+renseigné » (si l’indicateur est renseigné en 0 ou en 1) 
+2 
+ 
+Contrôles fonctionnels pour un flux de déclaration principale : 
+Code anomalie 
+Libellé d’anomalie 
+Priorité 
+PNDE_SD004 
+Information : « Incohérence entre le montant du chiffre 
+d’affaires et le montant prélevé » 
+4 
+ 
+ 
+Contrôles fonctionnels pour un flux de déclaration de régularisation : 
+Code anomalie 
+Libellé d’anomalie 
+Priorité 
+PNRE_SD009 
+ Information : « Complément de prélèvement sans déclaration » 2 
+PNRE_RF02 
+Rejet de la déclaration : « Mois de prélèvement incompatible » 
+2 
+PNRE_SD010 
+Rejet de la déclaration : « Au moins un des deux champs 
+Turnover ou ContributionAmount doit être présent dans le bloc 
+EntityUserDeclaration » 
+1
+
+----- page 29 -----
+29
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+4. FICHIER RAPPORT GLOBAL  
+4.1 Les règles métiers 
+Le rapport global est généré systématiquement, que le fichier de déclaration déposé par la plateforme 
+soit valide ou invalide : 
+ Dans le cas d’un fichier non valide, il précise la cause du rejet. 
+ Dans le cas d’un fichier valide, il indique les informations de volumétrie 
+suivantes :  
+ Nombre d’utilisateurs non identifiables (B)  
+ Nombre d’utilisateurs identifiés en tant qu’AE pour la période (C) 
+ Nombre d’utilisateurs non identifiés en tant qu’AE pour la période (D) 
+ Pour les déclarations acceptées : nombre, montant du CA et montant des cotisations 
+ Pour les déclarations rejetées : nombre, montant du CA et montant des cotisations. 
+ 
+4.2 Les données 
+Les données du Rapport Global généré par l’Urssaf sont :  
+Données 
+Attribut 
+Commentaires 
+Général - MessageSpec 
+Type du fichier retour 
+MessageType 
+DPGR 
+Identifiant de la plateforme 
+PlatformId 
+Renseigné uniquement si la plateforme concernée a été 
+reconnue 
+Date de référence du message 
+RefDate 
+Pour un MessageType {DPDE,DPDESB}  
+Mois de prélèvement du fichier de déclaration. 
+Pour un MessageType {DPRE} 
+Année et le mois pour lequel le message a été constitué
+Numéro de séquence 
+SequenceNumber 
+Numéro de séquence du fichier attribué par le 
+dépositaire 
+Identifiant de corrélation du fichier MessageRefId 
+Identifiant de message fixé librement par le dépositaire, 
+il permet de faciliter le chainage avec les 
+rapports/fichiers produits en réponse au traitement de 
+ce flux. 
+Date de dépôt du fichier 
+ReceptionDate 
+Date de dépôt du fichier sur le système d’information de 
+l’Urssaf 
+Référence Urssaf Unique  
+UrssafRef 
+Référence unique produite pour le système 
+d’information de l’Urssaf 
+Date de génération du fichier 
+retour 
+Timestamp 
+Date de génération du rapport global 
+Rapport Urssaf -   DPGRBody 
+Statut du fichier 
+FileStatus 
+Deux valeurs possibles : {« Processed », « Rejected »} 
+Motif de rejet 
+RejectionReason 
+Motif du rejet  
+Détail complémentaire du rejet 
+RejectionReasonDetail 
+Mois de prélèvement 
+ReportingPeriod 
+Renseigné si le fichier reçu est lisible et qu’il correspond 
+à un flux de déclaration principale réel ou test 
+Rapport Utilisateur DPGRBody 
+Nombre d’utilisateurs non 
+identifiables (B) 
+UnidentifiableUsers 
+Il s’agit du nombre d’utilisateurs pour lesquels 
+l’identification n’est pas réalisable fautes de données 
+valides permettant l’identification (état du 
+rapprochement = « Identification impossible ») 
+Mis à zéro si le fichier plateforme est inexploitable
+
+----- page 30 -----
+30
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+ 
+4.3 Format des fichiers d'échange 
+4.3.1 Schéma applicable 
+Le schéma utilisé par l’Urssaf est disponible dans la zone documentaire de la page Plateforme 
+Numérique sur urssaf.fr, à l’adresse suivante : https://www.urssaf.fr/accueil/tiers-declarant/plateforme-
+numerique.html  (document : Plateforme numérique_Annexes Contrat Interface Déclaration_Schémas 
+XSD_FR) 
+Il s’agit de l’annexe 2 « Schéma XSD – Fichier rapport global ». 
+4.3.2 Le message et les blocs de données 
+Au niveau le plus haut, le fichier comporte :  un bloc nommé DPGR_UCN encore appelé message 
+DPGR_UCN.  
+Le message DPGR_UCN est composé d'un bloc MessageSpec et d'un unique bloc DPGRDBody.  
+Le bloc MessageSpec caractérise le message DPGR_UCN tandis que le bloc DPGRBody contient les 
+éléments de synthèse sur le résultat de traitement du fichier de déclaration. 
+Nombre d’utilisateurs identifiés 
+dans le champ du prélèvement 
+pour la période (C) 
+IdentifiedUsersAE 
+Il s’agit du nombre d’utilisateurs identifiés par l’Urssaf 
+dans le champ du prélèvement pour le mois M de 
+prélèvement. 
+ Mis à zéro si le fichier plateforme est inexploitable 
+Nombre d’utilisateurs non 
+identifiés dans le champ du 
+prélèvement pour la période (D) 
+UnidentifiedUsersAE 
+Il s’agit du nombre d’utilisateurs qui n’ont pas été 
+identifiés par l’Urssaf dans le champ du prélèvement 
+pour le mois M de prélèvement.  
+ Mis à zéro si le fichier plateforme est inexploitable 
+Rapport Déclaration -DPGRBody 
+Nombre de déclarations reçues 
+NbDecReceived 
+Nombre de déclarations présentes dans le fichier de 
+la plateforme. 
+Mis à zéro si fichier non exploitable 
+Montant total de CA des 
+déclarations reçues 
+TotalAmountCA 
+Somme des montants de CA des déclarations 
+présentes dans le fichier de la plateforme. 
+Mis à zéro si fichier non exploitable 
+Montant total précompté 
+TotalAmountWithholding 
+Somme des montants de prélèvement des 
+déclarations présentes dans le fichier de la 
+plateforme. 
+Mis à zéro si fichier non exploitable 
+Nombre de déclarations 
+rejetées  
+NbDecRejected 
+Nombre de déclarations ayant fait l’objet d’un rejet. 
+ Mis à zéro si fichier non exploitable 
+Montant total de CA des 
+déclarations rejetées 
+TotalAmountCADecRejected 
+Somme des montants de CA des déclarations 
+présentes dans le fichier de la plateforme et ayant fait 
+l’objet d’un rejet. 
+ Mis à zéro si fichier non exploitable 
+Montant total prélevé des 
+déclarations rejetées 
+TotalAmountDecRejected 
+Somme des montants de prélèvement des 
+déclarations présentes dans le fichier de la 
+plateforme et ayant fait l’objet d’un rejet. 
+Mis à zéro si fichier non exploitable 
+Nombre de déclarations reçues 
+CA seul 
+NbRegWithoutCredit 
+Nombre de déclarations de régularisation uniquement 
+du CA (sans complément de crédit de prélèvement). 
+Mis à zéro si fichier non exploitable ou fichier de 
+déclarations principale 
+Nombre de déclarations reçues 
+complément de crédit de 
+prélèvement seul 
+NbRegWithoutCA 
+Nombre de déclarations de régularisation avec 
+uniquement un complément de crédit de prélèvement 
+(sans modification du CA). 
+ Mis à zéro si fichier non exploitable ou fichier de 
+déclarations principale 
+Nombre de déclarations reçues 
+CA et complément de crédit de 
+prélèvement seul 
+NbRegWithCaAndCredit 
+Nombre de déclarations de régularisation avec une 
+modification du CA et un complément de crédit de 
+prélèvement. 
+Mis à zéro si fichier non exploitable ou fichier de 
+déclarations principale
+
+----- page 31 -----
+31
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+Les informations des messages DPGR_UCN permettent de constituer un fichier XML dont les 
+caractéristiques techniques sont abordées dans la suite du document. 
+4.3.3 Description structure XML 
+Remarque : Flux généré en retour par l’Urssaf à la suite de l’envoi d’un flux « Déclaration » par une 
+plateforme numérique.
+
+----- page 32 -----
+32
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+4.3.4 DPGR_UCN 
+N°Zone 
+Or Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+ 
+ 
+ 
+DPGR_UCN 
+<dpgr:DPGR_UCN> 
+[1..1] 
+ 
+ 
+V 
+Elément racine 
+ 
+ 
+ 
+DPGR_UCN 
+version= 
+[1..1] 
+Max 10 char 
+String 
+V 
+Version du schéma DPGR utilisée 
+pour créer le flux. (1.0 pour la version 
+initiale décrite dans ce document) 
+1 
+ 
+> 
+MessageSpec 
+<dpgr:MessageSpec> 
+[1..1] 
+ 
+dpgr:MessageSpec_Type 
+V 
+ 
+2 
+ 
+> 
+DPGRBody 
+<dpgr:DPGRBody> 
+[1..1] 
+ 
+dpgr:DPGR_Type 
+V 
+ 
+ 
+4.3.5 DPGR_UCN / MessageSpec (dpgr:MessageSpec_Type) 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1 
+ 
+ 
+MessageSpec 
+<dpgr:DPGR_UCN> 
+[1..1] 
+ 
+dpgr:MessageSpec_Type 
+V 
+ 
+1.1 
+ 
+> 
+MessageType 
+<dpgr:MessageType> 
+[1..1] 
+ 
+dpgr:MessageType 
+V 
+Seule Valeur possible = DPGR ou 
+DPGRSB (env. Bac à sable) 
+1.2 
+ 
+> 
+PlatformId 
+<dpgr:PlatformId> 
+[1..1] 
+7 char 
+xs:string 
+V 
+Identifiant unique de la plateforme, 
+fourni en retour d’inscription par 
+l’Urssaf 
+1.3 
+ 
+> 
+RefDate 
+<dpgr:RefDate> 
+[1..1] 
+ 
+xs:string 
+V 
+Pour un MessageType 
+{DPDE,DPDESB} Mois de 
+prélèvement du fichier de déclaration. 
+Pour un MessageType {DPRE} 
+Année et le mois pour lequel le 
+message a été constitué. 
+Format AAAA-MM.
+
+----- page 33 -----
+33
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1.4 
+ 
+> 
+SequenceNumber
+<dpgr:SequenceNumber>
+[1..1] 
+ 
+3 digit 
+V 
+Numéro de séquence du flux fixé par 
+le dépositaire. 
+1.5 
+ 
+> 
+MessageRefId 
+<dpgr:MessageRefId> 
+[0..1] 
+Free text. 
+Max 88 char 
+xs:string 
+F 
+Identifiant de message fixé librement 
+par le dépositaire, il permet de faciliter 
+le chainage avec le fichier déposé. 
+Cet identifiant ne peut pas contenir de 
+point-virgule « ; ». Ce caractère sera 
+changé pour une virgule « , » si 
+présent au dépôt. 
+1.6 
+ 
+> 
+ReceptionDate 
+<dpgr:ReceptionDate> 
+[1..1] 
+ 
+xs:dateTime 
+\d{4}-\d{2}-\d{2} 
+\d{2}:\d{2}:\d{2}\.\d{1,6} 
+V 
+Date et heure de la réception du fichier 
+par l’Urssaf. 
+Format: AAAA-MM-JJ 
+hh:mm:ss.nnnnnn.  
+1.7 
+ 
+> 
+UrssafRef 
+<dpgr:UrssafRef> 
+[1..1] 
+ 
+xs:uuidType 
+[0-9a-fA-F]{8}-[0-9a-fA-
+F]{4}-[0-9a-fA-F]{4}-[0-9a-
+fA-F]{4}-[0-9a-fA-F]{12} 
+V 
+Référence unique produite pour le 
+système d’information de l’Urssaf. 
+1.8 
+ 
+>  
+Timestamp 
+<dpgr:Timestamp> 
+[1..1] 
+ 
+xs:timestamp 
+\d{4}-\d{2}-\d{2} 
+\d{2}:\d{2}:\d{2}\.\d{1,6} 
+V 
+Date et heure de génération du 
+rapport. 
+Format AAAA-MM-JJ 
+hh:mm:ss.nnnnnn.  
+ 
+ 
+4.3.6 DPGR_UCN / DPGRBody (dpgr:Body_Type) 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+2 
+ 
+ 
+DPGRBody 
+ 
+[1..1] 
+ 
+dpgr:DPGR_Type 
+V 
+Une seule déclaration est 
+autorisée par fichier
+
+----- page 34 -----
+34
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+2.1 
+ 
+> 
+FileStatus 
+<dpgr:FileStatus> 
+[1..1] 
+ 
+xs:string 
+V 
+Deux valeurs possibles : 
+{« processed », « rejected »} 
+2.2 
+ 
+> 
+RejectionReason 
+<dpgr:RejectionReason > 
+[0..1] 
+ 
+xs:string 
+F 
+Motif de rejet 
+2.3 
+ 
+> 
+RejectionReasonDetail 
+<dpgr:RejectionReasonDetail > 
+[0..1] 
+ 
+xs:string 
+F 
+Information complémentaire 
+du rejet 
+2.4 
+ 
+> 
+UnidentifiableUsers 
+<dpgr:UnidentifiableUsers> 
+[1..1] 
+ 
+xs:integer 
+V 
+Nombre d’utilisateurs non 
+identifiables  
+2.5 
+ 
+> 
+IdentifiedUsersAE 
+<dpgr:IdentifiedUsersAE> 
+[1..1] 
+ 
+xs:integer 
+V 
+Nombre d’utilisateurs 
+identifiés dans le champ du 
+prélèvement pour la période 
+2.6 
+ 
+> 
+UnidentifiedUsersAE 
+<dpgr:UnidentifiedUsersAE> 
+[1..1] 
+ 
+xs:integer 
+V 
+Nombre d’utilisateurs non 
+identifiés dans le champ du 
+prélèvement pour la période 
+2.7 
+ 
+> 
+NbDecReceived 
+<dpgr:NbDecReceived> 
+[1..1] 
+ 
+xs:integer 
+V 
+Nombre de déclarations 
+présentes dans le fichier de 
+la plateforme. 
+Mis à zéro si fichier non 
+exploitable 
+2.8 
+ 
+> 
+TotalAmountCA 
+<dpgr:TotalAmountCA> 
+[1..1] 
+ 
+xs:decimal 
+V 
+Somme des montants de CA 
+des déclarations présentes 
+dans le fichier de la 
+plateforme. 
+Mis à zéro si fichier non 
+exploitable 
+2.9 
+ 
+> 
+TotalAmountWithholding 
+<dpgr:TotalAmountWithholding> 
+[1..1] 
+ 
+xs:decimal 
+V 
+Somme des montants de 
+prélèvement des déclarations 
+présentes dans le fichier de 
+la plateforme. 
+Mis à zéro si fichier non 
+exploitable
+
+----- page 35 -----
+35
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+2.10 
+ 
+> 
+NbDecRejected 
+<dpgr:NbDecRejected> 
+[1..1] 
+ 
+xs:integer 
+V 
+Nombre de déclarations 
+ayant fait l’objet d’un rejet 
+ Mis à zéro si fichier non 
+exploitable 
+2.11 
+ 
+> 
+TotalAmountCaDecRejected
+<dpgr:TotalAmountCADecRejected>
+[1..1] 
+ 
+xs:decimal 
+V 
+Somme des montants de CA 
+des déclarations présentes 
+dans le fichier de la 
+plateforme et ayant fait l’objet 
+d’un rejet. 
+ Mis à zéro si fichier non 
+exploitable 
+2.12 
+ 
+> 
+TotalAmountDecRejected 
+<dpgr:TotalAmountDecRejected> 
+[1..1] 
+ 
+xs:decimal 
+V 
+Somme des montants de 
+prélèvements des 
+déclarations présentes dans 
+le fichier de la plateforme et 
+ayant fait l’objet d’un rejet. 
+Mis à zéro si fichier non 
+exploitable 
+2.13 
+ 
+> 
+NbRegWithoutCredit 
+<dpgr:NbRegWithoutCredit> 
+[0..1] 
+ 
+xs:integer 
+F 
+Nombre de déclarations de 
+régularisation uniquement du 
+CA (sans complément de 
+crédit de prélèvement) 
+Mis à zéro si fichier non 
+exploitable ou fichier de 
+déclarations principale. 
+2.14 
+ 
+> 
+NbRegWithoutCA 
+<dpgr:NbRegWithoutCA> 
+[0..1] 
+ 
+xs:integer 
+F 
+Nombre de déclarations de 
+régularisation avec 
+uniquement un complément 
+de crédit de prélèvement 
+(sans modification du CA) 
+Mis à zéro si fichier non 
+exploitable ou fichier de 
+déclarations principale. 
+2.15 
+ 
+> 
+NbRegWithCaAndCredit 
+<dpgr:NbRegWithCaAndCredit> 
+[0..1] 
+ 
+xs:integer 
+F 
+Nombre de déclarations de 
+régularisation avec une
+
+----- page 36 -----
+36
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+modification du CA et un 
+complément de crédit de 
+prélèvement. 
+Mis à zéro si fichier non 
+exploitable ou fichier de 
+déclarations principale.
+
+----- page 37 -----
+37
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+5. FICHIER RAPPORT DETAILLE  
+5.1 Les règles métiers 
+Le rapport détaillé est généré uniquement si le fichier de déclaration n’a pas été rejeté lors de la phase 
+de contrôle de niveau 1.  
+Il indique pour chaque utilisateur transmis dans le fichier déclaration :  
+- 
+Si ce dernier a été reconnu comme étant dans le champ du prélèvement par l’Urssaf, 
+ou non, via l’indicateur « Utilisateur identifié »  
+ 
+- 
+Si la déclaration est conforme, c’est-à-dire valide pour la nature d’activité, la période, le 
+chiffre d’affaires et le montant de cotisation, via l’indicateur de « statut » et les éventuels 
+« signalements » correspondants. 
+ 
+ 
+5.2 Données renvoyées par l’Urssaf 
+Les données du Rapport Détaillé généré par l’Urssaf sont :  
+ 
+ 
+Données 
+Attribut 
+Commentaires 
+Général - MessageSpec 
+Type du fichier retour 
+MessageType 
+DPDR 
+Identifiant de la plateforme 
+PlatformId 
+Date de constitution du 
+message 
+RefDate 
+Pour un MessageType {DPDE,DPDESB} Mois de 
+prélèvement du fichier de déclaration. 
+Pour un MessageType {DPRE} 
+Année et le mois pour lequel le message a été 
+constitué. (AAAA-MM) 
+Numéro de séquence 
+SequenceNumber 
+Numéro de séquence fixé par le dépositaire. 
+Identifiant de corrélation du 
+fichier 
+MessageRefId 
+Identifiant de message fixé librement par le 
+dépositaire, il permet de faciliter le chainage avec 
+les rapports/fichiers produits en réponse au 
+traitement de ce flux. 
+Date de dépôt du fichier 
+ReceptionDate 
+Date technique de dépôt du message. 
+Référence Urssaf Unique  
+UrssafRef 
+Référence unique produite pour le système 
+d’information de l’Urssaf. 
+Date de génération du fichier 
+retour 
+Timestamp 
+Date de génération du rapport détaillé 
+Utilisateurs plateformes -   EntityDeclarationResult
+
+----- page 38 -----
+38
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+ 
+ 
+5.3 Format des fichiers d'échange 
+5.3.1 Schéma applicable 
+Le schéma utilisé par l’Urssaf est disponible dans la zone documentaire de la page Plateforme 
+Numérique sur urssaf.fr, à l’adresse suivante : https://www.urssaf.fr/accueil/tiers-declarant/plateforme-
+numerique.html (document : Plateforme numérique_Annexes Contrat Interface Identification_Schémas 
+XSD_FR) 
+Il s’agit de l’annexe 3 « Schéma XSD – Fichier rapport détaillé ». 
+ 
+5.3.2 Le message et les blocs de données 
+Au niveau le plus haut, le fichier comporte :  un bloc nommé DPDR_UCN encore appelé message 
+DPDR_UCN.  
+Le message DPDR_UCN est composé d'un bloc MessageSpec et d'un unique bloc DPDRBody.  
+Etat civil -    EntityDeclarationResult 
+Nom 
+LastName 
+Présent si communiqué par la plateforme  
+Prénom 
+FirstName 
+Présent si communiqué par la plateforme  
+Date de naissance 
+BirthDate 
+Présent si communiqué par la plateforme  
+Lieu de naissance 
+PlaceOfBirth 
+Présent si communiqué par la plateforme  
+Identifiant de l’utilisateur -   EntityDeclarationResult 
+SIRET/SIREN 
+IN 
+SIREN ou SIRET renseigné par la plateforme 
+Identifiant utilisateurs 
+UserRefId 
+Présent si communiqué par la plateforme  
+Coordonnées de contact -  EntityDeclarationResult - ContactDetails 
+Adresse courriel 
+EmailAddress 
+Présent si communiqué par la plateforme  
+Téléphone 
+PhoneNumber 
+Présent si communiqué par la plateforme  
+Adresse postale - EntityDeclarationResult -  ContactDetails - PostalAddress 
+Adresse 1 
+Street1 
+Présent si communiqué par la plateforme  
+Adresse 2 
+Street2 
+Présent si communiqué par la plateforme  
+Code postal 
+PostalCode 
+Présent si communiqué par la plateforme  
+Ville 
+City 
+Présent si communiqué par la plateforme  
+Pays 
+Country 
+Présent si communiqué par la plateforme 
+Données déclarative -   EntityDeclarationResult- Activity 
+Mois de prélèvement 
+ReportingPeriod 
+Pour un fichier de régularisation, mois de prélèvement de 
+régularisation déclarée, absent sinon. 
+Code de l’activité 
+Code 
+Nature de l’activité déclarée 
+Montant du CA 
+Turnover 
+Montant du CA déclaré, avec décimales 
+Montant prélevé 
+ContributionAmount 
+Montant prélevé déclaré, avec décimales 
+N° d'identification de 
+TVA 
+VATIdentificationNumber 
+Numéro d’identification de TVA déclaré. 
+Indicateur TVA 
+déduite du CA 
+VATDeductedFromSalesIndicator 
+Indicateur TVA déclaré. 
+Données retour pour la plateforme -  EntityDeclarationResult – Activity 
+Status 
+DeclarationStatus 
+Statuts de prise en compte de la déclaration {« Processed », 
+« Rejected »} 
+Indicateur 
+« Utilisateur 
+identifié » 
+ReconciliationStatus 
+Valeurs possibles {0,1,2} 
+0 - Utilisateur non identifiable. 
+1 - Utilisateur dans le champ du prélèvement.  
+2 - Utilisateur hors champ du prélèvement. 
+Listes des signalements – EntityDeclarationResult – Activity - ReportStates 
+Signalement 
+ReportState 
+La liste des signalements est précisée au chapitre 3.5
+
+----- page 39 -----
+39
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+Le bloc MessageSpec caractérise le message DPDR_UCN tandis que le bloc DPDRBody contient le 
+résultat de déclaration de chaque utilisateur (EntityDeclarationResult) ainsi que d’éventuels 
+signalements. 
+Une attention particulière est appelée sur la taille maximale du message qui ne peut excéder 100 Mo 
+après compression. 
+ 
+5.3.3 Le message et les informations techniques d'identification 
+Le message DPDR_UCN comporte des informations techniques qui visent à identifier, de manière 
+unique et non ambiguë, les blocs de message DPDR_UCN. 
+Ces informations techniques sont obligatoires. Elles se trouvent dans : 
+ le bloc MessageSpec (de niveau message) ; 
+ le bloc EntityDeclarationResult (de niveau bloc d'information). 
+ 
+ 
+5.3.4 Description structure XML 
+Remarque : Flux généré en retour par l’Urssaf à la suite de l’envoi d’un flux « déclaration » par une 
+plateforme numérique si le fichier n’a pas été rejeté au moment des contrôles de premier niveau.
+
+----- page 40 -----
+40
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+5.3.5 DPDR_UCN 
+N°Zone
+Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence
+Commentaire 
+ 
+ 
+ 
+DPDR_UCN 
+<dpdr:DPDR_UCN> 
+[1..1] 
+ 
+ 
+V 
+ 
+ 
+ 
+ 
+DPDR_UCN 
+version= 
+[1..1] 
+Max 10 
+char 
+String 
+V 
+Version du schéma DPDR utilisée 
+pour créer le flux (1.0 pour la version 
+initiale décrite dans ce document) 
+1 
+ 
+> 
+MessageSpec 
+<dpdr:MessageSpec> 
+[1..1] 
+ 
+dpdr:MessageSpec_Type
+V 
+ 
+2 
+ 
+> 
+DPDRBody 
+<dpdr:DPDRBody> 
+[1..1] 
+ 
+dpdr:DPDR_Type 
+V 
+ 
+ 
+5.3.6 DPDR_UCN / MessageSpec (dpdr:MessageSpec_Type) 
+N°Zone
+Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1 
+ 
+ 
+MessageSpec 
+<dpdr:DPDR_UCN> 
+[1..1] 
+ 
+dpdr:MessageSpec_Type 
+V 
+ 
+1.1 
+ 
+> 
+MessageType 
+<dpdr:MessageType> 
+[1..1] 
+ 
+dpdr:MessageType 
+V 
+Valeur possible = DPDR ou 
+DPDRSB (env. Bac à sable) 
+1.2 
+ 
+> 
+PlatformId 
+<dpdr:PlatformId> 
+[1..1] 
+ 
+xs:string: 
+V 
+Identifiant de la plateforme 
+fournie en retour de la phase 
+d’inscription 
+1.3 
+ 
+> 
+RefDate 
+<dpdr:RefDate > 
+[1..1] 
+ 
+xs:string 
+V 
+Pour un MessageType 
+{DPDE,DPDESB} Mois de 
+prélèvement du fichier de 
+déclaration. 
+Pour un MessageType {DPRE}
+
+----- page 41 -----
+41
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone
+Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+Année et le mois pour lequel le 
+message a été constitué (AAAA-
+MM). 
+1.4 
+ 
+> 
+SequenceNumber 
+<dpdr:SequenceNumber> 
+[1..1] 
+ 
+3 digit 
+V 
+Numéro de séquence fixé par le 
+dépositaire. 
+1.5 
+ 
+> 
+MessageRefID 
+<dpdr:MessageRefId> 
+[0..1] 
+Free text. 
+Max 88 
+char 
+xs:string 
+F 
+Identifiant de message fixé 
+librement par le dépositaire, il 
+permet de faciliter le chainage 
+avec le fichier déposé. 
+Cet identifiant ne peut pas 
+contenir de point-virgule « ; ». Ce 
+caractère sera changé pour une 
+virgule « , » si présent au dépôt. 
+1.6 
+ 
+> 
+ReceptionDate 
+<dpdr:ReceptionDate> 
+[1..1] 
+ 
+xs:timestamp 
+\d{4}-\d{2}-\d{2} 
+\d{2}:\d{2}:\d{2}\.\d{1,6} 
+V 
+Date et heure de la réception du 
+fichier par l’Urssaf. 
+Format: AAAA-MM-JJ 
+hh:mm:ss.nnnnnn.  
+1.7 
+ 
+> 
+UrssafRef 
+<dpdr:UrssafRef> 
+[1..1] 
+ 
+xs:uuidType 
+[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-
+[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-
+[0-9a-fA-F]{12} 
+V 
+Référence unique produite pour 
+le système d’information de 
+l’Urssaf. 
+1.8 
+ 
+>  
+Timestamp 
+<dpdr:Timestamp> 
+[1..1] 
+ 
+xs:timestamp 
+\d{4}-\d{2}-\d{2} 
+\d{2}:\d{2}:\d{2}\.\d{1,6} 
+V 
+Date et heure de génération du 
+rapport. 
+Le format est le suivant : AAAA-
+MM-JJ hh:mm:ss.nnnnnn.
+
+----- page 42 -----
+42
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+5.3.7 DPDR_UCN / DPDRBody (dpdr:Body_Type) 
+N°Zone
+Or 
+Niveau
+Objet 
+<balise XML> 
+Multi
+Taille 
+Type 
+Exigence
+Commentaire 
+2 
+ 
+ 
+DPDRBody 
+ 
+[1..1] 
+ 
+dpdr:DPRDR_Type 
+V 
+ 
+2.1 
+ 
+> 
+EntityDeclarationResult
+<dpdr:EntityDeclarationResult>
+[1..n] 
+ 
+dpdr:EntityDeclarationResult_Type 
+V 
+ 
+5.3.8 DPDR_UCN / DPDRBody / EntityUserResult (dpdr:EntityUserResult_Type) 
+N°Zone
+Or Niveau
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence
+Commentaire 
+2.1 
+ 
+> 
+EntityDeclarationResult
+<dpdr:EntityDeclarationResult>
+[0..N] 
+ 
+dpdr:EntityDeclarationResult_Type
+V
+2.1.1 
+ 
+> 
+IN 
+<dpdr:IN> 
+[1..1] 
+14 digit 
+or 9 
+digits 
+xs:string 
+V 
+SIREN/SIRET référencé 
+lors du dépôt  
+2.1.2 
+ 
+> 
+LastName 
+<dpdr:LastName> 
+[0..1] 
+ 
+xs:string 
+F 
+Nom de l’utilisateur si 
+communiqué lors du 
+dépôt. 
+2.1.3 
+ 
+> 
+FirstName 
+<dpdr:FirstName> 
+[0..1] 
+ 
+xs:string 
+F 
+Prénom de l’utilisateur si 
+communiqué lors du 
+dépôt. 
+2.1.4 
+ 
+> 
+BirthDate 
+<dpdr:BirthDate> 
+[0..1] 
+ 
+xs:string 
+F 
+Date de naissance si 
+communiquée lors du 
+dépôt. 
+2.1.5 
+ 
+> 
+PlaceOfBirth 
+<dpdr:PlaceOfBirth> 
+[0..1] 
+ 
+xs:string 
+F 
+Lieu de naissance si 
+communiqué lors du 
+dépôt. 
+2.1.6 
+ 
+> 
+UserRefId 
+<dpdr:UserRefID> 
+[0..1] 
+88 char 
+max. 
+xs:string 
+F 
+Identifiant de l’utilisateur 
+fixé librement par le 
+dépositaire 
+Cet identifiant ne peut 
+pas contenir de point-
+virgule « ; ». Ce
+
+----- page 43 -----
+43
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone
+Or Niveau
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence
+Commentaire 
+caractère sera changé 
+pour une virgule « , » si 
+présent au dépôt. 
+2.1.7 
+ 
+> 
+ContactDetails 
+<dpdr:ContactDetails_Type> 
+[1..1] 
+ 
+dpdr:ContactDetails_Type 
+V 
+Informations de contact 
+fournies par la 
+plateforme. 
+2.1.8 
+ 
+> 
+Activity 
+<dpdr:ActivityResult_Type> 
+[1..1] 
+ 
+dpdr:ActivityResult_Type 
+V 
+Résultat de la prise en 
+compte de la déclaration 
+par nature d’activité 
+ 
+5.3.9 DPDR_UCN / DPDRBody / EntityUserResult / ContactDetails (dpid:ContactDetails_Type) 
+N°Zone
+Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence
+Commentaire 
+2.1.7 
+ 
+ 
+ContactDetails 
+<dpdr:ContactDetails> 
+[1..1] 
+ 
+dpdr:ContactDetails_Type 
+V 
+Information de contact de 
+l’utilisateur fournie par la 
+plateforme 
+2.1.7.1 
+ 
+> 
+PostalAddress 
+<dpdr: PostalAddress> 
+[0..1] 
+ 
+dpdr:PostalAddress_Type 
+F 
+Information sur l’adresse 
+postale de l’utilisateur  
+2.1.7.2 
+ 
+> 
+EmailAddress 
+<dpdr:EmailAddress> 
+[0..1] 
+ 
+xs:string 
+F 
+Adresse courriel 
+2.1.7.3 
+ 
+> 
+PhoneNumber 
+<dpdr:PhoneNumber> 
+[0..1] 
+ 
+xs:string 
+F 
+Numéro de téléphone 
+ 
+5.3.10 DPDR_UCN / DPDRBody / EntityUserResult / ContactDetails / PostalAddress (dpid:PostalAddress_Type) 
+ 
+N°Zone
+Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence
+Commentaire 
+2.1.7.1 
+ 
+ 
+PostalAddress 
+<dpdr:PostalAddress> 
+[0..1] 
+ 
+dpdr:PostalAddress_Type 
+F 
+Information sur l’adresse 
+postale de l’utilisateur
+
+----- page 44 -----
+44
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+2.1.7.1.1
+ 
+> 
+Street1 
+<dpdr: Street1> 
+[0..1] 
+ 
+xs:string 
+F 
+Le numéro de voie, le type de 
+voie ainsi que le nom de la voie, 
+exemple :  
+8, rue des Lilas  
+2.1.7.1.2
+ 
+> 
+Street2 
+<dpdr: Street2> 
+[0..1] 
+ 
+xs:string 
+F 
+Champ spécifique aux 
+informations secondaires de 
+l’adresse de l’utilisateur. Peut 
+contenir un numéro 
+d’appartement, un étage ou un 
+bâtiment, exemple : 
+Batiment B, 3 ème étage 
+2.1.7.1.3
+ 
+> 
+PostalCode 
+<dpdr: PostalCode> 
+[0..1] 
+ 
+xs:string 
+F 
+Code postal, exemple :  
+75001 
+2.1.7.1.4
+ 
+> 
+City 
+<dpdr:City> 
+[0..1] 
+ 
+xs:string 
+F 
+Ville, exemple :  
+Paris 
+2.1.7.1.5
+ 
+> 
+Country 
+<dpdr:Country> 
+[0..1] 
+ 
+xs:string 
+F 
+Pays, exemple :  
+France 
+ 
+5.3.11 DPDR_UCN / DPDRBody / EntityDeclarationResult / Activity (dpdr:ActivityResult_Type) 
+N°Zone
+Or
+Niveau Objet
+<balise XML>
+Multi
+Taille
+Type
+Exigence Commentaire
+2.1.8 
+ 
+> 
+Activity 
+<dpdr:Activity> 
+[1..1] 
+ 
+dpdr:ActivityResult_Type 
+V 
+Résultat de la prise en 
+compte de la 
+déclaration par nature 
+d’activité 
+2.1.8.1 
+ 
+> 
+ReportingPeriod 
+<dpdr:ReportingPeriod>
+[0..1] 
+ 
+xs:string 
+F 
+Pour un fichier de 
+régularisation, mois de 
+prélèvement de 
+régularisation déclarée, 
+absent sinon 
+2.1.8.2 
+ 
+> 
+Code 
+<dpdr:Code> 
+[1..1] 
+ 
+xs:string 
+V 
+Code de la nature 
+d’activité 
+2.1.8.3 
+ 
+> 
+Turnover 
+<dpdr:Turnover> 
+[1..1] 
+ 
+xs:decimal 
+V 
+Chiffre d'affaires
+
+----- page 45 -----
+45
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone
+Or
+Niveau Objet
+<balise XML>
+Multi
+Taille
+Type
+Exigence Commentaire
+MessageType {DPRE} 
+ 
+Cette donnée est 
+facultative pour un 
+flux de régularisation. 
+Au moins l’un des 
+deux champs 
+Turnover ou 
+ContributionAmount 
+doit être fourni dans 
+le bloc 
+EntityUserDeclaration, 
+ou les deux. 
+ 
+MessageType 
+{DPDE,DPDESB} 
+Cette donnée est 
+obligatoire. 
+2.1.8.4 
+ 
+> 
+ContributionAmount 
+<dpdr:ContributionAmount> 
+[1..1] 
+ 
+xs:decimals 
+V 
+Montant de la cotisation 
+ 
+MessageType {DPRE} 
+ 
+Cette donnée est 
+facultative pour un 
+flux de régularisation. 
+Au moins l’un des 
+deux champs 
+Turnover ou 
+ContributionAmount 
+doit être fourni dans 
+le bloc 
+EntityUserDeclaration, 
+ou les deux. 
+ 
+MessageType 
+{DPDE,DPDESB} 
+Cette donnée est 
+obligatoire.
+
+----- page 46 -----
+46
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone
+Or
+Niveau Objet
+<balise XML>
+Multi
+Taille
+Type
+Exigence Commentaire
+2.1.8.5 
+ 
+> 
+VATIdentificationNumber 
+<dpdr:VATIdentificationNumber> 
+[0..1] 
+ 
+xs:string 
+F 
+Numéro d’identification 
+de TVA de l’utilisateur si 
+la plateforme le connait. 
+Ce numéro est 
+obligatoire si la 
+plateforme indique pour 
+cette nature d’activité 
+que le montant de CA 
+qu’elle transmet est 
+hors TVA (indicateur 
+TVA déduite du CA à 
+« Oui »). De façon 
+générale, si l’indicateur 
+TVA déduite du CA est 
+renseigné alors le 
+Numéro d’identification 
+de TVA doit être 
+renseigné 
+2.1.8.6 
+ 
+> 
+VATDeductedFromSalesIndicator
+<dpdr:VATDeductedFromSalesIndicator>
+[0..1] 
+1 
+xs:string 
+0 or 1 
+F 
+Obligatoire si le N° 
+d'identification de TVA 
+est renseigné. 
+« 1 » si le montant de 
+CA déclaré par la 
+plateforme est hors 
+TVA. 
+« 0 » si la plateforme ne 
+connait pas le montant 
+de TVA  
+2.1.8.7 
+ 
+> 
+DeclarationStatus 
+<dpdr:DeclarationStatus>
+[1..1] 
+ 
+xs:string 
+V 
+Deux valeurs 
+possibles : 
+{« processed », 
+« rejected »} 
+2.1.8.8 
+ 
+> 
+ReconciliationStatus 
+<dpdr:ReconciliationStatus> 
+[1..1] 
+ 
+xs:enum 
+V 
+Indicateur « Utilisateur 
+identifié » 
+ 
+2.1.8.9 
+ 
+> 
+ReportStates 
+<dpdr:ReportStates> 
+[0..1] 
+ 
+Dpdr :ReportStates_Type
+F 
+Liste des d’anomalies 
+éventuelles.
+
+----- page 47 -----
+47
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+N°Zone
+Or
+Niveau Objet
+<balise XML>
+Multi
+Taille
+Type
+Exigence Commentaire
+2.1.8.9.1  
+ 
+ReportState 
+<dpdr:ReportState> 
+[0..N] 
+ 
+xs:string 
+F 
+Motifs d’anomalies 
+restituées dans leur 
+ordre de priorité.
+
+----- page 48 -----
+48
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+6. FICHIER DES UTILISATEURS AVEC 
+SIGNALEMENT 
+6.1 Les règles métiers 
+Le fichier des utilisateurs avec signalement est généré dès lors qu’au moins un utilisateur présent dans 
+le flux de déclaration ou de régularisation transmis par la plateforme fait l’objet d’un signalement.  
+6.2 Format du fichier d’échange 
+Le fichier est au format CSV, encodé UTF-8 avec un séparateur point-virgule ( ; ). On a la présence 
+d’une ligne d’en-tête définie juste après 
+En-tête 
+Description 
+MessageType 
+DPUA ou DPUASB pour un flux bac à sable 
+Platformid 
+Identifiant de la plateforme fourni en retour de la phase d’inscription 
+MessageRefid 
+Identifiant de message fixé librement par le dépositaire, il permet de faciliter le 
+chainage avec le fichier déposé. 
+UrssafRef 
+Référence unique produite pour le système d’information de l’Urssaf. 
+ReceptionDate 
+Date et heure de la réception du fichier par l’Urssaf. YYYY-MM-DD 
+hh:mm:ss.nnnnnn 
+IN 
+SIREN/SIRET référencé lors du dépôt 
+LastName 
+Nom de l’utilisateur si communiqué lors du dépôt 
+FirstName 
+Prénom de l’utilisateur si communiqué lors du dépôt 
+UserRefId 
+Identifiant de l’utilisateur fixé librement par le dépositaire. 
+ReportingPeriod 
+Mois de prélèvement de l’activité (AAAA-MM) 
+Code 
+Code de la nature d’activité 
+ReportState 
+De 1 à n signalements possibles pour l’utilisateur et pour la déclaration. 
+La liste des signalements est précisée en 3.5.7 et 3.5.8.  
+Chaque signalement est séparé par une virgule.
+
+----- page 49 -----
+49
+ 
+ 
+Contrat d’interface : Phase Déclaration 
+7. ASSISTANCE 
+Pour toute question ou besoin d’accompagnement, nous vous invitons à contacter l’Urssaf en utilisant 
+le 
+formulaire 
+de 
+contact 
+disponible 
+sur 
+la 
+page 
+Plateforme 
+numérique 
+d’urssaf.fr : 
+https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html

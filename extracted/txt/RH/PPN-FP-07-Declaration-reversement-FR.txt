@@ -1,0 +1,186 @@
+
+----- page 1 -----
+Dispositif de prélèvement à la source des cotisations sociales 
+des auto-entrepreneurs par les plateformes numériques 
+Déclaration et reversement
+Fiche pratique n°07 / VFR-2026-1
+1
+LA DÉCLARATION MENSUELLE ET LE REVERSEMENT DES SOMMES PRÉLEVÉES
+Obligations de déclaration et de reversement par les plateformes
+Chaque début de mois M+1, la plateforme doit au titre des prélèvements réalisés en M :
+•
+transmettre à l’Urssaf un fichier de déclaration contenant, pour chaque utilisateur ayant fait l’objet d’un prélèvement en M, le chiffre d’affaires réalisé par nature 
+d’activité et le montant des cotisations prélevées (cf. contrat d’interface « Déclaration » pour plus de détails)
+•
+reverser à l’Urssaf le montant total des cotisations sociales prélevées au cours du mois M, par virement bancaire (virement PIS ou virement classique)
+La déclaration et le reversement à l’Urssaf doivent être réalisés au plus tard le 10 du mois M+1 (ou le jour ouvré qui précède).
+Enchainement des opérations
+1.
+La plateforme transmet à l’Urssaf le fichier de déclaration mensuel.
+2.
+S’il est techniquement exploitable, les liens pour réaliser le virement bancaire sont générés automatiquement et accessibles depuis l’espace connecté du portail
+Plateforme numérique. Sinon, le fichier est rejeté.
+3.
+La plateforme réalise le virement bancaire.
+Le fichier de déclaration n’est accepté par l’Urssaf que si le virement a été reçu par l’Urssaf et que son montant correspond au total des cotisations sociales prélevées 
+calculé à partir du fichier de déclaration. 
+Si le montant du virement bancaire est cohérent avec le fichier de déclaration, l’Urssaf génère un rapport détaillé indiquant pour chaque déclaration si elle a été 
+acceptée ou refusée, avec éventuellement des signalements associés.
+Si un écart est détecté, le fichier est rejeté. La Cellule d’Interlocution Plateforme de l’Urssaf se mettra en rapport avec la plateforme et, si nécessaire, un lien pour la 
+réalisation d’un virement complémentaire sera généré.
+Déclaration et reversement dans le cadre d’une régularisation
+Le principe est le même pour une régularisation, mais le fichier de régularisation ne s’accompagne pas nécessairement d’un reversement complémentaire (cf. 
+fiche pratique n°08 concernant la procédure de régularisation). En effet, si la régularisation ne porte pas sur les cotisations prélevées, il n’ y a pas de paiement à réaliser 
+par la plateforme.
+
+----- page 2 -----
+Dispositif de prélèvement à la source des cotisations sociales 
+des auto-entrepreneurs par les plateformes numériques 
+Déclaration et reversement
+Fiche pratique n°07 / VFR-2026-1
+2
+CINÉMATIQUE DE DÉCLARATION ET DE REVERSEMENT À L’URSSAF
+DÉPÔT DU FICHIER
+(DÉCLARATION OU 
+RÉGULARISATION) 
+VÉRIFICATION DE 
+L’EXPLOITABILITÉ 
+TECHNIQUE
+Fichier non 
+exploitable 
+Fichier 
+exploitable 
+VÉRIFICATION DE 
+LA COHÉRENCE 
+ENTRE LE 
+VIREMENT ET LE 
+FICHIER
+RÉALISATION DU 
+VIREMENT 
+BANCAIRE 
+Egalité 
+entre 
+virement et 
+fichier 
+REJET DU 
+FICHIER
+MISE À 
+DISPOSITION DES 
+LIENS DE 
+PAIEMENT
+FICHIER  
+INTÉGRÉ
+RAPPORTS 
+GLOBAL +
+DÉTAILLÉ +
+SIGNALEMENTS
+MISE À JOUR DES 
+COMPTES AUTO-
+ENTREPRENEURS
+REJET DU 
+FICHIER
+Ecart entre 
+virement 
+et fichier 
+INTERLOCUTION URSSAF 
+AVEC LA PLATEFORME 
+RAPPORT 
+GLOBAL
+RAPPORT 
+GLOBAL
+Versement initial correct
+Fichier déclaration KO
+Versement initial KO : 
+inférieur à l’attendu
+Versement initial KO : 
+supérieur à l’attendu
+DÉPÔT D’UN 
+NOUVEAU FICHIER
+DÉPÔT D’UN 
+NOUVEAU FICHIER
+RÉALISATION D’UN 
+VERSEMENT 
+COMPLÉMENTAIRE
+DÉPÔT D’UN 
+NOUVEAU FICHIER
+REMBOURSEMENT 
+DE LA 
+PLATEFORME
+Pour chaque période (mois) de déclaration,
+une plateforme ne peut déposer qu’un seul
+fichier de déclaration valide.
+Si des modifications doivent être effectuées
+pour
+ce
+mois
+de
+déclaration
+(omissions,
+corrections, etc.), la plateforme doit passer par
+la procédure de régularisation : cf. fiche
+pratique n°08.
+PLATEFORME
+URSSAF
+FICHIER REJETÉ 
+FICHIER INTÉGRÉ
+RAPPORT
+LEGENDE
+VÉRIFICATION DE 
+L’EXPLOITABILITÉ 
+TECHNIQUE
+
+----- page 3 -----
+Dispositif de prélèvement à la source des cotisations sociales 
+des auto-entrepreneurs par les plateformes numériques 
+Déclaration et reversement
+Fiche pratique n°07 / VFR-2026-1
+3
+Virement PIS (Payment Initiation Service)
+Le virement PIS permet d’effectuer en toute sécurité, depuis votre espace connecté, un ordre de virement bancaire, au crédit de l’Urssaf. Le montant 
+du paiement (total des cotisations prélevées du fichier de déclaration), les coordonnées bancaires de l’Urssaf ainsi que les références du paiement sont 
+automatiquement transmises à votre banque afin d’éviter toute erreur de saisie.
+Dans la rubrique « Paiement », lien « Payer via virement PIS » : sélectionnez votre banque pour être redirigé vers votre espace bancaire. Pour finaliser 
+l’opération, vous devez vous connecter à votre espace bancaire et valider votre virement depuis votre banque en ligne.
+Virement classique
+Le virement classique est également accessible depuis votre espace connecté, dans la rubrique « Paiement », lien « Payer via virement classique ». 
+Une pop-in s’ouvre avec les informations obligatoires que vous devrez renseigner lors de votre ordre de virement : 
+-
+Le nom du bénéficiaire (l’Urssaf désignée)
+-
+L’IBAN et le BIC du bénéficiaire
+-
+La référence du virement
+-
+Le montant du paiement (total des cotisations prélevées du fichier de déclaration)
+Le reversement est à faire par virement bancaire, depuis le portail connecté dédié aux plateformes numériques, auprès d’une Urssaf désignée 
+(l’Urssaf Provence-Alpes-Côte-d’Azur). 
+Deux modes de virement sont proposés : virement PIS et virement classique. Le virement PIS est à privilégier (si l’établissement bancaire de la plateforme 
+relève de la zone SEPA et permet ce mode de virement). 
+Les deux liens de paiement sont mis à disposition dans l’espace connecté du portail Plateforme numérique (rubrique « Paiement »), après dépôt du fichier 
+de déclaration, si celui-ci est techniquement exploitable. Les montants sont exprimés en euros et au centime près.
+MODALITÉS DE REVERSEMENT À L’URSSAF
+
+----- page 4 -----
+Dispositif de prélèvement à la source des cotisations sociales 
+des auto-entrepreneurs par les plateformes numériques 
+Déclaration et reversement
+Fiche pratique n°07 / VFR-2026-1
+4
+Le remboursement est possible dans deux situations : 
+•
+En cas d’erreur de la plateforme, qui réalise un virement pour un montant supérieur à celui attendu (montant attendu = total des cotisations prélevées 
+indiqué dans le fichier de déclaration).
+•
+En cas de rejet d’une déclaration unitaire au sein du fichier de déclaration, par exemple du fait de l’impossibilité pour l’Urssaf d’identifier l’auto-
+entrepreneur concerné. Ce cas de figure ne devrait normalement pas se produire puisque la plateforme ne doit prélever que les utilisateurs reconnus par 
+l’Urssaf comme étant auto-entrepreneur lors de la phase d’identification.
+→C’est l’Urssaf qui détermine les cas devant donner lieu à remboursement et qui contactera la plateforme, via la Cellule d’Interlocution Plateforme de 
+l’Urssaf, notamment pour confirmer les coordonnées bancaires de la plateforme.
+Libellé de l’opération de remboursement
+Le remboursement opéré par l’Urssaf comportera une référence particulière (« libellé ») qui permettra à la plateforme de savoir quel versement a donné 
+lieu à ce remboursement : 
+Format :
+« REMBTURSSAF » + Libellé du virement initial émis par la plateforme
+Exemple : 
+REMBTURSSAF99SPPN99999002610I [remboursement en lien avec le virement classique 99SPPN99999002610I]
+EN CAS DE REMBOURSEMENT DE LA PLATEFORME PAR L’URSSAF

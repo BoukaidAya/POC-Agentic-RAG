@@ -1,0 +1,697 @@
+
+----- page 1 -----
+Enquête Utilisateurs OiRA
+NOVEMBRE 2024
+
+----- page 2 -----
+
+
+----- page 3 -----
+Introduction  
+OiRA (Online interactive risk assessment) est un outil porté par l’Agence européenne pour la sécurité et la 
+santé au travail (EU-OSHA) qui permet aux petites et moyennes entreprises (TPE – PME) de réaliser leur 
+évaluation des risques professionnels en ligne puis d’éditer leur Document unique et le plan d’action associé.  
+En France, les OiRA sont élaborés par l’INRS en lien avec les Carsat/Cramif/CGSS et en partenariat avec les 
+organisations professionnelles des métiers concernés. OiRA privilégie une approche par secteur d’activité, 
+actuellement 43 outils sectoriels sont disponibles sur le site de l’INRS.  
+Afin de mesurer la satisfaction des utilisateurs d’OiRA et de mieux connaître leur usage et leurs attentes vis-
+à-vis d’OiRA, l’INRS a mené une enquête de satisfaction auprès des utilisateurs qui avaient acceptés d’être 
+contactés lors de la création de leur compte sur OiRA. Cette enquête a permis de recueillir 553 réponses 
+d’utilisateurs.  
+ 
+Profil des répondants à l’enquête  
+OiRA est prioritairement destiné aux petites entreprises de 1 à 9 salariés, ne disposant généralement pas de 
+compétences spécifiques ou de ressources internes en prévention des risques professionnels. Son approche 
+de la prévention, qui se veut simple et concrète, convient néanmoins à de nombreuses entreprises pouvant 
+compter jusqu’à 50 salariés.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Les utilisateurs ayant répondus à l’enquête sont représentatifs de la cible à laquelle est destinée OiRA, des 
+utilisateurs principalement « non-préventeurs », travaillant à 85% dans des entreprises de moins de 50 
+salariés, dont 55% dans des entreprises de moins de 10 salariés.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1%
+4%
+5%
+9%
+12%
+14%
+14%
+42%
+0%
+10%
+20%
+30%
+40%
+50%
+Formateur
+IPRP
+Consultant
+Autre
+Chargé de prévention
+fonction adm
+Fonction RH
+Dirigeant, encadrement
+Profil des répondants : fonction
+55%
+30%
+10%
+5%
+Profil répondants : taille entreprise
+1-9
+10-49
+50-249
+250 ou plus
+
+----- page 4 -----
+Comment les entreprises ont-elles connaissance d’OiRA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Être identifié par les TPE-PME et les sensibiliser aux ressources et outils mis à leur disposition constitue l’une 
+des difficultés pour une offre du type OiRA. Les services de santé de prévention et de santé au travail 
+constituent un relai majeur de notre offre à destination des TPE et sont les deuxièmes vecteurs d’accès à 
+OiRA pour les entreprises, derrière une recherche sur internet.  
+ 
+ 
+ 
+Utilisation d’OiRA  
+Pour près de la moitié des utilisateurs (48%), OiRA est utilisé pour réaliser le premier document unique de 
+l’entreprise. Cela confirme la vocation d’OiRA à accompagner les petites entreprises dans leurs « premiers 
+pas » en matière de prévention des risques professionnels.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Près de 15 % des utilisateurs utilisent OiRA afin de trouver de l’information sur les risques professionnels de 
+leur secteur et OiRA est également utilisé dans le cadre de sessions de formations ou d’information.  
+ 
+ 
+ 
+8%
+12%
+15%
+17%
+48%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+Autre (formation, information…)
+Compléter le DUERP existant dans mon
+entreprise
+Trouver de l’information sur les risques 
+professionnels dans mon secteur
+Remplacer le DUERP existant dans mon
+entreprise
+Réaliser le DUERP de mon entreprise
+Vous avez utilisé Oira pour : 
+8%
+9%
+11%
+14%
+18%
+40%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+Autre
+Votre CARSAT, CRAMIF, CGSS
+Une organisation professionnelle
+Votre réseau professionnel : un collègue, un
+fournisseur, un client
+Votre service de médecine du travail
+Une recherche sur internet
+Au travers de quel canal avez-vous connu OiRA ?
+
+----- page 5 -----
+Mesure de la satisfaction  
+ 
+95% des utilisateurs d’OiRA répondent qu’OiRA a répondu « tout à fait » ou « partiellement » à leur besoin.  
+L’analyse des réponses « non plutôt pas » ou « non pas du tout » montre qu’il s’agit en majorité d’utilisateurs 
+n’ayant pas trouvé d’OiRA adapté à leur secteur d’activité.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+La simplicité d’utilisation de l’outil est appréciée par plus de 90% des utilisateurs. Il s’agit d’un élément 
+important d’une offre de prévention à destination des TPE-PME.  
+Environ 15% des participants émettent des réserves sur les documents téléchargés au terme de l’évaluation 
+des risques. Les principales attentes exprimées concernant le rapport et le plan d’action sont, d’une part, 
+plus de possibilité de personnalisation (pouvoir ajouter des photos ou des graphiques par exemple) et d’autre 
+part, de proposer des documents plus facilement communicables aux salariés (édition d’une synthèse en une 
+ou deux pages, édition d’un PDF plutôt que de deux documents en format Word et Excel, …).  
+ 
+ 
+63%
+32%
+4%
+1%
+OiRA a-t-il répondu à votre besoin ?
+Oui tout à fait
+Oui partiellement
+Non plutôt pas
+Non pas du tout
+95 %
+30%
+30%
+41%
+43%
+51%
+55%
+58%
+46%
+42%
+41%
+6%
+8%
+9%
+11%
+4%
+2%
+2%
+3%
+4%
+3%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+La pertinence des risques traités
+La pertinence des mesures proposées
+La présentation du Plan d’action
+La présentation du Rapport
+La simplicité d’utilisation de l’outil
+Diriez-vous que vous êtes satisfait d’OiRA concernant … ?
+Très satisfait
+Plutôt satisfait
+Pas vraiment satisfait
+Pas du tout satisfait
+
+----- page 6 -----
+Implication des salariés  
+ 
+L’implication des salariés dans la démarche d’évaluation des risques est un gage de réussite et d’efficacité de 
+la démarche de prévention. Cette implication des salariés est encouragée dans OiRA par un message 
+introductif et la possibilité de télécharger la liste des risques avant de commercer l’évaluation dans l’outil 
+afin de la partager avec les salariés et préparer l’évaluation des risques. 
+71 % des répondants ont effectivement réalisé l’évaluation des risques en impliquant les salariés et/ou 
+l’encadrement de l’entreprise et 60 % ont téléchargé la liste des risques en amont de leur évaluation des 
+risques mais seuls 16% l’ont partagé avec leurs salariés et près de 30% des utilisateurs n’ont pas vu que 
+cette possibilité leur était offerte dans OiRA.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(*) plusieurs réponses possibles  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (**) 2 réponses possibles  
+ 
+ 
+11%
+27%
+42%
+44%
+0%
+10%
+20%
+30%
+40%
+50%
+Avec une aide extérieure
+Avec l'encadrement
+Seul, je connais les risques
+Avec les salariés
+Réalisation de l'OiRA*
+6%
+6%
+10%
+10%
+18%
+24%
+27%
+0%
+10%
+20%
+30%
+Comptable
+Formateur
+CCI
+Responsable HSE
+IPRP
+SPST
+Consultant
+Aide extérieure 
+29%
+24%
+16%
+44%
+0%
+5%
+10% 15% 20% 25% 30% 35% 40% 45% 50%
+Non, je n'ai pas vu cette possibilité de téléchargement
+Non, j'ai préféré commencer diectement mon évaluation
+Oui pour la partager avec mes salariés
+Oui pour préparer mon évaluation
+Avez-vous téléchargé la liste des risques** ?
+
+----- page 7 -----
+Mise en œuvre de la démarche de prévention  
+L’évaluation des risques ne constitue que la première étape d’une démarche de prévention, l’objectif étant 
+la mise en œuvre de mesures permettant d’améliorer la santé et la sécurité des salariés.  
+85% des utilisateurs ayant répondu à l’enquête disent avoir mis en place des mesures préconisées dans 
+l’outil OiRA, en agissant principalement sur l’organisation du travail, la mise en place de nouvelles 
+formations pour les salariés et l’acquisition de nouvelles machines ou de nouveaux outils.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Parmi les répondants n’ayant « pas » ou « plutôt pas » mise en œuvre de mesures préconisées suite à 
+l’évaluation des risques, la principale raison est lié au caractère générique de ces mesures, qui restent 
+parfois difficiles à adapter au contexte de chaque entreprise.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(*) plusieurs réponses possibles. 
+ 
+ 
+ 
+59%
+26%
+10%
+5%
+Avez-vous mis en place des 
+mesures préconisées ?
+Oui partiellement
+Oui tout à fait
+Non plutôt pas
+Non pas du tout
+7%
+18%
+26%
+37%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+Mesures difficiles à comprendre
+Mesures difficiles à appliquer
+Pas identifié de mesures, risques maitrisés dans mon
+entreprise
+Mesures pas adaptées à mon entreprise
+Pourquoi ne pas avoir mis en oeuvre de mesures* ? 
+85% 
+9%
+25%
+30%
+36%
+38%
+38%
+0%
+10%
+20%
+30%
+40%
+Autre
+Modifié lieux ou postes
+Acquis des EPI
+Acquis des machines, des outils
+Nouvelles formations
+Fait évoluer l'organisation
+Nature des mesures mises en place
+
+----- page 8 -----
+Les bénéfices associés à l’utilisation d’OiRA  
+84 % des utilisateurs déclarent qu’OiRA leur a permis de mieux comprendre ce qu’était l’évaluation des 
+risques professionnels et d’améliorer la sécurité dans leur entreprise.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+L’analyse des commentaires laissés par les 15% des utilisateurs pour lesquels OiRA n’a pas permis d’améliorer 
+la sécurité dans leur entreprise permet d’identifier différents profils : ceux qui reconnaissent avoir réalisé 
+leur document unique par obligation, les utilisateurs à la recherche d’informations ou de simple mise à jour 
+de leur DUERP.  
+ 
+ 
+ 
+ 
+44%
+40%
+12%
+4%
+OiRA m’a permis d’améliorer la sécurité dans mon entreprise.
+Oui, plutôt
+Oui, tout à fait
+Non, plutôt pas
+Non, pas du tout
+84 % 
+55%
+45%
+43%
+38%
+38%
+33%
+40%
+28%
+36%
+45%
+45%
+47%
+43%
+44%
+17%
+14%
+11%
+15%
+9%
+17%
+12%
+5%
+2%
+2%
+7%
+7%
+4%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+IPRP
+Consultant
+Fonction adm
+RH
+Dirigeant
+Chargé de prévention
+TOTAL
+OiRA m'a permis de mieux comprendre ce qu'était l'EvRP 
+Oui, tout à fait
+Oui, plutôt
+Non, plutôt pas
+Non, pas du tout
+84 %
+
+----- page 9 -----
+Parmi les nouveaux risques identifiés par les utilisateurs, le télétravail, le droit à la déconnection ou les 
+risques psychosociaux sont plus particulièrement cités dans les commentaires.  
+ 
+ 
+Pour 77% des utilisateurs OiRA leur a permis 
+d’impliquer les salariés dans la démarche.  
+Le choix d’impliquer ou non les salariés, même si 
+cela est encouragé dans OiRA, ne relève pas 
+uniquement des fonctionnalités de l’outil. 
+Cependant, OiRA n’est pas un outil collaboratif, la 
+possibilité de partager l’évaluation des risques à 
+partir 
+de 
+l’outil 
+constitue 
+une 
+demande 
+d’amélioration des utilisateurs.  
+ 
+ 
+44%
+43%
+10%
+3%
+OiRA  m’a permis d’identifier de nouveaux 
+risques 
+Oui, tout à fait
+Oui, plutôt
+Non, plutôt pas
+Non, pas du tout
+50%
+38%
+9%
+3%
+OiRA  m’a permis d’identifier de nouvelles 
+mesures 
+Oui, plutôt
+Oui, tout à fait
+Non, plutôt pas
+Non, pas du tout
+87 % 
+88 % 
+41%
+36%
+16%
+7%
+OiRA  m’a permis d’impliquer mes salariés 
+dans la démarche
+Oui, plutôt
+Oui, tout à fait
+Non, plutôt pas
+Non, pas du tout
+
+----- page 10 -----
+Temps passé pour finaliser l’évaluation des risques avec OiRA 
+63 % des utilisateurs finalisent leur évaluation des risques avec OiRA en moins de 4 heures. Cette durée 
+semble raisonnable en regard de la capacité des TPE-PME à se mobiliser pour l’élaboration de leur DUERP.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mise à jour du DUERP avec OiRA 
+L’outil OiRA permet de dupliquer une précédente version de son évaluation des risques afin de créer une 
+copie et effectuer la mise à jour du DUERP. La version initiale est conservée dans OiRA.  
+Cette fonctionnalité est largement utilisée par les répondants à l’enquête, seuls 18% des utilisateurs 
+travaillent sur les documents téléchargés sans se reconnecter à OiRA.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15%
+12%
+41%
+32%
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+35%
+40%
+45%
+Plus de 6 heures
+Entre 4 et 6 heures
+Entre 2 et 4 heures
+Moins de 2 heures
+Estimation du temps passé pour finaliser l'évaluation des risques avec OiRA 
+53%
+29%
+18%
+Mise à jour du DUERP
+Je reprends l’évaluation en ligne avec OiRA, en mettant à jour la précédente évaluation
+Je ne sais pas / pas encore de MAJ
+Je travaille sur les documents téléchargés sur mon ordinateur, sans retourner dans OiRA
+
+----- page 11 -----
+Conclusion 
+L’outil OiRA répond largement à son objectif d’aider les TPE PME à réaliser leur évaluation des risques et à 
+mettre en place des actions concrètes visant à améliorer la santé et la sécurité des salariés de ces 
+entreprises.  95% des utilisateurs ayant répondu à l’enquête considèrent qu’OiRA a répondu à leur besoin 
+et 84 % déclarent qu’OiRA a permis d’améliorer la santé et la sécurité dans leur entreprise.  
+Des bénéfices secondaires sont également associés à OiRA comme une meilleure compréhension de ce 
+qu’est l’évaluation des risques professionnels, et dans une moindre mesure, la possibilité d’impliquer les 
+salariés dans la démarche.  
+Les attentes des utilisateurs vis-à-vis d’OiRA feront l’objet d’une analyse en lien avec l’Agence européenne 
+(EU OSHA) et les pays partenaires d’OiRA afin d’envisager les futures évolutions de l’outil dans le cadre des 
+mises à jour régulières dont bénéfice OiRA.

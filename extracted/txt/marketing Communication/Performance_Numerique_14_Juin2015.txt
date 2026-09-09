@@ -1,0 +1,344 @@
+
+----- page 1 -----
+> Principe de fonctionnement
+Le responsive design utilise une 
+technologie appelée « CSS3 Media 
+Queries » qui repose sur trois com-
+posantes : des règles, une grille fluide 
+et des images flexibles.
+Les règles
+Le responsive design s’appuie sur 
+des règles définies au moment du 
+développement du site. C’est princi-
+palement la largeur de l’écran utilisé 
+qui détermine le rendu visuel d’un 
+site.
+Trois ou quatre largeurs appelées « 
+point de rupture » sont définies et 
+vont servir de base pour réorganiser 
+le contenu du site.
+Voici un exemple de règle : 
+« Si la largeur de l’écran est comprise 
+entre 768 et 940 pixels de large, dé-
+placer le bloc en haut à droite sous le 
+bloc en haut à gauche ».
+Ces règles permettent 
+une infinité de varia-
+tions 
+: 
+apparition, 
+disparition, redimen-
+sionnement d’un bloc, 
+d’une image, de tout 
+ou partie d’un texte. 
+Les polices de carac-
+tères pourront égale-
+ment changer de cou-
+leur ou de style (gras, 
+italique…).
+Pour tester si un site est en responsive design, il 
+suffit de réduire la largeur de la fenêtre du navi-
+gateur Internet. Si c’est le cas, les blocs se réor-
+ganiseront automatiquement à chaque point de 
+rupture.
+ 
+Améliorer l’ergonomie mobile de son site 
+grâce au responsive design
+Depuis le 21 avril 2015, Google a décidé de déclasser les pages web qu’il ne considère pas « mobile 
+friendly » sur les recherches effectuées depuis un téléphone1. Les sites ne répondant pas à ses critères 
+d’ergonomie verront progressivement leur positionnement dégradé sur le mobile.
+Lorsque les premiers smartphones ont été mis sur le marché, la seule solution pour optimiser la 
+navigation d’un site sur un mobile consistait à créer un deuxième site dédié. Depuis 2010, une alternative 
+est apparue : le Responsive Web Design (RWD).
+Moins onéreuse qu’un site mobile, cette technique consiste à adapter la présentation d’un site en 
+fonction de la taille de l’écran du terminal utilisé par l’internaute : ordinateur de bureau ou ultraportable, 
+tablette (en mode portrait ou paysage), grand ou petit smartphone.
+Le texte, les images, le graphisme… Tous les éléments peuvent être déplacés, diminués, agrandis, 
+ajoutés ou supprimés pour assurer rendre le site utilisable sur n’importe quel support.
+Cette notice explique en quoi consiste le développement d’un site en responsive design : son 
+fonctionnement, ses limites et ses alternatives.
+Performance 
+numérique
+Votre rendez-vous mensuel
+Qu’est-ce que le responsive design ?
+CCI DORDOGNE - Performance numérique - JUIN 2015
+1
+1Le positionnement des sites sur les tablettes et ordinateurs n’est pas impacté.
+a.  Illustration de Guillermo Mont
+
+----- page 2 -----
+CCI DORDOGNE - Performance numérique - JUIN 2015
+2
+2 Phablette (phablet en anglais) : mot-valise obtenu par la contraction des mots « phone et « tablette ». Il s’agit d’un smartphone dont l’écran est presque aussi grand que celui d’une tablette.
+b.  Site avec un design statique
+c.  Site en responsive design
+Les grilles fluides
+La maquette d’un site en responsive 
+design est construite à partir de 
+blocs dont la largeur n’est pas définie 
+en nombre de pixels mais en pour-
+centage. Ainsi si un bloc fait 50% de 
+la page, il sera automatiquement re-
+dimensionné par rapport à la largeur 
+de l’écran.
+Flexibilité des images
+Les images sont également redimen-
+sionnées selon une valeur relative 
+afin d’éviter de déborder de l’écran 
+ou d’être déformées. Parfois elles 
+sont simplement supprimées pour 
+ne pas alourdir l’ensemble.
+Les techniques du responsive design s’appliquent 
+également aux gabarits de newsletter et d’emai-
+lings. L’enjeu est important car la consultation 
+de la messagerie se fait de plus en plus sur des 
+terminaux mobiles. Aux Etats-Unis, ceux-ci ont 
+même dépassé l’ordinateur pour la lecture des 
+emails.
+> Avantages
+Dompter le volume croissant de 
+résolutions
+L’arrivée des smartphones, des ordi-
+nateurs ultraportables, des tablettes 
+puis des phablettes2 a considérable-
+ment diversifié les tailles d’écran des 
+terminaux mobiles. Il suffit de consul-
+ter sur Google Analytics (Audience 
+> Mobiles > Appareils) la liste des 
+appareils utilisés pour naviguer sur 
+un site pour se rendre compte de la 
+variété des terminaux mobiles.
+Le responsive design offre une solu-
+tion multi-écrans et permet donc 
+avec un seul site de toucher une 
+large audience. 
+Choisir la solution la moins oné-
+reuse pour être «mobile friendly»
+Le développement d’un site mobile 
+ou d’une application coûte beau-
+coup plus cher qu’un site en res-
+ponsive design. Celui-ci présente 
+aussi l’avantage de limiter les coûts 
+de maintenance à un seul site.
+Avoir une adresse unique
+A la différence du site mobile, la ver-
+sion en responsive design permet 
+de conserver la même URL. L’adresse 
+unique a un double intérêt : un meil-
+leur référencement car le contenu 
+n’est pas dupliqué et une communi-
+cation externe simplifiée.
+Même s’il ne fait pas partie des cri-
+tères déterminant le positionnement 
+sur Google mobile, le RWD reste tou-
+tefois vivement recommandé par le 
+moteur de recherche.
+Gérer un contenu unique
+Même si tout n’apparaît pas, le 
+contenu reste le même sur un site en 
+responsive design. Peu d’efforts sup-
+plémentaires sont donc nécessaires 
+pour le mettre à jour.
+> Conception d’un site en RWD
+L’approche « Mobile first »
+Il s’agit de penser d’abord le design 
+du site sur la taille d’écran la plus pe-
+tite. Des éléments sont ensuite ajou-
+tés à cette maquette pour créer les 
+deux ou trois autres versions corres-
+pondant aux résolutions supérieures.
+Grâce à cette technique, les naviga-
+teurs mobiles peu puissants récu-
+pèrent uniquement les éléments 
+nécessaires. Si, au contraire, la version 
+pour ordinateur (desktop) est créée 
+en premier, les navigateurs mobiles 
+récupèrent l’ensemble des règles 
+puis suppriment et adaptent les élé-
+ments. Ce traitement risque ainsi de 
+ralentir le chargement du site, d’au-
+tant plus si le mobinaute ne béné-
+ficie pas d’une bonne connexion 
+Internet.
+Repenser le contenu mobile
+La création de la maquette mobile 
+doit correspondre aux besoins et aux 
+habitudes d’utilisation d’un smart-
+phone. Il est parfois nécessaire de re-
+penser le contenu éditorial en se de-
+mandant dans quelles circonstances 
+un mobinaute pourrait consulter le 
+site. 
+Il faut aller à l’essentiel, donner des 
+informations concises et amener 
+rapidement le mobinaute à l’action 
+souhaitée. Les coordonnées peuvent 
+ainsi être davantage mises en valeur 
+que sur la version desktop.
+Concilier les critères de Google et 
+des mobinautes
+Selon Google, une page web com-
+patible avec une visualisation mobile 
+doit présenter un contenu ajusté à la 
+taille de l’écran sans besoin de défi-
+lement horizontal ou de zoom. La 
+taille des polices doit être suffisam-
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - JUIN 2015
+3
+ment grande et les liens facilement 
+cliquables.
+Parfois, le rendu d’une page peut 
+être visuellement acceptable mais 
+ne pas satisfaire Google, par exemple 
+lorsque deux gros boutons sont trop 
+rapprochés l’un de l’autre. 
+A l’inverse, un contenu peut répondre 
+aux critères d’ergonomie de Google 
+mais poser problème au niveau du 
+rendu visuel. 
+Les pages du site sur la version mo-
+bile doivent à la fois séduire Google 
+et les mobinautes.
+Google met à disposition un test de compatibi-
+lité en ligne permettant de savoir si une page 
+est selon lui « mobile friendly »3. Des sites tels 
+que emulateurmobile.com et les extensions de 
+plusieurs navigateurs permettent quant à eux 
+de tester le rendu d’un site sur plusieurs types de 
+Limites du responsive design
+> Temps de développement
+Un site en responsive design est plus 
+long à être développé qu’un site clas-
+sique compte tenu des différentes 
+versions à créer. Il faut compter 20% 
+à 25% de temps supplémentaire.
+> Budget
+Le temps de développement étant 
+plus long, le budget est logique-
+ment plus important que pour un 
+projet classique. Le surcoût lié au res-
+ponsive design varie entre 20 et 40% 
+du budget du site.
+> Temps de téléchargement 
+Il peut être plus long, notamment 
+dans le cas de la version mobile, si 
+aucun ajustement technique n’est 
+fait. Les navigateurs doivent en effet 
+réceptionner les règles et les traiter 
+avant d’afficher le site.
+> Compatibilité avec les navi-
+gateurs
+Sur ordinateur ou mobile, les navi-
+gateurs ne gèrent pas les « Media 
+Queries » de la même façon. Des 
+moyens existent pour contourner le 
+problème mais nécessitent un travail 
+supplémentaire de la part du déve-
+loppeur. 
+> Gestion des sites complexes
+Dans le cas de sites utilisant un confi-
+gurateur ou une boutique en ligne 
+avec des gammes très profondes, 
+créer un site en responsive design 
+peut s’avérer une vraie « usine à gaz 
+». Il est alors préférable de s’orienter 
+vers une autre alternative.
+3 www.google.com/webmasters/tools/mobile-friendly
+> Le site mobile
+Il s’agit en fait d’un deuxième site dé-
+dié à la version mobile dont l’adresse 
+est souvent m.adressedusite.fr. Le 
+coût de développement et de main-
+tenance étant bien supérieur au res-
+ponsive design, il est de moins en 
+moins utilisé. En tant que deuxième 
+site, il crée également un contenu 
+dupliqué préjudiciable au référence-
+ment du site principal.
+Néanmoins, le site mobile permet 
+davantage de créativité dans la 
+conception du site. Il n’est pas bridé 
+par la nécessité d’être compatible 
+avec des versions adaptées à de plus 
+grandes résolutions d’écran. C’est 
+pourquoi certains gros sites de e-
+commerce continuent à maintenir 
+leur site mobile. Dans certains cas, la 
+création d’un site en responsive se 
+révèle un véritable casse-tête.
+> Le site en adaptive design
+L’adaptive design consiste à créer 
+plusieurs versions d’un même site 
+mais sur des tailles d’écran précises 
+qui correspondent en général à 
+celles des appareils les plus utilisés.
+Cette technique permet de créer 
+une ergonomie exploitant pleine-
+ment les capacités de chaque type 
+de résolution en gérant au mieux 
+l’interprétation des règles par les na-
+vigateurs. Au final, le rendu visuel est 
+plus harmonieux que sur un site en 
+responsive.
+Par exemple, les appareils utilisant 
+iOS (iPhone, iPad…) ne permettant 
+pas de gérer la technologie Flash, un 
+site en responsive va créer une règle 
+pour ne pas faire apparaître de Flash 
+aux utilisateurs de produits Apple. Un 
+site en adaptive design sera capable 
+de remplacer le flash par une autre 
+technologie adaptée au cas des ap-
+pareils sous iOS.
+Cette solution s’avère donc plus « 
+propre » que le responsive design 
+sans les inconvénients du site mobile. 
+L’adaptive design demeure cepen-
+dant bien plus onéreux car les coûts 
+de développement et de mainte-
+nance sont multipliés par le nombre 
+de versions créées.
+Aujourd’hui, seuls de très gros sites 
+comme Amazon (qui a fait déve-
+lopper une quarantaine de versions 
+de son site) ou des marques presti-
+gieuses peuvent se permettre une 
+telle dépense.
+L’application native (apps) ne présente pas une 
+vraie alternative au responsive design. Elle sert 
+davantage à rendre un service en exploitant les 
+fonctionnalités particulières d’un smartphone ou 
+d’une tablette (GPS, appareil photo, appel…). 
+Les alternatives
+
+----- page 4 -----
+CCI DORDOGNE - Performance numérique - JUIN 2015
+4
+Conclusion
+Il peut être intéressant en premier 
+lieu de regarder dans l’outil d’analyse 
+de trafic du site la part de visiteurs 
+utilisant un smartphone. Ce chiffre 
+permettra de savoir si l’amélioration 
+de l’ergonomie mobile est une prio-
+rité.
+Si une refonte de site est envisagée à 
+court terme, il est conseillé d’intégrer 
+le responsive design au projet. Par 
+ailleurs, il est préférable de repartir 
+de zéro plutôt que d’adapter la ma-
+quette actuelle. Le travail de maquet-
+tage et de développement sera ainsi 
+moins fastidieux.
+VOTRE contact
+Samuel COSTE 
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+ 
+CCI DORDOGNE
+Votre prochain rdv numérique :
+« Mettre en place le WIFI 
+dans son entreprise »

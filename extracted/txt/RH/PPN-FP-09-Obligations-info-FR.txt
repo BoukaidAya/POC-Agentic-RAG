@@ -1,0 +1,289 @@
+
+----- page 1 -----
+Dispositif de prélèvement à la source des cotisations sociales 
+des auto-entrepreneurs par les plateformes numériques 
+Obligations d’information
+Fiche pratique n°09 / VFR-2026-2
+1
+A réception d’une déclaration plateforme le concernant, l’Urssaf en informera automatiquement l’auto-entrepreneur par mail.
+Si la plateforme a indiqué que l’utilisateur était redevable de la TVA mais que le montant de TVA appliqué par l’utilisateur n’était pas connu de
+la plateforme, l’auto-entrepreneur sera invité par l’Urssaf à préciser le montant de TVA qu’il a appliqué sur son espace en ligne personnel sur
+autoentrepreneur.urssaf.fr.
+L’Urssaf recalculera alors automatiquement ses cotisations sociales sur la base du chiffre d’affaires hors taxes et lui remboursera le « trop
+prélevé » par la plateforme si sa situation le permet (pas de dette à l’ Urssaf, …).
+L’auto-entrepreneur pourra également consulter le détail des déclarations faites par les plateformes à l’Urssaf pour son compte via
+son espace en ligne personnel sur autoentrepreneur.urssaf.fr.
+Il pourra notamment consulter : la plateforme ayant effectué la déclaration, la date de la déclaration, le mois concerné et, par nature
+d’activité, le chiffre d’affaires déclaré par la plateforme, le taux appliqué ainsi que le montant des cotisations sociales prélevées à la source.
+Les déclarations faites par les plateformes au titre des prélèvement réalisés pendant le mois M seront visibles par l’auto-entrepreneur dans
+les 15 premiers jours du mois M+1 (délai fonction de la date à laquelle la plateforme a adressé à l’Urssaf le fichier de déclaration mensuel et
+effectué le reversement des sommes prélevées au titre du mois M).
+En cas de désaccord et de contestation des montants déclarés et prélevés par la plateforme, l’interlocution avec l’auto-entrepreneur sera
+assurée par l’Urssaf. En fonction des situations, l’Urssaf pourra être amenée à solliciter la plateforme.
+OBLIGATIONS D’INFORMATION DES AUTO-ENTREPRENEURS - Urssaf
+
+----- page 2 -----
+Dispositif de prélèvement à la source des cotisations sociales 
+des auto-entrepreneurs par les plateformes numériques 
+Obligations d’information
+Fiche pratique n°09 / VFR-2026-2
+2
+Afin de garantir la bonne information des utilisateurs qui vont se voir appliquer le prélèvement à la source, les plateformes doivent mettre
+en place :
+Une information générale de l’auto-entrepreneur pour qu’il sache que l’Urssaf l’a identifié comme étant dans le champ du prélèvement à la
+source avec indication du taux de prélèvement communiqué par l’Urssaf :
+✓Une information sur l’espace en ligne de l‘utilisateur sur la plateforme est à privilégier.
+✓Si plusieurs natures d’activité peuvent être exercées via la plateforme, le taux pour chaque nature d'activité doit être affiché à l’utilisateur.
+✓La situation de l’utilisateur vis à vis du prélèvement à la source étant susceptible d’évoluer d’un mois sur l’autre et les informations étant
+actualisées en fin de mois pour le mois suivant, l’utilisateur devra avoir la visibilité a minima sur deux mois glissants (détail pages suivantes).
+En complément, une information sur les obligations de déclaration et de paiement auxquels les utilisateurs restent soumis pour le chiffre
+d’affaires n’ayant pas fait l’objet d’un prélèvement à la source devra également être prévue. C’est notamment le cas lorsque l’utilisateur
+réalise une partie de son chiffre d’affaires via des transactions en espèce, ou lorsqu’une partie de son activité est effectuée hors plateforme ou
+par l’intermédiaire de plateformes n'appliquant pas le prélèvement à la source.
+Une information détaillée des sommes effectivement prélevées précisant le mois, le montant des cotisations prélevées, la base de calcul du
+prélèvement (chiffre d’affaires) et le taux appliqué pour chaque versement ayant donné lieu à prélèvement, par nature d’activité (si la plateforme
+ne propose qu’une seule nature d’activité, cette information est facultative).
+✓L’auto-entrepreneur doit pouvoir retrouver l’ensemble de ces informations sur au moins un support mis à disposition par la plateforme. Si,
+pour des raisons de place disponible sur certains écrans, il n’est pas possible d’afficher l’ensemble de ces informations, il convient d’afficher
+en priorité le montant prélevé puis le taux.
+✓Les plateformes peuvent opter pour une restitution détaillée à chaque versement et/ou une restitution détaillée dans un récapitulatif
+mensuel, au choix de la plateforme.
+1
+2
+OBLIGATIONS D’INFORMATION DES AUTO-ENTREPRENEURS - Plateformes
+
+----- page 3 -----
+Dispositif de prélèvement à la source des cotisations sociales 
+des auto-entrepreneurs par les plateformes numériques 
+Obligations d’information
+Fiche pratique n°09 / VFR-2026-2
+3
+1
+Information générale de l’auto-entrepreneur à prévoir dans son espace en ligne plateforme
+Principes :
+✓L’indication du taux de prélèvement devra se faire a minima sur deux mois glissants : 
+•
+si l’identification en vue du prélèvement de M+1 n’a pas encore été réalisée, les informations seront affichées pour les mois M (mois en cours) et M-1
+•
+si l’identification en vue du prélèvement de M+1 a été réalisée, les informations seront affichées pour les mois M (mois en cours) et M+1
+✓Le bloc d’information relatif au prélèvement à la source n’est à afficher que si l’utilisateur est dans le champ du prélèvement à la source pour au moins un 
+des deux mois (si l’utilisateur n’est pas - ou n’est plus - à prélever pour aucun des deux mois, le bloc d’information n’est pas nécessaire)
+✓Si l’utilisateur n’est pas à prélever pour un des deux mois, la mention « Pas de prélèvement » devra être affichée pour le mois concerné
+Le bloc d’information peut prendre la forme suivante :
+Urssaf - Prélèvement à la source de vos cotisations sociales
+Mois 
+Nature activité 
+Taux
+Février AAAA 
+Prestation de service libérale
+10,900 %
+Janvier AAAA
+Pas de prélèvement
+Utilisateur inscrit en janvier sur la plateforme, prélevé à partir de février
+Urssaf - Prélèvement à la source de vos cotisations sociales
+Mois 
+Nature activité 
+Taux
+Mars AAAA 
+Prestation de service libérale
+21,544 % 
+Février AAAA
+Prestation de service libérale
+10,900 %
+Utilisateur en « régime de croisière »
+Urssaf - Prélèvement à la source de vos cotisations sociales
+Mois 
+Nature activité 
+Taux
+Avril AAAA 
+Pas de prélèvement 
+Mars AAAA 
+Prestation de service libérale
+21,544 % 
+Utilisateur qui sort du champ du prélèvement (changement de statut, …)
+OBLIGATIONS D’INFORMATION DES AUTO-ENTREPRENEURS - Plateformes
+
+----- page 4 -----
+Dispositif de prélèvement à la source des cotisations sociales 
+des auto-entrepreneurs par les plateformes numériques 
+Obligations d’information
+Fiche pratique n°09 / VFR-2026-2
+4
+1
+OBLIGATIONS D’INFORMATION DES AUTO-ENTREPRENEURS - Plateformes
+EXEMPLE 1 : L’utilisateur s’inscrit sur la plateforme en janvier AAAA 
+(une seule activité NA08 « Prestation de service libérale » sur cette plateforme)
+Urssaf - Prélèvement à la source de vos cotisations sociales
+Mois 
+Nature activité 
+Taux
+Février AAAA 
+Prestation de service libérale
+10,900 %
+Janvier AAAA
+Pas de prélèvement
+Pas d’information concernant le PàS
+Urssaf - Prélèvement à la source de vos cotisations sociales
+Mois 
+Nature activité 
+Taux
+Mars AAAA 
+Prestation de service libérale
+21,544 % 
+Février AAAA 
+Prestation de service libérale
+10,900 %
+Urssaf - Prélèvement à la source de vos cotisations sociales
+Mois 
+Nature activité 
+Taux
+Avril AAAA 
+Prestation de service libérale
+21,544 % 
+Mars AAAA 
+Prestation de service libérale
+21,544 % 
+Janvier AAAA
+Février AAAA
+Mars AAAA
+Identification en vue du 
+prélèvement de février
+Identification en vue du 
+prélèvement de mars
+Identification en vue du 
+prélèvement d’avril
+
+----- page 5 -----
+Dispositif de prélèvement à la source des cotisations sociales 
+des auto-entrepreneurs par les plateformes numériques 
+Obligations d’information
+Fiche pratique n°09 / VFR-2026-2
+5
+1
+OBLIGATIONS D’INFORMATION DES AUTO-ENTREPRENEURS - Plateformes
+EXEMPLE 2 : L’utilisateur change de statut à l’Urssaf, à partir de février il n’est plus auto-entrepreneur
+(une seule activité NA08 « Prestation de service libérale » sur cette plateforme)
+Urssaf - Prélèvement à la source de vos cotisations sociales
+Mois 
+Nature activité 
+Taux
+Janvier AAAA
+Prestation de service libérale
+21,544 % 
+Déc. AAAA-1
+Prestation de service libérale
+21,544 % 
+Urssaf - Prélèvement à la source de vos cotisations sociales
+Mois 
+Nature activité 
+Taux
+Février AAAA 
+Prestation de service libérale
+21,544 % 
+Janvier AAAA
+Prestation de service libérale
+21,544 % 
+Janvier AAAA
+Février AAAA
+Mars AAAA
+Identification en vue du 
+prélèvement de février
+Identification en vue du 
+prélèvement de mars
+Identification en vue du 
+prélèvement d’avril
+Urssaf - Prélèvement à la source de vos cotisations sociales
+Mois 
+Nature activité 
+Taux
+Mars AAAA 
+Pas de prélèvement
+Février AAAA 
+Prestation de service libérale
+21,544 % 
+Pas d’information car n’est pas dans le 
+champ du PàS en mars et en avril (2 mois)
+Un taux pour février a été retourné par 
+l’Urssaf car le changement de statut n’était 
+pas encore connu à ce moment là
+Pour la gestion des changements de situation d’un utilisateur, cf. fiche pratique n°06 Prélèvement
+Changement 
+statut
+Pour mars, l’utilisateur n’est plus identifié 
+comme étant dans le champ du PàS par 
+l’Urssaf le changement de statut étant effectif
+
+----- page 6 -----
+Dispositif de prélèvement à la source des cotisations sociales 
+des auto-entrepreneurs par les plateformes numériques 
+Obligations d’information
+Fiche pratique n°09 / VFR-2026-2
+6
+OBLIGATIONS D’INFORMATION DES AUTO-ENTREPRENEURS - Plateformes
+Pour garantir une homogénéité entre plateformes et faciliter la compréhension des auto-entrepreneurs travaillant avec plusieurs plateformes, les termes
+utilisés par les plateformes pour les supports (site, application mobile, relevé mensuel, …) et services à destination de leurs utilisateurs doivent être normalisés.
+Cette normalisation concerne les termes à utiliser pour désigner :
+•
+La nature d’activité (libellé long ou court, sans le code technique : NA01, NA02…)
+•
+La base de calcul du prélèvement à la source (chiffre d’affaires)
+•
+Le taux de prélèvement appliqué (communiqué par l’Urssaf)
+•
+Le montant des cotisations sociales prélevées
+Les libellés indiqués sont à respecter sur tous les supports de communication et d’information. Pour le taux et le montant prélevé, plusieurs variantes sont 
+proposées, plus ou moins longues au choix de chaque plateforme en fonction de ses contraintes. 
+Nature 
+d'activité
+Libellé long
+Libellé court
+NA01
+VTC - Chauffeur
+VTC ou Chauffeur
+NA02
+Livraison
+Livraison
+NA03
+Location de logement meublé cas général 
+Loc meublé cas gen.
+NA04
+Location de logement meublé de tourisme classé Loc meublé classé
+NA05
+Location de biens
+Loc de matériel
+NA06
+Vente de biens
+Vente
+NA07
+Prestation de service artisanale ou commerciale Prestation art-com
+NA08
+Prestation de service libérale
+Prestation libérale
+NA09
+Restaurateur
+Restaurateur
+NA10
+Chambres d'hôtes
+Chambre d'hôtes
+Base de calcul
+Libellé long
+Chiffre d'affaires
+Libellé court
+CA
+Variantes
+Taux global de prélèvement à la source
+Cotisations sociales prélevées
+Variante 1
+Urssaf - Taux de prélèvement des cotisations 
+sociales
+Urssaf - Cotisations sociales prélevées à la 
+source
+Variante 2
+Urssaf - Taux cotisations sociales
+Urssaf - Cotisations sociales prélevées
+Variante 3
+Urssaf - Taux cotisations
+Urssaf - Cotisations prélevées
+Variante 4
+Urssaf - Taux
+Urssaf - Cotisations

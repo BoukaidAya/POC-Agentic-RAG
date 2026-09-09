@@ -1,0 +1,326 @@
+
+----- page 1 -----
+Qu’est-ce que le cross-canal ?
+92% des acheteurs se renseignent sur Internet avant d’acheter en magasin et 69% d’entre eux se rendent 
+dans un point de vente avant d’acheter en ligne1. Ces chiffres montrent que les parcours clients ne sont 
+pas linéaires et peuvent prendre plusieurs formes.
+Les clients évoluent d’un canal à l’autre pour se renseigner sur un produit, le tester, commander ou 
+retirer leur achat. Le cross-canal consiste à créer des synergies entre ces canaux à toutes les étapes du 
+parcours clients.
+Beaucoup d’entreprises pratiquent le cross-canal sans même s’en rendre compte en envoyant, par 
+email, un bon de réduction valable en magasin par exemple. 
+Mais pour être exploité au mieux, le cross-canal doit être envisagé comme une stratégie à part entière.
+Cette notice explique ce qu’une entreprise peut attendre du cross-canal, quelle stratégie mettre en 
+place et les enjeux de la maîtrise des données clients.
+Performance 
+numérique
+Votre rendez-vous mensuel
+Comprendre le cross-canal
+CCI DORDOGNE - Performance numérique - JANVIER 2016
+1
+> Le parcours d’achat client
+Il s’agit des différentes étapes qui 
+vont conduire le client à concrétiser 
+son achat :
+1. Réalisation du besoin
+2. Recherche d’informations sur 
+le sujet
+3. Acte d’achat
+4. Récupération de l’achat
+Avant l’arrivée d’Internet, les parcours 
+clients étaient relativement simples 
+et identiques pour un grand nombre 
+de personnes. Un consommateur 
+voulant remplacer son téléviseur se 
+rendait dans quelques magasins puis 
+effectuait un achat dans l’un d’eux.
+Avant :
+1IPSOS Elia Consulting janvier 2015, DigitasLbi mars 2015, Web Observatoire Médiamétrie 2015
+
+----- page 2 -----
+CCI DORDOGNE - Performance numérique - JANVIER 2016
+2
+> La multitude des canaux
+Les canaux se sont également diver-
+sifiés notamment dans le domaine 
+de l’acquisition client. Le cross-canal 
+ne se limite pas à créer des syner-
+gies entre les canaux de vente. Pour 
+conclure la vente, tous les canaux 
+sont mobilisés.
+Le web, le magasin et le mobile sont 
+considérés comme des canaux prin-
+cipaux. Chacun dispose de plusieurs 
+leviers pour acquérir un client. Ces 
+leviers sont aussi parfois appelés 
+canaux, car ils contribuent à conduire 
+un client d’une étape à la suivante. Un 
+catalogue papier reçu dans la boîte 
+aux lettres, par exemple, permet d’at-
+tirer son destinataire en magasin.
+On assiste ainsi à une multiplication 
+des canaux :
+•	 Canaux de vente, le « support » 
+sur lequel le client va payer son 
+achat : magasin, site marchand, 
+site mobile marchand, place de 
+marché…
+•	 Canaux 
+de 
+communication/
+marketing, les leviers qui vont 
+permettre de déclencher l’envie 
+d’acheter et de rechercher des 
+informations sur le produit : bon 
+d’achat, application mobile, liens 
+sponsorisés, comparateurs de 
+prix…
+•	 Canaux de livraison du produit, 
+les moyens mis à la disposition 
+du client pour récupérer son 
+achat : magasin, domicile du 
+client, drive…
+1Le cookie est un petit fichier installé sur le disque dur de l’ordinateur de l’internaute. Il permet de reconnaître un visiteur lorsqu’il revient sur un site web. Il ne pourra cependant pas faire la 
+différence entre deux visiteurs différents se connectant à partir du même ordinateur.
+Aujourd’hui, les canaux de communi-
+cation et de vente se sont multipliés, 
+les parcours clients sont devenus 
+protéiformes et relativement aléa-
+toires.
+Un exemple de ce qui peut se passer 
+AUJOURD’HUI :
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - JANVIER 2016
+3
+> Du multi-canal au cross-
+canal
+L’arrivée de la vente en ligne au dé-
+but des années 2000 est à l’origine 
+de ce bouleversement du parcours 
+d’achat. Le web a pris des parts de 
+marché aux magasins. Aujourd’hui, 
+le mobile s’impose tous les jours un 
+peu plus comme un nouveau canal 
+de vente. 
+Pour ne pas « rater une vente » et 
+proposer le plus de choix aux clients, 
+les entreprises tentent de maîtriser 
+tous les canaux. Mais le multicanal a 
+un coût et ne répond pas nécessaire-
+ment aux demandes des clients.
+C’est pourquoi, plutôt que multiplier 
+les canaux concurrents (magasin, 
+site web, réseaux sociaux…), il est 
+préférable de s’atteler à créer des 
+synergies pour exploiter leurs com-
+plémentarités. C’est çà, le cross canal.
+Exemples : 
+•	 Envoyer un SMS avec un bon 
+d’achat quand le client passe à 
+proximité du magasin
+•	 Proposer à un internaute de venir 
+récupérer son achat en magasin
+•	 Donner la possibilité de com-
+mander en ligne quand un article 
+est indisponible en magasin…
+Certains canaux ont même été 
+conçus pour faire du cross-canal. Les 
+bons d’achat dématérialisés appelés 
+« deal » par exemple, ont été créés 
+dans un premier temps pour générer 
+des visiteurs en magasin.
+Le drive est une commande en ligne 
+récupérée en magasin.
+> Optimiser ses coûts 
+d’acquisition client
+Acquérir un client coûte cher. C’est 
+pourquoi il est essentiel d’optimiser 
+ses campagnes marketing.
+Le cross-canal consiste à amener 
+le client sur le bon canal au bon 
+moment. En cela il permet de géné-
+rer de nombreuses économies. A 
+quoi bon dépenser des centaines 
+d’euros en campagnes d’emailings 
+pour convaincre les clients d’acheter 
+sur un site Internet alors qu’ils ont 
+d’abord besoin de tester physique-
+ment le produit.
+De la même manière, une politique 
+de vente « agressive » en magasin 
+peut effrayer un client qui a simple-
+ment besoin de réfléchir et d’être re-
+sollicité par un email ou un SMS pour 
+concrétiser son achat.
+> Trouver de nouveaux clients
+Au cours de son processus d’achat, 
+le client ne réfléchit pas en termes 
+de canal mais de besoin. Parfois, un 
+seul canal ne peut pas répondre à ce 
+besoin. En jouant sur la complémen-
+tarité des canaux, l’entreprise peut 
+satisfaire plus de clients.
+Par exemple, proposer un service de 
+réservation en ligne d’une prestation 
+permettra de toucher les personnes 
+non disponibles aux horaires d’ou-
+verture d’un institut de beauté pour 
+passer un appel.
+Pour faire du retargeting, il faut 
+s’adresser à une régie publicitaire 
+telle que Critéo, Nextperformance ou 
+AdWords. 
+> Développer le chiffre 
+d’affaires par client
+Le cross-canal permet également 
+d’augmenter le panier moyen du 
+client grâce au cross-selling. Cette 
+pratique consiste à vendre des pro-
+duits ou services complémentaires 
+aux achats réalisés par le client.
+Un client achetant un aspirateur 
+peut ainsi se voir proposer des sacs 
+ou une extension de garantie.
+Dans le cadre du cross-canal, le cross-
+selling prend une nouvelle dimen-
+sion car les ventes additionnelles 
+peuvent être réalisées sur un canal 
+différent de celui utilisé pour l’achat 
+initial.
+Par exemple, lorsqu’un client se rend 
+en magasin pour récupérer un vête-
+ment (click and collect), un vendeur 
+peut lui proposer d’essayer le produit 
+puis lui présenter des articles com-
+plémentaires ou lui faire bénéficier 
+d’une promotion. 
+Les bénéfices du cross-canal
+Mettre en place une stratégie
+> Faire des choix
+La mise en place d’une stratégie 
+cross-canal consiste d’abord à faire 
+des choix entre les canaux. Il est coû-
+teux et parfois peu rentable de main-
+tenir le même niveau de service pour 
+chaque canal. Il apparaît plus straté-
+gique de créer une offre de canaux 
+répondant aux besoins des clients.
+Site web, magasin, mobile, réseaux 
+sociaux… Pour faire le tri parmi tous 
+les canaux , il faut viser la satisfaction 
+du client. Une analyse de son com-
+portement et de ses besoins forme 
+la base d’une stratégie cross-canal. 
+Il ne faut pas hésiter à interroger les 
+clients sur leurs habitudes, leur satis-
+faction ou leur avis à propos de nou-
+veaux services.
+
+----- page 4 -----
+La centralisation des données est un 
+enjeu capital dans la réussite d’une 
+stratégie cross-canal. Elle garantit la 
+cohérence entre les différents ca-
+naux.
+> Les données produits
+Dans l’idéal, la gestion des canaux de 
+vente devrait se faire sur un seul et 
+même outil afin d’unifier les stocks 
+notamment. Pour des raisons de 
+coûts, cette centralisation des don-
+nées produits n’est pas toujours pos-
+sible. 
+Il est cependant conseillé d’avoir, à 
+minima, une nomenclature com-
+mune et une consultation possible 
+du stock de chaque canal par les 
+collaborateurs en contact avec les 
+clients.
+En principe, les différents canaux de-
+vraient également utiliser la même 
+grille tarifaire. Des prix différents pour-
+raient en effet générer des incom-
+préhensions de la part des clients. 
+Certains produits peuvent toutefois 
+faire exception, par exemple dans le 
+cas de déstockage.
+> Les données clients
+Les données clients recouvrent 
+toutes les informations transaction-
+nelles, comportementales, géogra-
+phiques et sociales d’une base de 
+contacts.
+Dans le cadre d’une stratégie cross-
+canal, il est recommandé de se doter 
+d’une CRM2 centralisant les don-
+nées collectées auprès des clients à 
+travers différents canaux : âge, sexe, 
+historique des achats/canal, réaction 
+face à une opération commerciale…
+Dans l’idéal, la CRM devrait permettre 
+de reconnaître le client quel que soit 
+le canal utilisé.
+Cette centralisation des données 
+clients permet de créer une segmen-
+tation de sa base de contacts et de 
+lancer des actions marketings plus 
+ciblées. Attention cependant à ne 
+pas sur-solliciter les clients sur tous 
+les canaux. La démarche pourrait être 
+perçue comme intrusive et produire 
+l’effet inverse de celui escompté.
+CCI DORDOGNE - Performance numérique - JANVIER 2016
+4
+Votre prochain rdv numérique :
+« Comment gérer un projet 
+d’objet connecté ? »
+VOTRE contact
+Samuel COSTE 
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+ 
+Par ailleurs, la mise en place d’un 
+nouveau canal doit apporter un nou-
+veau service sans bouleverser les 
+habitudes des clients. La démarche 
+risque d’être contre-productive si elle 
+ne répond pas à un besoin. 
+> Attribuer des rôles aux 
+canaux
+Il apparaît important de clarifier le 
+rôle de chaque canal pour le client 
+mais aussi pour le personnel de 
+l’entreprise. Il existe parfois une mé-
+fiance vis-à-vis du web de la part des 
+salariés en magasin. Les ventes « phy-
+siques » sont souvent cannibalisées 
+en partie par les ventes en ligne.
+Toutefois, le web, de part sa disponi-
+bilité 24h/24 et 7 jours/7 offre égale-
+ment une excellente porte d’entrée 
+pour un achat en magasin. Les infor-
+mations sur les produits pourront y 
+être plus détaillées, et le catalogue 
+comporter plus de références. 
+Cette démarche de clarification 
+consiste également à établir les sy-
+nergies possibles entre les canaux et 
+les parcours clients potentiels.
+Exemple : renseignement d’un pros-
+pect sur le site, réception d’un SMS 
+incluant un bon de réduction, utilisa-
+tion du bon d’achat en magasin.
+Enfin, il est parfois pertinent qu’un 
+canal de vente obtienne l’exclusivité 
+pour vendre certains produits. En ef-
+fet, il apparaît souvent plus rentable 
+de vendre en ligne les produits : 
+•	 qu’un magasin n’a pas la place de 
+stocker
+•	 générant peu de vente (niche)
+•	 personnalisables
+•	 purement BtoB
+Centraliser les données
+2CRM : Custumer Relashionship Managment, logiciel de Gestion de la Relation Client (GRC).

@@ -1,0 +1,191 @@
+
+----- page 1 -----
+Qu’est-ce qu’un objet connecté ?
+On assiste actuellement à une véritable frénésie autour des objets connectés. Le grand public 
+s’enthousiasme pour de nouveaux gadgets permettant d’améliorer son quotidien. Les entreprises y 
+voient, elles, un nouveau levier de croissance.
+Une montre qui comptabilise les calories perdues, une serrure déverrouillable à distance, une machine 
+qui signale l’usure d’une pièce… En matière d’objet connecté, le champ des possibles est vaste. Tout 
+objet doit-il pour autant être connecté ? En fait, la valeur d’un objet connecté repose avant tout sur le 
+service qu’il apporte, l’objet n’est au final qu’un instrument.
+C’est pourquoi on parle d’ « Internet des objets » pour qualifier plus généralement l’ensemble des 
+maillons qui contribuent à fournir ce service : l’objet, qui capte les données et les communique, les 
+technologies de communication, qui transportent les données, la plateforme, qui héberge et traite les 
+données et les applications web ou mobiles, qui matérialisent le service en présentant les données sous 
+la forme d’une interface utilisable par l’utilisateur.
+Cette notice a pour but d’expliquer comment fonctionne un objet connecté et quel rôle jouent les 
+données collectées dans la fourniture du service.
+Performance 
+numérique
+Votre rendez-vous mensuel
+Le système connecté
+CCI DORDOGNE - Performance numérique - SEPTEMBRE 2015
+1
+L’objet connecté n’est en fait que le point de départ d’un système destiné à apporter un service.
+
+----- page 2 -----
+CCI DORDOGNE - Performance numérique - SEPTEMBRE 2015
+2
+> L’objet
+L’objet connecté (figure b.) se com-
+pose de plusieurs éléments : 
+•	 un ou plusieurs capteurs pour 
+collecter des données
+•	 une carte électronique pour pré-
+traiter des informations
+•	 un dispositif de communication 
+pour transmettre les données
+Capter des données
+Les données produites par un objet 
+connecté peuvent provenir d’un ou 
+plusieurs capteurs : un thermomètre, 
+un gyroscope ou encore un GPS par 
+exemple. Une fois analysées, elles 
+permettent de délivrer une informa-
+tion utile :
+•	 détection de présence/mouve-
+ment
+•	 Pression
+•	 Humidité, lumière
+•	 Température
+•	 Position
+•	 …  
+Traiter des données
+Un objet connecté peut prendre 
+une décision (piloter) ou alerter l’uti-
+lisateur en fonction des données 
+captées. Certains sont capables de 
+pré-traiter des informations et de 
+transmettre uniquement les plus 
+pertinentes. 
+Emettre et recevoir des données
+La plupart du temps, les objets 
+connectés ne sont pas directement 
+reliés à Internet, ils communiquent 
+les données captées à des passe-
+relles (gateway) via une liaison radio 
+(plus rarement filaire). Ces passerelles 
+sont généralement des box d’accès 
+à Internet ou des smartphones agis-
+sant comme un modem.
+Les objets connectés grand public 
+utilisent le plus souvent le Wifi ou le 
+Bluetooth. Il existe en revanche une 
+grande variété de réseaux de com-
+munication pour les objets connec-
+tés destinés aux entreprises : les 
+réseaux mobiles (GSM, GPRS, 3G, 4G), 
+des nouveaux réseaux conçus pour 
+les objets connectés (Zigbee, Sigfox, 
+LoRa..), etc.
+> La plateforme des services
+Les données collectées par les pas-
+serelles sont ensuite hébergées sur 
+des serveurs (ou dans le « cloud ») et 
+analysées grâce à des algorythmes 
+sur des plateformes de services. C’est 
+ici que l’objet connecté prend toute 
+sa valeur et que le service est vérita-
+blement créé.
+> L’interface
+L’interface va permettre à l’utilisateur 
+final d’avoir accès au service. Il peut 
+s’agir d’un tableau de bord sur un 
+site web, d’une action automatique 
+(déclenchement d’une machine), 
+d’une alarme (par SMS par exemple), 
+d’une notification d’un document 
+par email…
+Lorsque l’interface est « ouverte », 
+cela signifie que d’autres fournis-
+seurs de services peuvent proposer 
+leur propre interface pour présenter 
+les données collectées. Un même 
+objet connecté peut ainsi être piloté 
+par plusieurs application mobiles.
+En matière d’objets connectés, les 
+champs 
+d’application 
+sont 
+im-
+menses. Voici quelques domaines 
+d’activité où ils se sont beaucoup 
+développés.
+> Quantified Self 
+Les objets proposant de « s’auto 
+mesurer » sont devenus en peu de 
+temps l’accessoire tendance. Bra-
+celets, montres ou clip-ceintures, 
+ils permettent de comptabiliser le 
+nombre de pas effectués, de calo-
+ries brûlées, la distance parcourue, le 
+nombre d’étages gravis ou encore le 
+temps de sommeil chaque nuit. 
+> Domotique
+Les outils de gestion automatisée de 
+la maison existent depuis plusieurs 
+années. A la fin des années 90, le frigo 
+qui passe tout seul une commande 
+annonce une révolution dans l’habi-
+tat. Ces équipements restant très 
+chers, la domotique ne s’est pas réel-
+lement développée jusqu’à mainte-
+nant.
+Aujourd’hui, on ne compte plus les 
+objets connectés dédiés aux habi-
+tations : alarmes, volets roulants, am-
+poules, chauffage, serrures…
+> Santé
+Une brosse à dents qui contrôle la 
+qualité du brossage, une fourchette 
+qui alerte l’utilisateur qui mange trop 
+vite… Plusieurs objets connectés ont 
+été créés pour aider les particuliers 
+à se maintenir en bonne santé. La 
+médecine voit également dans cette 
+technologie l’opportunité d’amélio-
+rer le suivi d’un patient, de faciliter la 
+prise de son traitement et d’aider les 
+médecins dans leur diagnostic.
+> Urbanisme
+De plus en plus de collectivités se 
+dotent de capteurs pour gérer des 
+Usages
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - SEPTEMBRE 2015
+3
+Typologie des objets connectés
+Il existe une très grande variété d’objets connectés. Certains communiquent avec un ordinateur, d’autres un smartphone. 
+Parfois ils font partie d’un système d’objets connectés destiné à contrôler de manière globale un environnement.
+Voici une typologie des objets connectés couramment rencontrés :
+services urbains (eau, éclairage, dé-
+chets, transports publics, etc). Ce type 
+de gestion a donné lieu à des expé-
+rimentations à grande échelle dans 
+des quartiers ou des villes entières. 
+Ces « villes connectées » ou « smart 
+cities », cherchent le plus souvent à 
+faire des économies et à réduire leur 
+impact environnemental.
+> Industrie
+Dans le milieu industriel, les objets 
+connectés trouvent de nombreuses 
+applications en matière de main-
+tenance prédictive. Leurs capteurs 
+permettent en effet de mesurer le 
+vieillissement d’une machine, de 
+prévoir et détecter un défaut avant 
+qu’une panne ne survienne. Ainsi, il 
+est possible de remplacer la pièce 
+d’une machine qui s’use avant que 
+ne survienne un dysfonctionnent qui 
+amènerait un arrêt de la production.
+Votre prochain rdv numérique :
+« Les outils pour convertir 
+un visiteur en client »
+VOTRE contact
+Samuel COSTE 
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr

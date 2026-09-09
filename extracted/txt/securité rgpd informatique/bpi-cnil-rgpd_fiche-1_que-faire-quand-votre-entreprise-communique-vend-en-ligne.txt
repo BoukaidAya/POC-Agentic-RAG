@@ -1,0 +1,136 @@
+
+----- page 1 -----
+SACHEZ
+OUE FAIRE 
+QUAND VOTRE 
+ENTREPRISE 
+COMMUNIQUE ET/OU 
+VEND EN LIGNE
+
+----- page 2 -----
+Votre entreprise utilise un site internet 
+et des comptes sociaux 
+pour communiquer ? 
+Vérifiez si vous protégez suffisamment 
+les données personnelles des personnes 
+qui visitent vos plateformes.
+Le caractère viral des plateformes 
+comme Facebook, Twitter, LinkedIn 
+ou Instagram mérite d’attacher un soin 
+particulier à protéger les données 
+des clients qui vous suivent.
+ À la clé : moins de risques  
+ de piratage et de fuites de données  
+ et une réputation en ligne préservée !
+
+----- page 3 -----
+Votre site présente votre activité et votre entreprise. 
+Vous proposez uniquement un formulaire 
+de contact et éventuellement l’abonnement 
+à une lettre d’information.
+L’idéal est de prendre en compte la protection des données dès la conception du site.
+Ainsi, par exemple, prenez bien soin que l’accès au contenu de votre site ne soit pas conditionné à 
+l’abonnement à votre newsletter. 
+ Sur un site « vitrine », quelques réflexes de base sont à retenir. 
+ Il faut prévoir au minimum : 
+Des « mentions CNIL » en bas du formulaire de contact.
+Des modèles sont proposés par la CNIL sur son site internet. 
+Un moyen de contact pour que les personnes puissent exercer
+leurs droits par voie électronique.
+Des mentions légales identifiant l’éditeur du site.
+POUR EN SAVOIR PLUS :
+Article « Quelles sont les mentions obligatoires sur un site internet ? »
+sur le site internet www.service-public.fr
+VOUS AVEZ 
+UN SITE VITRINE
+
+----- page 4 -----
+Depuis Twitter, Facebook, 
+et autres réseaux sociaux, prévoyez :
+De rendre accessible un article ou un lien qui mène vers une page d’information sur 
+les droits. Anticipez les effets d’une opération de communication en ligne (emailing par exemple).
+Une réponse type aux internautes mécontents, qui exerceraient, par exemple leur droit 
+d’opposition. La réactivité et l’efficacité de votre réponse contribuent à votre réputation en ligne 
+(ou e-reputation).
+VOUS COMMUNIQUEZ 
+SUR LES RÉSEAUX SOCIAUX
+
+----- page 5 -----
+VOUS FAITES 
+DE LA VENTE EN LIGNE
+Pour de la vente en ligne, des mises à jour techniques 
+et une surveillance régulière de la sécurité du site 
+sont nécessaires. N’hésitez pas à vous faire 
+accompagner par un prestataire spécialisé. 
+Pour permettre l’achat de biens en ligne, vous pouvez demander un certain nombre d’informations 
+permettant à la fois d’assurer la sécurité de la transaction et d’enrichir votre « connaissance clients ».
+Les données que vous collectez doivent être justifiées par le service rendu au client. Interrogez-
+vous systématiquement sur l’utilité des données demandées (exemple : pour offrir un service particulier 
+à l’occasion de son anniversaire, il est justifié de demander au client sa date de naissance).
+Vous devez prêter attention à intégrer à votre parcours de vente l’information et le consentement 
+de vos clients à l’utilisation de leurs données.
+En pratique vous devez donc les informer clairement de ce que vous faites et leur donner la possibilité 
+d’exprimer leurs préférences.
+
+----- page 6 -----
+3 règles simples à retenir : 
+1
+ Sécurisez les données en ligne : 
+•	 l’ensemble du parcours de vente doit être en https ; 
+•	 imposez à vos clients un mot de passe complexe à la création de leur compte ; 
+•	 ne transmettez pas de données personnelles par email (exemple  : mot de passe, coordonnées 
+personnelles) ; 
+•	 ne conservez pas les coordonnées bancaires de vos clients ;
+•	 sécurisez la transaction bancaire. La plupart des banques proposent des services de paiement 
+en ligne sécurisés, renseignez-vous auprès de la vôtre.
+Vos prestataires ont des responsabilités spécifiques en matière de sécurité et de confidentialité 
+des données, et une obligation de conseil. Assurez-vous de leur capacité à vous accompagner.
+2
+ Informez vos clients sur ce que vous faites de leurs données : insérez une page « vie privée », 
+accessible et compréhensible par tous. Assurez-vous notamment que votre charte vie privée 
+sur votre site est à jour.
+3
+ Laissez à vos clients la possibilité de contrôler la manière dont vous utilisez leurs données. Offrez 
+leur une possibilité simple de contact (email dédié, formulaire de contact ou en mode privé sur 
+les réseaux sociaux) pour vous demander l’accès, la rectification ou l’effacement de leurs données, 
+ou pour vous signaler toute difficulté sur le traitement de celles-ci.
+POUR EN SAVOIR PLUS :
+Article « Sécuriser les sites web »
+sur le site internet de la CNIL
+Article « Prévenir, repérer et réagir face au piratage
+de ses comptes sociaux »
+sur le site internet de la CNIL
+Article « L’usurpation d’identité en question »
+sur le site internet de la CNIL
+
+----- page 7 -----
+POUR EN SAVOIR PLUS :
+Dossier « Site web, cookies et autres traceurs »
+sur le site internet de la CNIL
+Si lors de la consultation de votre site internet 
+vous déposez des cookies ou autres traceurs 
+sur les outils utilisés par les internautes 
+(ordinateur, tablette, smartphone, etc.),
+vous allez pouvoir analyser leur navigation, 
+leurs déplacements et leurs habitudes 
+de consultation ou de consommation.
+Selon l’objet du traceur que vous utilisez sur votre site, il est nécessaire, soit d’informer l’internaute 
+de son existence (exemple : cookie « panier d’achat »), soit d’obtenir son consentement (exemple  : 
+cookie lié à une opération relative à la publicité) avant de déposer ou de lire le traceur sur son terminal.
+Si votre site utilise des fonctionnalités offertes par d’autres sites (exemples : solutions de statistiques, 
+boutons sociaux, vidéos provenant de plateformes tierces telles que Google, YouTube, Facebook, etc.), 
+vous devez obtenir le consentement des visiteurs.
+VOTRE SITE DÉPOSE 
+DES COOKIES OU DES TRACEURS 
+PUBLICITAIRES
+
+----- page 8 -----
+CNIL
+3, Place de Fontenoy - TSA 80715
+75334 Paris Cedex 07
+Tél. : 01 53 73 22 22
+Bpifrance
+27-31, avenue du Général Leclerc
+94710 Maisons-Alfort Cedex
+Tél. : 01 41 79 80 00
+Document non contractuel - Bpifrance Le Lab - Avril 2018.

@@ -1,0 +1,112 @@
+
+----- page 1 -----
+1
+Suis-je concerné par la loi
+Informatique et Libertés ?
+OUI, je suis concerné(e).
+Mieux connaître les principes à respecter.
+Toute opération portant sur des données 
+personnelles, quel que soit le procédé, 
+telle que :
+    collecter,
+    enregistrer, 
+    organiser, 
+    conserver, 
+    modiﬁer, 
+    combiner, 
+    ou transmettre des données personnelles.
+Exemples : une base de données, un tableau 
+Excel, une installation de vidéosurveillance, un 
+système de paiement par carte bancaire ou 
+reconnaissance biométrique, une application 
+pour smartphone, etc.
+Un traitement de données à caractère 
+personnel peut être informatisé ou non.
+Toute information relative à une personne 
+physique identiﬁée, ou susceptible de l’être, 
+directement ou indirectement, par référence à :
+    un numéro d’identiﬁcation 
+(ex. : n° de sécurité sociale) 
+    ou, un ou plusieurs élements qui lui sont propres 
+(ex. : nom et prénom, date de naissance, 
+empreinte digitale, ADN, etc.).
+Un traitement 
+de données 
+est-il mis en oeuvre ?
+Dans le cadre 
+d’activités autres 
+qu’exclusivement
+personnelles ?
+L’entité
+et/ou le moyen de 
+traitement sont situés 
+sur le territoire français ?
+Qu’est-ce qu’une donnée 
+personnelle ?
+Qu’est-ce qu’un traitement de 
+données personnelles ?
+Suis-je en présence
+de données 
+personnelles ?
+OUI
+OUI
+OUI
+OUI
+Édition 2017
+
+----- page 2 -----
+2
+Données personnelles :
+Comment respecter les 
+principes de la loi ?
+Durée de conservation 
+et sécurité
+Les droits des 
+personnes
+Consulter « comprendre vos obligations » 
+et « eﬀectuer vos démarches » 
+sur cnil.fr/professionnels.
+     Combien de temps vais-je garder ces 
+informations ?
+La durée de conservation des informations doit 
+être déﬁnie dès la mise en place du dispositif 
+qui collecte ces données. Une fois l’objectif 
+atteint, les informations collectées ne sont plus 
+nécessaires et doivent donc être supprimées. 
+     Comment dois-je sécuriser ces 
+informations  ?
+Toutes les mesures nécessaires pour garantir la 
+sécurité, et notamment la conﬁdentialité, de ces 
+informations personnelles doivent être mises en 
+place. 
+Exemples de mesure de sécurité : mots de passe, 
+https, sauvegarde.
+Ces mesures de sécurité seront proportionnelles 
+aux risques encourus.
+Exemples de risques : vol ou perte de données.
+     Ai-je respecté les droits des 
+personnes ? 
+Il faut informer les personnes dont je collecte 
+les informations, mettre en place un moyen 
+permettant à ces personnes de s’opposer 
+à la collecte, d’accéder aux informations les 
+concernant et de les rectiﬁer. 
+Si les données sont « sensibles » au titre 
+de la loi, le plus souvent il faut recueillir le 
+consentement exprès des personnes.
+Exemples de personnes : clients, salariés, 
+partenaires, membres, élèves, patients, etc.
+     Les informations personnelles que je récupère sont-elles nécessaires pour 
+atteindre mon objectif ?
+Seules les données strictement nécessaires à la réalisation de l’objectif peuvent être 
+collectées : c’est le principe de minimisation de la collecte.
+Attention : certaines données sont considérées comme « sensibles » par la loi (santé, 
+politique, opinion religieuse, appartenance syndicale, vie sexuelle). Elles ne peuvent 
+être traitées que dans certaines conditions (art 8 loi Informatique et Libertés). 
+Les étapes suivantes doivent tenir compte de cette « sensibilité ».
+La pertinence des informations
+     A quoi ces informations vont-elles me servir ?  
+D’abord, je déﬁnis la ﬁnalité de la collecte et de l’utilisation des données personnelles.
+Exemples : prospection, suivi de relations clients, gestion d’une association, gestion de la 
+fraude, ressources humaines, suivi de santé, suivi scolaire, suivi social, etc. 
+L’objectif

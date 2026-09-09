@@ -1,0 +1,406 @@
+
+----- page 1 -----
+> Campagne liée au profil du 
+client
+La campagne automatisée de sou-
+hait d’anniversaire est un grand clas-
+sique de « l’automation marketing ». 
+Il peut s’agir de l’envoi d’un code de 
+réduction sur un produit, des frais de 
+port offerts, d’un cadeau virtuel (re-
+cette de cuisine, jeu...) ou encore de 
+la promesse d’un vrai cadeau.
+Les emails d’anniversaire peuvent 
+également rappeler à l’internaute 
+l’imminence de l’anniversaire d’un 
+proche. Demander le nom et la date 
+d’anniversaire du destinataire d’un 
+bouquet de fleurs ou d’un jouet 
+permettra de proposer automati-
+quement, les années suivantes, une 
+réduction quelques jours avant l’évé-
+nement.
+Les campagnes liées au profil du 
+client peuvent s’échelonner sur plu-
+sieurs mois en s’appuyant sur un pro-
+jet exprimé par un internaute (remise 
+en forme, construction d’une maison, 
+grossesse...). Cette information pour-
+ra être récupérée, par exemple, grâce 
+à un formulaire de newsletter thé-
+matique (« Inscrivez-vous pour rece-
+voir de l’information régulière sur les 
+étapes de construction d’une mai-
+son »), en prenant soin de demander 
+la date de début et de fin du projet. 
+> Campagne liée au cycle de 
+vie du produit
+Il s’agit de proposer à un client, dans 
+un intervalle plus ou moins espacé 
+de son achat, des produits com-
+plémentaires, de renouvellement 
+et d’entretien. Une personne ayant 
+acheté un aspirateur pourra ainsi se 
+voir proposer un kit d’accessoires 
+pour nettoyage de voiture, puis, 
+quelques mois plus tard, des sacs 
+d’aspirateur 20% moins chers. 
+Ce type d’email est généralement 
+assorti de conseils pratiques afin de 
+donner une image moins commer-
+ciale à la démarche.
+Marketing automatisé : optimiser 
+l’acquisition et la fidélisation client
+A l’image de la chaine de montage d’une voiture, les actions marketing tendent à s’automatiser afin 
+d’optimiser le temps et l’argent investis.
+On appelle « automation marketing » ou marketing automatisé, l’ensemble des techniques permettant 
+le déclenchement de campagnes quasiment sans intervention humaine, et dont l’email est le principal 
+vecteur. 
+L’envoi d’e-mailing automatiques obéit à des règles : envoi d’un bon de réduction à chaque date 
+anniversaire d’un client, email offrant les frais de livraison pour toute commande passée il y a 50 jours, 
+rappel des conditions de retour produit dans les 24h suivant la consultation d’un article plus de deux 
+fois, etc. 
+Aujourd’hui l’e-mailing est le plus souvent utilisé pour relayer des promotions ou des nouveautés. Ces 
+envois mobilisent du temps pour préparer la base d’envoi et la rédaction du message. Le retour sur 
+investissement s’avère souvent décevant car les emails ne ciblent pas les besoins du destinataire.
+Le marketing automatisé s’appuie quant à lui sur les caractéristiques du destinataire et son comportement 
+sur un site. Par ailleurs, la programmation de campagne fait gagner un temps précieux et permet de se 
+concentrer sur les « prospects chauds ».
+Cette notice dresse un panorama des différents types de campagnes marketing automatisées et de leur 
+mise en œuvre.
+Performance 
+numérique
+Votre rendez-vous mensuel
+Typologie de campagnes automatisées
+CCI DORDOGNE - Performance numérique - OCTOBRE 2014
+1
+WEBCHALLENGE
+J-10
+CLÔTURE DES
+INSCRIPTIONS
+24
+
+----- page 2 -----
+On appelle cross-selling les ventes additionnelles 
+complémentaires au produit. Par exemple, propo-
+ser des taies d’oreiller pour un achat de drap. L’up-
+selling incite l’internaute à monter en gamme par 
+rapport à son choix de départ. Ces deux tech-
+niques peuvent être utilisées dans le cadre de 
+campagnes automatisées.
+> Les alertes
+Ce système repose sur la volonté 
+d’un visiteur d’être alerté par email 
+en temps réel d’un événement : pro-
+duit de nouveau en stock, baisse de 
+prix sur un article...
+Perçues comme un service en plus 
+par les internautes, les alertes sont 
+aussi un moyen de détecter un pros-
+pect chaud.
+> Scénario de conversion
+Les campagnes scénarisées sont par-
+ticulièrement utilisées dans le B to B. 
+Les internautes sont invités à laisser 
+leurs coordonnées pour télécharger 
+un livre blanc, obtenir un devis, bé-
+néficier d’une offre d’essai ou d’une 
+démonstration.
+Rappeler toutes ces personnes s’avè-
+rerait peu rentable car la grande 
+majorité sont des «prospects froids». 
+Une campagne scénarisée permet 
+de mesurer au fil des emails envoyés 
+l’intérêt du destinataire pour le pro-
+duit, grâce au taux d’ouverture du 
+message ou si des liens vers le site 
+ont été cliqués. 
+Par ailleurs, l’envoi d’un email est 
+moins intrusif qu’un contact télé-
+phonique. Celui-ci ne doit pas inter-
+venir trop tôt dans le scénario de 
+campagne.
+Enfin, un prospect prenant lui-même 
+l’initiative de l’appel aura beaucoup 
+plus de chances d’aboutir à une 
+vente.
+> Relance suite à un abandon 
+de panier
+Il s’agit d’envoyer un email aux inter-
+nautes ayant ajouté des produits 
+dans le panier d’un site marchand 
+sans être allé jusqu’au paiement. Le 
+marketing automatisé est un des 
+principaux leviers pour abaisser le 
+taux d’abandon de panier.
+Ce procédé apparaît assez simple 
+lorsque l’internaute a communiqué 
+son adresse email. D’où l’intérêt de la 
+demander assez tôt dans le tunnel 
+de commande.
+Même s’il ne s’est pas connecté à son 
+compte avant d’ajouter des produits 
+dans le panier, il est techniquement 
+possible de reconnaître un client déjà 
+enregistré ou un abonné à la news-
+letter. Il suffit d’installer un cookie1 
+sur le disque dur de cet internaute 
+lorsque celui-ci crée un compte sur 
+le site ou s’abonne à la newsletter.
+Il est possible de relancer un internaute sans 
+connaître son adresse email au préalable, grâce à 
+des sociétés spécialisées dans l’email retargeting. 
+Ce procédé est expliqué un peu plus loin dans la 
+notice.
+Une relance suite à un abandon de 
+panier doit intervenir dans les 24h 
+à 48h pour être efficace. Plus tôt, 
+elle pourrait être perçue comme du 
+harcèlement. Plus tard, l’internaute 
+risque d’avoir acheté sur un autre site.
+La campagne sera plus efficace si elle 
+reprend l’intitulé et la photo du ou 
+des produits ajoutés dans le panier 
+abandonné. De même, un lien hyper-
+texte vers la page « panier »2 aura 
+plus de chance d’aboutir à une vente 
+qu’un renvoi vers une fiche produit.
+Enfin, il existe plusieurs techniques 
+pour décider un internaute à finale-
+ment passer commande :
+•	 Faire un cadeau : réduction, frais 
+de ports offerts...
+•	 Rassurer : sur le délai de livraison, 
+les conditions de retour produit
+•	 Alerter sur l’imminence d’une 
+rupture de stock ou sur le fait 
+que le panier ne sera bientôt plus 
+valide.
+> Emails transactionnels 
+Les emails transactionnels sont des 
+messages envoyés pour confirmer 
+une inscription, une commande, un 
+paiement, ou un envoi de marchan-
+dises. La plupart des solutions de e-
+commerce utilisent ces envois auto-
+matiques.
+Pour autant, peu de webmarchands 
+les exploitent comme levier d’auto-
+mation marketing.
+Un soin graphique et rédactionnel 
+particulier est apporté à une news-
+letter dont le taux d’ouverture dé-
+passe rarement les 20%. Les emails 
+transactionnels sont le plus souvent 
+des messages rédigés par défaut. 
+Quelques mots sont modifiés et un 
+logo ajouté. Pourtant, ces emails sont 
+ouverts en moyenne par 70% des 
+destinataires.
+Des sites comme La Redoute ou 
+Amazon utilisent les emails transac-
+tionnels pour véhiculer une image 
+de qualité de service en rassurant le 
+client à toutes les étapes de la com-
+mande. La mise en page graphique 
+parachève cette démarche.
+Les emails transactionnels peuvent 
+être également utilisés pour réaliser 
+des ventes additionnelles croisées 
+(cross-selling).
+CCI DORDOGNE - Performance numérique - OCTOBRE 2014
+2
+1 Cookie : petit fichier permettant de reconnaître un visiteur lorsqu’il revient sur un site web. Si un ordinateur est utilisé par plusieurs personnes, le site ne pourra cepen-
+dant pas faire la différence.
+2 Page « panier » : cette page récapitule les articles en commande et les frais de livraison.
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - OCTOBRE 2014
+3
+> Constituer une base de 
+destinataires
+L’utilisation de la base de données 
+clients est le moyen le plus simple 
+pour 
+envoyer 
+des 
+campagnes 
+automatisées. Il convient bien sûr 
+de disposer d’une adresse email 
+et, dans la mesure du possible, 
+d’autres caractéristiques permettant 
+de 
+personnaliser 
+les 
+envois 
+automatiques.
+Les campagnes automatisées visant 
+les prospects impliquent la nécessité 
+de disposer d’une base d’adresses 
+emails. 
+L’abonnement 
+à 
+une 
+newsletter est un grand classique 
+mais il existe d’autres moyens pour 
+inciter les visiteurs d’un site à laisser 
+leurs coordonnées :
+•	 Un cadeau (virtuel de préfé-
+rence) : document numérique 
+(Ebook, notice technique...), un 
+fond d’écran, document à impri-
+mer (coloriage, patrons...)
+•	 Une simulation : calcul de capa-
+cité d’emprunt, d’IMC, rétroplan-
+ning d’un projet 
+•	 Un sondage 
+•	 Un jeu-concours (en veillant à 
+respecter la législation sur les 
+concours)
+•	 Partage d’un contenu avec un 
+ami
+•	 Alerte de réapprovisionnement 
+(il est même possible d’indi-
+quer volontairement que cer-
+tains articles sont en rupture de 
+stock pour mieux collecter des 
+adresses emails)
+> Etablir des règles d’envoi
+Si le marketing automatisé permet 
+de gagner en temps et en efficacité 
+sur la durée, il nécessite un important 
+travail de mise en place au départ.
+Il s’agit de scénariser des campagnes 
+en répondant à ces questions :
+•	 Quel est l’objectif de la cam-
+pagne ? Exemple : faire des 
+ventes additionnelles, faire vali-
+der un panier abandonné...
+•	 Qui est la cible ? Exemple : client 
+ayant acheté il y a 3 mois jours 
+un aspirateur, internaute ayant 
+téléchargé un livre blanc il y a 3 
+jours...
+•	 Quand envoyer le ou les emails?
+La scénarisation consiste également 
+à imaginer un enchaînement d’emails 
+selon le profil du destinataire et son 
+comportement vis-à-vis de chaque 
+envoi (message ouvert, lien cliqué, 
+temps passé sur le site...).
+> Rédiger des modèles de 
+message
+Chaque message doit être aussi 
+étudié qu’une newsletter au niveau 
+du graphisme, du texte et des liens.
+Les emails s’adressant aux clients 
+pourront être personnalisés sur 
+quelques champs grâce à des 
+informations présentes dans la base 
+de données clients : prénom d’un 
+enfant, référence d’un article acheté...
+Mise en page
+Selon les types de campagnes auto-
+matisées et le résultat attendu, diffé-
+rentes solutions permettent de faire 
+du marketing automatisé. Pour les 
+plus simples, comme l’alerte de re-
+nouvellement de stock ou les emails 
+transactionnels, le CMS (l’outil de 
+gestion contenu) d’un site peut s’en 
+charger.
+> Les auto-répondeurs
+Principaux outils du marketing auto-
+matisé, ces logiciels sont dédiés au 
+paramétrage et à l’envoi de mes-
+sages automatiques. Ils gèrent les 
+listes de destinataires, s’occupent du 
+routage des messages et fournissent 
+des statistiques sur les taux d’ouver-
+ture d’emails tout comme un outil 
+d’emailing classique.
+Ils proposent des fonctionnalités 
+spécifiques telles que le ciblage 
+comportemental (2ème message 
+différent selon le comportement vis-
+à-vis du 1er message) ou des champs 
+de personnalisation avancée (date 
+d’inscription à un formulaire).
+Les outils du marché
+> Campagnes de réactivation 
+client
+Relancer un ancien client est un 
+grand classique. La plupart du temps, 
+il s’agit de campagnes « manuelles ». 
+L’automatisation permet de gagner 
+du temps et de rester actif même 
+dans les périodes de forte activité.
+Les campagnes de relance automa-
+tisées peuvent, par exemple, être 
+programmées pour envoyer un mes-
+sage à tout client dont le dernier 
+achat date de plus de 6 mois.
+L’objet de l’email doit inciter le desti-
+nataire à revenir sur le site :
+•	 Proposer des produits addition-
+nels
+•	 Faire découvrir une nouvelle 
+gamme
+•	 Offrir les frais de port lors d’une 
+prochaine commande
+•	 ...
+
+----- page 4 -----
+CCI DORDOGNE - Performance numérique - OCTOBRE 2014
+4
+VOTRE contact
+Samuel COSTE 
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+ 
+CCI DORDOGNE
+Votre prochain rdv numérique :
+« Utiliser des images sur 
+internet en toute légalité »
+> Les outils d’e-mailing
+Quelques outils d’emailing pro-
+posent des fonctionnalités d’auto-
+répondeur. Ils permettent d’éviter de 
+cumuler les outils mais n’offrent pas 
+toujours autant d’options que les 
+auto-répondeurs. 
+> L’e-mail retargeting
+L’email retargeting permet d’en-
+voyer un message automatique à 
+un visiteur dont on ne possède pas 
+l’adresse email.
+Lorsque l’internaute se rend sur un 
+site, une information est envoyée 
+grâce à un cookie à une société 
+d’email retargeting qui possède une 
+importante base d’adresses emails. Si 
+cette dernière reconnaît le visiteur, il 
+est possible d’envoyer un message 
+automatique d’abandon de panier 
+par exemple.
+Les conditions d’envoi sont bien sûr 
+paramétrées en amont. Exemple : 
+l’email est envoyé seulement si l’in-
+ternaute se rend 2 fois sur une page 
+produit en l’espace de 48h.
+Certaines sociétés proposent éga-
+lement à plusieurs sites de «parta-
+ger» leur base d’emails. Les adresses 
+emails restent la propriété de chaque 
+site. Néanmoins, si un internaute est 
+reconnu grâce à un cookie sur un site 
+et que son adresse est connue d’un 
+autre site, la société d’email retarge-
+ting va récupérer cette adresse et en-
+voyer un email au nom du site visité.
+Ce thème vous intéresse ? Découvrez les formations de la CCI :
+> Développez des campagnes e-mailing performantes
+> Améliorez la qualité de votre site internet
+J-10 avant la clôture des inscriptions !
+w w w . w e b c h a l l e n g e 2 4 . c o m

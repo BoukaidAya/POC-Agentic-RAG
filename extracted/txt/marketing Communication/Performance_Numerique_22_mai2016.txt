@@ -1,0 +1,446 @@
+
+----- page 1 -----
+ERP : quelle réponse pour les PME ?
+Un ERP ou PGI (Progiciel de Gestion Intégrée) est un ensemble de logiciels intégrant les principales 
+fonctions nécessaires à la gestion des flux et des procédures de l’entreprise. Le terme intégré fait 
+référence à un système unifié autour d’une seule et même base de données.
+Cette notice traite du fonctionnement et des conditions de mise en place d’un ERP dans une PME avec 
+un exemple à l’appui.
+Performance 
+numérique
+Votre rendez-vous mensuel
+Les fonctions couvertes
+Les ERP (Enterprise Re-
+source Planning) per-
+mettent de gérer l’en-
+semble des fonctions 
+d’une entreprise :
+Logistique
+Finance
+Ressources humaines
+	
+       Gestion commerciale
+Ils ont été introduits dans les entre-
+prises pour structurer leur fonction-
+nement interne tout en facilitant la 
+circulation des informations. En ce 
+sens, ils se différencient des logiciels 
+habituels, cloisonnés par fonction : 
+gestion des ventes, comptabilité …
+Ces derniers ont été mis en œuvre 
+au fur et à mesure des nécessités 
+en répondant à des besoins précis 
+mais fragmentés. En effet, comment 
+s’assurer que les données issues de 
+la facturation iront bien alimenter la 
+comptabilité ? Comment répondre 
+rapidement à un client qui s’inquiète 
+du suivi de sa commande ? Quid du 
+suivi des impayés ? Et de la gestion 
+des stocks ? 
+L’ERP permet à plusieurs métiers 
+de l’entreprise de travailler sur les 
+mêmes données avec le même sys-
+tème informatique : la Gestion de la 
+Production, les services Achats et Lo-
+gistique, l’Administration des Ventes, 
+la Comptabilité, le Contrôle de Ges-
+tion, les Ressources Humaines, le Ser-
+vice Clients l’utiliseront. Chacun em-
+ploiera une sous partie du progiciel, 
+communément appelée module. 
+L’objectif de l’ERP est d’améliorer la 
+performance de l’entreprise et sa ges-
+tion interne. De nombreux exemples 
+peuvent illustrer cette amélioration.
+Il n’existe qu’une seule base de don-
+nées : l’information est fiabilisée car 
+elle y est enregistrée une seule fois. 
+L’unicité des données évite la ressai-
+sie. Ceci constitue un atout impor-
+tant : en effet, combien de temps 
+perdu lors de la ressaisie des informa-
+tions d’un bon de commande dans 
+le logiciel de facturation, puis dans le 
+logiciel comptable ; en outre, lors de 
+chacune de ces nouvelles saisies, des 
+erreurs peuvent apparaître.
+Ainsi, un fichier client est utilisé pour 
+la gestion des prospects, pour la ges-
+tion des ventes et pour la comptabi-
+lité tierce. Si un élément de la fiche 
+client est modifié, le numéro de fax 
+par exemple, la modification va être 
+intégrée dans le système informa-
+tique par le service qui obtient la 
+nouvelle information.
+En conséquence, dès que la modi-
+fication sera effectuée, elle sera dis-
+ponible immédiatement pour l’en-
+semble des autres utilisateurs.
+De même, l’unicité des données per-
+met aux différents services de par-
+ler le même langage (ex : le service 
+clients et comptabilité). 
+Dans un ERP, la recherche d’informa-
+tions est simplifiée. Ces dernières sont 
+potentiellement accessibles à toutes 
+les fonctions : il est cependant pos-
+sible de sécuriser et de restreindre 
+l’accès à certaines informations sen-
+sibles (données commerciales, de 
+paie par exemple).
+Grâce à un ERP, il devient possible 
+d’automatiser les tâches fastidieuses 
+et sans valeur ajoutée. En consé-
+quence, chacun se concentre sur son 
+activité et son métier.
+Enfin, il est important de considérer 
+le fait que les ERP s’ouvrent de plus 
+en plus aux applications externes 
+à l’entreprise. Le bouleversement 
+apporté par Internet a notablement 
+changé les méthodes de travail, à 
+commencer par celles des grands 
+groupes. 
+Ceux-ci sont à une écrasante majo-
+rité équipés en ERP et incitent leurs 
+partenaires commerciaux de taille 
+plus modeste à s’équiper eux aussi 
+de façon à automatiser, accélérer et 
+fiabiliser certains échanges.
+CCI DORDOGNE - Performance numérique - MAI 2016
+1
+
+----- page 2 -----
+CCI DORDOGNE - Performance numérique - MAI 2016
+2
+Historiquement, les ERP ont tout 
+d’abord organisé la gestion des 
+stocks et de la planification. L’organi-
+sation des besoins en ressources de 
+production fut la deuxième étape 
+permettant la gestion globale de la 
+production. Le besoin de gérer les 
+processus de l’entreprise en y inté-
+grant des contraintes financières et 
+humaines fut l’étape suivante.
+Ce bref rappel historique a pour but 
+principal d’éclairer sur la nécessité 
+de choisir ou non un ERP. Pourquoi 
+est-on passé d’une organisation cloi-
+sonnée et verticale (par service) à 
+une organisation horizontale orien-
+tée vers le client ? Tout simplement 
+car la pression des clients s’accroît et 
+change continuellement. Afin d’ac-
+croître la productivité et de gagner 
+en réactivité, il faut adapter la prévi-
+sion de l’activité de l’entreprise.
+Par ailleurs, le cloisonnement des 
+applications informatiques utilisées 
+de façon traditionnelle dans les PME 
+peut devenir un frein au dynamisme 
+caractérisant cette catégorie d’entre-
+prises en ne fournissant pas d’outil 
+de pilotage pertinent. L’entreprise 
+risque alors sérieusement de voir sa 
+compétitivité mise à mal, voire ses 
+parts de marché diminuer.
+Il va de soi que la mise en place d’un 
+ERP implique parfois la remise en 
+cause des processus de l’entreprise 
+à tous les niveaux. L’implémentation 
+d’un ERP doit donc s’accompagner 
+d’une refonte des principes de fonc-
+tionnement ou tout du moins de 
+leur remise à plat et analyse : proces-
+sus de production, de commandes, 
+mais également de décision, d’enre-
+gistrement comptable par exemple. 
+L’ERP est structurant ; les divers pro-
+cessus induisent une définition des 
+responsabilités. Nous revenons ici à 
+la réactivité des PME ; en effet, en cas 
+d’absence du décideur, la commande 
+peut néanmoins être passée par un 
+autre collaborateur. En revanche, dès 
+lors qu’un ERP est mis en place, le 
+décideur officiel sera incontournable 
+pour une prise de commande.
+La perte possible de réactivité vient 
+immédiatement à l’esprit. Néan-
+moins, il est possible de prendre en 
+compte les absences (prévues ou 
+non) dans les processus de l’entre-
+prise, et d’adapter ceux-ci en consé-
+quence.
+Les bénéfices pour les PME
+L’implantation
+La première préoccupation sera 
+avant tout de se poser la bonne 
+question, à savoir : quelles sont les 
+fonctions concernées ? En effet, il 
+est fondamental d’implanter les 
+bons modules en analysant soigneu-
+sement les besoins qui vous sont 
+propres. On parle dans ce cas de be-
+soins fonctionnels.
+Le deuxième élément est la quanti-
+fication en ressources (en hommes 
+et en temps) et en coût du para-
+métrage et des éventuels dévelop-
+pements spécifiques à apporter au 
+progiciel. En effet, ces éléments sont 
+fréquemment sous-évalués, notam-
+ment à cause d’une imprécision du 
+cahier des charges initial. Il convient 
+donc de prévoir des révisions ponc-
+tuelles de ce cahier des charges. De 
+même, le temps nécessaire à la mi-
+gration et la conversion des données 
+est parfois difficile à évaluer.
+Autre coût important qui doit consti-
+tuer le troisième pôle de réflexion : 
+l’implication et la formation des utili-
+sateurs. Du fait que le progiciel modi-
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - MAI 2016
+3
+fiera les processus de travail de tous 
+les services, il est important de favo-
+riser son acceptation en intéressant 
+les collaborateurs.
+Quatrième et dernier écueil à éviter : 
+lors de l´implantation du progiciel, il 
+peut être séduisant de prime abord 
+de déployer simultanément tous ses 
+modules. En cas d’échec, toute l’infor-
+matique peut être bloquée.
+Commencez plutôt progressivement 
+: intégrez un premier module (Ges-
+tion de la Production par exemple). 
+Puis, l’intégration d’un deuxième mo-
+dule (Comptabilité) tirera les leçons 
+de la première et ajustera le tir, pour 
+mieux préparer le terrain à l’installa-
+tion des modules suivants.
+Globalement, le déploiement d’un 
+ERP est long et coûteux. Il est dan-
+gereux de penser gagner du temps 
+en ne repensant pas les processus 
+de l’entreprise en amont. La bonne 
+question à se poser est donc : sou-
+haitons-nous remettre en cause 
+nos processus de fonctionnement ? 
+Quels gains retirerions-nous de cette 
+réorganisation éventuelle ? Sont-ils 
+chiffrables ?
+> Existe-t-il des lacunes 
+importantes dans votre 
+organisation ?
+Productivité, clients et fournisseurs 
+non satisfaits, difficulté à faire circuler 
+l’information dans l’entreprise ? Ces 
+écueils, s’ils existent, peuvent être 
+résolus grâce à l’implantation d’un 
+ERP.
+> Anticiper le changement 
+Quel peut être l´impact d´une 
+nouvelle définition de poste dans 
+un service ? Comment vont réagir 
+certains, face au partage de données 
+? Pour la partie technique, il faut 
+prévoir la préparation des données 
+et le temps qui y est alloué (base 
+de données clients, fournisseurs, 
+nomenclature de produits).
+> Mobilisation 
+Dans une PME, la mise en place du 
+ERP va concerner une grande partie 
+de l´effectif. Certains cadres vont 
+devoir délaisser momentanément 
+leurs responsabilités opérationnelles. 
+Pour des raisons de coût et de 
+maîtrise du savoir-faire, privilégiez les 
+ressources internes.
+> Choisir son intégrateur 
+Choisissez-le selon vos attentes. 
+Certains éditeurs installent eux-
+mêmes leurs solutions. D’autres 
+préfèrent s’appuyer sur un réseau 
+de partenaires intégrateurs qui se 
+chargent du déploiement. 
+C’est majoritairement le cas pour 
+les progiciels à destination des PME. 
+Très souvent, l’intégrateur propose 
+plusieurs versions du même produit. 
+Chacune de ces versions est adaptée 
+à un métier ou un secteur d’activité. 
+On parle dans ce cas de versions 
+verticalisées.
+> Pilotage du projet 
+L’ERP touche toutes les fonctions. 
+Sous la responsabilité de la direction 
+générale qui va s´assurer de la 
+cohésion du projet, le comité de 
+pilotage doit rassembler tous les 
+départements impactés et définir les 
+livrables (les éléments concrets qui 
+composeront le progiciel).
+Les problèmatiques à considérer
+La maintenance
+Une fois l´intégration terminée, 
+l´entreprise doit penser à la main-
+tenance à venir. Assurez-vous donc 
+que votre éditeur ou intégrateur est 
+capable de répondre à vos attentes 
+en la matière.
+Pourquoi ne pas s’intéresser dans 
+ce cas à l’externalisation de votre 
+ERP ? Cette possibilité a déjà fait ses 
+preuves dans certains domaines, 
+notamment l’édition des bulletins de 
+paye. 
+Plusieurs méthodes sont en effet 
+possibles. Considérons l’offre ASP*, 
+dont la flexibilité est réellement at-
+trayante pour les PME. En effet, il s’agit 
+de louer une application (ici un ERP) 
+plutôt que d’acheter une licence 
+d’utilisation de cette application.
+Cette solution offre plusieurs avan-
+tages, au premier rang desquels se 
+situe l’hébergement du progiciel 
+chez le prestataire. Vous accédez 
+alors à l’application via un outil dis-
+tant : il peut s’agir d’un navigateur 
+internet. Ceci a pour avantage de 
+vous décharger de l’investissement 
+et de la maintenance technique du 
+serveur. La tarification est réalisée 
+en général sur une base mensuelle, 
+ce qui permet d’étaler les dépenses. 
+Sont également incluses les mises à 
+jour logicielles (qui ne le sont pas en 
+cas d’achat de licence). Outre l’accès 
+à l’application, les frais de support et 
+de maintenance corrective autour 
+de l’application font partie de cette 
+offre. 
+Si vous craignez pour la confiden-
+tialité de vos données, l’infogérance 
+applicative (outsourcing ou Tierce
+
+----- page 4 -----
+CCI DORDOGNE - Performance numérique - MAI 2016
+4
+Maintenance Applicative) offre la 
+même solution que l’ASP, à la diffé-
+rence que le serveur hébergeant 
+l’application et les données se 
+trouvent dans vos locaux. En général, 
+une personne externe (salariée du 
+prestataire auquel vous aurez confié 
+la mission) assure la maintenance, à 
+temps complet ou partiel suivant vos 
+besoins.
+La plupart des éditeurs annoncent 
+une durée de déploiement inférieure 
+à six mois. Il convient de nuancer ce 
+chiffre par la disponibilité des parties 
+prenantes, qui peut l’allonger de 
+façon significative. En outre, au-delà 
+de la mise en place, l’adaptation du 
+personnel et des procédures de 
+travail au fonctionnement de l’ERP 
+peut prendre un an voire deux.
+Pourquoi tant d’échecs ou tout du 
+moins autant de projets n’ayant pas 
+répondu aux attentes des entreprises 
+? Il faut se replacer dans le contexte 
+pré an 2000. A cette époque, nombre 
+de décideurs ont soudain conscience 
+de la nécessité de prendre en compte 
+le passage de l’année 1999 à l’année 
+2000. Le fameux bug est mis en avant 
+par les éditeurs de logiciels, incitant à 
+changer d’application informatique 
+et, pourquoi pas, à mettre en place 
+un ERP. De surcroît, le changement 
+de monnaie, rendu obligatoire par 
+l’apparition de l’euro, favorise le choix 
+d’une solution logicielle ayant une 
+pérennité affirmée.
+Le choix d’un ERP se fait donc assez 
+rapidement, 
+généralement 
+sans 
+refonte des processus de l’entreprise. 
+Les entreprises changent donc leurs 
+applications 
+informatiques. 
+Elles 
+mettent en place un système unique. 
+Négligeant l’impact fort d’une telle 
+solution, qui est nécessairement 
+complexe à gérer, les méthodes et 
+les processus de travail demeurent 
+les mêmes.
+En conséquence, il n’y a pas de gain 
+(en terme d’efficacité, de temps 
+de travail, parfois même de coût) 
+mesurable. Pour certains utilisateurs, 
+ce sera même sans formation 
+préalable qu’ils devront utiliser un 
+nouvel outil informatique ! Il est 
+donc essentiel de considérer tous les 
+aspects et les implications d’un ERP 
+avant de prendre une décision.
+Un prestataire externe apportera 
+un point de vue indépendant sur 
+la nécessité ou non d’engager un 
+projet de mise en œuvre d’un ERP, 
+et pourra orienter le choix d’une 
+solution logicielle appropriée.
+Les problèmes rencontrés
+Le budget d’un projet de mise en 
+place d’un ERP représente entre 1 à 2 
+% du chiffre d’affaires de l’entreprise, 
+indépendamment de sa taille. Ce 
+ratio pourra être inférieur pour une 
+PME. Néanmoins, la dépense est 
+tout de même conséquente : le 
+coût moyen d’une licence est de 2 
+500 € hors taxes, sur la base de 25 
+utilisateurs. 
+De plus, le montant d’un projet 
+d’implantation 
+ERP 
+inclut 
+des 
+prestations de mise en œuvre : 
+conception, paramétrage, formation. 
+Ces 
+charges 
+complémentaires 
+ne 
+sont 
+pas 
+facultatives. 
+Elles 
+représentent un surcoût compris 
+entre 50 et 100 % du coût de licence. 
+En outre, il faut ajouter le coût annuel 
+de la maintenance, compris entre 15 
+et 20 % du coût.
+Le budget
+Votre prochain rdv numérique :
+« Le droit à l’image au sein de 
+l’entreprise »
+VOTRE contact
+Samuel COSTE 
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr

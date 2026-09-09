@@ -1,0 +1,3554 @@
+
+----- page 1 -----
+Contrat d’interface  
+Prélèvement à la source  
+des cotisations sociales  
+des auto-entrepreneurs par les 
+plateformes numériques  
+ 
+Phase « Identification » 
+ 
+Version 2026-2 31/03/2026
+
+----- page 2 -----
+2
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+ 
+ 
+ 
+ 
+Version 
+Crée ou 
+modifié le 
+ 
+Nature des mises à jour et commentaires 
+1.0 
+15/04/2025 
+Version initiale 
+1.1 
+04/07/2025 
+Version mise à jour : 
+- 
+Ajout du contrôle PNID_RT59 
+- 
+Ajout de l’interdiction de la présence du point-virgule sur les champs 
+MessageRefId et UserRefid 
+- 
+Ajout du caractère « ç » en caractère autorisé 
+- 
+L’identifiant plateforme est maintenant sur 7 caractères 
+- 
+Suppression du rejet PNID_RT40 (« erreur bloquante :   Le bloc 
+EntityUserIdentification doit être présent au moins une fois dans le 
+fichier »), et du rejet PNID_RT44 (« Information : Le tag BirthDate ne 
+contient pas une date valide »). 
+2025-1 
+24/09/2025 
+Version mise à jour : 
+- 
+Ajout d’une précision sur le fonctionnement du Bac à sable (§2.4 
+Cas spécifique d’un flux Bac à sable) 
+- 
+Précision concernant la durée d’inactivité d’un utilisateur, à partir de 
+laquelle la plateforme n’est plus tenue d’interroger l’Urssaf pour cet 
+utilisateur  
+- 
+Ajout du PNID_60 
+2025-2 
+16/10/2024 
+Version mise à jour :  
+- 
+Le taux de cotisation à appliquer peut maintenir avoir jusqu’à 3 
+chiffres après la virgule 
+- 
+Fusion de la nature d’activité Location de meublé cas général et 
+Chambre d’hôte et ajout de la nature d’activité Restaurateur 
+ 
+2026-1 
+26/01/2026 
+Version mise à jour : 
+- 
+Ajout de précisions concernant le courriel reçu à l’issue du traitement 
+des fichiers déposés sur le portail (chapitre 2.3) 
+- 
+Ajout d’une précision concernant la localisation du lieu de naissance 
+(chapitre 3.2) 
+- 
+Ajout d’une précision concernant le caractère obligatoire du champ 
+adresse email (chapitre 3.3.11) 
+- 
+Ajout de précisions sur la métadonnée attendue du fichier 
+compressé (chapitre 3.4.7) 
+- 
+Modification du libellé de la nature d’activité NA03, Ajout de la nature 
+d’activité NA10 « Chambre d’hôte » et suppression de la précision 
+sous la table (chapitre 7.1.1)  
+- 
+Ajout d’une précision sur un taux de prélèvement retourné par 
+l’Urssaf à 0,000% (chapitre 7.1.2) 
+ 
+2026-2 
+31/03/2026 
+Version mise à jour : 
+- 
+Ajout de précisions sur le sequence number (chapitre 3.4.3 ; 
+4.2 ; 5.2 ; 7.2) 
+- 
+Retrait du champ email comme un champ obligatoire (chapitre 
+3.3.11 ; 5.3.9 ; 7.3.9). Les annexes XSD ont été mises à jour en 
+conséquence. 
+- 
+Modification de la précision sur la métadonnée et le nom du 
+fichier attendu après compression (chapitre 3.4.7)
+
+----- page 3 -----
+3
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+Tramage bleu : modifications et compléments d’information apportés dans la version 2026-1 
+Tramage vert : modifications et compléments d’information apportés dans la version 2026-2
+
+----- page 4 -----
+4
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+Sommaire 
+1. Introduction ........................................................................................................ 7 
+1.1 Objectifs et contenu du document ................................................................................................... 7 
+1.2 Glossaire .......................................................................................................................................... 7 
+2. Général ................................................................................................................ 9 
+2.1 Cadre légal ...................................................................................................................................... 9 
+2.2 Processus ........................................................................................................................................ 9 
+2.3 Déroulé de la Phase d’Identification .............................................................................................. 10 
+2.4 Cas spécifique d’un flux Bac à Sable ............................................................................................ 11 
+2.4.1 Utilisateurs entrant dans le champ de prélèvement – fonctionnement du Bac à sable ................................. 11 
+2.4.2 Taux de prélèvement par nature d’activités .................................................................................................. 11 
+2.5 Utilisation du Portail Plateformes Numériques .............................................................................. 12 
+2.5.1 Modalités d’utilisation du service « Identification » ....................................................................................... 12 
+2.5.2 Description générale du parcours pour le dépôt des fichiers Identification ................................................... 12 
+3. Fichier Identification ........................................................................................ 13 
+3.1 Règles métiers ............................................................................................................................... 13 
+3.1.1 Périmètre des utilisateurs à communiquer .................................................................................................... 13 
+3.2 Données à transmettre .................................................................................................................. 14 
+3.3 Format des fichiers d’échange ...................................................................................................... 15 
+3.3.1 Schéma applicable ....................................................................................................................................... 15 
+3.3.2 Le message et les blocs de données ............................................................................................................ 15 
+3.3.3 Le message et les informations techniques d'identification .......................................................................... 15 
+3.3.4 Multiplicité ..................................................................................................................................................... 16 
+3.3.5 Niveau d'exigence des données ................................................................................................................... 16 
+3.3.6 Schéma XSD ................................................................................................................................................ 16 
+3.3.7 DPID_UCN ................................................................................................................................................... 17 
+3.3.8 DPID_UCN / MessageSpec (dpid:MessageSpec_Type) .............................................................................. 17 
+3.3.9 DPID_UCN / DPIDBody (dpid:Body_Type) ................................................................................................... 18 
+3.3.10 
+DPID_UCN / DPIDBody / EntityUserIdentification (dpid:EntityUserIdentification_Type) ......................... 18 
+3.3.11 
+DPID_UCN / DPIDBody / EntityUserIdentification / ContactDetails (dpid:ContactDetails_Type) ............ 20 
+3.3.12 
+DPID_UCN / DPIDBody / EntityUserIdentification / ContactDetails / PostalAddress 
+(dpid:PostalAddress_Type) ................................................................................................................................... 20 
+3.4 Caractéristiques des fichiers ......................................................................................................... 22 
+3.4.1 Format du fichier ........................................................................................................................................... 22 
+3.4.2 Indication de l’Identifiant de Plateforme Numérique ...................................................................................... 22 
+3.4.3 Règles de nommage du fichier Identification ................................................................................................ 22 
+3.4.4 Compression ................................................................................................................................................. 22 
+3.4.5 Taille maximum du fichier ............................................................................................................................. 23 
+3.4.6 Encodage du fichier XML .............................................................................................................................. 23 
+3.5 Contrôles opérés sur le fichier d’identification ............................................................................... 23 
+3.5.1 Contrôles de premier niveau - Fichier ........................................................................................................... 23 
+3.5.2 Contrôles de premier niveau - Validation format XML .................................................................................. 24 
+3.5.3 Contrôles de premier niveau - Validation format XSD .................................................................................. 24 
+3.5.4 Contrôles de premier niveau - Validation format message ........................................................................... 24 
+3.5.5 Contrôles de second niveau ......................................................................................................................... 25 
+3.5.6 Liste des contrôles de second niveau ........................................................................................................... 26
+
+----- page 5 -----
+5
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+4. Fichier Rapport Global .................................................................................... 28 
+4.1 Les règles métiers ......................................................................................................................... 28 
+4.2 Données renvoyées par l’Urssaf ................................................................................................... 28 
+4.3 Format des fichiers d'échange ...................................................................................................... 29 
+4.3.1 Schéma applicable ....................................................................................................................................... 29 
+4.3.2 Le message et les blocs de données ............................................................................................................ 29 
+4.3.3 Description structure XML ............................................................................................................................. 29 
+4.3.4 DPGR_UCN .................................................................................................................................................. 30 
+4.3.5 DPGR_UCN / MessageSpec (dpgr:MessageSpec_Type) ............................................................................ 30 
+4.3.6 DPGR_UCN / DPGRBody (dpgr:Body_Type) ............................................................................................... 31 
+5. Fichier Rapport Détaillé ................................................................................... 33 
+5.1 Les règles métiers ......................................................................................................................... 33 
+5.2 Données renvoyées par l’Urssaf ................................................................................................... 33 
+5.3 Format des fichiers d'échange ...................................................................................................... 34 
+5.3.1 Schéma applicable ....................................................................................................................................... 34 
+5.3.2 Le message et les blocs de données ............................................................................................................ 34 
+5.3.3 Le message et les informations techniques d'identification .......................................................................... 34 
+5.3.4 Description structure XML ............................................................................................................................. 34 
+5.3.5 DPDR_UCN .................................................................................................................................................. 35 
+5.3.6 DPDR_UCN / MessageSpec (dpdr:MessageSpec_Type) ............................................................................ 35 
+5.3.7 DPDR_UCN / DPDRBody (dpdr:Body_Type) ............................................................................................... 36 
+5.3.8 DPDR_UCN / DPDRBody / EntityUserResult (dpdr:EntityUserResult_Type) ............................................... 37 
+5.3.9 DPDR_UCN / DPDRBody / EntityUserResult / ContactDetails (dpid:ContactDetails_Type)......................... 37 
+5.3.10 
+DPDR_UCN / DPDRBody / EntityUserResult / ContactDetails / PostalAddress 
+(dpid:PostalAddress_Type) ................................................................................................................................... 38 
+6. Fichier des utilisateurs  avec signalement .................................................... 39 
+6.1 Les règles métiers ......................................................................................................................... 39 
+6.2 Format du fichier d’échange .......................................................................................................... 39 
+7. Fichier des utilisateurs à prélever .................................................................. 40 
+7.1 Les règles métiers ......................................................................................................................... 40 
+7.1.1 Natures d’activité .......................................................................................................................................... 40 
+7.1.2 Taux de prélèvement à appliquer par nature d’activité ................................................................................. 40 
+7.2 Données renvoyées par l’Urssaf ................................................................................................... 41 
+7.3 Format des fichiers d’échange ...................................................................................................... 42 
+7.3.1 Schéma applicable ....................................................................................................................................... 42 
+7.3.2 Le message et les blocs de données ............................................................................................................ 43 
+7.3.3 Le message et les informations techniques d'identification .......................................................................... 43 
+7.3.4 Description structure XML ............................................................................................................................. 43 
+7.3.5 DPRA_UCN .................................................................................................................................................. 44 
+7.3.6 DPRA_UCN / MessageSpec (dpra:MessageSpec_Type) ............................................................................ 44 
+7.3.7 DPRA_UCN / DPRABody (dpra:Body_Type) ............................................................................................... 45 
+7.3.8 DPRA_UCN / DPRABody / EntityUserRate (dpra:EntityUserRate_Type)..................................................... 46 
+7.3.9 DPRA_UCN / DPRABody / EntityUserRate / ContactDetails (dpid:ContactDetails_Type) ........................... 47 
+7.3.10 
+DPRA_UCN / DPRABody / EntityUserRate / ContactDetails / PostalAddress (dpid:PostalAddress_Type)
+ 
+47 
+7.3.11 
+DPRA_UCN / DPRABody / EntityUserRate / Rate (dpra:Rate_Type)..................................................... 48
+
+----- page 6 -----
+6
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+8. Assistance ........................................................................................................ 49
+
+----- page 7 -----
+7
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+1. INTRODUCTION 
+1.1 Objectifs et contenu du document 
+Cette documentation décrit le fonctionnement et le mode opératoire pour l’échange de données entre 
+les plateformes et l’Urssaf concernant la phase d’identification des utilisateurs en mode échange de 
+fichier. 
+Pour une bonne compréhension du présent document, il est recommandé que le lecteur maîtrise les 
+langages XML et XML Schema Definition (XSD). 
+ 
+1.2 Glossaire 
+Acronyme 
+Terme 
+Signification 
+ 
+Commentaire 
+UCN 
+Urssaf Caisse Nationale 
+ 
+RG 
+Rapport Général 
+Emis systématiquement pour tout envoi de 
+fichier 
+AE 
+Auto-entrepreneur 
+ 
+RD 
+Rapport Détaillé 
+Emis seulement si le fichier émis par la 
+plateforme est exploitable 
+DPID 
+Digital Platform IDentification 
+Norme pour Fichier pour l’Identification des 
+utilisateurs d’une Plateforme Numérique 
+DPRA 
+Digital Platform Rate 
+Norme pour Fichier des utilisateurs à 
+prélever avec taux par nature d’activité (en 
+réponse d’un flux DPID) 
+DPGR 
+Digital Platform Global Report 
+Norme pour Fichier de Rapport Général 
+DPDR 
+Digital Platform Detail Report 
+Norme pour Fichier de Rapport Détaillé 
+DPUA 
+Digital Platform Users with Anomalies 
+Norme pour le Fichier des utilisateurs avec 
+signalement 
+Mois M 
+Mois de prélèvement 
+ 
+Mois M-1 
+Mois précédant le mois de prélèvement 
+Phase d’identification 
+Mois M+1 
+Mois suivant le mois de prélèvement 
+Phase de déclaration 
+PPN 
+Prélèvement des cotisations des 
+usagers des Plateformes Numériques 
+ 
+SIREN 
+Système d’Identification du Répertoire 
+des Entreprises 
+Numéro unique attribué par l'INSEE à 
+chaque entreprise lors de sa création. Ce 
+numéro identifie l'entité juridique, peu 
+importe le nombre d'établissements qu'elle 
+possède. 
+SIRET 
+Système d'identification du répertoire 
+des établissements 
+Il est la concaténation d’un SIREN et d’un 
+code NIC
+
+----- page 8 -----
+8
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+Acronyme 
+Terme 
+Signification 
+ 
+Commentaire 
+Urssaf 
+Union de recouvrement des cotisations 
+de Sécurité sociale et d'allocations 
+familiales 
+ 
+XML 
+Extensible Mark-up Language 
+ 
+XSD 
+XML Schema Definition
+
+----- page 9 -----
+9
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+2. GENERAL 
+2.1 Cadre légal 
+L’article 6 de la loi de financement de la sécurité sociale (LFSS) pour 2024 prévoit la mise en place, en 
+2027, d’une obligation de prélèvement obligatoire, par les opérateurs de plateformes, des cotisations 
+sociales dues par les auto-entrepreneurs sur les transactions réalisées via leur l’intermédiaire.  
+Pour la plateforme, cette obligation se traduira par : 
+ La transmission à l’Urssaf des données d’identification de ses utilisateurs 
+qu'elle collecte notamment à l'inscription 
+▪ Pour limiter la charge en gestion pour les opérateurs de plateformes tout en sécurisant les 
+montants prélevés, l’Urssaf indiquera en retour si l’utilisateur doit être prélevé (car effectivement 
+affilié à l’Urssaf), et le taux de cotisation applicable à chaque situation (catégorie de cotisation, 
+exonération, etc.) 
+▪ La détermination du taux de prélèvement applicable à chaque auto-entrepreneur est donc de la 
+responsabilité de l’Urssaf 
+ La déclaration des chiffres d’affaires (CA) réalisés par les auto-entrepreneurs 
+par son intermédiaire ; 
+ Le paiement à l'Urssaf des montants prélevés à ses utilisateurs au titre des 
+cotisations sociales dues. 
+L’obligation se limitera aux seules opérations pour lesquelles la plateforme joue un rôle d’intermédiation 
+financière, et à l’exception des transactions en espèce. 
+En cas de soustraction de la plateforme à ses obligations (défaut de prélèvement ou de déclaration), la 
+loi prévoit des sanctions inspirées de celles déjà applicables aux entreprises.  
+ 
+2.2 Processus 
+Le dispositif de prélèvement des cotisations sociales des utilisateurs de plateformes 
+numériques est une obligation réglementaire qui se décline opérationnellement en trois phases, 
+sur un rythme mensuel :  
+ Phase 1 (fin mois M-1) : identification des utilisateurs à prélever 
+▪ En fin de mois M-1, la plateforme interroge l’Urssaf afin d’identifier les utilisateurs à prélever (auto-
+entrepreneurs) et le cas échéant le ou les taux de cotisations à appliquer pour les prélèvements 
+du mois suivant. 
+▪ Plateforme ➔ Urssaf : transmission du fichier de ses utilisateurs. 
+▪ Urssaf ➔ Plateforme : transmission en retour de la liste des utilisateurs à prélever et du taux de 
+prélèvement applicable à chaque utilisateur. 
+ 
+ Phase 2 (pendant le mois M) : prélèvement au « fil de l’eau » des cotisations 
+sociales dues sur les transactions réalisées par ses utilisateurs 
+▪ Plateforme :  
+• Calcule le montant des cotisations à prélever sur le chiffre d’affaires réalisés par l’utilisateur 
+(calcul sur la base du taux de prélèvement communiqué par l’Urssaf)
+
+----- page 10 -----
+10
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+• Déduit le montant des cotisations du versement qu’elle réalise à l’utilisateur 
+• Transactions concernées : Celles pour lesquelles la plateforme joue un rôle d’intermédiation 
+financière, et à l’exception des transactions en espèce. 
+ 
+ Phase 3 (début M+1) : déclaration à l’Urssaf + Paiement par virement bancaire 
+▪ Plateforme ➔ Urssaf :  
+• Transmission du fichier des utilisateurs prélevés au cours du mois M avec, pour chaque 
+utilisateur, le chiffre d’affaires réalisé, le montant de cotisations prélevées et les informations 
+liées à la TVA. 
+• Paiement du montant total des cotisations prélevées au cours du mois M par virement 
+bancaire. 
+ 
+Ce document se focalise uniquement sur la phase d’identification.  
+Pour la phase de déclaration, il convient de se référer au document  
+UCN-ContratInterface-PhaseDeclaration_FR_v1.0 
+ 
+2.3 Déroulé de la Phase d’Identification 
+Chaque mois précédent le mois de prélèvement concerné (Mois M-1), la plateforme devra se connecter 
+sur le Portail Plateformes Numériques afin de déposer un fichier XML contenant l’ensemble des 
+utilisateurs à identifier. Cette identification est mensuelle et systématique pour l’ensemble des 
+utilisateurs de la plateforme tel que définie en §3.1.1. Les dates de début et de fin de dépôt pour un 
+mois de prélèvement concerné sont fixées par un paramètre global pour le dispositif. Ce paramètre 
+vous sera communiqué ultérieurement.  
+Il pourra être ajusté et fera l’objet d’une information à votre destination le cas échéant. 
+Lors du dépôt, le système attribue immédiatement un identifiant unique Urssaf au fichier déposé. Un 
+contrôle de premier niveau est alors réalisé : 
+ En cas d’échec du contrôle de premier niveau, le fichier est rejeté et un rapport 
+global est généré et envoyé à la plateforme dans un délai maximal de 2 heures (une 
+notification par courriel est également envoyée). La plateforme doit alors corriger les 
+erreurs et redéposer le fichier jusqu’à ce que le contrôle de premier niveau soit validé. 
+ Si le contrôle de premier niveau est réussi, le fichier est accepté et le traitement se 
+poursuit.
+
+----- page 11 -----
+11
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+Une fois le fichier accepté par l’Urssaf, un traitement est effectué pour fournir, dans un délai moyen de 
+moins de 4 heures et un délai maximum d'une journée calendaire, plusieurs fichiers : 
+ Rapport Global : 
+Un rapport global est généré pour indiquer si le fichier fourni par la plateforme a été accepté ou 
+rejeté. 
+ Rapport Détaillé : 
+Si le fichier de la plateforme est accepté, un rapport détaillé est alors produit. Ce fichier indique, 
+pour chaque utilisateur, l’indicateur de reconnaissance et des éventuels signalements. Certains 
+signalements nécessitent une fiabilisation par la plateforme des informations servant à 
+l’identification. 
+ Fichier des utilisateurs avec signalement : 
+Ce fichier, au format csv, contient l’ensemble des utilisateurs avec au moins un signalement. Pour 
+chaque utilisateur, sont rappelées les informations transmises dans le flux d’identification et 
+l’ensemble des signalements identifiés durant le contrôle de niveau 2. 
+ Fichier des utilisateurs à prélever : 
+Ce fichier contient l'ensemble des utilisateurs reconnus par l'Urssaf comme ayant un statut dans le 
+champ du prélèvement. Seuls les utilisateurs identifiés dans ce fichier feront l'objet de prélèvements 
+par la plateforme. Pour chaque utilisateur, l'Urssaf fournit le taux de cotisations applicable selon la 
+nature de l'activité exercée. Ce taux tient compte le cas échéant des particularités de l’utilisateur à 
+prélever : exonération, Acre, versement libératoire de l’impôt, etc. 
+Une fois le traitement terminé, un courriel est envoyé à la plateforme avec ne_pas_repondre@urssaf.fr 
+comme expéditeur et [Urssaf – portail Plateforme numérique] Dépôt de votre fichier / File 
+submission comme objet. 
+ 
+2.4 Cas spécifique d’un flux Bac à Sable 
+2.4.1 Utilisateurs entrant dans le champ de prélèvement – fonctionnement du Bac 
+à sable 
+Dans le cas d’un flux Bac à Sable, la plateforme transmet des utilisateurs fictifs ou issus de sa propre 
+base. Afin de permettre une réconciliation des données et la production de l’ensemble des rapports, un 
+contournement des règles de gestion est appliqué aux 10 premiers utilisateurs d’un flux d’identification 
+bac à sable (DPIDSB). Cela permet d’inclure le cas où une plateforme numérique n’a pas, au moment 
+de l’expérimentation des flux d’identification avec l’Urssaf, d’utilisateurs auto-entrepreneurs. 
+Ces 10 premiers utilisateurs seront alors considérés comme entrant dans le champ de prélèvement du 
+dispositif et seront retournés dans le « fichier des utilisateurs à prélever » comme à prélever, à la seule 
+condition que la balise <IN> de l’utilisateur soit correctement formée sur les 9 premiers caractères 
+transmis et soit un SIREN valide. 
+2.4.2 Taux de prélèvement par nature d’activités 
+Lors d’un échange bac à sable avec l’Urssaf, les utilisateurs transmis dans le « fichier des utilisateurs à 
+prélever » auront chacun un taux de prélèvement fictif. Ce taux est identique par nature d’activités.
+
+----- page 12 -----
+12
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+2.5 Utilisation du Portail Plateformes Numériques 
+Afin de sécuriser l’acheminement des données transmises à l’Urssaf par les plateformes numériques, 
+le flux Identification doit être adressé à l’Urssaf, par les personnes habilitées par leur plateforme à 
+effectuer les dépôts de fichier, via l’espace connecté du Portail Plateformes Numériques. 
+L’accès à l’espace connecté du Portail Plateformes Numériques est soumis à la création d’un compte 
+plateforme.  
+ 
+2.5.1 Modalités d’utilisation du service « Identification » 
+Le principe générique est le suivant : Il permet aux comptes plateformes habilités : 
+▪ D’envoyer les fichiers requis pour la phase d’identification ; 
+▪ De télécharger, en retour, les fichiers mis à disposition par l’Urssaf : Rapport Global, Rapport 
+Détaillé, Fichier des utilisateurs à prélever ; Fichier des utilisateurs avec signalement ; 
+▪ D’accéder à l’historique des fichiers échangés. 
+ 
+2.5.2 Description générale du parcours pour le dépôt des fichiers Identification 
+La constitution et le dépôt d’un fichier Identification sur le Portail Plateformes Numériques s’effectue au 
+moyen d’un parcours composé de plusieurs phases successives. Ces différentes phases peuvent se 
+résumer ainsi :  
+1. Constitution du fichier d’identification selon les modalités décrites dans le présent contrat 
+d’interface ;  
+2. Compression du fichier d’identification ;  
+3. Dépôt du fichier sur la rubrique « identification » du Portail Plateformes Numériques ; 
+4. Le traitement du fichier est alors réalisé par l’Urssaf. La disponibilité des différents fichiers en 
+retour sera notifiée par courriel et sur la page d’accueil de l’espace connecté ; 
+5. Les fichiers seront téléchargeables depuis cette même rubrique « Identification », depuis le 
+tableau d’historique des fichiers échangés.
+
+----- page 13 -----
+13
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+3. FICHIER IDENTIFICATION  
+3.1 Règles métiers 
+3.1.1 Périmètre des utilisateurs à communiquer 
+Les plateformes doivent interroger l’Urssaf sur l’ensemble de leurs utilisateurs répondant aux 
+critères suivants : 
+ Ensemble des utilisateurs actifs au moment de la constitution du fichier par la 
+plateforme  
+La plateforme interroge l’Urssaf concernant ses utilisateurs actifs sur la plateforme au moment 
+de la constitution du fichier.  
+Ainsi, un utilisateur qui s’inscrit en fin de mois M-1 (après la date limite d’envoi du fichier 
+d’identification) ou dans le courant du mois M, ne pourra pas être prélevé par la Plateforme en 
+M. Il devra déclarer lui-même son chiffre d’affaires directement à l’Urssaf pour le 1er mois 
+d’activité, et sera dans le fichier d’identification du mois suivant. 
+Exemple : la plateforme a transmis son fichier d’interrogation pour le mois de mai le 23 
+avril à l’Urssaf, l’Urssaf a transmis en retour la liste des utilisateurs à prélever et le taux de 
+prélèvement applicable à chaque utilisateur le 25 avril. 
+   
+L’utilisateur A, inscrit le 24 avril, n’apparaît pas dans les fichiers d’identification échangés 
+entre l’Urssaf et la plateforme. Il ne sera pas prélevé en mai et devra effectuer sa 
+déclaration lui-même auprès de l’Urssaf pour le mois de mai. La plateforme interrogera 
+l’Urssaf sur cet utilisateur fin mai et le prélèvera au mois de juin.  
+Cas des utilisateurs « inactifs » :  
+Un utilisateur « inactif » est un utilisateur qui n’a pas réalisé de transaction depuis 12 mois sur 
+la plateforme. La plateforme n’est pas tenue d’interroger l’Urssaf pour ce dernier.  
+L’utilisateur « inactif » qui réaliserait à nouveau des transactions via la plateforme en M ne 
+pourra pas être prélevé par la Plateforme en M, il devra déclarer lui-même son chiffre d’affaires 
+de M directement à l’Urssaf, pour ce mois de reprise d’activité. Il sera dans le fichier 
+d’identification du mois suivant. 
+Exemple (vision à fin avril) : L’utilisateur B n’a pas réalisé de transaction sur la 
+plateforme depuis 16 mois. Cet utilisateur n’est donc pas présent dans le fichier 
+d’identification adressé fin avril par la Plateforme à l’Urssaf. 
+  
+L’utilisateur B réalise une transaction via la plateforme le 16 mai :  
+- Ses cotisations sociales ne seront pas prélevées par la plateforme 
+- Il devra déclarer lui-même son chiffre d’affaires à l’Urssaf pour le mois de mai.  
+- La plateforme interrogera l’Urssaf sur cet utilisateur redevenu « actif » fin mai en vue 
+d’enclencher le prélèvement des cotisations en juin.
+
+----- page 14 -----
+14
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+ Ciblage territorial des utilisateurs à prélever :  
+Les plateformes dont l’activité s’étend à l’étranger devront interroger l’Urssaf uniquement pour 
+les utilisateurs réalisant leur activité en France [le ciblage territorial précis reste à définir]. 
+ Ciblage des utilisateurs professionnels / non professionnels :  
+Les plateformes de consommation ou de type marketplace combinant des utilisateurs B2C et 
+C2C devront interroger l’Urssaf uniquement pour les utilisateurs B2C, s’étant déclarés comme 
+professionnels sur la plateforme. 
+ 
+3.2 Données à transmettre 
+Les données nécessaires à l’élaboration du fichier « Identification » fourni par les plateformes sont : 
+ 
+ 
+La plateforme à la possibilité d’associer deux éléments, optionnels, afin de faciliter sa gestion du suivi 
+des échanges :  
+ MessageRefID : donnée optionnelle, elle est fixée librement par le dépositaire, pour 
+un flux donné, par le dépositaire et restituée telle quelle dans les différents fichiers 
+produits (rapport global, rapport détaillé, fichier des utilisateurs avec signalement et 
+fichiers de utilisateurs à prélever) afin d’en faciliter le chainage. Le caractère « ; » 
+(point-virgule) n’est pas autorisé pour ce champ. 
+Données 
+Attribut 
+Commentaires 
+Général – DPID_UCN - MessageSpec 
+Identifiant de la plateforme 
+PlatformId 
+Il s’agit de l’identifiant plateforme fourni par l’Urssaf lors de la 
+prise en compte de l’inscription 
+Mois de prélèvement 
+ReportingPeriod 
+Il s’agit du mois M pour l’identification faite en M-1  
+État civil – DPID_UCN – DPIDBody - EntityUserIdentification 
+Nom 
+LastName 
+Il peut s’agir du nom patronymique ou du nom d’usage 
+Prénom 
+FirstName 
+Il peut s’agir du prénom patronymique ou du prénom d’usage 
+Date de naissance 
+BirthDate 
+ 
+Lieu de naissance 
+PlaceOfBirth 
+Il peut s’agir d’une ville pour un Français, d’un pays pour un 
+étranger 
+Identifiant de l’utilisateur – DPID_UCN – DPIDBody - EntityUserIdentification 
+SIRET ou à défaut SIREN 
+IN 
+Si la plateforme ne dispose pas du SIRET complet (14 
+positions), elle doit indiquer à minima le SIREN sur 9 positions. 
+Coordonnées de contact – DPID_UCN – DPIDBody - EntityUserIdentification -  ContactDetails 
+Adresse courriel 
+EmailAddress 
+ 
+Téléphone 
+PhoneNumber 
+ 
+Adresse postale -– DPID_UCN – DPIDBody -  EntityUserIdentification -  ContactDetails - PostalAddress 
+Adresse 1 
+Street1 
+Numéro, type et nom de la voie 
+Adresse 2 
+Street2 
+Complément d’adresse : bâtiment, étage, numéro 
+d’appartement 
+Code postal 
+PostalCode 
+ 
+Ville 
+City 
+ 
+Pays 
+Country
+
+----- page 15 -----
+15
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+ UserRefId : donnée optionnelle, elle est fixée librement par le dépositaire, par 
+utilisateur d’un flux donnée, et restituée telle quelle dans les différents fichiers produit 
+(rapport détaillé et fichier des utilisateurs à prélever) afin d’en faciliter le chainage. Le 
+caractère « ; » (point-virgule) n’est pas autorisé pour ce champ. 
+ 
+3.3 Format des fichiers d’échange 
+3.3.1 Schéma applicable 
+Le schéma à utiliser par les plateformes est disponible dans la zone documentaire de la page Plateforme 
+Numérique sur urssaf.fr, à l’adresse suivante : https://www.urssaf.fr/accueil/tiers-declarant/plateforme-
+numerique.html  (document : Plateforme numérique_Annexes Contrat Interface Identification_Schémas 
+XSD_FR) 
+Il s’agit de l’annexe 1 « Schéma XSD – Fichier identification ». Les plateformes doivent utiliser ce 
+schéma pour le flux Identification afin de valider les flux qu’ils fourniront via le Portail Plateformes 
+Numériques. 
+ 
+3.3.2 Le message et les blocs de données 
+Au niveau le plus haut, le fichier comporte un bloc nommé DPID_UCN (encore appelé message 
+DPID_UCN). 
+Le message DPID_UCN est composé d'un unique bloc MessageSpec et d'un unique bloc DPIDBody. 
+Le bloc MessageSpec caractérise le message DPID_UCN tandis que le bloc DPIDBody identifie les 
+informations concernant les utilisateurs travaillant pour la plateforme (EntityUserIdentification). 
+Les informations des messages DPID_UCN permettent de constituer un fichier XML dont les 
+caractéristiques techniques sont abordées dans les chapitres 3.3.7 DPID_UCN et 3.4 Caractéristiques 
+des fichiers. 
+La taille maximale du message ne peut excéder 100 Mo après compression. 
+ 
+3.3.3 Le message et les informations techniques d'identification 
+Le message DPID_UCN (flux identification) comporte des informations techniques qui visent à identifier, 
+de manière unique et non ambiguë, les blocs de message DPID_UCN. 
+ 
+Ces informations techniques sont obligatoires. Elles se trouvent dans : 
+▪ Le bloc MessageSpec (de niveau message) ; 
+▪ Le bloc EntityUserIdentification (de niveau bloc d'information, également appelé enregistrement). 
+Les flux envoyés doivent impérativement être en conformité avec les schémas rappelés ci-dessus.
+
+----- page 16 -----
+16
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+3.3.4 Multiplicité 
+Pour chaque balise XML, la liste suivante précise la multiplicité (ou cardinalité) de l'information : 
+Multi 
+Commentaire 
+[0..1] 
+0 ou 1 information 
+[0..n] 
+0 à n information(s) 
+[1..1] 
+1 et une seule information 
+[1..n] 
+1 à n information(s) 
+3.3.5 Niveau d'exigence des données 
+Pour chaque élément, ou attribut de données XML, est indiqué le caractère obligatoire ou facultatif. Le 
+niveau d'exigence des données est caractérisé comme suit : 
+Exigence  
+Code utilisé 
+Commentaire 
+Validation 
+V 
+Élément obligatoire et contrôlé par les schémas XSD 
+Facultatif 
+F 
+Élément facultatif.  
+ 
+3.3.6 Schéma XSD 
+ 
+Les schémas XSD de collecte établis par l’Urssaf sont disponibles dans la zone documentaire de la 
+page Plateforme Numérique sur urssaf.fr, à l’adresse suivante : https://www.urssaf.fr/accueil/tiers-
+declarant/plateforme-numerique.html 
+(document : 
+Plateforme 
+numérique_CI 
+Phase 
+Identification_Annexes_Schémas XSD_VFR)
+
+----- page 17 -----
+17
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+3.3.7 DPID_UCN 
+N°Zone 
+O
+r 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+ 
+ 
+ 
+DPID_UCN 
+<dpid:DPID_UCN> 
+[1..1] 
+ 
+ 
+V 
+Élément racine 
+ 
+ 
+ 
+DPID_UCN 
+version= 
+[1..1] 
+Max  
+10 char 
+xs:string 
+V 
+Version du schéma 
+DPID utilisée pour 
+créer le flux (1.0 pour la 
+version initiale décrite 
+dans ce document). 
+1 
+ 
+> 
+MessageSpec 
+<dpid:MessageSpec> 
+[1..1] 
+ 
+dpid:MessageSpec_Ty
+pe 
+V 
+ 
+2 
+ 
+> 
+DPIDBody 
+<dpid:DPIDBody> 
+[1..1] 
+ 
+dpid:DPID_Type 
+V 
+ 
+ 
+3.3.8 DPID_UCN / MessageSpec (dpid:MessageSpec_Type) 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1 
+ 
+ 
+MessageSpec 
+<dpid:MessageSpec> 
+[1..1] 
+ 
+dpid:MessageSpec_Type 
+V 
+ 
+1.1 
+ 
+> 
+MessageType 
+<dpid:MessageType> 
+[1..1] 
+ 
+dpid:MessageType 
+V 
+DPID pour un flux réel. 
+DPIDSB pour un flux 
+test. 
+1.2 
+ 
+> 
+PlatformId 
+<dpid:PlatformId> 
+[1..1] 
+7 char 
+xs:string 
+V 
+Identifiant unique de la 
+plateforme, fourni en 
+retour d’inscription par 
+l’Urssaf 
+1.3 
+ 
+> 
+ReportingPeriod 
+<dpid:ReportingPeriod> 
+[1..1] 
+ 
+xs:string 
+V 
+Identifie l’année et le 
+mois de prélèvement 
+pour lequel se rapportent 
+le message  
+Format AAAA-MM.
+
+----- page 18 -----
+18
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1.4 
+ 
+> 
+MessageRefID 
+<dpid:MessageRefId> 
+[0..1] 
+Free 
+text. 
+Max 88 
+char 
+xs:string 
+F 
+Identifiant de message 
+fixé librement par le 
+dépositaire, il permet de 
+faciliter le chainage avec 
+les rapports/fichiers 
+produits en réponse au 
+traitement de ce flux. 
+Cet identifiant ne peut 
+pas contenir de point-
+virgule « ; ». Ce 
+caractère sera changé 
+pour une virgule « , » si 
+présent au dépôt. 
+3.3.9 DPID_UCN / DPIDBody (dpid:Body_Type) 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi Taille 
+Type 
+Exigence Commentaire 
+2 
+ 
+ 
+DPIDBody 
+<dpid:DPIDBody> 
+[1..1]  
+dpid:DPID_Type 
+V 
+ 
+2.1 
+ 
+> 
+EntityUserIdentification <dpid:EntityUserIdentification> [1..n]  
+dpid:EntityUserIdentification_Type 
+V 
+Utilisateurs à identifier  
+ 
+3.3.10 DPID_UCN / DPIDBody / EntityUserIdentification (dpid:EntityUserIdentification_Type) 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+2.1 
+ 
+ 
+EntityUserIdentification <dpid:EntityUserIdentification> 
+[1..N] 
+ 
+dpid:EntityUserIdentification_Type 
+V 
+Utilisateurs à identifier  
+2.1.1 
+ 
+> 
+IN 
+<dpid:IN> 
+[1..1] 
+14 digits 
+or 9 
+digits 
+xs:string 
+V 
+SIRET ou SIREN de l’auto-
+entrepreneur
+
+----- page 19 -----
+19
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+2.1.2 
+ 
+> 
+LastName 
+<dpid:LastName> 
+[0..1] 
+ 
+xs:string 
+F 
+Nom de l’utilisateur.  
+Format : Caractères 
+alphabétique + les accents 
+minuscules et majuscules 
+à á â ã ä å è é ê ë ì í î ï ò ó 
+ô õ ö ñ ù ú û ü ý ÿ ç – tiret, 
+apostrophe et espace 
+2.1.3 
+ 
+> 
+FirstName 
+<dpid:FirstName> 
+[0..1] 
+ 
+xs:string 
+F 
+Prénom de l’utilisateur. 
+Format : Caractères 
+alphabétique + les accents 
+minuscules et majuscules 
+à á â ã ä å è é ê ë ì í î ï ò ó 
+ô õ ö ñ ù ú û ü ý ÿ ç – tiret, 
+apostrophe et espace 
+2.1.4 
+ 
+> 
+BirthDate 
+<dpid:BirthDate> 
+[0..1] 
+ 
+xs:date 
+F 
+Date de naissance au 
+format AAAA-MM-JJ 
+2.1.5 
+ 
+> 
+PlaceOfBirth 
+<dpid:PlaceOfBirth> 
+[0..1] 
+ 
+xs:string 
+F 
+Lieu de naissance 
+Format : Caractères 
+alphabétique + les accents 
+minuscules et majuscules 
+à á â ã ä å è é ê ë ì í î ï ò ó 
+ô õ ö ñ ù ú û ü ý ÿ ç – tiret, 
+apostrophe et espace 
+2.1.6 
+ 
+> 
+UserRefId 
+<dpid:UserRefId> 
+[0..1] 
+88 char 
+max. 
+xs:string 
+F 
+Identifiant de l’utilisateur 
+fixé librement par le 
+dépositaire, il permet de 
+faciliter le chainage avec 
+les rapports/fichiers 
+produits en réponse au 
+traitement de cet 
+utilisateur. 
+Cet identifiant ne peut pas 
+contenir de point-virgule
+
+----- page 20 -----
+20
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+« ; ». Ce caractère sera 
+changé pour une virgule 
+« , » si présent au dépôt. 
+2.1.7 
+ 
+> 
+ContactDetails 
+<dpid:ContactDetails> 
+[1..1] 
+ 
+dpid:ContactDetails_Type 
+V 
+Information de contact de 
+l’utilisateur 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.3.11 DPID_UCN / DPIDBody / EntityUserIdentification / ContactDetails (dpid:ContactDetails_Type) 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+2.1.7 
+ 
+ 
+ContactDetails 
+<dpid:ContactDetails> 
+[1..1] 
+ 
+dpid:ContactDetails_Type 
+V 
+Information de contact de 
+l’utilisateur 
+2.1.7.1 
+ 
+> 
+PostalAddress 
+<dpid: PostalAddress> 
+[0..1] 
+ 
+dpid:PostalAddress_Type 
+F 
+Adresse de l’utilisateur  
+2.1.7.2 
+ 
+> 
+EmailAddress 
+<dpid:EmailAddress> 
+[0..1] 
+ 
+xs:string  
+F 
+Adresse courriel 
+Format : \S+@\S+\.\S+ 
+2.1.7.3 
+ 
+> 
+PhoneNumber 
+<dpid:PhoneNumber> 
+[0..1] 
+14 char 
+max. 
+xs:string 
+F 
+Numéro de téléphone 
+Format : 
+\d{10}|\d{2}(\s\d{2}){4} 
+ 
+3.3.12 DPID_UCN / DPIDBody / EntityUserIdentification / ContactDetails / PostalAddress (dpid:PostalAddress_Type) 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire
+
+----- page 21 -----
+21
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+2.1.7.1 
+ 
+ 
+PostalAddress 
+<dpid:PostalAddress> 
+[0..1] 
+ 
+dpid:PostalAddress_Type 
+F 
+Information sur l’adresse de 
+l’utilisateur 
+2.1.7.1.1  
+> 
+Street1 
+<dpid:Street1> 
+[0..1] 
+ 
+xs:string 
+F 
+Le numéro de voie, le type de voie 
+ainsi que le nom de la voie, 
+exemple :  
+8, rue des Lilas  
+2.1.7.1.2  
+> 
+Street2 
+<dpid:Street2> 
+[0..1] 
+ 
+xs:string 
+F 
+Champ spécifique aux informations 
+secondaires de l’adresse de 
+l’utilisateur. Peut contenir un 
+numéro d’appartement, un étage 
+ou un bâtiment, exemple : 
+Batiment B, 3e étage 
+2.1.7.1.3  
+> 
+PostalCode 
+<dpid:PostalCode> 
+[0..1] 
+ 
+xs:string 
+F 
+Code postal, exemple : 75001 
+2.1.7.1.4  
+> 
+City 
+<dpid:City> 
+[0..1] 
+ 
+xs:string 
+F 
+Ville, exemple : Paris 
+2.1.7.1.5  
+> 
+Country 
+<dpid:Country> 
+[0..1] 
+ 
+xs:string 
+F 
+Pays, exemple : France
+
+----- page 22 -----
+22
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+3.4 Caractéristiques des fichiers 
+3.4.1 Format du fichier 
+Le fichier doit être de type texte respectant la syntaxe XML. Il est obligatoire de suffixer le fichier, avant 
+compression, avec l'extension « .xml ».  
+3.4.2 Indication de l’Identifiant de Plateforme Numérique 
+Identifiant unique délivré à l’issu de l’inscription de la plateforme Numérique au dispositif de prélèvement 
+Urssaf. 
+3.4.3 Règles de nommage du fichier Identification 
+Il est attendu que le nom du fichier d’identification respecte le format suivant : 
+< MessageType>_<PlatformId>_<ReportingPeriod>_<SequenceNumber>.xml 
+Paramètres 
+Valeur 
+Format 
+Précision 
+< MessageType > 
+DPID  
+DPIDSB  
+ 
+Alphabétique 
+DPID pour un flux réel. 
+DPIDSB pour un flux test 
+sans identification  
+< PlatformId > 
+Id de la plateforme 
+Numérique 
+ 
+< ReportingPeriod > 
+AAAA-MM 
+Alphabétique 
+Année sur 4 chiffres 
+concaténée avec mois sur 
+2 chiffres 
+< SequenceNumber > Le numéro de séquence, composé de 
+trois chiffres, est incrémenté de 1 à 
+chaque dépôt successif d’un fichier 
+d’identification pour une même période 
+déclarative. 
+Pour une période donnée, ce numéro 
+doit être strictement supérieur au plus 
+élevé des numéros de séquence déjà 
+transmis pour une même période 
+déclarative. 
+Il ne doit pas être confondu avec le 
+numéro de séquence figurant dans les 
+rapports générés par l’Urssaf. 
+Numérique 
+Exemple : 001 pour un 
+premier fichier, 002 pour 
+un deuxième fichier 
+ 
+Exemple : pour l'envoi d'un fichier pour une demande "Identification" bac à sable pour le 
+mois de mai 2024 par l'identifiant 4300025 :  
+DPIDSB_4300025_2024-05_001.xml 
+ 
+3.4.4 Compression  
+Le fichier doit être obligatoirement être compressé au format GZIP avant son envoi.  
+Le choix de l'outil de compression est libre. Le logiciel préconisé par l’Urssaf est 7zip. Vous pouvez 
+télécharger le logiciel ici : https://www.7-zip.org/.  
+Exemple : pour l'envoi d'un fichier compressé constitué le 10 mai 2024 à 09:07:10 pour une 
+demande "Identification" pour le mois de mai 2024 par l'identifiant 4300025 : 
+DPID_4300025_2024-05_001.xml.gz
+
+----- page 23 -----
+23
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+3.4.5 Taille maximum du fichier  
+La taille du fichier ne pourra pas excéder 100 méga-octets après compression.  
+3.4.6 Encodage du fichier XML 
+Le fichier doit être encodé en UTF-8 sans BOM (Byte-Order Mark).  
+3.4.7 Métadonnée du fichier compressé 
+Le fichier compressé doit inclure la métadonnée ArchivedFileName contenant le nom du fichier et son 
+extension .xml une fois décompressé. Dans le cas où la méta-donnée ArchivedFileName n’est pas 
+renseignée pour le fichier compressé, le nom du fichier compressé est utilisé. Le nom du fichier 
+compressé doit par consequent suivre ce format :  
+< MessageType>_<PlatformId>_<ReportingPeriod>_<SequenceNumber>.xml.gz 
+Exemple : pour l'envoi d'un fichier compressé pour une demande 
+"Identification" de test pour le mois de mai 2024 par l'identifiant 7458253 :  
+DPIDSB_7458253_2024-05_001.xml.gz 
+3.5 Contrôles opérés sur le fichier d’identification 
+Chaque fichier « identification » passe par deux phases de contrôles : 
+ Contrôles Niveau 1 : ils assurent que le fichier déposé par la plateforme est 
+exploitable.   
+Si une seule des règles de contrôle n’est pas respectée, le fichier est rejeté et ne fera 
+pas l’objet des contrôles de second niveau. Le motif de rejet est alors indiqué dans le 
+« Rapport Global ». 
+ Contrôles Niveau 2 : ils traitent individuellement chaque utilisateur présent dans le 
+fichier afin de déterminer si l’utilisateur est éligible au dispositif. 
+Les résultats de ces contrôles sont restitués dans le « Rapport Détaillé » et le fichier « utilisateurs avec 
+signalement ». 
+Les contrôles de Niveau 1 sont réalisés successivement en quatre étapes dans l'ordre : 
+1. Exploitabilité du fichier : les contrôles dits « Fichier » ;  
+2. Vérification que le fichier XML est bien formé, c’est-à-dire qu’il est conforme aux 
+recommandations du W3C : contrôles dits « Validation format XML » ;  
+3. Vérification que le fichier XML est valide au regard du schéma de collecte Urssaf : contrôles 
+dits « Validation format XSD » ;  
+4. Vérification que le fichier XML comporte un bloc MessageSpec conforme aux attendus : 
+contrôles dits « Validation format du Message ». 
+ 
+L'échec d'un contrôle à une quelconque des quatre étapes stoppe la phase de contrôle et entraine le 
+rejet du fichier.  Le « Rapport Global » est mis à disposition dans un délai de deux heures après le dépôt 
+du fichier d’identification de la plateforme. 
+ 
+3.5.1 Contrôles de premier niveau - Fichier 
+Code anomalie 
+Libellé d’anomalie 
+PNID_RT01 
+Erreur bloquante : « fichier inexploitable « Fichier illisible » 
+PNID_RT02 
+Erreur bloquante : « Fichier vide »
+
+----- page 24 -----
+24
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+PNID_RT03 
+Erreur bloquante sur le fichier compressé « Fichier GZIP non conforme » 
+PNID_RT04 
+Erreur bloquante sur la taille du fichier « La taille du fichier est supérieure à la limite 
+autorisée » 
+PNID_RT05 
+Erreur bloquante : « L'extension du fichier n'est pas .xml » 
+PNID_RT06 
+Information : « Le nom de fichier ne respecte pas la norme définie » 
+ 
+3.5.2 Contrôles de premier niveau - Validation format XML 
+Code 
+anomalie 
+Caractère 
+spécial 
+Libellé d’anomalie 
+PNID_RT07 
+ 
+Erreur bloquante sur la conformité du fichier « Le fichier XML ne 
+respecte pas les recommandations XML du W3C (Fichier XML non 
+conforme) » 
+PNID_RT08 
+Encodage 
+Erreur bloquante sur l’encodage du fichier non conforme (doit être 
+UTF-8 sans BOM) 
+ 
+3.5.3 Contrôles de premier niveau - Validation format XSD 
+Code anomalie 
+Libellé d’anomalie 
+PNID_RT09 
+Erreur bloquante « fichier XML non conforme au XSD » 
+ 
+Le contrôle de niveau « Validation format XSD » est opéré au travers d’un parseur XML/XSD. 
+En cas de non-conformité de format, Il peut entrainer l’indication d’un message détaillé technique. 
+ 
+3.5.4 Contrôles de premier niveau - Validation format message 
+Liste des contrôles de type technique :  
+Motif Anomalie 
+Libellé d’anomalie 
+PNID_RT10 
+Erreur bloquante : Les tags MessageType, PlatformId et ReportingPeriod ne doivent 
+pas être vides. 
+PNID_RT11 
+Erreur bloquante : Le tag MessageType doit contenir uniquement les valeurs DPID 
+ou DPIDSB. 
+PNID_RT12 
+Erreur bloquante : Le tag MessageType DPID est interdit en environnement Bac à 
+Sable. 
+PNID_RT13 
+Erreur bloquante : Le tag MessageType DPIDSB est interdit en environnement 
+Production.  
+PNID_RT14 
+Erreur bloquante : Le tag ReportingPeriod doit être au format AAAA-MM et 
+correspondre au mois du flux de données.  
+PNID_RT15 
+Erreur bloquante : Le tag PlatformId doit contenir un identifiant numérique unique de 
+7 chiffres pour chaque plateforme. 
+PNID_RT16 
+Erreur bloquante : Traitement simultanée de fichier interdit. 
+Un fichier est déjà en cours de traitement pour votre plateforme. 
+ 
+Liste des contrôles fonctionnels : 
+Motif Anomalie 
+Libellé d’anomalie
+
+----- page 25 -----
+25
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+PNID_RF01 
+Erreur bloquante : Plateforme non reconnue 
+PNID_RF02 
+Erreur bloquante : Mois de prélèvement incorrect : le mois transmis n’est pas 
+cohérent par rapport à la période de transmission du fichier. 
+ 
+Le contrôle PNID_RF02 sera  
+▪ de nature bloquante pour un MessageType DPID (dépôt réel)  
+▪ de nature informative pour un MessageType DPIDSB (dépôt de test) 
+3.5.5 Contrôles de second niveau 
+Si 
+le 
+fichier 
+est 
+conforme 
+aux 
+contrôles 
+de 
+premier 
+niveau, 
+chaque 
+enregistrement 
+EntityUserIdentification est contrôlé individuellement. 
+Un rejet technique d’un tag n’entraine pas nécessairement l’arrêt de l’identification pour l’utilisateur. Est 
+précisé dans le libellé d’anomalie l’impact de ce rejet.
+
+----- page 26 -----
+26
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+3.5.6 Liste des contrôles de second niveau 
+Contrôles de type technique :  
+Motif Anomalie  Libellé d’anomalie 
+Priorité * 
+PNID_RT41 
+Information : Le tag LastName ne peut pas être vide ou contenir des sauts 
+de lignes ou de tabulation si le tag est présent. 
+3 
+PNID_RT42 
+Information : Le tag FirstName ne peut pas être vide ou contenir des sauts 
+de lignes ou de tabulation si le tag est présent. 
+3 
+PNID_RT43 
+Information : Le tag BirthDate ne respecte pas le format AAAA-MM-JJ 
+3 
+PNID_RT45 
+Information : Le tag PlaceOfBirth ne doit pas contenir de sauts de lignes 
+ou de tabulation si le tag est présent. 
+3 
+PNID_RT46 
+Information : Le tag EmailAddress ne doit pas contenir de sauts de lignes 
+ou de tabulation si le tag est présent. 
+2 
+PNID_RT47 
+Information : Le tag EmailAddress ne contient pas une adresse courriel 
+valide. 
+2 
+PNID_RT48 
+Information : Le tag Street1 ne doit pas contenir de sauts de lignes ou de 
+tabulation si le tag est présent. 
+4 
+PNID_RT49 
+Information : Le tag Street2 ne doit pas contenir de sauts de lignes ou de 
+tabulation si le tag est présent. 
+4 
+PNID_RT50 
+Information : Le tag City ne doit pas contenir de sauts de lignes ou de 
+tabulation si le tag est présent. 
+4 
+PNID_RT51 
+Information : Le tag PostalCode ne doit pas contenir de sauts de lignes ou 
+de tabulation si le tag est présent. 
+4 
+PNID_RT52 
+Information : Le tag PhoneNumber ne doit pas contenir de caractères non 
+numériques (espaces autorisés uniquement entre les groupes de 2 
+chiffres). 
+4 
+PNID_RT53 
+Information : Le tag LastName ne doit contenir que des caractères 
+alphabétiques et éventuellement des caractères spéciaux autorisés (les 
+accents minuscules et majuscules à á â ã ä å è é ê ë ì í î ï ò ó ô õ ö ñ ù ú 
+û ü ý ÿ – tiret – apostrophe et espace). 
+3 
+PNID_RT54 
+Information : Le tag FirstName ne doit contenir que des caractères 
+alphabétiques et éventuellement des caractères spéciaux autorisés (les 
+accents minuscules et majuscules à á â ã ä å è é ê ë ì í î ï ò ó ô õ ö ñ ù ú 
+û ü ý ÿ – tiret, apostrophe et espace). 
+2 
+PNID_RT55 
+Information : Le tag BirthDate doit être une date passée (ne doit pas être 
+postérieure à la date du jour). 
+3 
+PNID_RT56 
+Information : Le bloc ContactDetails doit contenir au moins un sous-
+élément valide (si l’élément est présent). 
+1 
+PNID_RT57 
+Information : Le bloc PostalAdress doit contenir au moins un sous-élément 
+valide (si l’élément est présent). 
+1 
+PNID_RT58 
+Information : Le tag Country ne doit pas contenir de sauts de lignes ou de 
+tabulation si le champ est présent 
+4 
+PNID_RT59 
+Information : Le tag PlaceOfBirth ne doit contenir que des caractères 
+alphabétiques et éventuellement des caractères spéciaux autorisés (les 
+accents minuscules et majuscules à á â ã ä å è é ê ë ì í î ï ò ó ô õ ö ñ ù ú 
+û ü ý ÿ – tiret – apostrophe et espace). 
+4 
+PNID_RT60 
+Nous avons rencontré une erreur 
+1
+
+----- page 27 -----
+27
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+Contrôles fonctionnels : 
+Motif Anomalie 
+Libellé d’anomalie 
+Priorité 
+* 
+PNRA_S001 
+Erreur bloquante : SIREN et/ou SIRET absents (IN) 
+1 
+PNRA_S002 
+Erreur bloquante : SIREN non numérique (IN) 
+1 
+PNRA_S003 
+Erreur bloquante : SIREN invalide (IN) 
+1 
+PNRA_S004 
+Information : SIRET non numérique (IN) 
+1 
+* L’indice de priorité fixe l’ordre de restitution des signalements dans le « rapport détaillé »  
+et le fichier « des utilisateurs avec signalement » (1 caractérisant les signalements à référencer en priorité) 
+À la suite des contrôles de second niveau, seront mis à disposition de la plateforme dans un délai 
+maximum d’un jour calendaire après le dépôt du fichier :  
+▪ Le Rapport Global  
+▪ Le Rapport Détaillé  
+▪ Le fichier des utilisateurs avec signalement 
+▪ Le fichier des utilisateurs à prélever
+
+----- page 28 -----
+28
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+4. FICHIER RAPPORT GLOBAL  
+4.1 Les règles métiers 
+Le rapport global est généré systématiquement, que le fichier d’identification déposé par la plateforme 
+soit valide ou invalide : 
+ Dans le cas d’un fichier non valide, il précise la cause du rejet. 
+ Dans le cas d’un fichier valide, il indique les informations de volumétrie 
+suivantes :  
+▪ Nombre d’utilisateurs à identifier (A) =  
+▪ Nombre d’utilisateurs non identifiables (B) +  
+▪ Nombre d’utilisateurs identifiés dans le champ du prélèvement pour la période (C) + 
+▪ Nombre d’utilisateurs non identifiés dans le champ du prélèvement pour la période (D) 
+ 
+ 
+4.2 Données renvoyées par l’Urssaf 
+Les données du Rapport Global généré par l’Urssaf :  
+ 
+Données 
+Attribut 
+Commentaires 
+Général - DPGR_UCN - MessageSpec 
+Type du fichier retour 
+MessageType 
+DPGR 
+Identifiant de la plateforme 
+PlatformId 
+Renseigné uniquement si la plateforme 
+concernée a été reconnue 
+Mois de prélèvement 
+ReportingPeriod 
+Période du fichier traité 
+Numéro de séquence 
+SequenceNumber 
+Numéro de séquence du fichier attribué par 
+le traitement de prise en compte. La 
+séquence débute à 001. 
+Ce numéro de séquence est différent de celui 
+communiqué par la plateforme dans le nom 
+du fichier. 
+Identifiant de corrélation du fichier 
+MessageRefId 
+Identifiant de message fixé librement par le 
+dépositaire, il permet de faciliter le chainage 
+avec les rapports/fichiers produits en réponse 
+au traitement de ce flux. 
+Date de dépôt du fichier 
+ReceptionDate 
+ 
+Référence Urssaf unique  
+UrssafRef 
+Référence unique produite pour le système 
+d’information de l’Urssaf 
+Date de génération du fichier retour 
+Timestamp 
+Date de génération du rapport global 
+Rapport Urssaf -   DPGR_UCN - DPDRBody 
+Statut du fichier 
+FileStatus 
+Deux valeurs possibles : {« Processed », 
+« Rejected »} 
+Motif de rejet 
+RejectionReason 
+Motif du rejet  
+Détail complémentaire du rejet 
+RejectionReasonDetail 
+Nombre d’utilisateurs à identifier (A) UsersToIdentify 
+Il s’agit du nombre d’utilisateurs présents dans 
+le fichier de la plateforme.
+
+----- page 29 -----
+29
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+ 
+ 
+4.3 Format des fichiers d'échange 
+4.3.1 Schéma applicable 
+Le schéma utilisé par l’Urssaf est disponible dans la zone documentaire de la page Plateforme 
+Numérique sur urssaf.fr, à l’adresse suivante : https://www.urssaf.fr/accueil/tiers-declarant/plateforme-
+numerique.html  (document : Plateforme numérique_Annexes Contrat Interface Identification_Schémas 
+XSD_FR) 
+Il s’agit de l’annexe 2 « Schéma XSD – Fichier rapport global ». 
+4.3.2 Le message et les blocs de données 
+Au niveau le plus haut, le fichier comporte :  un bloc nommé DPGR_UCN, encore appelé message 
+DPGR_UCN.  
+Le message DPGR_UCN est composé d'un unique bloc MessageSpec et d'un unique bloc 
+DPGRDBody.  
+Le bloc MessageSpec caractérise le message DPGR_UCN tandis que le bloc DPGRBody contient les 
+éléments de synthèse sur le résultat de traitement du fichier d’identification. 
+Les informations des messages DPGR_UCN permettent de constituer un fichier XML dont les 
+caractéristiques techniques sont abordées dans la suite du document. 
+ 
+4.3.3 Description structure XML 
+Remarque : flux généré en retour par l’Urssaf à la suite de l’envoi d’un flux « Identification » par une 
+plateforme numérique. 
+Mis à zéro si le fichier plateforme est 
+inexploitable. 
+Nombre d’utilisateurs non 
+identifiables (B) 
+UnidentifiableUsers 
+Il s’agit du nombre d’utilisateurs pour lesquels 
+l’identification n’est pas réalisable faute de 
+données valides permettant l’identification 
+(état du rapprochement = « Identification 
+impossible »).  
+Mis à zéro si le fichier plateforme est 
+inexploitable. 
+Nombre d’utilisateurs identifiés 
+dans le champ du prélèvement pour 
+la période (C) 
+IdentifiedUsersAE 
+Il s’agit du nombre d’utilisateurs identifiés par 
+l’Urssaf dans le champ du prélèvement pour le 
+mois 
+M 
+de 
+prélèvement. 
+Mis à zéro si le fichier plateforme est 
+inexploitable. 
+Nombre d’utilisateurs non identifiés 
+dans le champ du prélèvement pour 
+la période (D) 
+UnidentifiedUsersAE 
+Il s’agit du nombre d’utilisateurs qui n’ont pas 
+été identifiés par l’Urssaf dans le champ du 
+prélèvement pour le mois M de prélèvement.  
+ Mis à zéro si le fichier plateforme est 
+inexploitable.
+
+----- page 30 -----
+30
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+4.3.4 DPGR_UCN 
+N°Zone 
+Or Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+ 
+ 
+ 
+DPGR_UCN 
+<dpgr:DPGR_UCN> 
+[1..1] 
+ 
+ 
+V 
+Elément racine 
+ 
+ 
+ 
+DPGR_UCN 
+version= 
+[1..1] 
+Max 10 char 
+xs:string 
+V 
+Version du schéma DPGR utilisée 
+pour créer le flux. (1.0 pour la version 
+initiale décrite dans ce document) 
+1 
+ 
+> 
+MessageSpec 
+<dpgr:MessageSpec> 
+[1..1] 
+ 
+dpgr:MessageSpec_Type 
+V 
+ 
+2 
+ 
+> 
+DPGRBody 
+<dpgr:DPGRBody> 
+[1..1] 
+ 
+dpgr:DPGR_Type 
+V 
+ 
+ 
+4.3.5 DPGR_UCN / MessageSpec (dpgr:MessageSpec_Type) 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1 
+ 
+ 
+MessageSpec 
+<dpgr:DPGR_UCN> 
+[1..1] 
+ 
+dpgr:MessageSpec_Type 
+V 
+ 
+1.1 
+ 
+> 
+MessageType 
+<dpgr:MessageType> 
+[1..1] 
+ 
+dpgr:MessageType 
+V 
+Seule Valeur possible = DPGR ou 
+DPGRSB (env. Bac à sable) 
+1.2 
+ 
+> 
+PlatformId 
+<dpid:PlatformId> 
+[1..1] 
+7 char 
+xs:string 
+V 
+Identifiant unique de la plateforme, 
+fourni en retour d’inscription par 
+l’Urssaf 
+1.3 
+ 
+> 
+ReportingPeriod 
+<dpgr:ReportingPeriod> 
+[1..1] 
+ 
+xs:string 
+V 
+Identifie l’année et le mois de 
+prélèvement pour lequel se rapportent 
+le message. 
+Format AAAA-MM. 
+1.4 
+ 
+> 
+SequenceNumber <dpgr:SequenceNumber> [1..1] 
+3 digits 
+xs:integer 
+V 
+Numéro de séquence fixé par le 
+traitement.
+
+----- page 31 -----
+31
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1.5 
+ 
+> 
+MessageRefID 
+<dpgr:MessageRefId> 
+[0..1] 
+Free text. 
+Max 88 char 
+xs:string 
+F 
+Identifiant de message fixé librement 
+par le dépositaire, il permet de faciliter 
+le chainage avec le fichier déposé. 
+1.6 
+ 
+> 
+ReceptionDate 
+<dpgr:ReceptionDate> 
+[1..1] 
+ 
+xs:timestamp 
+\d{4}-\d{2}-\d{2} 
+\d{2}:\d{2}:\d{2}\.\d{1,6} 
+V 
+Date et heure de la réception du fichier 
+par l’Urssaf. 
+Format: AAAA-MM-JJ 
+hh:mm:ss.nnnnnn  
+1.7 
+ 
+> 
+UrssafRef 
+<dpgr:UrssafRef> 
+[1..1] 
+ 
+xs:uuidType 
+[0-9a-fA-F]{8}-[0-9a-fA-
+F]{4}-[0-9a-fA-F]{4}-[0-9a-
+fA-F]{4}-[0-9a-fA-F]{12} 
+V 
+Référence unique produite pour le 
+système d’information de l’Urssaf. 
+1.8 
+ 
+>  
+Timestamp 
+<dpgr:Timestamp> 
+[1..1] 
+ 
+xs:timestamp 
+\d{4}-\d{2}-\d{2} 
+\d{2}:\d{2}:\d{2}\.\d{1,6} 
+V 
+Date et heure de génération du 
+rapport. 
+Format: AAAA-MM-JJ 
+hh:mm:ss.nnnnnn 
+Format: AAAA-MM-JJ’T’hh:mm:ss 
+:nnnnnn. 
+Le format est le suivant : AAAA-MM-
+JJ’T’hh:mm:ss :nnn.  
+ 
+ 
+4.3.6 DPGR_UCN / DPGRBody (dpgr:Body_Type) 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+2 
+ 
+ 
+DPGRBody 
+<dpgr :DPGRBody> 
+[1..1] 
+ 
+dpgr:DPGR_Type 
+V 
+Une seule déclaration est autorisée 
+par fichier 
+2.1 
+ 
+> 
+FileStatus 
+<dpgr:FileStatus> 
+[1..1] 
+ 
+xs:string 
+V 
+Deux valeurs possibles : 
+{« processed », « rejected »}
+
+----- page 32 -----
+32
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+2.2 
+ 
+> 
+RejectionReason 
+<dpgr:RejectionReason > 
+[0..1] 
+ 
+xs:string 
+F 
+Motif de rejet 
+2.3 
+ 
+> 
+RejectionReasonDetail 
+<dpgr:RejectionReasonDetail 
+> 
+[0..1] 
+ 
+xs:string 
+F 
+Information complémentaire du 
+rejet 
+2.4 
+ 
+> 
+UsersToIdentify 
+<dpgr:UsersToIdentify> 
+[1..1] 
+ 
+xs:integer 
+V 
+Nombre d’utilisateurs à identifier 
+(A) 
+2.5 
+ 
+> 
+UnidentifiableUsers 
+<dpgr:UnidentifiableUsers> 
+[1..1] 
+ 
+xs:integer 
+V 
+Nombre d’utilisateurs non 
+identifiables (B)  
+2.6 
+ 
+> 
+IdentifiedUsersAE 
+<dpgr:IdentifiedUsersAE> 
+[1..1] 
+ 
+xs:integer 
+V 
+Nombre d’utilisateurs identifiés 
+dans le champ du prélèvement 
+pour la période (C) 
+2.7 
+ 
+> 
+UnidentifiedUsersAE 
+<dpgr:UnidentifiedUsersAE> 
+[1..1] 
+ 
+xs:integer 
+V 
+Nombre d’utilisateurs non identifiés 
+dans le champ du prélèvement 
+pour la période (D)
+
+----- page 33 -----
+33
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+5. FICHIER RAPPORT DETAILLE  
+5.1 Les règles métiers 
+Le rapport détaillé est généré uniquement si le fichier identification n’a pas été rejeté lors de la phase 
+de contrôles de niveau 1.  
+Il indique pour chaque utilisateur transmis dans le fichier d’identification :  
+- 
+Si ce dernier a été reconnu comme étant dans le champ du prélèvement par l’Urssaf, 
+ou non, via l’indicateur « Utilisateur identifié »  
+- 
+La liste des signalements permettant de comprendre la valeur de l’indicateur 
+« Utilisateur Identifié » 
+ 
+5.2 Données renvoyées par l’Urssaf 
+Les données du Rapport Détaillé généré par l’Urssaf sont :  
+Données 
+Attribut 
+Commentaires 
+Général – MessageSpec 
+Type du fichier retour 
+MessageType 
+DPDR 
+Identifiant de la plateforme 
+PlatformId 
+Mois de prélèvement 
+ReportingPeriod 
+Période du fichier traité. 
+Numéro de séquence 
+SequenceNumber 
+Numéro de séquence du fichier attribué par le traitement 
+de prise en compte. La séquence débute à 001. 
+Ce numéro de séquence est différent de celui 
+communiqué par la plateforme dans le nom du fichier. 
+Identifiant de corrélation du 
+fichier 
+MessageRefId 
+Identifiant de message fixé librement par le dépositaire, il 
+permet de faciliter le chainage avec les rapports/fichiers 
+produits en réponse au traitement de ce flux. 
+Date de dépôt du fichier 
+ReceptionDate 
+ 
+Référence Urssaf Unique  
+UrssafRef 
+Référence unique produite pour le système d’information 
+de l’Urssaf. 
+Date de génération du fichier 
+retour 
+Timestamp 
+Date de génération du rapport détaillé 
+Utilisateurs plateformes -  DPDRBody - EntityUserResult 
+État civil -   DPDRBody - EntityUserResult 
+Nom 
+LastName 
+Présent si communiqué par la plateforme  
+Prénom 
+FirstName 
+Présent si communiqué par la plateforme  
+Date de naissance 
+BirthDate 
+Présent si communiqué par la plateforme  
+Lieu de naissance 
+PlaceOfBirth 
+Présent si communiqué par la plateforme  
+Identifiant de l’utilisateur  -  DPDRBody - EntityUserResult 
+SIRET/SIREN 
+IN 
+SIREN ou SIRET renseigné par la plateforme 
+Identifiant utilisateurs 
+UserRefId 
+Présent si communiqué par la plateforme  
+Coordonnées de contact – DPDRBody – EntityUserResult – ContactDetails 
+Adresse courriel 
+EmailAddress 
+Adresse courriel renseignée par la plateforme 
+Téléphone 
+PhoneNumber 
+Présent si communiqué par la plateforme  
+Adresse postale – DPDRBody  EntityUserResult - ContactDetails 
+Adresse 1 
+Street1 
+Présent si communiqué par la plateforme 
+Adresse 2 
+Street2 
+Présent si communiqué par la plateforme
+
+----- page 34 -----
+34
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+ 
+ 
+5.3 Format des fichiers d'échange 
+5.3.1 Schéma applicable 
+Le schéma utilisé par l’Urssaf est disponible dans la zone documentaire de la page Plateforme 
+Numérique sur urssaf.fr, à l’adresse suivante : https://www.urssaf.fr/accueil/tiers-declarant/plateforme-
+numerique.html (document : Plateforme numérique_Annexes Contrat Interface Identification_Schémas 
+XSD_FR) 
+Il s’agit de l’annexe 3 « Schéma XSD – Fichier rapport détaillé ». 
+ 
+5.3.2 Le message et les blocs de données 
+Au niveau le plus haut, le fichier comporte : un bloc nommé DPDR_UCN, encore appelé message 
+DPDR_UCN.  
+Le message DPDR_UCN est composé d'un unique bloc MessageSpec et d'un unique bloc DPDRBody.  
+Le bloc MessageSpec caractérise le message DPDR_UCN tandis que le bloc DPDRBody contient le 
+résultat de l’identification de chaque utilisateur (EntityUserResult) ainsi que d’éventuels signalements. 
+Une attention particulière est appelée sur la taille maximale du message qui ne peut excéder 100 Mo 
+après compression. 
+ 
+5.3.3 Le message et les informations techniques d'identification 
+Le message DPDR_UCN comporte des informations techniques qui visent à identifier, de manière 
+unique et non ambiguë, les blocs de message DPDR_UCN. 
+Ces informations techniques sont obligatoires. Elles se trouvent dans : 
+▪ Le bloc MessageSpec (de niveau message) ; 
+▪  Le bloc EntityUserResult (de niveau bloc d'information, également appelé enregistrement). 
+ 
+5.3.4 Description structure XML 
+Remarque : flux généré en retour par l’Urssaf à la suite de l’envoi d’un flux « Identification » par une 
+plateforme numérique si le fichier n’a pas été rejeté au moment des contrôles de premier niveau. 
+ 
+ 
+ 
+Code postal 
+PostalCode 
+Présent si communiqué par la plateforme 
+Ville 
+City 
+Présent si communiqué par la plateforme 
+Pays 
+Country 
+Présent si communiqué par la plateforme 
+Données retour pour la plateforme -  DPDRBody - EntityUserResult 
+Indicateur « Utilisateur 
+identifié » 
+ReconciliationStatus 
+Valeurs possibles {0, 1, 2} 
+0    Utilisateur non identifiable  
+1    Utilisateur dans le champ du prélèvement  
+2    Utilisateur hors champ du prélèvement.  
+Listes des signalement – DPDRBody - EntityUserResult - ReportStates 
+Signalement 
+ReportState 
+La liste des signalements est précisée au § 3.5.5.
+
+----- page 35 -----
+35
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+5.3.5 DPDR_UCN 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence Commentaire 
+ 
+ 
+ 
+DPDR_UCN 
+<dpdr:DPDR_UCN> 
+[1..1] 
+ 
+ 
+V 
+Élément racine 
+ 
+ 
+ 
+DPDR_UCN 
+version= 
+[1..1] 
+Max 10 
+char 
+xs:string 
+V 
+Version du schéma DPDR utilisée 
+pour créer le flux (1.0 pour la version 
+initiale décrite dans ce document) 
+1 
+ 
+> 
+MessageSpec 
+<dpdr:MessageSpec> 
+[1..1] 
+ 
+dpdr:MessageSpec_Type 
+V 
+ 
+2 
+ 
+> 
+DPDRBody 
+<dpdr:DPDRBody> 
+[1..1] 
+ 
+dpdr:DPDR_Type 
+V 
+ 
+ 
+5.3.6 DPDR_UCN / MessageSpec (dpdr:MessageSpec_Type) 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1 
+ 
+ 
+MessageSpec 
+<dpdr:MessageSpec> 
+[1..1] 
+ 
+dpdr:MessageSpec_Type 
+V 
+ 
+1.1 
+ 
+> 
+MessageType 
+<dpdr:MessageType> 
+[1..1] 
+ 
+dpdr:MessageType 
+V 
+Valeur possible = DPDR ou 
+DPDRSB (env. Bac à sable) 
+1.2 
+ 
+> 
+PlatformId 
+<dpdr:PlatformId> 
+[1..1] 
+ 
+xs:string 
+V 
+Identifiant de la plateforme 
+fournie en retour de la phase 
+d’inscription 
+1.3 
+ 
+> 
+ReportingPeriod 
+<dpdr:ReportingPeriod> 
+[1..1] 
+ 
+xs:string 
+V 
+Cette donnée identifie l’année 
+et le mois pour laquelle se 
+rapporte le message en 
+utilisant le format AAAA-MM. 
+1.4 
+ 
+> 
+SequenceNumber 
+<dpdr:SequenceNumber> 
+[1..1] 
+3 digits 
+xs:integer 
+V 
+Numéro de séquence fixé par 
+le traitement.
+
+----- page 36 -----
+36
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1.5 
+ 
+> 
+MessageRefID 
+<dpdr:MessageRefId> 
+[0..1] 
+Free 
+text. Max 
+88 char 
+xs:string 
+F 
+Identifiant de message fixé 
+librement par le dépositaire, il 
+permet de faciliter le chainage 
+avec le fichier déposé. 
+1.6 
+ 
+> 
+ReceptionDate 
+<dpdr:ReceptionDate> 
+[1..1] 
+ 
+xs:timestamp 
+\d{4}-\d{2}-\d{2} 
+\d{2}:\d{2}:\d{2}\.\d{1,6} 
+V 
+Date et heure de la réception 
+du fichier par l’Urssaf. 
+Format: AAAA-MM-JJ 
+hh:mm:ss.nnnnnn  
+1.7 
+ 
+> 
+UrssafRef 
+<dpdr:UrssafRef> 
+[1..1] 
+ 
+xs:uuidType  
+[0-9a-fA-F]{8}-[0-9a-fA-
+F]{4}-[0-9a-fA-F]{4}-[0-9a-
+fA-F]{4}-[0-9a-fA-F]{12} 
+V 
+Référence unique produite 
+pour le système d’information 
+de l’Urssaf. 
+1.8 
+ 
+>  
+Timestamp 
+<dpdr:Timestamp> 
+[1..1] 
+ 
+xs:timestamp 
+\d{4}-\d{2}-\d{2} 
+\d{2}:\d{2}:\d{2}\.\d{1,6} 
+V 
+Date et heure de génération 
+du rapport. 
+Le format est le suivant : 
+AAAA-MM-JJ 
+hh:mm:ss.nnnnnn 
+5.3.7 DPDR_UCN / DPDRBody (dpdr:Body_Type) 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi Taille 
+Type 
+Exigence Commentaire 
+2 
+ 
+ 
+DPDRBody 
+<dpdr:DPDRBody> 
+[1..1] 
+ 
+dpdr:DPRDR_Type 
+V 
+ 
+2.1 
+ 
+> 
+EntityUserResult 
+<dpdr:EntityUserResult> 
+[1..n] 
+ 
+dpdr:EntityUserResult_Type 
+V 
+Informations de 
+rapprochement.
+
+----- page 37 -----
+37
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+5.3.8 DPDR_UCN / DPDRBody / EntityUserResult (dpdr:EntityUserResult_Type) 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence Commentaire 
+2.1 
+ 
+> 
+EntityUserResult 
+<dpdr:EntityUserResult> 
+[1..N] 
+ 
+dpdr:EntityUserResult_Type 
+V 
+ 
+2.1.1 
+ 
+> 
+IN 
+<dpdr:IN> 
+[1..1] 
+14 digits 
+or 9 digits 
+xs:string 
+V 
+SIREN/SIRET référencé lors 
+du dépôt  
+2.1.2 
+ 
+> 
+LastName 
+<dpdr:LastName> 
+[0..1] 
+ 
+xs:string 
+F 
+Nom de l’utilisateur si 
+communiqué lors du dépôt. 
+2.1.3 
+ 
+> 
+FirstName 
+<dpdr:FirstName> 
+[0..1] 
+ 
+xs:string 
+F 
+Prénom de l’utilisateur si 
+communiqué lors du dépôt. 
+2.1.4 
+ 
+> 
+BirthDate 
+<dpdr:BirthDate> 
+[0..1] 
+ 
+xs:string 
+F 
+Date de naissance si 
+communiquée lors du dépôt. 
+2.1.5 
+ 
+> 
+PlaceOfBirth 
+<dpdr:PlaceOfBirth> 
+[0..1] 
+ 
+xs:string 
+F 
+Lieu de naissance si 
+communiqué lors du dépôt. 
+2.1.6 
+ 
+> 
+UserRefId 
+<dpdr:UserRefId> 
+[0..1] 
+88 char 
+max. 
+xs:string 
+F 
+Identifiant de l’utilisateur fixé 
+librement par le dépositaire 
+2.1.7 
+ 
+> 
+ContactDetails 
+<dpdr:ContactDetails> 
+[1..1] 
+ 
+dpdr:ContactDetails_Type 
+V 
+Informations de contact 
+fournies par la plateforme. 
+2.1.8 
+ 
+> 
+ReconciliationStatus <dpdr:ReconciliationStatus> 
+[1..1] 
+ 
+xs:enum 
+V 
+Indicateur « Utilisateur 
+identifié » 
+ 
+2.1.9 
+ 
+> 
+ReportStates 
+<dpdr:ReportStates> 
+[0..1] 
+ 
+Dpdr :ReportStates_Type 
+F 
+Liste des d’anomalies 
+éventuelles. 
+2.1.9.1 
+ 
+>> 
+ReportState 
+<dpdr:ReportState> 
+[1..N] 
+ 
+xs:string 
+F 
+Motifs d’anomalies restituées 
+dans leur ordre de priorité. 
+ 
+5.3.9 DPDR_UCN / DPDRBody / EntityUserResult / ContactDetails (dpid:ContactDetails_Type) 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence Commentaire 
+2.1.7 
+ 
+ 
+ContactDetails 
+<dpid:ContactDetails> 
+[1..1] 
+ 
+dpid:ContactDetails_Type 
+V 
+Information de contact de 
+l’utilisateur
+
+----- page 38 -----
+38
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+2.1.7.1 
+ 
+> 
+PostalAddress 
+<dpid: PostalAddress> 
+[0..1] 
+ 
+dpid:PostalAddress_Type 
+F 
+Information sur l’adresse 
+postale de l’utilisateur  
+2.1.7.2 
+ 
+> 
+EmailAddress 
+<dpid:EmailAddress> 
+[0..1] 
+ 
+xs:string 
+F 
+Adresse courriel 
+2.1.7.3 
+ 
+> 
+PhoneNumber 
+<dpid:PhoneNumber> 
+[0..1] 
+ 
+xs:string 
+F 
+Numéro de téléphone 
+ 
+5.3.10 DPDR_UCN / DPDRBody / EntityUserResult / ContactDetails / PostalAddress (dpid:PostalAddress_Type) 
+ 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence Commentaire 
+2.1.7.1 
+ 
+ 
+PostalAddress 
+<dpid:PostalAddress> 
+[0..1] 
+ 
+dpid:PostalAddress_Type 
+F 
+Information sur l’adresse de 
+l’utilisateur 
+2.1.7.1.1  
+> 
+Street1 
+<dpid: Street1> 
+[0..1] 
+ 
+xs:string 
+F 
+Le numéro de voie, le type 
+de voie ainsi que le nom de 
+la voie, exemple :  
+8, rue des Lilas  
+2.1.7.1.2  
+> 
+Street2 
+<dpid: Street2> 
+[0..1] 
+ 
+xs:string 
+F 
+Champ spécifique aux 
+informations secondaires de 
+l’adresse de l’utilisateur. 
+Peut contenir un numéro 
+d’appartement, un étage ou 
+un bâtiment, exemple : 
+Batiment B, 3 ème étage 
+2.1.7.1.3  
+> 
+PostalCode 
+<dpid: PostalCode> 
+[0..1] 
+ 
+xs:string 
+F 
+Code postal, exemple :  
+75001 
+2.1.7.1.4  
+> 
+City 
+<dpid: City> 
+[0..1] 
+ 
+xs:string 
+F 
+Ville, exemple :  
+Paris 
+2.1.7.1.5  
+> 
+Country 
+<dpid:Country> 
+[0..1] 
+ 
+xs:string 
+F 
+Pays, exemple :  
+France
+
+----- page 39 -----
+39
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+6. FICHIER DES UTILISATEURS  
+AVEC SIGNALEMENT 
+6.1 Les règles métiers 
+Le fichier des utilisateurs avec signalement est généré dès lors qu’au moins un utilisateur présent dans 
+le fichier d’identification transmis par la plateforme fait l’objet d’un signalement.  
+ 
+6.2 Format du fichier d’échange 
+Le fichier est au format CSV, encodé UTF-8 avec un séparateur point-virgule ( ; ). On a la présence 
+d’une ligne d’en-tête définie juste après 
+En-tête 
+Description 
+MessageType 
+DPUA ou DPUASB pour un flux bac à sable 
+Platformid 
+Identifiant de la plateforme fourni en retour de la phase d’inscription 
+ReportingPeriod 
+Cette donnée identifie l’année et le mois pour laquelle se rapporte le message 
+en utilisant le format AAAA-MM. 
+MessageRefid 
+Identifiant de message fixé librement par le dépositaire, il permet de faciliter le 
+chainage avec le fichier déposé. Si le MessageRefId est composé du caractère 
+« ; » (point virgule), il sera remplacé par « , » (virgule) 
+UrssafRef 
+Référence unique produite pour le système d’information de l’Urssaf. 
+ReceptionDate 
+Date et heure de la réception du fichier par l’Urssaf.  Format: AAAA-MM-
+JJ’T’hh:mm:ss :nnn. 
+IN 
+SIREN/SIRET référencé lors du dépôt 
+LastName 
+Nom de l’utilisateur si communiqué lors du dépôt 
+FirstName 
+Prénom de l’utilisateur si communiqué lors du dépôt 
+UserRefId 
+Identifiant de l’utilisateur fixé librement par le dépositaire. Si le UserRefId est 
+composé du caractère « ; » (semicolon), il sera remplacé par « , » (virgule) 
+ReportState 
+De 1 à n signalements possibles pour l’utilisateur.  
+La liste des signalements est précisée au 3.5.5.  
+Chaque signalement est séparé par une virgule.
+
+----- page 40 -----
+40
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+7. FICHIER DES UTILISATEURS A PRELEVER  
+7.1 Les règles métiers 
+Le fichier des utilisateurs à prélever est généré uniquement si le fichier identification n’a pas été rejeté 
+lors de la phase de contrôle de niveau 1, et si au moins un utilisateur présent dans le fichier 
+d’identification transmis par la plateforme est identifié comme auto-entrepreneur.  
+Il indique : 
+▪ Les codes nature d’activité applicables pour les plateformes, selon les natures d’activité couvertes 
+par ces dernières ; 
+▪ Le taux de prélèvement à appliquer à chaque auto-entrepreneur. 
+  
+7.1.1 Natures d’activité 
+Concernant la liste des natures d’activités : 
+Natures d’activités possibles  
+NA01 
+ VTC 
+NA02 
+ Livraison 
+NA03 
+ Location de meublés cas général  
+NA04 
+ Location de meublés de tourisme classé (LMTC) 
+NA05 
+ Location de biens meubles 
+NA06 
+ Achat-Vente 
+NA07 
+ Prestations de service artisanales ou commerciales 
+NA08 
+ Prestations de service libérale (cours de ski, cours de maths..) 
+NA09 
+Restaurateur 
+NA10 
+Chambre d’hôte 
+7.1.2 Taux de prélèvement à appliquer par nature d’activité 
+Pour certaines plateformes, les activités des utilisateurs peuvent être de plusieurs natures. Or, le taux 
+de cotisations à prélever peut-être différent selon l’activité. 
+L’Urssaf indiquera en retour un taux de prélèvement par nature d’activité réalisable sur la plateforme, 
+charge à la plateforme de prélever les transactions réalisées au taux correspondant en fonction de la 
+nature de la transaction. 
+Exemple :  
+cas d’une plateforme dont les activités seraient location de meublés ou chambres d’hôtes. 
+- L’Urssaf communiquera 3 taux de cotisations possibles (location de meublés tourisme classé, 
+chambre d’hôtes, location de meublés autres). 
+- Pour un utilisateur de cette plateforme qui loue une chambre d’hôte et un bien de location de 
+meublé de tourisme classé, application des 2 taux correspondant aux transactions réalisées par 
+l’utilisateur (sur les 3 communiqués par l’Urssaf).  
+Le code nature d’activité ainsi que le taux seront répétés autant de fois que de nature d’activité que 
+réalise la plateforme.  
+Pour rappel : deux utilisateurs ayant la même nature d’activité n’auront pas forcément le même taux, au 
+regard de leurs spécificités (exonération, versement libératoire de l’impôt, etc.).
+
+----- page 41 -----
+41
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+Cas particulier – Taux de prélèvement à 0,000% :  Le taux de prélèvement retourné pour un utilisateur 
+et une nature d’activité peut potentiellement être à 0,000% (exonération spécifique par exemple). Ceci 
+ne constitue pas une erreur du dispositif mais indique que l’utilisateur entre dans le champ du 
+prélèvement et que son chiffre d’affaires doit être transmis durant la phase de déclaration, avec un 
+montant de prélèvement à 0 pour la nature d’activité concernée. 
+ 
+Cas particulier - évolution du taux à appliquer courant M : 
+La plateforme applique, dans tous les cas, le taux adressé en fin de mois M-1 par l’Urssaf ; 
+Si le taux applicable est amené à évoluer dans le courant du mois M (à la hausse ou à la 
+baisse), c’est l’Urssaf qui procèdera à la régularisation. 
+ 
+7.2 Données renvoyées par l’Urssaf 
+Les données renvoyées par l’Urssaf dans le fichier des utilisateurs à prélever, permettant de connaitre 
+les taux à appliquer pour les utilisateurs identifiés comme Auto-Entrepreneur sont :
+
+----- page 42 -----
+42
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+ 
+7.3 Format des fichiers d’échange 
+7.3.1 Schéma applicable 
+Le schéma utilisé par l’Urssaf est disponible dans la zone documentaire de la page Plateforme 
+Numérique sur urssaf.fr, à l’adresse suivante https://www.urssaf.fr/accueil/tiers-declarant/plateforme-
+numerique.html  (document : Plateforme numérique_Annexes Contrat Interface Identification_Schémas 
+XSD_FR) 
+Données 
+Attribut 
+Commentaires 
+Général - MessageSpec 
+Type du fichier retour 
+MessageType 
+{DPRA, DPRASB} 
+Identifiant de la plateforme 
+PlatformId 
+ 
+Mois de prélèvement 
+ReportingPeriod 
+Période du fichier traité. 
+Numéro de séquence 
+SequenceNumber 
+Numéro de séquence du fichier 
+attribué par le traitement de prise en 
+compte. La séquence débute à 001. 
+Ce numéro de séquence est différent 
+de celui communiqué par la 
+plateforme dans le nom du fichier. 
+Identifiant de corrélation du 
+fichier 
+MessageRefId 
+Identifiant de message fixé librement 
+par le dépositaire, il permet de 
+faciliter le chainage avec les 
+rapports/fichiers produits en réponse 
+au traitement de ce flux. 
+Date de dépôt du fichier 
+ReceptionDate 
+ 
+Référence Urssaf Unique  
+UrssafRef 
+Référence unique produite pour le 
+système d’information de l’Urssaf. 
+Date de génération du fichier 
+retour 
+Timestamp 
+Date de génération du rapport 
+détaillé 
+Utilisateurs plateformes – DPRABody - EntityUserResult 
+Etat civil -   DPRABody - EntityUserResult 
+Nom 
+LastName 
+Présent si communiqué par la plateforme  
+Prénom 
+FirstName 
+Présent si communiqué par la plateforme  
+Date de naissance 
+BirthDate 
+Présent si communiqué par la plateforme  
+Lieu de naissance 
+PlaceOfBirth 
+Présent si communiqué par la plateforme  
+Identifiant de l’utilisateur -  DPRABody - EntityUserResult 
+SIRET/SIREN 
+IN 
+SIREN ou SIRET renseigné par la plateforme 
+Identifiant utilisateurs 
+UserRefId 
+Présent si communiqué par la plateforme  
+Coordonnées de contact – DPRABody – EntityUserResult - ContactDetails 
+Adresse courriel 
+EmailAddress 
+Présent si communiqué par la plateforme 
+Téléphone 
+PhoneNumber 
+Présent si communiqué par la plateforme  
+Adresse postale – DPRABody - EntityUserResult – ContactDetails - PostalAddress 
+Adresse 1 
+Street1 
+Présent si communiqué par la plateforme 
+Adresse 2 
+Street2 
+Présent si communiqué par la plateforme 
+Code postal 
+PostalCode 
+Présent si communiqué par la plateforme 
+Ville 
+City 
+Présent si communiqué par la plateforme 
+Données retour pour la plateforme – DPRABody – EntityUserResult - Rate 
+Liste des taux par nature d’activité 
+Code de l’activité 
+Code 
+Code de l’activité 
+Taux à appliquer 
+Value 
+Taux
+
+----- page 43 -----
+43
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+Il s’agit de l’annexe 4 « Schéma XSD – Fichier des utilisateurs à prélever ». 
+7.3.2 Le message et les blocs de données 
+Au niveau le plus haut, le fichier comporte :  un bloc nommé DPRA_UCN, encore appelé message 
+DPRA_UCN.  
+Le message DPRA_UCN est composé d'un unique bloc MessageSpec et d'un unique bloc DPRABody.  
+Le bloc MessageSpec caractérise le message DPRA_UCN tandis que le bloc DPRABody contient les 
+informations de taux pour chaque utilisateur identifié comme Auto-Entrepreneur. 
+ 
+7.3.3 Le message et les informations techniques d'identification 
+Le message DPRA_UCN comporte des informations techniques qui visent à identifier, de manière 
+unique et non ambiguë, les blocs de message DPRA_UCN. 
+Ces informations techniques sont obligatoires. Elles se trouvent dans : 
+▪ Le bloc MessageSpec (de niveau message) ; 
+▪ Le bloc EntityUserRate (de niveau bloc d'information, également appelé enregistrement). 
+ 
+ 
+7.3.4 Description structure XML 
+Remarque : flux généré en retour par l’Urssaf à la suite de l’envoi d’un flux « Identification » par une 
+plateforme numérique si le fichier n’a pas été rejeté au moment des contrôles de premier niveau et s’il 
+existe au moins un utilisateur identifié comme Auto-entrepreneur.
+
+----- page 44 -----
+44
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+7.3.5 DPRA_UCN 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+ 
+ 
+ 
+DPRA_UCN 
+<dpra:DPRA_UCN> 
+[1..1] 
+ 
+ 
+V 
+Elément racine 
+ 
+ 
+ 
+DPRA_UCN 
+version= 
+[1..1] 
+Max 10 
+char 
+String 
+V 
+Version du schéma DPRA 
+utilisée pour créer le flux (1.0 
+pour la version initiale décrite 
+dans ce document) 
+1 
+ 
+> 
+MessageSpec 
+<dpra:MessageSpec> 
+[1..1] 
+ 
+dpra:MessageSpec_Type 
+V 
+ 
+2 
+ 
+> 
+DPRABody 
+<dpra:DPRABody> 
+[1..1] 
+ 
+dpra:DPRA_Type 
+V 
+ 
+ 
+7.3.6 DPRA_UCN / MessageSpec (dpra:MessageSpec_Type) 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1 
+ 
+ 
+MessageSpec 
+<dpra:MessageSpec> 
+[1..1] 
+ 
+dpra:MessageSpec_Type 
+V 
+ 
+1.1 
+ 
+> 
+MessageType 
+<dpra:MessageType> 
+[1..1] 
+ 
+dpra:MessageType 
+V 
+Valeur possible = DPRA ou 
+DPRASB (env. Bac à sable) 
+1.2 
+ 
+> 
+PlatformId 
+<dpra:PlatformId> 
+[1..1] 
+ 
+xs:string: 
+V 
+Identifiant de la plateforme 
+fournie en retour de la phase 
+d’inscription 
+1.3 
+ 
+> 
+ReportingPeriod 
+<dpra:ReportingPeriod> 
+[1..1] 
+ 
+xs:string 
+V 
+Cette donnée identifie l’année et 
+le mois pour laquelle se 
+rapporte le message en utilisant 
+le format AAAA-MM. 
+1.4 
+ 
+> 
+SequenceNumber 
+<dpra:SequenceNumber> 
+[1..1] 
+ 
+3 digit 
+V 
+Numéro de séquence fixé par le 
+traitement
+
+----- page 45 -----
+45
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+N°Zone 
+Or 
+Niveau 
+Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence 
+Commentaire 
+1.5 
+ 
+> 
+MessageRefID 
+<dpra:MessageRefId> 
+[0..1] 
+Free 
+text. Max 
+88 char 
+xs:string 
+F 
+Identifiant de message fixé 
+librement par le dépositaire, il 
+permet de faciliter le chainage 
+avec le fichier déposé. 
+1.6 
+ 
+> 
+ReceptionDate 
+<dpra:ReceptionDate> 
+[1..1] 
+ 
+xs:dateTime 
+V 
+Date et heure de la réception du 
+fichier par l’Urssaf. 
+Format: AAAA-MM-
+JJ’T’hh:mm:ss :nnn.  
+1.7 
+ 
+> 
+UrssafRef 
+<dpra:UrssafRef> 
+[1..1] 
+ 
+xs:uuidType  
+[0-9a-fA-F]{8}-[0-9a-fA-
+F]{4}-[0-9a-fA-F]{4}-[0-9a-
+fA-F]{4}-[0-9a-fA-F]{12} 
+V 
+Référence unique produite pour 
+le système d’information de 
+l’Urssaf. 
+1.8 
+ 
+>  
+Timestamp 
+<dpra:Timestamp> 
+[1..1] 
+ 
+xs:timestamp 
+\d{4}-\d{2}-\d{2} 
+\d{2}:\d{2}:\d{2}\.\d{1,6} 
+V 
+Date et heure de génération du 
+rapport. 
+Le format est le suivant : AAAA-
+MM-JJ’T’hh:mm:ss :nnn.  
+ 
+ 
+7.3.7 DPRA_UCN / DPRABody (dpra:Body_Type) 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi Taille 
+Type 
+Exigence Commentaire 
+2 
+ 
+ 
+DPRABody 
+ 
+[1..1] 
+ 
+dpra:DPRA_Type 
+V 
+Une seule déclaration est 
+autorisée par fichier 
+2.1 
+ 
+> 
+EntityUserRate 
+<dpra:EntityUserRate> 
+[0..n] 
+ 
+dpra:EntityUserRate_Type 
+V 
+Ce bloc est fourni 
+obligatoirement dans le 
+cadre d’un retour sur le 
+service Identification, il va 
+contenir les informations de
+
+----- page 46 -----
+46
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi Taille 
+Type 
+Exigence Commentaire 
+taux par activité pour 
+chacun des cotisants. 
+ 
+7.3.8 DPRA_UCN / DPRABody / EntityUserRate (dpra:EntityUserRate_Type) 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence Commentaire 
+2.1 
+ 
+> 
+EntityUserRate 
+<dpra:EntityUserRate> 
+[0..N] 
+ 
+dpra:EntityUserRate_Type 
+V 
+Ce bloc est fourni obligatoirement 
+dans le cadre d’un retour sur le 
+service Identification, il va contenir 
+les informations de taux par activité 
+pour chacun des utilisateurs à 
+prélever 
+2.1.1 
+ 
+> 
+IN 
+<dpra:IN> 
+[1..1] 
+14 digits or 
+9 digits 
+xs:string 
+V 
+SIREN/SIRET référencé lors du 
+dépôt  
+2.1.2 
+ 
+> 
+LastName 
+<dpra:LastName> 
+[0..1] 
+ 
+xs:string 
+F 
+Nom de l’utilisateur si communiqué 
+lors du dépôt 
+2.1.3 
+ 
+> 
+FirstName 
+<dpra:FirstName> 
+[0..1] 
+ 
+xs:string 
+F 
+Prénom de l’utilisateur si 
+communiqué lors du dépôt 
+2.1.4 
+ 
+> 
+BirthDate 
+<dpra:BirthDate> 
+[0..1] 
+ 
+xs:string 
+F 
+Date de naissance si communiquée 
+lors du dépôt 
+2.1.5 
+ 
+> 
+PlaceOfBirth 
+<dpra:PlaceOfBirth> 
+[0..1] 
+ 
+xs:string 
+F 
+Lieu de naissance si communiqué 
+lors du dépôt 
+2.1.6 
+ 
+> 
+UserRefId 
+<dpra:UserRefId> 
+[0..1] 
+88 char 
+max. 
+xs:string 
+F 
+Identifiant de l’utilisateur fixé 
+librement par le dépositaire
+
+----- page 47 -----
+47
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence Commentaire 
+2.1.7 
+ 
+> 
+ContactDetails 
+<dpra:ContactDetails> 
+[1..1] 
+ 
+dpra:ContactDetails_Type 
+V 
+Informations de contact de 
+l’utilisateur 
+2.1.8 
+ 
+> 
+Rate 
+<dpra:Rate> 
+[1..N] 
+ 
+dpra:Rate_Type 
+F 
+X blocs : 1 par nature d’activité que 
+réalise la plateforme 
+ 
+7.3.9 DPRA_UCN / DPRABody / EntityUserRate / ContactDetails (dpid:ContactDetails_Type) 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence Commentaire 
+2.1.7 
+ 
+ 
+ContactDetails 
+<dpid:ContactDetails> 
+[1..1] 
+ 
+dpid:ContactDetails_Type 
+V 
+Information de contact de 
+l’utilisateur 
+2.1.7.1 
+ 
+> 
+PostalAddress 
+<dpid: PostalAddress> 
+[0..1] 
+ 
+dpid:PostalAddress_Type 
+F 
+Information sur l’adresse de 
+l’utilisateur  
+2.1.7.2 
+ 
+> 
+EmailAddress 
+<dpid:EmailAddress> 
+[0..1] 
+ 
+xs:string 
+F 
+Adresse courriel 
+2.1.7.3 
+ 
+> 
+PhoneNumber 
+<dpid:PhoneNumber> 
+[0..1] 
+ 
+xs:string 
+F 
+Numéro de téléphone 
+ 
+7.3.10 DPRA_UCN / DPRABody / EntityUserRate / ContactDetails / PostalAddress (dpid:PostalAddress_Type) 
+ 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence Commentaire 
+2.1.7.1 
+ 
+ 
+PostalAddress 
+<dpid:PostalAddress> 
+[0..1] 
+ 
+dpid:PostalAddress_Type 
+F 
+Information sur l’adresse de 
+l’utilisateur 
+2.1.7.1.1  
+> 
+Street1 
+<dpid: Street1> 
+[0..1] 
+ 
+xs:string 
+F 
+Le numéro de voie, le type 
+de voie ainsi que le nom de
+
+----- page 48 -----
+48
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+la voie, exemple :  
+8, rue des Lilas  
+2.1.7.1.2  
+> 
+Street2 
+<dpid: Street2> 
+[0..1] 
+ 
+xs:string 
+F 
+Champ spécifique aux 
+informations secondaires de 
+l’adresse de l’utilisateur. 
+Peut contenir un numéro 
+d’appartement, un étage ou 
+un bâtiment, exemple : 
+Batiment B, 3 ème étage 
+2.1.7.1.3  
+> 
+PostalCode 
+<dpid: PostalCode> 
+[0..1] 
+ 
+xs:string 
+F 
+Code postal, exemple :  
+75001 
+2.1.7.1.4  
+> 
+City 
+<dpid: City> 
+[0..1] 
+ 
+xs:string 
+F 
+Ville, exemple :  
+Paris 
+2.1.7.1.5  
+> 
+Country 
+<dpid:Country> 
+[0..1] 
+ 
+xs:string 
+F 
+Pays, exemple :  
+France 
+ 
+7.3.11 DPRA_UCN / DPRABody / EntityUserRate / Rate (dpra:Rate_Type) 
+N°Zone Or 
+Niveau Objet 
+<balise XML> 
+Multi 
+Taille 
+Type 
+Exigence Commentaire 
+2.1.8 
+ 
+> 
+Rate 
+<dpra:Rate> 
+[0..N] 
+ 
+dpra:Rate_Type 
+F 
+X blocs : 1 par nature d’activité que réalise 
+la plateforme 
+2.1.8.1 
+ 
+ 
+Code 
+<dpra:Code> 
+[1..1] 
+ 
+xs:string 
+V 
+Code de l’activité 
+2.1.8.2 
+ 
+ 
+Value 
+<dpra:Value> 
+[1..1] 
+ 
+xs:decimal 
+V 
+Taux de cotisation à appliquer pour cet 
+utilisateur pour cette activité. Taux avec 
+jusqu’à 3 décimales.
+
+----- page 49 -----
+49
+Plateforme numérique 
+V2026-2 
+ 
+Contrat d’interface : Phase Identification 
+ 
+8. ASSISTANCE 
+Pour toute question ou besoin d’accompagnement, nous vous invitons à contacter l’Urssaf en utilisant 
+le 
+formulaire 
+de 
+contact 
+disponible 
+sur 
+la 
+page 
+Plateforme 
+numérique 
+d’urssaf.fr : 
+https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html

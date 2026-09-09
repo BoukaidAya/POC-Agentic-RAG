@@ -1,0 +1,137 @@
+
+----- page 1 -----
+AMÉLIOREZ 
+ET MAÎTRISEZ
+VOTRE RELATION 
+CLIENT
+
+----- page 2 -----
+Offrir à vos clients la maîtrise 
+de leurs données personnelles constitue 
+un gage de qualité et de confiance 
+envers votre marque, notamment 
+s’ils comprennent que vous respectez 
+leurs choix et ne les sollicitez que 
+lorsqu’ils le désirent.
+
+----- page 3 -----
+VOUS PROSPECTEZ 
+DE NOUVEAUX CLIENTS
+De nombreux outils vous permettent de solliciter 
+des personnes qui ne sont pas encore vos clientes 
+pour développer votre activité.
+ Des règles précises s’imposent à vous dans l’utilisation 
+ de données personnelles à des fins de sollicitation commerciale 
+ (nom, email, numéro de téléphone, adresse postale, etc.).
+N’utilisez pas des données personnelles librement accessibles sur internet sans prendre 
+des précautions. Par exemple, la présence dans un annuaire d’abonnés au téléphone sur 
+internet ne signifie pas que la personne accepte de recevoir des appels de votre part ! Elle peut 
+être inscrite sur la liste anti-démarchage de son opérateur. 
+Soyez vigilant sur les bases de données marketing en vente sur internet à des prix 
+particulièrement attractifs. Généralement, les données ne sont ni fiables ni recueillies dans des 
+conditions légales.
+Utilisez des fichiers « qualifiés », c’est-à-dire comportant des données fiables concernant 
+des personnes qui seront a priori attirées par l’offre ou le service que vous proposez. Cela vous 
+évitera des plaintes à la CNIL et des avis négatifs de consommateurs sur votre société.
+
+----- page 4 -----
+EXEMPLE 
+Une campagne de prospection commerciale effectuée sur la base de coordonnées erronées 
+ou obsolètes peut s’avérer coûteuse et inefficace. De même qu’une facture envoyée à 
+une ancienne adresse ne pourra pas être réglée dans les temps impartis par votre client.
+ À RETENIR 
+Selon le mode de prospection (email, téléphone ou sms) que vous utilisez, les personnes 
+sollicitées doivent au préalable avoir donné leur accord (la notion de consentement) pour 
+recevoir vos messages (opt-in) ou ne pas avoir exprimé leur refus (opt-out).
+L’opt-in, c’est obtenir l’accord préalable du destinataire de la publicité : s’il n’a pas dit 
+« oui », c’est « non ». C’est le cas pour envoyer de la publicité « B2C » (du professionnel 
+au consommateur) par email, SMS, MMS, automate d’appels ou fax.
+L’opt-out, c’est le contraire, lorsque le destinataire de la publicité ne s’est pas opposé : 
+s’il n’a pas dit « non », c’est « oui ». C’est le cas pour la publicité « B2B » (de professionnel 
+à professionnel) adressée par email et « B2C » adressée par voie postale ou par téléphone.
+POUR EN SAVOIR PLUS :
+Il existe pour la prospection téléphonique des règles particulières. 
+Renseignez-vous sur le site internet de « Bloctel », organisme chargé 
+de gérer la liste nationale d’opposition au démarchage téléphonique
+https://pro.bloctel.fr
+
+----- page 5 -----
+POUR EN SAVOIR PLUS :
+Des modèles de recueil du consentement ou de l’opposition 
+des consommateurs seront disponibles sur le site internet de la CNIL
+ Dans tous les cas, les personnes doivent pouvoir refuser de recevoir d’autres sollicitations 
+ de votre part. 
+Offrez leur cette possibilité lorsque vous les contactez (exemple : un lien de désabonnement qui 
+fonctionne dans vos emails) et organisez-vous pour prendre en compte effectivement ces demandes 
+(exemple : en dressant une liste des personnes qui se sont opposées).
+ EXEMPLE 
+Un client qui continue à recevoir de la prospection alors qu’il vous a indiqué qu’il ne souhaitait 
+plus la recevoir peut manifester son agacement sur les réseaux sociaux, ou donner des avis 
+négatifs sur vos produits et services. Alors qu’au contraire, un client qui ne reçoit plus de 
+prospection commerciale lorsqu’il se désabonne est plus enclin à se réabonner, sachant que 
+sa tranquillité est respectée lorsqu’il le souhaite.
+ Ces règles s’appliquent à la prospection auprès de vos clients actuels ! 
+En fonction des modalités de prospection (email, téléphone, sms, partenaires), les règles de recueil 
+du consentement ne sont pas toujours les mêmes. Prévoyez une fonctionnalité dédiée et ergonomique 
+pour que vos clients puissent facilement exprimer leurs préférences de communication.
+Pensez également à informer vos clients des moyens existants de s’opposer à des sollicitations 
+commerciales (Bloctel, signalspam, etc.).
+
+----- page 6 -----
+Accueillir un nouveau client, c’est généralement 
+espérerle conserver et construire une relation 
+durable basée sur une confiance mutuelle. 
+La protection des données des clients participe 
+à cette confiance.
+ 3 règles à respecter : 
+1
+ Faites le tri !
+Vendre un bien ou un service ne nécessite pas tout le temps le recueil de données 
+personnelles.
+En revanche, pour établir une facture, livrer, offrir une garantie, instaurer une relation client sur 
+la durée (exemple : abonnement), vous devez informer votre client des données qui sont 
+obligatoires pour rendre le service.
+S’il est d’accord, votre client peut vous fournir plus d’informations pour que vous lui proposiez 
+d’autres services optionnels (exemple : l’enregistrement de l’historique des achats dans 
+un programme de fidélité en échange de promotions).
+Dans certains cas, vous devrez demander à vos clients des justificatifs (exemple : une pièce 
+d’identité lors du retrait en magasin d’un produit commandé en ligne ou lors du paiement par 
+chèque en caisse). Cependant, il n’est pas forcément utile de conserver la pièce justificative 
+ou sa copie. Le fait de conserver l’information que la justification a été produite suffit.
+VOUS FIDÉLISEZ 
+VOS CLIENTS
+
+----- page 7 -----
+POUR EN SAVOIR PLUS :
+Fiches pratiques
+« Commerce et données personnelles »
+sur le site internet de la CNIL
+2
+ Au moment de la collecte, informez vos clients sur ce que vous faites de leurs données.
+Insérez une rubrique « Protection des données », accessible et compréhensible par tous, 
+dans vos conditions générales de vente.
+Prévoyez une mention d’information sur chaque formulaire de collecte (exemple : sur le bulletin 
+de demande de carte de fidélité posé sur le comptoir du magasin).
+N’oubliez pas de leur fournir un moyen, simple et rapide, de vous contacter pour l’exercice 
+de leurs droits d’accès, de rectification, d’opposition et d’effacement.
+Si vous souhaitez louer ou partager leurs coordonnées avec des partenaires commerciaux, 
+n’oubliez pas de demander à vos clients leurs préférences. Si cela concerne leurs coordonnées 
+électroniques, vous devrez recueillir leur consentement, dont vous devrez garder la preuve.
+3
+ Ne gardez pas indéfiniment les données.
+Prévoyez la suppression des informations en cas d’inactivité prolongée de vos clients (3 ans 
+à compter de la fin de la relation commerciale). 
+Vous devez toutefois conserver certaines données en raison d’obligations légales (notamment 
+comptabilité, contentieux, etc.). Archivez-les dans une autre base de données dont l’accès est 
+plus restreint.
+
+----- page 8 -----
+CNIL
+3, Place de Fontenoy - TSA 80715
+75334 Paris Cedex 07
+Tél. : 01 53 73 22 22
+Bpifrance
+27-31, avenue du Général Leclerc
+94710 Maisons-Alfort Cedex
+Tél. : 01 41 79 80 00
+Document non contractuel - Bpifrance Le Lab - Avril 2018.

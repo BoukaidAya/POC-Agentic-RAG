@@ -1,0 +1,449 @@
+
+----- page 1 -----
+Une boutique en ligne est organisée 
+en blocs plus ou moins position-
+nés de la même manière d’un site à 
+l’autre, afin de ne pas perturber les 
+habitudes des internautes. La com-
+préhension du fonctionnement du 
+site doit être intuitive.
+Au sein d’un site e-commerce, 
+chaque page web, hormis « le tunnel 
+d’achat », ont la même présentation 
+sur les parties supérieures, inférieures 
+et latérales. Cet habillage est appelé 
+« gabarit ».
+Le Responsive Design est un ensemble de 
+techniques et de méthodes permettant de 
+développer un site qui s’adapte automatique-
+ment à la taille de l’écran du terminal utilisé pour 
+le consulter (ordinateur, tablette, smartphone). 
+Le gabarit et l’agencement des blogs changent 
+selon la résolution du terminal.
+Pour voir un exemple : http://vimeo.
+com/41688959. 
+Cette technique allonge néanmoins le temps 
+d’affichage et donc le coût de développement 
+du site.
+> Les blocs
+Le header
+Il s’agit de l’entête du site. La lecture 
+d’une page commençant dans le 
+coin supérieur gauche, c’est ici que 
+se positionne le logo du site. Celui-ci 
+peut être accompagné d’une phrase 
+courte expliquant en quelques mots 
+ce que vend le site.
+Le coin supérieur droit est générale-
+ment occupé par l’accès au panier 
+et l’accès au compte. Ces éléments 
+permettent à l’internaute d’identifier 
+immédiatement qu’il est sur un site 
+marchand.
+Ergonomie et optimisation du taux de 
+conversion du site internet (partie 1/2)
+Attirer des visiteurs sur un site internet, c’est bien ; les transformer en clients, c’est mieux ! Cette phrase 
+semble évidente, car l’objectif d’un site e-commerce est de vendre. Pourtant, un écueil courant dans la 
+profession consiste à investir beaucoup de temps et d’argent dans la génération de trafic aux dépens 
+de l’ergonomie du site.
+Optimisation du référencement naturel, e-mailings réguliers, campagnes de liens sponsorisés, présence 
+sur les places de marchés et les comparateurs de prix… Les leviers e-marketing ne manquent pas pour 
+attirer des visiteurs1.
+Les yeux rivés sur l’audience, on en oublie parfois d’en mesurer les effets sur les ventes. On appelle taux 
+de conversion ou taux de transformation le rapport entre le nombre clients et le nombre de visiteurs . 
+Ce ratio permet de mesurer l’efficacité du site.
+L’ergonomie est un des principaux moyens pour agir sur le taux de conversion. Elle consiste notamment 
+à mettre en confiance l’internaute et à éliminer les facteurs bloquants qui pourraient l’empêcher d’aller 
+jusqu’au bout de la transaction.
+L’ergonomie n’étant pas une science exacte, il convient de respecter quelques fondamentaux. Cette no-
+tice explique les points essentiels permettant d’améliorer le taux de conversion des sites e-commerce2 
+sur la page d’accueil, les pages catalogues et les fiches produits. Le « tunnel d’achat » fera l’objet d’un 
+second volet à paraître prochainement.
+Performance 
+numérique
+Votre rendez-vous mensuel
+Le gabarit
+CCI DORDOGNE - Performance numérique - AVRIL 2014
+1
+1 Un taux de conversion sert également à mesurer l’efficacité d’un site non marchand. Par exemple si l’objectif du site est de générer des contacts, le taux de conversion  
+sera le rapport entre le nombre de formulaires remplis et le nombre de visiteurs.
+2 Pour en savoir plus sur l’ergonomie web en général, lire l’article de Commentçamarche.net sur ce sujet sur: http://bit.ly/kj55I.
+
+----- page 2 -----
+a.  Gabarit standard de site e-commerce avec menu horizontal
+> Le carroussel
+Apparu il y a quelques années, le 
+carrousel permet de dynamiser la 
+page d’accueil en faisant défiler un 
+diaporama sous le header. Son rôle? 
+Décliner l’identité du site en présen-
+tant quelques produits et mettre 
+en valeur une actualité ou un point 
+fort (promotion, service différenciant, 
+nouvelle gamme de produit,…).
+Les diapositives doivent être com-
+posées essentiellement d’images at-
+trayantes et de grandes dimensions. 
+La faible proportion de texte doit 
+être compensée par des vignettes 
+La page d’accueil
+CCI DORDOGNE - Performance numérique - AVRIL 2014
+2
+Le menu
+Deux types de menus existent : 
+horizontal et vertical. Le premier 
+convient très bien aux sites propo-
+sant de nombreuses références et 
+des gammes profondes. Il donne un 
+accès plus direct aux produits et offre 
+un aperçu ordonné des gammes (fi-
+gures a. et b. ci-contre). 
+Peuvent s’ajouter des photos illustra-
+tives, un lien vers le produit le plus 
+vendu ou la promotion du moment.
+Le volet déroulant s’avère également 
+assez intrusif et masque parfois la 
+moitié de la page. 
+Le menu horizontal offre l’avantage 
+de rester déployé en permanence 
+sur toutes les pages du site. Il occupe 
+néanmoins plus d’espace sur la page.
+Le footer
+On appelle « footer » le pied de page 
+d’un site. Cette partie de la page 
+étant peu lue par les internautes, 
+elle est habituellement utilisée pour 
+optimiser le référencement naturel 
+du site et communiquer sur les men-
+tions légales ou les conditions géné-
+rales de ventes.
+Le footer comporte peu d’images et 
+peu de relief sur le texte pour ne pas 
+attirer l’attention de l’internaute. Une 
+ligne de pictogrammes peut néan-
+moins rappeler les services offerts en 
+haut du footer (conditions de livrai-
+sons, types de paiement acceptés, 
+garanties,…). 
+> Les éléments de réassurance
+L’internaute 
+doit 
+se 
+sentir 
+en 
+confiance tout au long de sa navi-
+gation sur le site. C’est pourquoi 
+il convient de faire apparaitre des 
+éléments de « réassurance » dans le 
+gabarit, pour l’inciter à aller jusqu’au 
+bout de la transaction :
+•	 Un numéro de téléphone en évi-
+dence dans le header 
+•	 Des informations sur la livraison 
+(tarifs et délais)
+•	 Des informations sur le paiement 
+(moyens, banque auprès de la-
+quelle le site loue son terminal 
+de paiement)
+•	 Les garanties (satisfait ou rem-
+boursé, origine des produits,…)
+•	 Les marques vendues
+Ces éléments sont souvent maté-
+rialisés par les logos des partenaires 
+(banque, transporteurs) ou des pic-
+togrammes qui renvoient vers des 
+pages plus détaillées. Hormis le nu-
+méro de téléphone, ils se situent plu-
+tôt dans le footer et sont parfois rap-
+pelés via un bandeau vertical dans 
+la partie droite du gabarit ou sur les 
+fiches produits.
+b.  Exemple de menu horizontal avec volet déroulant
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - AVRIL 2014
+3
+explicatives contre ou sous le carrou-
+sel (figure c.). L’internaute doit avoir la 
+possibilité de naviguer dans le dia-
+porama en cliquant sur les vignettes 
+pour les faire défiler.
+Attention, les vignettes ne doivent 
+pas dispenser les diapositives de 
+liens hypertextes.
+> La ligne flottaison
+La ligne de flottaison correspond à 
+la limite au-delà de laquelle l’inter-
+naute devra faire glisser la roulette 
+de sa souris pour voir le reste de la 
+page. Cette ligne imaginaire varie en 
+fonction de la résolution et du termi-
+nal utilisé (ordinateur, tablette, smart-
+phone).
+Aujourd’hui, la majorité des inter-
+nautes utilise des écrans d’ordi-
+nateurs de 1 024 x 768 ou 1 366 x 
+7683. La ligne de flottaison d’un site 
+consulté sur un ordinateur se situe 
+approximativement autour de 700 
+pixels.
+Cette 
+limite est 
+importante 
+à 
+connaitre pour deux raisons. Tout 
+d’abord, de nombreuses études 
+montrent que les internautes sont 
+moins attentifs au contenu situé 
+sous la ligne de flottaison4. Par ail-
+leurs, les éléments graphiques de 
+la page doivent faire comprendre à 
+l’internaute qu’il y a plus d’informa-
+tion sous la ligne de flottaison. Une 
+ligne de flottaison sous le carrousel 
+donnerait l’impression qu’il n’y a rien 
+dessous (figure d.).
+> Les produits
+La page d’accueil est utilisée pour 
+mettre en avant des produits à dés-
+tocker, dont la marge est importante, 
+ou encore un « best-seller ».
+Les produits sont parfois présentés 
+en catégories (pas plus de 3 trois) :
+•	 Promotions
+•	 Nouveautés
+•	 Meilleures ventes
+•	 Produits les plus consultés
+•	 Coups de cœurs / Notre sélec-
+tion
+•	 Fins de séries
+•	 …
+Ces produits doivent être choisis 
+avec soin dans l’optique de générer 
+du chiffre d’affaires. C’est pourquoi 
+il convient parfois de s’éloigner un 
+peu de réalité : il peut 
+être intéressant de faire 
+apparaitre un produit 
+à déstocker dans les 
+meilleures ventes par 
+exemple.
+c.  Exemple de carroussel avec vignettes
+d.  Ligne de flottaison
+Les pages « catalogues »
+> Equilibrer les informations 
+Les pages dites « catalogues » pré-
+sentent les gammes de produits 
+sous la forme de grilles ou de listes.
+La liste permet de fournir plus d’in-
+formations sur le produit (figure e.)
+Plus économe en espace, la grille fait 
+apparaitre plus de produits par page 
+(figure f.).
+Les pages catalogues doivent s’effor-
+cer de trouver la juste proportion 
+d’information sur le produit : suf-
+fisamment pour que l’internaute 
+puisse faire un pré-choix, mais sans 
+alourdir le graphisme.
+La photo, le libellé (qui doit être expli-
+cite), le prix et le bouton d’ajout au 
+panier sont des pré-requis. D’autres 
+champs peuvent figurer sur les 
+pages catalogues :
+•	 Etat du stock
+•	 Notation des clients (sous forme 
+d’étoiles)
+•	 Détails techniques
+•	 ...
+Pour ne pas alourdir une page catalogue : faire 
+apparaitre une fenêtre lors du survol d’un 
+produit. Il doit toutefois s’agir uniquement 
+d’informations complémentaires.
+Autre astuce : substituer un pictogramme 
+au texte. L’icône utilisée doit cependant être 
+compréhensible par le plus grand nombre sans 
+ambiguïté et ne pas éclipser graphiquement le 
+prix et le bouton d’ajout au panier.
+3 Selon une étude statistiques menée en mars 2012 par StatCounter : http://bit.ly/ZM3Uyg.
+4 http://bit.ly/hHoqZg.
+
+----- page 4 -----
+> Le prix et le bouton d’ajout 
+au panier
+Le prix et le bouton d’ajout au panier 
+étant les éléments les plus impor-
+tants, leur taille et leur couleur ont 
+toute leur importance (figure g.). Le 
+prix doit être d’une police plus im-
+portante que le reste du texte. Par ail-
+leurs, les prix d’une page catalogue 
+doivent être alignés horizontalement 
+dans le cas d’une présentation « en 
+grille », ou verticalement s’il s’agit 
+d’une présentation « en liste » pour 
+faciliter la lecture par l’internaute.
+La couleur du bouton d’ajout au 
+panier doit se distinguer de la charte 
+graphique tout en conservant la 
+même présentation sur tout le site 
+: page d’accueil, page catalogue et 
+fiches produits. « Ajouter au panier » 
+reste la formule la plus utilisée mais 
+« Acheter » constitue une bonne al-
+ternative. « Sélectionner » ou « Com-
+mander » s’avèrent néanmoins plus 
+ambigus : « sélectionner » peut vou-
+loir dire « ajouter à une liste d’envie 
+» pour comparer plus tard ; « Com-
+mander » ne sous-entend pas claire-
+ment l’existence d’un paiement en 
+ligne.
+> Les fonctions de tri
+Selon les produits et la profondeur 
+de la gamme, les fonctions de tris 
+devront être plus ou moins avancées. 
+Les gammes de moins de deux pages 
+pourront se contenter de fonctions 
+simples, le tri par prix croissant étant 
+incontournable.
+Les filtres facilitent la recherche d’un 
+produit (figure h.). La modification 
+d’un paramètre régénère automati-
+quement la page catalogue.
+L’internaute doit toujours avoir la 
+possibilité de supprimés les critères 
+sélectionnés.
+Les filtres sont généralement placés 
+sur la partie latérale gauche de la 
+page afin d’être toujours visibles.
+e.  Page catalogue avec présentation 
+     des produits en liste
+f.  Page catalogue avec présentation 
+     des produits en grille
+g.  Les boutons d’ajout au panier
+«Promotion» 
+trop visible 
+par rapport 
+au bouton 
+d’ajout au 
+panier
+Prix trop petit
+Prix non alignés
+h.  Exemples de filtres
+CCI DORDOGNE - Performance numérique - AVRIL 2014
+4
+Les fiches produits
+La photo se situe traditionnellement 
+dans la partie gauche de la page, 
+tandis que le prix, le bouton d’ajout 
+au panier et le descriptif court se 
+trouvent dans la partie droite.
+> Les photos
+Les photos doivent montrer le pro-
+duit sous plusieurs angles et sur des
+
+----- page 5 -----
+CCI DORDOGNE - Performance numérique - AVRIL 2014
+5
+VOTRE contact
+Samuel COSTE 
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+ 
+CCI DORDOGNE
+Votre prochain rdv numérique :
+« Ergonomie et optimisation 
+du taux de conversion du site 
+internet (partie 2/2) »
+visuels de bonne qualité. Le zoom 
+doit permettre d’agrandir la photo.
+Dans l’idéal, le produit est présenté 
+sur un fond blanc puis mis en scène 
+afin que l’internaute puisse plus faci-
+lement se rendre compte de la taille 
+réelle.
+Une vidéo est aussi un bon moyen 
+de mettre un produit en situation.
+j.   Produit nu
+k.   Produit mis en scène
+> Le prix et l’ajout au panier
+Ces deux éléments doivent rester 
+visuellement proches. Comme sur 
+les pages catalogues, le prix doit être 
+mis en valeur par rapport au reste du 
+texte, et le bouton d’ajout au panier 
+être d’une couleur différente de la 
+charte graphique.
+L’acheteur doit être notifié de la prise 
+en compte de sa sélection lorsqu’il 
+clique sur le bouton d’ajout au panier. 
+Il existe trois manières de procéder :
+•	 Faire apparaître une pop-up de 
+notification (petite fenêtre en 
+sur-affichage)
+•	 Diriger automatiquement l’inter-
+naute vers la première étape du 
+« tunnel de commande ». Un lien 
+permettant de revenir aux achats 
+doit être mis en évidence. 
+•	 Créer une animation sur le site, 
+du bouton d’ajout au panier 
+jusqu’au panier situé en général 
+en haut à droite du header. Incré-
+menter le panier sans animation 
+ne permet pas à l’internaute de 
+savoir si son achat a été pris en 
+compte. 
+> Le descriptif
+Un descriptif court détaillant les 
+caractéristiques principales du pro-
+duit (matière, dimensions,…) jouxte 
+les photos, en dessous du prix. En 
+général, les internautes souhaitent 
+avoir le plus d’informations possibles 
+sur le produit avant d’acheter. Il est 
+donc recommandé de proposer un 
+descriptif technique détaillé sous la 
+photo.
+Les éléments de réassurance doivent être visibles 
+dans le descriptif court. Un rappel détaillé pourra 
+être fait dans l’un des onglets du descriptif 
+technique.
+> Le cross selling
+Le cross-selling consiste à proposer 
+des produits complémentaires, afin 
+de réaliser des ventes additionnelles. 
+Par exemple, le drap assorti à une taie 
+d’oreiller. 
+Il faut donc prévoir une rubrique 
+intitulée « les produits de la même 
+série », « accessoires associés » « Vous 
+pourriez aussi être intéressé par ces 
+produits » ou encore « Les clients 
+ayant vu ce produit ont également 
+aimé : » sur la fiche produit.
+Le cross-selling peut également avoir 
+lieu au moment de l’ajout au panier. 
+Si le montant des produits comman-
+dés est inférieur au panier moyen 
+(montant moyen dépensé par un in-
+ternaute), des produits complémen-
+taires sont proposés via la pop-up de 
+notification d’ajout au panier. Si, en 
+revanche, le panier de l’internaute est 
+supérieur au panier moyen, il est pré-
+férable de s’abstenir. En poursuivant 
+sa navigation, l’internaute pourrait 
+douter de son achat. 
+Sur le même principe que le cross sel-
+ling, il est également possible de pré-
+senter des produits ayant le même 
+usage, mais situés dans une tranche 
+de prix supérieure. Cette technique 
+s’appelle l’up-selling.
+i.   Fiche produit type
+Animation de la 
+photo du produit
+Panier incrémenté

@@ -1,0 +1,5411 @@
+
+----- page 1 -----
+" tiers autorisés " 
+ 
+RECUEIL DES PROCEDURES  
+ 
+ 
+ 
+ 
+ 
+ 
+Juillet 2020
+
+----- page 2 -----
+2 
+INTRODUCTION 
+Ce recueil rassemble les procédures « tiers autorisés » retenues par la CNIL en raison de leur fréquence d’utilisation constatée et du grand 
+nombre de responsables de traitement concernés. La majorité du contenu de ce recueil a fait l’objet d’échanges avec les administrations citées 
+afin de veiller à l’exactitude des informations. Il est néanmoins vivement conseillé, lors de l’instruction d’une demande provenant d’un tiers 
+autorisé, de vérifier systématiquement toute modification des dispositions légales et réglementaires depuis le site web Légifrance. 
+Table des matières 
+INTRODUCTION .................................................................................................................................................................................................................................................................. 2 
+ENQUETES JURIDICTIONNELLES ....................................................................................................................................................................................................................................3 
+ENQUETES ADMINISTRATIVES ..................................................................................................................................................................................................................................... 23 
+ENQUETES ECONOMIQUES ............................................................................................................................................................................................................................................. 51 
+ENQUETES SOCIALE, TRAVAIL ET SANTE .................................................................................................................................................................................................................... 61 
+ABREVIATIONS................................................................................................................................................................................................................................................................... 74 
+Les indications relatives au secret professionnel font exclusivement référence aux cas où une disposition expresse 
+pertinente a été identifiée. Il peut exister des hypothèses dans lesquelles le secret professionnel peut être levé ou invoqué 
+sans qu’une disposition expresse ne le prévoit (lire à ce sujet le Guide pratique « tiers autorisés » publié par la CNIL)
+
+----- page 3 -----
+ENQUETES JURIDICTIONNELLES
+
+----- page 4 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+4 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Information 
+judiciaire 
+Selon l'acte décidé. 
+Demande de communication de l'une des autorités compétentes 
+suivantes : juge d'instruction, juge des enfants, OPJ ou magistrat 
+commis par le juge d'instruction ou le juge des enfants, chambre 
+de l'instruction. Ces autorités peuvent procéder, le cas échéant 
+dans le cadre d'une information judiciaire (obligatoire en matière 
+de crime, facultative pour les autres infractions), aux actes 
+suivants dans l'exercice de leurs fonctions aux fins de recherche 
+de pièces à conviction ou de saisie de biens en vue d'une 
+confiscation ultérieure : 
+- tous les actes d'information qu'il juge utiles à la manifestation de 
+la vérité (article 81 du CPP) 
+- recueil de renseignements sur la victime et le préjudice subi 
+(article 81-1 du CPP) 
+- perquisition (articles 59, 92, 94 à 96, 706-28, 706-35, 706-91 du 
+CPP) 
+- prise de connaissance, copie ou saisie de documents ou 
+données informatiques (articles 97 et suivants du CPP) 
+- réquisition (articles 99-3 et suivants du CPP) (dans les conditions 
+et limites précisées aux articles R. 15-33-67 et suivants du CPP 
+s'agissant de la mise à disposition de données par voie 
+électronique)  
+- interception, l'enregistrement et la transcription de 
+correspondances émises par la voie des communications 
+électroniques (articles 80-4, 100 et suivants du CPP) 
+- actes via commission rogatoire (article 151 et suivants du CPP) 
+ 
+Ces actes peuvent être le cas échéant exécutés par tout juge de 
+son tribunal, tout juge d'instruction ou tout officier de police 
+judiciaire requis par commission rogatoire dans les lieux où chacun 
+d'eux est territorialement compétent dans les conditions prévues 
+par le CPP. La commission rogatoire indique la nature de 
+l'infraction et l'objet des poursuites. Elle est datée et signée par le 
+magistrat qui la délivre et revêtue de son sceau. Elle ne peut 
+Selon l'acte décidé. 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+S'agissant des perquisitions, le juge d'instruction ou le 
+juge des enfants a l'obligation de " provoquer 
+préalablement toutes mesures utiles pour que soit 
+assuré le respect du secret professionnel et des droits 
+de la défense " (article 96 du CPP) ainsi que d'appliquer 
+les dispositions prévues aux articles 56 et 56-1 à 56-5 
+du CPP.  
+ 
+S'agissant des auditions de témoins, " toute personne 
+citée pour être entendue comme témoin est tenue de 
+comparaître, de prêter serment et de déposer sous 
+réserve des dispositions des articles 226-13 et 226-14 
+du code pénal " (article 109 du CPP).  
+Articles 81 et 
+suivants du CPP 
+ 
+Article 8 de 
+l'ordonnance n° 
+45-174 du 2 
+février 1945 
+relative à 
+l'enfance 
+délinquante 
+ 
+Articles 109, 201 
+et 207 du CPP
+
+----- page 5 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+5 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+prescrire que des actes d'instruction se rattachant directement à la 
+répression de l'infraction visée aux poursuites. 
+Le juge d'instruction fixe le délai dans lequel la commission 
+rogatoire doit lui être retournée avec les procès-verbaux dressés 
+pour son exécution par l'officier de police judiciaire. A défaut d'une 
+telle fixation, la commission rogatoire et les procès-verbaux 
+doivent lui être transmis dans les huit jours de la fin des opérations 
+exécutées en vertu de celle-ci. 
+Réquisition - 
+Enquête 
+préliminaire 
+Toute personne  
+Tout établissement  
+Tout organisme 
+privé ou public  
+Toute 
+administration 
+publique 
+Pouvoir de réquisition dans le cadre d'une enquête préliminaire 
+par le procureur de la République, ou par un officier ou agent de 
+police judiciaire sur autorisation du procureur de le République. 
+ 
+Réquisition de toute personne, de tout établissement ou organisme 
+privé ou public ou de toute administration publique de lui remettre 
+(le cas échéant sous forme numérique) des informations 
+intéressant l'enquête.  
+" Informations intéressant l'enquête, y compris celles 
+issues d'un système informatique ou d'un traitement de 
+données nominatives " (article 77-1-1 du code de 
+procédure pénale) 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Opposition du secret professionnel possible dans la 
+mesure où peut être invoqué un " motif légitime " 
+(article 77-1-1 du CPP). 
+Lorsque la réquisition vise une personne mentionnée 
+aux articles 56-1 à 56-5 du CPP (avocat, journaliste, 
+médecin, notaire, huissier, personne exerçant des 
+fonctions juridictionnelles), " la remise des informations 
+ne peut intervenir qu'avec leur accord " (article 77-1-1 
+du CPP).  
+Article 77-1-1 du 
+CPP
+
+----- page 6 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+6 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Réquisition 
+télématique - 
+Enquête 
+préliminaire 
+Organismes public  
+Personnes morales 
+de droit privé 
+Pouvoir de réquisition dans le cadre d'une enquête préliminaire 
+(prévu à l'article 77-1-2 alinéa 1er du CPP) d'un officier ou agent 
+de police judiciaire sur autorisation du procureur de la République. 
+ 
+Réquisition des organismes publics ou des personnes morales de 
+droit privé de mettre à disposition les informations requises par 
+voie télématique ou informatique (dans les conditions et limites 
+précisées aux articles 60-2 et R. 15-33-67 et suivants du CPP). 
+ 
+" Le fait de refuser de répondre sans motif légitime à ces 
+réquisitions est puni conformément aux dispositions du quatrième 
+alinéa de l'article 60-2 " (article 77-1-2 du CPP). 
+" (…) les informations utiles à la manifestation de la 
+vérité " (article 60-2 alinéa 1er du CPP). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+La mise à disposition des données ne peut concerner " 
+celles protégées par un secret prévu par la loi " (article 
+60-2 alinéa 1er du CPP). 
+Articles 60-2 et 
+77-1-2 du CPP 
+ 
+Articles R. 15-33-
+67 et suivants du 
+CPP 
+Réquisition 
+opérateurs - 
+Enquête 
+préliminaire 
+Opérateurs de 
+télécommunications 
+Pouvoir de réquisition dans le cadre d'une enquête préliminaire 
+(prévu à l'article 77-1-2 alinéa 2 du CPP) par l'officier ou l'agent de 
+police judiciaire sur autorisation du juge des libertés et de la 
+détention saisi à cette fin par le procureur de la République.  
+ 
+Dans ces conditions l'officier ou l'agent de police judiciaire peut 
+procéder aux réquisitions prévues par le deuxième alinéa de 
+l'article 60-2 du CPP qui prévoit l'obligation pour les " opérateurs 
+de télécommunications, et notamment de ceux mentionnés au 1 
+du I de l'article 6 de la loi 2004-575 du 21 juin 2004 pour la 
+confiance dans l'économie numérique " de préserver le contenu 
+des informations consultées par les personnes utilisatrices des 
+services. Les opérateurs concernés " mettent à disposition les 
+informations requises par voie télématique ou informatique dans 
+les meilleurs délais " (article 77-1-2 du CPP) (dans les conditions 
+et limites précisées aux articles 60-2 et R. 15-33-67 et suivants du 
+CPP). 
+ 
+" Le fait de refuser de répondre sans motif légitime à ces 
+réquisitions est puni conformément aux dispositions du quatrième 
+alinéa de l'article 60-2 " (article 77-1-2 du CPP). 
+" (…) les informations requises par voie télématique " 
+(article 77-1-2 du code de procédure pénale), à savoir 
+le " contenu des informations consultées par les 
+personnes utilisatrices des services fournis par les 
+opérateurs " (alinéa 2 de l'article 60-2 du CPP). 
+Articles 60-2 
+(alinéa 2) et 77-
+1-2 du CPP 
+ 
+Articles R. 15-33-
+67 et suivants du 
+CPP
+
+----- page 7 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+7 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Réquisition 
+opérateurs - 
+Enquête de 
+flagrance 
+Opérateurs de 
+télécommunications 
+Pouvoir de réquisition dans le cadre d'une enquête de flagrance 
+par l'officier de police judiciaire " intervenant sur réquisition du 
+procureur de la République préalablement autorisé par 
+ordonnance du juge des libertés et de la détention " (alinéa 2 de 
+l'article 60-2 du CPP) ou dans les cas prévus aux articles 74 à 74-
+2 du CPP. 
+ 
+L'officier de police judiciaire peut procéder dans ces conditions aux 
+réquisitions précitées à l'égard des " opérateurs de 
+télécommunications, et notamment de ceux mentionnés au 1 du I 
+de l'article 6 de la loi 2004-575 du 21 juin 2004 pour la confiance 
+dans l'économie numérique " chargés de préserver le contenu des 
+informations consultées par les personnes utilisatrices des 
+services. Les opérateurs concernés " mettent à disposition les 
+informations requises par voie télématique ou informatique dans 
+les meilleurs délais " (article 60-2 du CPP) (dans les conditions et 
+limites précisées aux articles 60-2 et R. 15-33-67 et suivants du 
+CPP). 
+ 
+" Le fait de refuser de répondre sans motif légitime à ces 
+réquisitions est puni d'une amende de 3 750 euros " (article 60-2 
+du CPP). 
+" (…) contenu des informations consultées par les 
+personnes utilisatrices des services fournis par les 
+opérateurs " (article 60-2 du CPP). 
+Articles 60-2 
+(alinéas 2 à 4), 
+74 à 74-2 du 
+CPP 
+ 
+Articles R. 15-33-
+67 et suivants du 
+CPP
+
+----- page 8 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+8 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Perquisition - 
+Enquête 
+préliminaire 
+Personnes qui 
+paraissent avoir 
+participé à un crime 
+(ou un délit lorsque 
+la loi prévoit une 
+peine 
+d'emprisonnement) 
+ou qui paraissent 
+détenir des pièces, 
+informations ou 
+objets relatifs aux 
+faits incriminés 
+ 
+En tous lieux dans 
+lesquels sont 
+susceptibles de se 
+trouver des biens 
+dont la confiscation 
+est prévue à 
+l'article 131-21 du 
+code pénal 
+Acte réalisé au sein du domicile des " personnes " (cf. case 
+précédente) afin d'établir la preuve de toute infraction pénale. 
+ 
+Pouvoir de perquisition dans le cadre d'une enquête préliminaire 
+par le procureur de la République ou un officier de police judiciaire, 
+agissant dans les conditions prévues à l'article 56 du CPP. 
+ 
+Ne peut être effectuées sans l'assentiment exprès de la personne 
+chez laquelle l'opération a lieu, sauf décision contraire écrite et 
+motivée du juge des libertés et de la détention (dans les conditions 
+prévues à l'article 76 du CPP). Présence obligatoire lors de la 
+perquisition de la personne dont le domicile est concerné (ou de 
+son représentant, ou de deux témoins en application de l'article 57 
+du CPP). 
+ 
+Autorisation préalable requise du procureur de la République 
+lorsque la saisie s'effectue " en tous lieux " (cf. case précédente) 
+aux seules fins de rechercher et de saisir des biens dont la 
+confiscation est prévue par les cinquième et sixième alinéas de 
+l’article 131-21 du code pénal (biens " mal acquis ").  
+ 
+La perquisition doit débuter entre 6h et 21h, sauf cas particuliers 
+(articles 706-28, 706-35, 706-90 du CPP). 
+Possibilité de saisie au sein d'un domicile de " papiers, 
+documents, données informatiques ou autres objets " 
+(article 56 CPP) et, en tous lieux, de " biens dont la 
+confiscation est prévue à l'article 131-21 du code pénal 
+" (article 56 du CPP). 
+ 
+Possibilité d'accéder à " des données intéressant 
+l'enquête en cours et stockées dans ledit système ou 
+dans un autre système informatique, dès lors que ces 
+données sont accessibles à partir du système initial ou 
+disponibles pour le système initial ", de les copier sur 
+tous supports et de saisie ces supports (article 57-1 du 
+CPP). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Obligation pour l'autorité d'enquête " de provoquer 
+préalablement toutes mesures utiles pour que soit 
+assuré le respect du secret professionnel et des droits 
+de la défense " (article 56 du CPP). 
+Application des garanties prévues aux articles 56-1 à 
+56-5 du CPP en cas de perquisition auprès de certaines 
+professions ou sur des documents protégés (avocat, 
+journaliste, médecin, notaire, huissier, personne 
+exerçant des fonctions juridictionnelles, secret de la 
+défense nationale). 
+Articles 76 et 
+suivants du CPP
+
+----- page 9 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+9 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Réquisition - 
+Enquête de 
+flagrance 
+Personne, 
+établissement, 
+organisme privé ou 
+public, 
+administration 
+publique 
+susceptibles de 
+détenir des 
+informations 
+intéressant 
+l'enquête 
+Pouvoir de réquisition par le procureur de la République ou l'OPJ 
+(ou l'APJ sous le contrôle de ce dernier) en cas de flagrance sur 
+des faits de nature criminelle ou délictuelle (lorsque la loi prévoit 
+une peine d'emprisonnement) ou en application des articles 74 à 
+74-2 du CPP (causes de la mort, blessures inconnues, disparition, 
+fuite).  
+Permet d'obtenir " des informations intéressant l'enquête, y 
+compris celles issues d'un système informatique ou d'un traitement 
+de données nominatives ( ...) notamment sous forme numérique " 
+(article 60-1 du CPP).  
+Le cas échéant au moyen d'une demande de mise à disposition à 
+distance de données (dans les conditions et limites précisées aux 
+articles R. 15-33-67 et suivants du CPP). 
+" informations intéressant l'enquête, y compris celles 
+issues d'un système informatique ou d'un traitement de 
+données nominatives " (article 60-1 du CPP). 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Opposition du secret professionnel possible dans la 
+mesure où peut être invoqué un " motif légitime " 
+(article 60-1 du CPP) 
+Lorsque la réquisition vise une personne mentionnée 
+aux articles 56-1 à 56-5 du CPP (avocat, journaliste, 
+médecin, notaire, huissier, personne exerçant des 
+fonctions juridictionnelles), " la remise des informations 
+ne peut intervenir qu'avec leur accord " (article 60-1 du 
+CPP).   
+Articles 60-1, 74 
+à 74-2 du 
+CPPArticles R. 
+15-33-67 et 
+suivants du CPP
+
+----- page 10 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+10 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Perquisition - 
+Enquête de 
+flagrance 
+Personnes qui 
+paraissent avoir 
+participé à un crime 
+(ou un délit lorsque 
+la loi prévoit une 
+peine 
+d'emprisonnement) 
+ou qui paraissent 
+détenir des pièces, 
+informations ou 
+objets relatifs aux 
+faits incriminés 
+ 
+En tous lieux dans 
+lesquels sont 
+susceptibles de se 
+trouver des biens 
+dont la confiscation 
+est prévue à 
+l'article 131-21 du 
+code pénal 
+Acte réalisé au sein du domicile des " personnes " (cf. case 
+précédente) afin d'établir la preuve d'un crime (ou d'un délit 
+lorsque la loi prévoit une peine d'emprisonnement) en cas de 
+flagrance ou en application des articles 74 à 74-2 du CPP 
+(recherche des causes de la mort ou de blessures, d'une personne 
+disparue, d'une personne en fuite).  
+ 
+Doit être réalisée par un OPJ (sans assentiment de la personne ni 
+autorisation préalable du procureur de la République) qui peut 
+procéder à la saisie d'éléments dans les conditions prévues à 
+l'article 56 du CPP. Présence obligatoire lors de la perquisition de 
+la personne dont le domicile est concerné (ou de son représentant, 
+ou de deux témoins en application de l'article 57 du CPP). 
+ 
+Autorisation préalable requise du procureur de la République 
+lorsque la saisie s'effectue " en tous lieux " (cf. case précédente) 
+aux seules fins de rechercher et de saisir des biens dont la 
+confiscation est prévue par les cinquième et sixième alinéas de 
+l’article 131-21 du code pénal (biens " mal acquis ").  
+ 
+La perquisition doit débuter entre 6h et 21h, sauf cas particuliers 
+(articles 706-28, 706-35, 706-89 du CPP). 
+ 
+Possibilité d'accès, à l'occasion d'une perquisition, par le procureur 
+de la République ou un OPJ (ou APJ sous leur responsabilité) " 
+par un système informatique implanté sur les lieux où se déroule la 
+perquisition à des données intéressant l'enquête en cours et 
+stockées dans ledit système ou dans un autre système 
+informatique, dès lors que ces données sont accessibles à partir 
+du système initial ou disponibles pour le système initial " (article 
+57-1 du CPP). 
+Possibilité de saisie au sein d'un domicile de " papiers, 
+documents, données informatiques ou autres objets " 
+(article 56 CPP) et, en tous lieux, de " biens dont la 
+confiscation est prévue à l'article 131-21 du code pénal 
+" (article 56 du CPP). 
+ 
+Possibilité d'accéder à " des données intéressant 
+l'enquête en cours et stockées dans ledit système ou 
+dans un autre système informatique, dès lors que ces 
+données sont accessibles à partir du système initial ou 
+disponibles pour le système initial ", de les copier sur 
+tous supports et de saisie ces supports (article 57-1 du 
+CPP). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes  
+Obligation pour l'autorité d'enquête " de provoquer 
+préalablement toutes mesures utiles pour que soit 
+assuré le respect du secret professionnel et des droits 
+de la défense " (article 56 du CPP). 
+Application des garanties prévues aux articles 56-1 à 
+56-5 du CPP en cas de perquisition auprès de certaines 
+professions ou sur des documents protégés (avocat, 
+journaliste, médecin, notaire, huissier, personne 
+exerçant des fonctions juridictionnelles, secret de la 
+défense nationale). 
+Articles 56 à 59 
+du CPP 
+ 
+Articles 74 à 74-2 
+du CPP 
+ 
+Article 131-21 du 
+code pénal
+
+----- page 11 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+11 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Réquisition 
+administrative 
+(disparition 
+inquiétante ou 
+suspecte) 
+Organismes publics 
+détenant des 
+fichiers nominatifs 
+Établissements 
+privés détenant des 
+fichiers nominatifs 
+Pouvoir de réquisition des chefs de service de la police nationale 
+et des chefs d'unité de la gendarmerie nationale dans le cadre des 
+enquêtes de localisation de personne dont la disparition présente 
+un caractère inquiétant ou suspect. 
+Tout renseignement permettant de localiser la personne 
+faisant l'objet des recherches. 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+L'obligation au secret ne peut être opposée aux 
+réquisitions réalisées dans ce cadre (article 26 de la loi 
+n° 95-73 du 21 janvier 1995 d'orientation et de 
+programmation relative à la sécurité). 
+Article 26 de la 
+loi n° 95-73 du 
+21 janvier 1995 
+d'orientation et 
+de 
+programmation 
+relative à la 
+sécurité 
+Actes 
+complémentaires 
+décidés par le 
+président de la 
+juridiction de 
+jugement (Cour 
+d'assises, 
+tribunal 
+correctionnel) 
+Selon l'acte décidé 
+Le président de la Cour d’assises peut ordonner tous actes 
+d'information qu'il estime utiles, si l'instruction lui semble 
+incomplète ou si des éléments nouveaux ont été révélés depuis sa 
+clôture (article 283 du CPP). 
+ 
+Le président du tribunal correctionnel peut, en cas de poursuites 
+par citation directe ou convocation par OPJ, après avis du 
+procureur de la République, ordonner l'exécution, selon les règles 
+applicables au cours de l'enquête préliminaire, tout acte demandé 
+par les parties ou leur avocat qu'il estime nécessaire à la 
+manifestation de la vérité et possible d’être exécuté avant la date 
+de l'audience (article 388-5 du CPP). 
+Selon l'acte décidé 
+Articles 283 et 
+388-5 du CPP 
+Citation et 
+signification par 
+le procureur de 
+la République 
+Toute 
+administration 
+Toute entreprise, 
+tout établissement, 
+tout organisme de 
+toute nature soumis 
+au contrôle de 
+l'autorité 
+administrative 
+Pouvoir de réquisition du procureur " aux fins de déterminer 
+l'adresse du domicile ou de la résidence du prévenu " (article 560 
+du CPP). 
+" (…) tous renseignements en sa possession aux fins 
+de déterminer l'adresse du domicile ou de la résidence 
+du prévenu " (article 560 du CPP). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes  
+Secret professionnel non opposable (article 560 du 
+CPP). 
+Article 560 du 
+CPP
+
+----- page 12 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+12 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Demande 
+renseignements 
+pour 
+détermination de 
+la peine par 
+l'autorité 
+judiciaire 
+(procureur de la 
+République, juge 
+d'instruction, 
+tribunal) 
+Parties au procès 
+pénal 
+Toute 
+administration  
+Tout établissement 
+financier  
+Toute personne 
+détenant des fonds 
+du prévenu 
+Demande de communication d'information de l'autorité judiciaire 
+(procureur de la République, juge d'instruction ou le tribunal saisi) 
+aux fins de détermination d'une peine devant être prononcée. 
+" (…) renseignements utiles de nature financière ou 
+fiscale " (article 132-22 du code pénal). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Secret professionnel non opposable (article 132-22 du 
+code pénal). 
+Article 132-22 du 
+code pénal 
+Juridiction civile Selon l'acte décidé 
+Le juge civil peut procéder, conformément à la loi et selon la 
+procédure, aux actes suivants dans l'exercice de ses fonctions : 
+- prendre toutes les mesures d'instruction légalement admissibles 
+(article 10 du CPC) 
+- " demander ou ordonner (...) la production de tous documents 
+détenus par des tiers s'il n'existe pas d'empêchement légitime " 
+(article 11 du CPC) 
+- enjoindre la communication d'une pièce détenue par une partie à 
+l'instance (article L. 133 du CPC) ou ordonner la délivrance ou la 
+production de l'acte ou de la pièce par un tiers (article L. 139 du 
+CPC) 
+- ordonner une mesure d'instruction (article 143 et suivants du 
+CPC) 
+- désigner de toute personne de son choix pour remplir la mission 
+confiée (articles L. 232 et L. 233 du CPC), dont notamment obtenir 
+communication de tous documents des parties ou de tiers à la 
+procédure (article L. 243 du CPC) 
+- obtenir communication de tout renseignement lui permettant 
+d'apprécier la situation d'un débiteur en situation de 
+surendettement (article L. 733-12 du code de la consommation) ou 
+de rétablissement personnel avec liquidation judiciaire (article L. 
+Selon l'acte décidé. 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+S'agissant des témoins, " est tenu de déposer 
+quiconque en est légalement requis. Peuvent être 
+dispensées de déposer les personnes qui justifient d'un 
+motif légitime " (article 206 du code de procédure 
+civile). 
+Articles 10 et 
+suivants du CPC
+
+----- page 13 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+13 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+742-1 du code de la consommation)    
+- ordonner tout acte dans le cadre de l'exécution d'une commission 
+rogatoire (articles 735 et suivants du CPC) 
+- ordonner en référé toutes les mesures qui ne se heurtent à 
+aucune contestation sérieuse ou que justifie l'existence d'un 
+différend (article 808 du CPC) 
+Président du 
+tribunal de 
+commerce 
+Commissaires aux 
+comptes  
+Membres et 
+représentants du 
+personnel 
+Administrations 
+publiques  
+Organismes de 
+sécurité et de 
+prévoyance 
+sociales  
+Services chargés 
+de la centralisation 
+des risques 
+bancaires et des 
+incidents de 
+paiement 
+Demande de communication de documents du Président du 
+tribunal de commerce afin d'obtenir " (…) des renseignements de 
+nature à lui donner une exacte information sur la situation 
+économique et financière du débiteur " (article L. 611-2 du code du 
+commerce). 
+" (…) des renseignements de nature à lui donner une 
+exacte information sur la situation économique et 
+financière du débiteur " (article L. 611-2 du code du 
+commerce). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Secret professionnel non opposable (cf. " (...) 
+nonobstant toute disposition législative ou 
+réglementaire contraire " article L. 611-2 du code de 
+commerce). 
+Article L. 611-2 
+du code de 
+commerce 
+Procédure de 
+sauvegarde, de 
+redressement et 
+de liquidation 
+judiciaire 
+(administrateur, 
+mandataire 
+judiciaire) 
+Administrations et 
+organismes publics 
+Organismes de 
+prévoyance et de 
+sécurité sociale 
+Établissements de 
+crédit  
+Sociétés de 
+financement  
+Demande de communication de documents de l'administrateur ou 
+du mandataire judiciaire afin d'obtenir " (…) une exacte information 
+sur la situation patrimoniale du débiteur " (article L. 622-6 du code 
+du commerce). 
+" (…) des renseignements de nature à lui donner une 
+exacte information sur la situation patrimoniale du 
+débiteur " (article L. 622-6 du code du commerce). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Secret professionnel non opposable (cf. " (...) 
+nonobstant toute disposition législative ou 
+Articles L. 622-6, 
+L. 631-14, L. 
+641-1 et L. 641-4 
+du code de 
+commerce
+
+----- page 14 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+14 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Établissements de 
+monnaie 
+électronique  
+Établissements de 
+paiement  
+Services chargés 
+de centraliser les 
+risques bancaires 
+et les incidents de 
+paiement 
+réglementaire contraire " article L. 622-6 du code de 
+commerce). 
+Exécution du 
+plan de 
+sauvegarde 
+Non précisé 
+Demande de communication de documents de l'administrateur ou 
+du mandataire judiciaire afin d'exécuter le plan de sauvegarde. 
+" (…) tous les documents et informations utiles à sa 
+mission " (article L. 626-25 du code du commerce). 
+Article L. 626-25 
+du code du 
+commerce 
+Procédure de 
+sauvegarde (juge 
+commissaire) 
+Commissaires aux 
+comptes 
+Experts comptables  
+Notaires  
+Membres et 
+représentants du 
+personnel  
+Administrations et 
+organismes publics  
+Organismes de 
+prévoyance et de 
+sécurité sociales  
+Établissements de 
+crédit  
+Sociétés de 
+financement  
+Établissements de 
+monnaie 
+électronique  
+Demande de communication de documents du juge-commissaire 
+afin d'obtenir " (…) une exacte information sur la situation 
+économique, financière, sociale et patrimoniale du débiteur " 
+(article L. 623-2 du code du commerce). 
+" (…) des renseignements de nature à lui donner une 
+exacte information sur la situation économique, 
+financière, sociale et patrimoniale du débiteur " (article 
+L. 623-2 du code de commerce). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Secret professionnel non opposable (cf. " (...) 
+nonobstant toute disposition législative ou 
+réglementaire contraire " article L. 623-2 du code de 
+commerce). 
+Article L. 623-2 
+du code de 
+commerce
+
+----- page 15 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+15 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Établissements de 
+paiement  
+Services chargés 
+de centraliser les 
+risques bancaires 
+et les incidents de 
+paiement 
+Commission 
+d'indemnisation 
+des victimes 
+d'infraction 
+(CIVI) 
+Toute personne ou 
+administrationTout 
+service de l'Etat, 
+collectivité 
+publique, 
+organisme de 
+sécurité sociale, 
+organisme assurant 
+la gestion des 
+prestations sociales 
+ou compagnies 
+d'assurance 
+susceptibles de 
+réparer tout ou 
+partie du préjudice 
+Demande de communication de documents dans le cadre des 
+investigations visant à instruire une demande d'indemnité. 
+À l'égard des personnes ou administrations : " (…) 
+renseignements sur la situation professionnelle, 
+financière, fiscale ou sociale des personnes ayant à 
+répondre du dommage causé par l'infraction ou du 
+requérant " (article 706-6 du CPP). 
+À l'égard des services de l'Etat, collectivité publique, 
+organisme de sécurité sociale, organisme assurant la 
+gestion des prestations sociales ou compagnies 
+d'assurance susceptibles de réparer tout ou partie du 
+préjudice : " renseignements relatifs à l'exécution de 
+leurs obligations éventuelles " (article 706-6 CPP).    
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Non opposabilité du secret professionnel (article L. 706-
+6 du CPP). 
+Article 706-6 du 
+CPP 
+Fonds de 
+garantie des 
+victimes des 
+actes de 
+terrorisme et 
+d’autres 
+Administrations  
+Services de l'Etat et 
+des collectivités 
+publiques 
+Organismes de 
+sécurité sociale  
+Organismes qui 
+Demande du FGTI de communication de documents auprès " des 
+personnes responsables du dommage causé par l'infraction ou 
+tenues à un titre quelconque [afin] d'en assurer la réparation totale 
+ou partielle le remboursement de l'indemnité ou de la provision 
+versée par lui " (article 706-11 du CPP). 
+" (…) les renseignements dont ils disposent ou peuvent 
+disposer et qui sont utiles à la mise en œuvre de son 
+action récursoire "  (article 706-11 du CPP).   
+Articles 706-11 
+du CPP et L. 
+422-8 du code 
+des  assurances
+
+----- page 16 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+16 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+infractions 
+(FGTI) 
+assurent la gestion 
+des prestations 
+sociales  
+Établissements 
+financiers  
+Entreprises 
+d'assurance 
+Fonds 
+d'indemnisation 
+des victimes de 
+l'amiante (FIVA) 
+Personne morale 
+ou physique faisant 
+l'objet des 
+investigations et 
+expertises du FIVA 
+Tout service de 
+l'Etat 
+Toute collectivité 
+publique  
+Tout organisme 
+assurant la gestion 
+des prestations 
+sociales  
+Tout organisme 
+assureur 
+susceptibles de 
+réparer tout ou 
+partie du préjudice 
+Demande de communication de documents aux fins de vérifier " si 
+les conditions de l'indemnisation " sont réunies et de procéder à " 
+l'instruction de la demande faite au fonds d'indemnisation "  (III de 
+l'article 53 de la loi n° 2000-1257 du 23 décembre 2000). 
+" (…) toute investigation et expertise utiles "  (III de 
+l'article 53 de la loi n° 2000-1257 du 23 décembre 
+2000).   
+ 
+S'agissant des services de l'Etat, collectivités publiques, 
+organismes assurant la gestion des prestations 
+sociales, organismes assureurs susceptibles de réparer 
+tout ou partie du préjudice : " (…) renseignements 
+relatifs à l'exécution de leurs obligations éventuelles "  
+(III de l'article 53 de la loi n° 2000-1257 du 23 
+décembre 2000). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Secrets professionnel ou industriel non opposable (III 
+de l'article 53 de la loi n° 2000-1257 du 23 décembre 
+2000).   
+III de l'article 53 
+de la loi n° 2000-
+1257 du 23 
+décembre 2000 
+de financement 
+de la sécurité 
+sociale pour 
+2001 
+Huissier de 
+justice 
+Tout organisme 
+auprès duquel un 
+compte est ouvert 
+au nom du 
+débiteur. 
+Demande d'information d'un huissier " aux fins d'assurer 
+l'exécution d'un titre exécutoire ou lorsqu'il est saisi par une 
+juridiction d'une demande d'informations en application de l'article 
+14 du règlement (UE) n° 655/2014 du Parlement européen et du 
+Conseil du 15 mai 2014 portant création d'une procédure 
+d'ordonnance européenne de saisie conservatoire des comptes 
+bancaires, destinée à faciliter le recouvrement transfrontière de 
+" (...) adresse des organismes auprès desquels un 
+compte est ouvert au nom du débiteur " (article L. 151-A 
+du LPF). 
+ 
+Secrets (article L. 113 du LPF) 
+ Articles L. 113 et 
+L. 151-A du LPF 
+ 
+Circulaire du 19 
+février 2015
+
+----- page 17 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+17 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+créances en matière civile et commerciale " (article L. 151-A du 
+LPF). 
+ 
+Dans le premier cas (exécution d'un titre exécutoire) la demande 
+adressée doit être accompagnée d'une mention faisant état de 
+l'exécution d'un tel titre (Circulaire du 19 février 2015 (NOR : 
+JUSC1504802C)). 
+Secret professionnel non opposable en matière fiscale 
+en application de l'article L. 113 du LPF. 
+(NOR : 
+JUSC1504802C)  
+Huissier de 
+justice 
+Administrations de 
+l'Etat, des régions, 
+des départements 
+et des communes 
+Entreprises 
+concédées ou 
+contrôlées par 
+l'Etat, les régions, 
+les départements et 
+les communes  
+Établissements 
+publics ou 
+organismes 
+contrôlés par 
+l'autorité 
+administrative 
+Demande d'information d'un huissier chargé de l'exécution (en 
+raison de la détention d'un titre exécutoire) pour obtenir de 
+l'organisme des informations relatives à un débiteur (article L. 152-
+1 du code des procédures civiles d'exécution).  
+ 
+La demande adressée doit être accompagnée d'une mention 
+faisant état de l'exécution d'un tel titre (Circulaire du 19 février 
+2015 (NOR : JUSC1504802C)).  
+" (...) les renseignements [que les organismes] 
+détiennent permettant de déterminer l'adresse du 
+débiteur, l'identité et l'adresse de son employeur ou de 
+tout tiers débiteur ou dépositaire de sommes liquides ou 
+exigibles et la composition de son patrimoine 
+immobilier, à l'exclusion de tout autre renseignement " 
+(article L. 152-1 du code des procédures civiles 
+d'exécution). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Opposabilité du secret prévu à l'article 6 de la loi n° 51-
+711 du 7 juin 1951 sur l'obligation, la coordination et le 
+secret en matière de statistiques. 
+Les organismes cités doivent communiquer les 
+renseignements spécifiques demandés sans pouvoir 
+opposer le secret professionnel (article L. 152-1 du 
+code des procédures civiles d'exécution). 
+ Article L. 152-1 
+du Code des 
+procédures 
+civiles 
+d’exécution 
+ 
+Circulaire du 19 
+février 2015 
+(NOR : 
+JUSC1504802C)  
+Huissier de 
+justice 
+Établissements 
+habilités par la loi à 
+tenir des comptes 
+de dépôt 
+Demande d'information d'un huissier mandaté (en raison de la 
+détention d'un titre exécutoire) pour obtenir de l'organisme des 
+informations relatives à un débiteur.  
+ 
+La demande adressée doit être accompagnée d'une mention 
+Indications selon lesquelles " un ou plusieurs comptes, 
+comptes joints ou fusionnés sont ouverts au nom du 
+débiteur ainsi que les lieux où sont tenus les comptes, à 
+l'exclusion de tout autre renseignement " (article L. 152-
+2 du code des procédures civiles d'exécution). 
+ 
+Article L. 152-2 
+du code des 
+procédures 
+civiles 
+d'exécution
+
+----- page 18 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+18 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+faisant état de l'exécution d'un tel titre (Circulaire du 19 février 
+2015 (NOR : JUSC1504802C)). 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Secret professionnel non opposable (article L. 152-2 du 
+code des procédures civiles d'exécution). 
+Huissier de 
+justice 
+Tout tiers débiteur 
+du débiteur saisi en 
+application des 
+articles L. 211-1 et 
+suivants du code 
+des procédures 
+civiles d'exécution 
+Demande d'information adressée par tout créancier muni d'un titre 
+exécutoire constatant une créance liquide et exigible dans le cadre 
+d'une procédure de recouvrement de créance (mesure 
+conservatoire ou d'exécution).   
+ 
+La demande adressée doit être accompagnée d'une mention 
+faisant état de l'exécution d'un tel titre (Circulaire du 19 février 
+2015 (NOR : JUSC1504802C)). 
+En cas de saisie-attribution : " Le tiers saisi est tenu de 
+déclarer au créancier l'étendue de ses obligations à 
+l'égard du débiteur ainsi que les modalités qui 
+pourraient les affecter et, s'il y a lieu, les cessions de 
+créances, délégations ou saisies antérieures " (article L. 
+211-3 du code des procédures civiles d'exécution). 
+ 
+En cas de saisie-conservatoire : " Le tiers saisi est tenu 
+de fournir sur-le-champ à l'huissier de justice les 
+renseignements prévus à l'article L. 211-3 et de lui 
+communiquer les pièces justificatives. Il en est fait 
+mention dans l'acte de saisie " (article R. 523-4 du code 
+des procédures civiles d'exécution). 
+ Articles L. 211-1, 
+L. 211-3 et R. 
+523-4 du code 
+des procédures 
+civiles 
+d’exécution 
+ 
+Circulaire du 19 
+février 2015 
+(NOR : 
+JUSC1504802C) 
+Bureaux d’aide 
+juridictionnelle 
+(BAJ) 
+Services de l'Etat et 
+des collectivités 
+publiques 
+Organismes de 
+sécurité sociale et 
+organismes qui 
+assurent la gestion 
+des prestations 
+sociales 
+Services de l'Etat et des collectivités publiques 
+Organismes de sécurité sociale et organismes qui assurent la 
+gestion des prestations sociales 
+" (…) tous renseignements sur la situation financière de 
+l'intéressé " (article 21 de la loi n° 91-647 du 10 juillet 
+1991 relative à l'aide juridique). 
+Article 21 de la 
+loi n° 91-647 du 
+10 juillet 1991 
+relative à l'aide 
+juridique 
+Bureaux d’aide 
+juridictionnelle 
+(BAJ) 
+Procureur de la 
+République, 
+procureur général 
+Demande d'un BAJ afin de pouvoir " apprécier les ressources de 
+l'intéressé " (article 21 de la loi n° 91-647 du 10 juillet 1991 relative 
+à l'aide juridique). 
+" pièces du dossier pénal pouvant permettre " 
+l'appréciation menée par le BAJ. 
+Article 21 de la 
+loi n° 91-647 du 
+10 juillet 1991
+
+----- page 19 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+19 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+relative à l'aide 
+juridique 
+Cour des 
+comptes (CC) 
+Entités et 
+organismes visés 
+aux articles L. 111-
+1 et suivants du 
+CJF (sans 
+préjudice des 
+compétences 
+attribuées aux 
+chambres 
+régionales des 
+comptes) 
+Droit de communication exercé dans le cadre des missions 
+précisées au titre Ier du livre Ier (partie législative) du code des 
+juridictions financières (jugement des comptes, contrôle des 
+comptes et de la gestion, évaluation des politiques publiques, 
+certification des comptes).Pour l'exécution de leur mission, les 
+rapporteurs procèdent à toutes investigations qu'ils jugent utiles 
+sur pièces et sur place.Ces rapporteurs peuvent se rendre dans 
+les services et organismes contrôlés." La Cour des comptes est 
+habilitée à accéder à tous documents, données et traitements, de 
+quelque nature que ce soit, relatifs à la gestion des services et 
+organismes soumis à son contrôle ou nécessaires à l'exercice de 
+ses attributions, et à se les faire communiquer " (article L. 141-5 du 
+CJF).Délit d'entrave prévu à l'article L. 141-5 du CJF. 
+" (…) tous documents, données et traitements, de 
+quelque nature que ce soit, relatifs à la gestion des 
+services et organismes soumis à son contrôle ou 
+nécessaires à l'exercice de ses attributions " (article L. 
+141-5 du CJF). 
+" Les membres et personnels de la Cour des comptes 
+(...) peuvent demander aux autorités administratives 
+indépendantes et aux autorités de contrôle et de 
+régulation tous renseignements utiles à l'exercice de 
+leurs attributions " (article L. 141-7 du CJF). 
+Pour les commissaires aux comptes des organismes 
+contrôlés : " (...) tous renseignements sur les 
+organismes, sociétés et comptes qu'ils contrôlent " (L. 
+141-10 du CJF)."  
+Dans le cadre de l'exercice de leur droit de 
+communication, les rapporteurs peuvent demander :1° 
+La communication, par tout moyen numérique ou sous 
+format papier, des documents, données et traitements 
+qu'ils jugent nécessaires ;2° Leur transcription par tout 
+traitement approprié sous une forme directement 
+utilisable pour la mise en œuvre des compétences de la 
+Cour des comptes ;3° La mise à disposition d'un accès 
+direct au système d'information de l'organisme, à ses 
+bases de données, à ses applications numériques, à 
+leur architecture et à sa documentation " (article R. 141-
+4 du CJF). 
+Articles L. 111-1 
+et suivants du 
+code des 
+juridictions 
+financières 
+Articles L. 141-5 
+et suivants du 
+Code des 
+juridictions 
+financièresarticle 
+R. 141-4 du CJF
+
+----- page 20 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+20 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Secret professionnel : cas explicitement prévus par 
+les textes 
+Levée du secret professionnel concernant les agents 
+des services financiers et des commissaires aux 
+comptes des organismes contrôlés (dans les conditions 
+précisées aux articles L. 141-9 et L. 141-10 du CJF). 
+Non opposabilité d'un secret protégé par la loi en vertu 
+de l'article L.141-7 CJF (s'agissant des demandes 
+adressées aux autorités administratives indépendantes, 
+aux autorités de contrôle et de régulation). 
+Chambres 
+régionales des 
+comptes (CRC) 
+Entités et 
+organismes visés 
+aux articles L. 211-
+1 et suivants du 
+CJF (sans 
+préjudice des 
+compétences 
+attribuées à la Cour 
+des comptes) 
+Droit de communication exercé dans le cadre des missions 
+précisés aux articles L. 211-1 et suivants du CJF (chapitre 1 du 
+livre II du CJF : jugement des comptes, contrôle des comptes et de 
+la gestion, contrôles des actes budgétaires, contrôle des 
+conventions et actes spécifiques). 
+ 
+Pour l'exécution de leur mission, les rapporteurs procèdent à 
+toutes investigations qu'ils jugent utiles sur pièces et sur place. 
+Ces rapporteurs peuvent se rendre dans les services et 
+organismes contrôlés. 
+ 
+" La chambre régionale des comptes est habilitée à accéder à tous 
+documents, données et traitements, de quelque nature que ce soit, 
+relatifs à la gestion des collectivités publiques, des établissements 
+publics et des autres organismes soumis à son contrôle ou 
+nécessaires à l'exercice de ses attributions, et à se les faire 
+communiquer " (article L. 241-5 du CJF). 
+ 
+Délit d'entrave prévu à l'article L. 241-5 du CJF. 
+" (...) tous documents, données et traitements, de 
+quelque nature que ce soit, relatifs à la gestion des 
+collectivités publiques, des établissements publics et 
+des autres organismes soumis à son contrôle ou 
+nécessaires à l'exercice de ses attributions " (article L. 
+241-5 du CJF). 
+Pour les autorités administratives indépendantes, les 
+autorités de contrôle et de régulation : " (...) tous 
+renseignements utiles à l'exercice de leurs attributions " 
+(article L. 241-9 du CJF). 
+Pour les commissaires aux comptes des organismes 
+contrôlés : " (...) tous renseignements sur les 
+organismes, sociétés et comptes qu'ils contrôlent " (L. 
+241-12 du CJF). 
+ 
+" Dans le cadre de l'exercice de leur droit de 
+communication, les rapporteurs peuvent demander : 
+1° La communication, par tout moyen numérique ou 
+sous format papier, des documents, données et 
+traitements qu'ils jugent nécessaires ; leur transcription 
+par tout traitement approprié sous une forme 
+directement utilisable pour la mise en œuvre des 
+Articles L. 211-1 
+et suivants du 
+code des 
+juridictions 
+financières 
+ 
+ Articles L. 241-5 
+et suivants du 
+code des 
+juridictions 
+financières 
+ 
+Article R. 241-6 
+CJF
+
+----- page 21 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+21 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+compétences des chambres régionales des comptes ; 
+2° La mise à disposition d'un accès direct au système 
+d'information de l'organisme, à ses bases de données, 
+à ses applications numériques, à leur architecture et à 
+sa documentation (...) " (article R. 241-6 CJF). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes  
+Levée du secret professionnel concernant les agents 
+des services financiers et des commissaires aux 
+comptes des organismes contrôlés (dans les conditions 
+précisées aux articles L. 241-11 et L. 241-12 du CJF).  
+Non opposabilité d'un secret protégé par la loi en vertu 
+de l'article L. 241-9 CJF (s'agissant des demandes 
+adressées aux autorités administratives indépendantes, 
+aux autorités de contrôle et de régulation). 
+Cour de 
+discipline 
+budgétaire et 
+financière 
+(CDBF) 
+Toutes 
+administrations et 
+tous témoins  
+Toute personne 
+dont la 
+responsabilité 
+paraîtrait engagée 
+(en application des 
+articles L. 312-1 et 
+L. 312-2 du CJF) 
+Demande adressée par le rapporteur désigné par le président de 
+la Cour aux fins de mener l'instruction à charge et à décharge 
+prévue à l'article L. 314-5 du CJF. 
+Le rapporteur " a qualité pour procéder à toutes 
+enquêtes et investigations utiles auprès de toutes 
+administrations, se faire communiquer tous documents, 
+même secrets, entendre ou questionner oralement ou 
+par écrit tous témoins et toutes personnes dont la 
+responsabilité paraîtrait engagée " (article L. 314-5 du 
+CJF). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes  
+Communicabilité de tous documents, " même secrets " 
+(article L. 314-5 du CJF). 
+Article L. 314-5 
+du CJF
+
+----- page 22 -----
+ENQUETES JURIDICTIONNELLES 
+ 
+22 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande 
+d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / 
+transmissibles 
+Fondements  
+juridiques 
+Conseil de 
+prud'hommes 
+Agents de contrôle 
+mentionnés à 
+l'article L. 8271-1-2 
+du code du travail 
+Demande adressée par le conseiller rapporteur désigné aux fins 
+de mise en état d'une affaire dont le bureau de conciliation et 
+d'orientation du conseil des prud'hommes a la charge. 
+" (…) les renseignements et documents relatifs au 
+travail dissimulé, au marchandage ou au prêt illicite de 
+main-d'œuvre dont ils disposent " (article L. 1454-1-2 
+du code du travail). 
+ 
+Secret professionnel : cas explicitement prévus par 
+les textes  
+Non opposabilité du secret professionnel (article L. 
+1454-1-2 du code du travail). 
+Article L. 1454-1-
+2 du code du 
+travail 
+Cour nationale 
+du droit d'asile 
+(CNDA) 
+Selon l'acte décidé. 
+Demande de communication de la CNDA qui peut prescrire, dans 
+le cadre de l'instruction des recours formés contre les décisions en 
+matière d'asile, " toute mesure d'instruction qu'elle jugera utile " 
+(article R. 733-15 du CESEDA).  
+Selon l'acte décidé. 
+ 
+" La collecte par la Cour nationale du droit d'asile 
+d'informations nécessaires à l'examen d'un recours 
+contre une décision du directeur général de l'Office 
+français de protection des réfugiés et apatrides ne doit 
+pas avoir pour effet de divulguer aux auteurs présumés 
+de persécutions ou d'atteintes graves l'existence de 
+cette demande d'asile ou d'informations la concernant " 
+(article L. 733-4 du CESEDA). 
+Articles L. 733-4 
+et R. 733-15 du 
+CESEDA
+
+----- page 23 -----
+23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENQUETES ADMINISTRATIVES
+
+----- page 24 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+24 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Commission 
+nationale de 
+l’informatique et 
+des libertés 
+(CNIL) 
+Tout organisme ou acteur 
+participant à la mise en œuvre d'un 
+traitement ou susceptible de fournir 
+des renseignements utiles à 
+l'accomplissement des missions de 
+contrôle de la CNIL. 
+Demande de communication d'informations ou 
+d'accès aux données par les membres et les 
+agents habilités de la CNIL en application de 
+l'article 19 de de la loi du 6 janvier 1978 
+modifiée. Ces demandes sont adressées par la 
+CNIL dans le cadre de l'exercice de l'une des 
+missions suivantes : 
+  
+- enquête sur l'objet des plaintes introduites par 
+les personnes concernées (article 8-I-2°-d) 
+ 
+- contrôle de la mise en œuvre des traitements 
+(article 8-I-2°-g de la loi du 6 janvier 1978 
+modifiée) par les services ou par le rapporteur 
+membre de la CNIL (en application de l'article 39 
+du décret n° 2019-536 du 29 mai 2019) 
+" (…) toute information dont elle a besoin pour 
+l'accomplissement de ses missions " (article 58-1-a du 
+RGPD).  
+" (…) tous documents nécessaires à 
+l'accomplissement de leur mission, quel qu'en soit le 
+support (…), tout renseignement et toute justification 
+utiles et nécessaires à l'accomplissement de leur 
+mission " (III de l'article 19 de la loi du 6 janvier 1978 
+modifiée). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes 
+Opposabilité du secret professionnel " concernant les 
+informations couvertes par le secret professionnel 
+applicable aux relations entre un avocat et son client, 
+par le secret des sources des traitements 
+journalistiques ou, sous réserve du deuxième alinéa 
+du présent III, par le secret médical " (III de l'article 19 
+de la loi du 6 janvier 1978 modifiée). 
+Articles 58-1-a à 58-
+1-f du RGPD 
+ 
+Articles 8-I-2°-d, 8-I-
+2°-g, 19, 52, 108 et 
+118 de la loi du 6 
+janvier 1978 modifiée
+
+----- page 25 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+25 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Inspection 
+générale de la 
+justice (IGJ) 
+" (...) Organismes, des directions, 
+établissements et services du 
+ministère de la justice et des 
+juridictions de l'ordre judiciaire ainsi 
+que sur les personnes morales de 
+droit public soumises à la tutelle du 
+ministère de la justice et sur les 
+personnes morales de droit privé 
+dont l'activité relève des missions 
+du ministère de la justice ou 
+bénéficiant de financements 
+publics auxquels contribuent les 
+programmes du ministère de la 
+justice " (article 2 du décret n° 
+2016-1675 du 5 décembre 2016 
+portant création de l'IGJ) 
+ 
+" (...) officier ou d'un agent de 
+police judiciaire dans l'exercice 
+d'une mission de police judiciaire " 
+(article 15-2 du CPP) 
+Demande adressée dans le cadre de la " 
+mission permanente d'inspection, de contrôle, 
+d'étude, de conseil et d'évaluation " (article 2 du 
+décret n° 2016-1675 du 5 décembre 2016 
+portant création de l'IGJ) de l'IGJ. 
+" (…) toutes justifications et tous renseignements 
+utiles et de leur communiquer, quel qu'en soit le 
+support, tous documents, pièces, éléments et données 
+nécessaires à l'accomplissement de leurs missions " 
+(article 16 du décret n° 2016-1675 du 5 décembre 
+2016 portant création de l'IGJ). 
+Article 15-2 du CPP 
+ 
+Décret n° 2016-1675 
+du 5 décembre 2016 
+portant création de 
+l'inspection générale 
+de la justice 
+L’Autorité des 
+marchés 
+financiers 
+(AMF) 
+Personnes ou entités citées au II 
+de l'articles L. 621-9 du CMF 
+Demandes adressées dans le cadre de la 
+mission de veille et de surveillance de l'AMF. 
+" L'Autorité des marchés financiers peut se faire 
+communiquer, par les personnes ou entités 
+mentionnées au II de l'article L. 621-9, tous documents 
+ou informations, quel qu'en soit le support, utiles à 
+l'exercice de sa mission de veille et de surveillance " 
+(article L. 621-8-4 du CMF). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+Articles L. 621-8-4 et 
+L. 621-9 du CMF
+
+----- page 26 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+26 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+ 
+" Dans le cadre des contrôles et enquêtes mentionnés 
+aux articles L. 621-9 et L. 621-9-1, le secret 
+professionnel ne peut être opposé à l'Autorité des 
+marchés financiers ni, le cas échéant, aux entreprises 
+de marché ou aux chambres de compensation, corps 
+de contrôle, personnes ou autorités mentionnés à 
+l'article L. 621-9-2, lorsqu'ils assistent l'Autorité des 
+marchés financiers, sauf par les auxiliaires de justice " 
+(article L. 621-9-3 du CMF).  
+L’Autorité des 
+marchés 
+financiers 
+(AMF) 
+Personnes, entités ou activités 
+citées à l'article L. 621-9 du CMF 
+Demandes adressées dans le cadre de la 
+réalisation des contrôles et des enquêtes de 
+l'AMF. 
+  
+Les activités de contrôles et d'enquêtes peuvent 
+être déléguées dans les conditions fixées à 
+l'article L. 621-9-2 du CMF (ex. l'Institut 
+d'émission d'outre-mer, pour les collectivités 
+concernées, en application de l'article L. 712-4-1 
+du CMF). 
+" Les enquêteurs et les contrôleurs peuvent, pour les 
+nécessités de l'enquête ou du contrôle, se faire 
+communiquer tous documents, quel qu'en soit le 
+support " (Article L. 620-10 du CMF). 
+ 
+Sur autorisation du juge des libertés et de la détention 
+(dans les conditions prévues à l'article L. 621-12 du 
+CMF), les enquêteurs de l'AMF peuvent " procéder à 
+la saisie de documents et au recueil, dans les 
+conditions et selon les modalités mentionnées aux 
+articles L. 621-10 et L. 621-11, des explications des 
+personnes sollicitées sur place " (article L. 621-12 du 
+CMF). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+" Dans le cadre des contrôles et enquêtes mentionnés 
+aux articles L. 621-9 et L. 621-9-1, le secret 
+professionnel ne peut être opposé à l'Autorité des 
+marchés financiers ni, le cas échéant, aux entreprises 
+de marché ou aux chambres de compensation, corps 
+de contrôle, personnes ou autorités mentionnés à 
+Articles L. 621-9 et 
+suivants du CMF
+
+----- page 27 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+27 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+l'article L. 621-9-2, lorsqu'ils assistent l'Autorité des 
+marchés financiers, sauf par les auxiliaires de justice " 
+(article L. 621-9-3 du CMF).  
+L’Autorité des 
+marchés 
+financiers 
+(AMF) 
+Opérateurs de télécommunication 
+et prestataires mentionnés aux 1 et 
+2 du I de l'article 6 de la loi n° 
+2004-575 du 21 juin 2004 pour la 
+confiance dans l'économie 
+numérique 
+Demande de communication adressée pour la 
+recherche des abus de marché définis par le 
+règlement (UE) n° 596/2014 du Parlement 
+européen et du Conseil du 16 avril 2014 sur les 
+abus de marché. 
+" les enquêteurs peuvent se faire communiquer les 
+données conservées et traitées par les opérateurs de 
+télécommunication, dans les conditions et sous les 
+limites prévues à l'article L. 34-1 du code des postes 
+et des communications électroniques, et par les 
+prestataires mentionnés aux 1 et 2 du I de l'article 6 de 
+la loi n° 2004-575 du 21 juin 2004 pour la confiance 
+dans l'économie numérique " (article L. 621-10-2 du 
+CMF). 
+ 
+" La communication des données mentionnées au 
+premier alinéa du présent article fait l'objet d'une 
+autorisation préalable par un contrôleur des demandes 
+de données de connexion " (article L. 621-10-2 du 
+CMF). 
+Article L. 621-10-2 du 
+CMF 
+Comité d'audit 
+du système 
+national des 
+données de 
+santé 
+Organisme concerné par les " 
+systèmes réunissant, organisant 
+ou mettant à disposition tout ou 
+partie des données du système 
+national des données de santé à 
+des fins de recherche, d'étude ou 
+d'évaluation [et] les systèmes 
+composant le système national des 
+données de santé " (article 77 de la 
+loi du 6 janvier 1978 modifiée). 
+Demande de communication d'informations " 
+aux fins de renforcer la bonne application des 
+règles de sécurité et de protection des données 
+" (article 77 de la loi du 6 janvier 1978 modifiée) 
+s'agissant du système national des données de 
+santé. 
+ 
+Possibilité d'accès " dans des conditions 
+préservant la confidentialité à l'égard des tiers, 
+aux programmes informatiques et aux données, 
+ainsi qu'en demander la transcription par tout 
+traitement approprié dans des documents 
+directement utilisables pour les besoins de 
+Copie de " tous documents, quel qu'en soit le support 
+", recueil de " tout renseignement et toute justification 
+utiles "  (article 103 du décret n°2019-536 du 29 mai 
+2019). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+" Si le périmètre de l'audit implique des données 
+médicales individuelles, le prestataire retenu doit 
+prévoir la présence d'un médecin auprès des 
+auditeurs pour tous les aspects de l'audit concernant 
+Articles 77 de la loi du 
+6 janvier 1978 
+modifiée, 102 et 103 
+du décret n°2019-536 
+du 29 mai 2019
+
+----- page 28 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+28 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+l'audit " (article 103 du décret n°2019-536 du 29 
+mai 2019). 
+ces données " (article 102 du décret n°2019-536 du 29 
+mai 2019). 
+Autorité de la 
+concurrence 
+(AC) 
+Organismes soumis aux contrôles 
+de l'Autorité de la concurrence 
+Transmission sur demande des agents des 
+services d'instruction de l'Autorité de la 
+concurrence habilités à cet effet par le 
+rapporteur général. Demande effectuée à 
+l'occasion de toute enquête nécessaire à 
+l'application des dispositions des titres II et III du 
+livre IV (partie législative) du code du commerce. 
+" Les agents peuvent exiger la communication et 
+obtenir ou prendre copie, par tout moyen et sur tout 
+support, des livres, factures et autres documents 
+professionnels de toute nature, entre quelques mains 
+qu'ils se trouvent, propres à faciliter l'accomplissement 
+de leur mission. Ils peuvent exiger la mise à leur 
+disposition des moyens indispensables pour effectuer 
+leurs vérifications. Ils peuvent également recueillir, sur 
+place ou sur convocation, tout renseignement, 
+document ou toute justification nécessaire au contrôle. 
+Pour le contrôle des opérations faisant appel à 
+l'informatique, ils ont accès aux logiciels et aux 
+données stockées ainsi qu'à la restitution en clair des 
+informations propres à faciliter l'accomplissement de 
+leurs missions. Ils peuvent en demander la 
+transcription par tout traitement approprié des 
+documents directement utilisables pour les besoins du 
+contrôle " (article L. 450-3 du code de commerce). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+Non opposabilité du secret professionnel " par les 
+services et établissements de l'Etat et des autres 
+collectivités publiques " (article L. 450-7 du code de 
+commerce). 
+Articles L. 450-1, L. 
+450-3 et L. 450-7 du 
+code de commerce
+
+----- page 29 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+29 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Autorité de la 
+concurrence 
+(AC) 
+Organismes soumis aux contrôles 
+de l'Autorité de la concurrence 
+Transmission sur demande des agents des 
+services d'instruction de l'Autorité de la 
+concurrence habilités à cet effet par le 
+rapporteur général. Demande effectuée à 
+l'occasion de toute enquête nécessaire à 
+l'application des dispositions des titres II et III du 
+livre IV (partie législative) du code du commerce. 
+" Les agents peuvent exiger la communication et 
+obtenir ou prendre copie, par tout moyen et sur tout 
+support, des livres, factures et autres documents 
+professionnels de toute nature, entre quelques mains 
+qu'ils se trouvent, propres à faciliter l'accomplissement 
+de leur mission. Ils peuvent exiger la mise à leur 
+disposition des moyens indispensables pour effectuer 
+leurs vérifications. Ils peuvent également recueillir, sur 
+place ou sur convocation, tout renseignement, 
+document ou toute justification nécessaire au contrôle. 
+Pour le contrôle des opérations faisant appel à 
+l'informatique, ils ont accès aux logiciels et aux 
+données stockées ainsi qu'à la restitution en clair des 
+informations propres à faciliter l'accomplissement de 
+leurs missions. Ils peuvent en demander la 
+transcription par tout traitement approprié des 
+documents directement utilisables pour les besoins du 
+contrôle " (article L. 450-3 du code de commerce). 
+Secret professionnel : cas explicitement prévus par les 
+textes Non opposabilité du secret professionnel " par 
+les services et établissements de l'Etat et des autres 
+collectivités publiques " (article L. 450-7 du code de 
+commerce). 
+Articles L. 450-1, L. 
+450-3 et L. 450-7 du 
+code de commerce
+
+----- page 30 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+30 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Autorité de la 
+concurrence 
+(AC) 
+Organismes soumis aux contrôles 
+de l'Autorité de la concurrence 
+Transmission sur demande des agents des 
+services d'instruction de l'Autorité de la 
+concurrence habilités à cet effet par le 
+rapporteur général. Demande ayant pour objet 
+toute enquête nécessaire à l'application du titre 
+VI du livre IV (partie législative) du code du 
+commerce. 
+" Les agents peuvent exiger la communication et 
+obtenir ou prendre copie, par tout moyen et sur tout 
+support, des livres, factures et autres documents 
+professionnels de toute nature, entre quelques mains 
+qu'ils se trouvent, propres à faciliter l'accomplissement 
+de leur mission. Ils peuvent exiger la mise à leur 
+disposition des moyens indispensables pour effectuer 
+leurs vérifications. Ils peuvent également recueillir, sur 
+place ou sur convocation, tout renseignement, 
+document ou toute justification nécessaire au contrôle. 
+Pour le contrôle des opérations faisant appel à 
+l'informatique, ils ont accès aux logiciels et aux 
+données stockées ainsi qu'à la restitution en clair des 
+informations propres à faciliter l'accomplissement de 
+leurs missions. Ils peuvent en demander la 
+transcription par tout traitement approprié des 
+documents directement utilisables pour les besoins du 
+contrôle " (article L. 450-3 du code de commerce). 
+Articles L. 450-1 et L. 
+450-3 du code de 
+commerce 
+Autorité de 
+régulation des 
+communications 
+électroniques et 
+des postes 
+(ARCEP) et 
+ministre chargé 
+des 
+communications 
+électroniques.  
+Exploitants de réseaux de 
+communications électroniques  
+ 
+Fournisseurs de services de 
+communications électroniques 
+ 
+Fournisseurs des services de 
+communication au public en ligne 
+ 
+Gestionnaires d'infrastructure 
+d'accueil 
+Copie ou saisie d'informations de manière 
+proportionnée aux besoins liées à 
+l'accomplissement des missions de l'ARCEP ou 
+du ministre chargé des communications 
+électroniques et sur la base d'une décision 
+motivée (en référence aux dispositions des 
+articles L. 32-4 et L. 32-5 du CPCE). 
+La nature des documents diffère en fonction des 
+organismes visés par la demande (se référer au 1°, 2° 
+et 2° bis du I de l'article L. 32-4 du CPCE). 
+Articles L. 32-4 et L. 
+32-5 du CPCE
+
+----- page 31 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+31 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+L’Autorité de 
+régulation des 
+communications 
+électroniques et 
+des postes 
+(ARCEP) et 
+ministre chargé 
+des postes.  
+Prestataire du service universel et 
+titulaire de l'autorisation prévue à 
+l'article L. 3 du CPCE 
+Copie ou saisie d'informations de manière 
+proportionnée aux besoins liées à 
+l'accomplissement des missions de l'ARCEP ou 
+du ministre chargé des communications 
+électroniques et sur la base d'une décision 
+motivée (en réféence aux dispositions des 
+articles L. 5-9 et L. 5-9-1 du CPCE). 
+" Les fonctionnaires et agents chargés de l'enquête 
+accèdent à toutes les informations utiles détenues par 
+les prestataires de services postaux ou les personnes 
+exerçant une activité postale. Ils reçoivent, à leur 
+demande, communication des documents comptables 
+et factures, de toute pièce ou document utile, en 
+prennent copie, et recueillent, sur convocation ou sur 
+place, les renseignements et justifications propres à 
+l'accomplissement de leur mission " (article L. 5-9 du 
+CPCE). 
+ 
+Modalités de saisies précisées à l'article L. 5-9-1 du 
+CPCE.  
+Articles L. 5-9 et L. 5-
+9-1 du CPCE 
+La Commission 
+nationale de 
+contrôle des 
+techniques de 
+renseignement 
+(CNCTR) 
+Premier ministre et services de 
+renseignement 
+Demande ou accès aux informations afin de 
+veiller "à ce que les techniques de recueil de 
+renseignement soient mises en œuvre sur le 
+territoire national conformément au présent livre 
+" (article L. 833-1 du CSI).    
+ 
+" Les membres de la commission sont autorisés 
+ès qualités à connaître des informations ou des 
+éléments d'appréciation protégés au titre de 
+l'article 413-9 du code pénal et utiles à l'exercice 
+de leurs fonctions. Les agents de la commission 
+doivent être habilités au secret de la défense 
+nationale aux fins d'accéder aux informations et 
+aux documents nécessaires à 
+l'accomplissement de leurs missions" (article L. 
+832-5 du CSI).  
+ 
+" De sa propre initiative ou lorsqu'elle est saisie 
+d'une réclamation de toute personne souhaitant 
+La nature des documents et des accès est définie à 
+l'article L. 833-2 du CSI. 
+Articles L. 831-1 et 
+suivants du CSI
+
+----- page 32 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+32 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+vérifier qu'aucune technique de renseignement 
+n'est irrégulièrement mise en œuvre à son 
+égard, la commission procède au contrôle de la 
+ou des techniques invoquées en vue de vérifier 
+qu'elles ont été ou sont mises en œuvre dans le 
+respect du présent livre " (L. 833-4 CSI). 
+L’Agence 
+française de 
+lutte contre le 
+dopage (AFLD) 
+Les services de l'Etat compétents, 
+les fédérations agréées, les 
+associations et sociétés sportives 
+et les établissements d'activités 
+physiques ou sportives (acteurs 
+listés au III de l'article L. 232-5 du 
+code du sport) 
+Demande ou accès aux informations dans le 
+cadre des missions de contrôles précisées à 
+l'article L. 232-5 du code du sport.    
+ 
+Les agents habilités à procéder aux contrôles de 
+l'AFLD sont listés à l'article L. 232-11 du code du 
+sport. 
+ 
+Les modalités de saisie (d'objets ou de 
+documents) sont prévues à l'article L. 232-19 du 
+code du sport. 
+" Pour l'établissement du programme annuel de 
+contrôles mentionné au I, les services de l'Etat 
+compétents, les fédérations agréées, les associations 
+et sociétés sportives et les établissements d'activités 
+physiques ou sportives communiquent à l'agence 
+toutes informations relatives à la préparation, à 
+l'organisation et au déroulement des entraînements et 
+manifestations sportives " (III de l'article L. 232-5 du 
+code du sport). 
+Articles L. 232-5, L. 
+232-11 et L. 232-19 
+du code du sport 
+L’Autorité de 
+régulation des 
+transports 
+(ART) 
+Services de l'Etat, organismes et 
+personnes visés à l'article L. 1264-
+2 du code des transports 
+Demandes adressées aux fins de recherche et 
+de constatation des manquements aux 
+obligations résultant des dispositions énumérées 
+aux articles L. 1264-1 et L. 1264-2 du code des 
+transports. 
+ 
+Les modalités d'enquête sont prévues aux 
+articles L. 1264-1 et suivants du code des 
+transports et les modalités de saisie sont 
+prévues aux articles L. 1264-4 et suivants du 
+code des transports. 
+La nature des documents et des accès est définie aux 
+articles L. 1264-1 et suivants du code des transports. 
+Articles L. 1264-1 et 
+suivants du code des 
+transports
+
+----- page 33 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+33 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+L’Autorité de 
+régulation des 
+transports 
+(ART) 
+Gestionnaires d'infrastructures, 
+exploitants d'infrastructures de 
+service, entreprises ferroviaires et 
+SNCF 
+Demandes adressées en tant que recueil des 
+données, expertises, études et "toutes actions 
+d'information nécessaires dans le secteur 
+ferroviaire " (article L. 2132-7 du code des 
+transports). 
+" (... ) les informations statistiques concernant 
+l'utilisation des infrastructures, la consistance et les 
+caractéristiques de l'offre de transport proposée, la 
+fréquentation des services, ainsi que toute information 
+relative aux résultats économiques et financiers 
+correspondants " (article L. 2132-7 du code des 
+transports).  
+Article L. 2132-7 du 
+code des transports 
+L’Autorité de 
+régulation des 
+transports 
+(ART) 
+Entreprises qui exercent des 
+activités de gestion de 
+l'infrastructure ferroviaire ou 
+d'exploitation d'installations de 
+service 
+Entreprises ferroviaire 
+Entités des entreprises 
+verticalement intégrées  
+(article L. 2133-4 du code des 
+transports) 
+Demandes adressées aux fins de " vérification et 
+de contrôle de l'effectivité de la séparation 
+comptable prévue aux mêmes articles L. 2122-4, 
+L. 2123-1-1, L. 2144-1 et L. 2144-2 " du code du 
+transport (article L. 2133-4 du code des 
+transports). 
+" toutes les informations comptables [que l'ART] 
+estime nécessaires, notamment celles énumérées à 
+l'annexe VIII de la directive 2012/34/UE du Parlement 
+européen et du Conseil du 21 novembre 2012 
+établissant un espace ferroviaire unique européen 
+(refonte) " (article L. 2133-4 du code des transports).  
+Article L. 2133-4 du 
+code des transports 
+L’Autorité de 
+régulation des 
+transports 
+(ART) 
+Entreprises de transport public 
+routier de personnes, entreprises 
+ferroviaires et par les entreprises 
+intervenant dans le secteur des 
+services réguliers interurbains de 
+transport routier de personnes 
+Demandes adressées en tant que recueil des 
+données, expertises, études et "toutes actions 
+d'information nécessaires dans le secteur des 
+services réguliers interurbains de transport 
+routier et ferroviaire de personnes. " (article L. 
+3111-24 du code des transports). 
+" (... ) les informations statistiques concernant 
+l'utilisation, la fréquentation, les zones desservies, les 
+services délivrés et les modalités d'accès aux services 
+proposés " (article L. 3111-24 du code des transports).  
+Article L. 3111-24 du 
+code des transports
+
+----- page 34 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+34 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+L’Autorité de 
+régulation des 
+transports 
+(ART) 
+Les personnes exerçant un 
+contrôle sur l'exploitation des 
+aménagements, les exploitants de 
+ces aménagements ou  les autres 
+fournisseurs de services aux 
+entreprises de transport public 
+routier dans ces aménagements 
+Demandes adressées par une décision motivée 
+en tant que recueil d'informations (article L. 
+3114-11 du code des transports). 
+" (... ) les informations statistiques concernant l'accès, 
+l'utilisation, la fréquentation et les services délivrés" 
+(article L. 3114-11 du code des transports).  
+Article L. 3114-11 du 
+code des transports 
+L’Autorité de 
+régulation des 
+transports 
+(ART) 
+Les concessionnaires d'autoroutes 
+et les entreprises intervenant dans 
+le secteur des marchés de travaux, 
+fournitures et services sur le 
+réseau autoroutier concédé 
+Demandes adressées en tant que recueil des 
+données, expertises, études et "toutes actions 
+d'information nécessaires dans le secteur des 
+autoroutes concédées " (article L. 122-31 du 
+code de la voirie routière). 
+" (... ) toute information relative aux résultats financiers 
+de la concession, aux coûts des capitaux investis sur 
+le réseau, aux marchés de travaux, fournitures et 
+services et aux autres services rendus à l'usager et 
+tout élément statistique relatif à l'utilisation et à la 
+fréquentation du réseau" (article  L. 122-31 du code de 
+la voirie routière).  
+Article  L. 122-31 du 
+code de la voirie 
+routière 
+La Commission 
+de régulation de 
+l’énergie (CRE) 
+Ministères, organismes publics et 
+privés visés à l'article L. 134-18 du 
+code de l'énergie  
+Toute personne dont l'audition 
+paraît susceptible de contribuer à 
+l'information de la CRE 
+Demandes adressées " pour l'accomplissement 
+des missions qui lui sont confiées " (article L. 
+134-18 du code de l'énergie) dans les conditions 
+précisées aux articles L. 135-3 à L. 135-11 du 
+code de l'énergie. 
+ 
+Les modalités de saisie sont prévues aux 
+articles L. 135-4 et suivants du code de 
+l'énergie. 
+Toutes les informations nécessaires aux missions 
+confiées à la CRE (L. 131-1 à L.131-3 du code de 
+l'énergie) et visées à l'article L. 135-4  du code de 
+l'énergie. 
+ Articles L.131-1 à L. 
+131-3, L134-18, L. 
+135-3 et suivants du 
+code de l'énergie
+
+----- page 35 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+35 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+La Commission 
+de régulation de 
+l’énergie (CRE) 
+Entreprises exerçant une activité 
+dans le secteur de l'électricité et du 
+gaz naturel (article L. 135-1 du 
+code de l'énergie) 
+Demandes adressées " pour l'application des 
+dispositions du présent code [de l'énergie] 
+relatives au secteur de l'électricité et au secteur 
+du gaz " (article L. 135-1 du code de l'énergie), 
+dans les conditions précisées aux articles L. 
+135-3 à L. 135-11 du code de l'énergie. 
+Accès " (…) à la comptabilité des entreprises exerçant 
+une activité dans le secteur de l'électricité et du gaz 
+naturel ainsi qu'aux informations économiques, 
+financières et sociales nécessaires à sa mission de 
+contrôle " (article L. 135-1 du code de l'énergie). 
+ Articles L. 135-1 et 
+suivants du code de 
+l'énergie 
+La Commission 
+de régulation de 
+l’énergie (CRE) 
+Gestionnaire du réseau public de 
+transport d'électricité Entreprises 
+exerçant une activité de 
+production, de distribution, de 
+négoce ou de fourniture 
+d'électricité ou de gaz naturel, une 
+activité de transport ou de 
+stockage de gaz naturel ou une 
+activité de traitement de gaz 
+naturel liquéfié ou une activité de 
+captage, transport et stockage 
+géologique de dioxyde de carbone 
+(article L. 135-4 du code de 
+l'énergie) 
+Demande adressées sur convocation ou sur 
+place par les agents mentionnés à l'article L. 
+135-3 du code de l'énergie dans le cadre des 
+missions de la CRE définies aux articles L. 131-
+1 et L. 131-2 du code de l'énergie. 
+" documents comptables et factures, de toute pièce ou 
+document utile, (…) renseignements et justifications 
+propres à l'accomplissement de leur mission " (article 
+L. 135-4 du code de l'énergie). 
+Articles L. 131-1, L. 
+131-2, L. 135-3 et 
+suivants du code de 
+l'énergie
+
+----- page 36 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+36 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Le Contrôleur 
+général des 
+lieux de 
+privation de 
+liberté (CGLPL) 
+Tout lieu où des personnes sont 
+privées de leur liberté par décision 
+d'une autorité publique, ainsi que 
+tout établissement de santé habilité 
+à recevoir des patients hospitalisés 
+sans leur consentement visé à 
+l'article L. 3222-1 du code de la 
+santé publique 
+Demandes adressées dans le cadre de la 
+mission du CGLPL " de contrôler les conditions 
+de prise en charge et de transfèrement des 
+personnes privées de liberté, afin de s'assurer 
+du respect de leurs droits fondamentaux " ainsi 
+que de contrôler " l'exécution par l'administration 
+des mesures d'éloignement prononcées à 
+l'encontre d'étrangers jusqu'à leur remise aux 
+autorités de l'Etat de destination " (article 1er de 
+la loi n° 2007-1545 du 30 octobre 2007 instituant 
+un Contrôleur général des lieux de privation de 
+liberté).  
+La nature des documents et informations que le 
+CGLPL peut exiger est précisée à l'article 8-1 de la loi 
+n° 2007-1545 du 30 octobre 2007 instituant un 
+Contrôleur général des lieux de privation de liberté. 
+Articles 1er et 8-1 de 
+la loi n° 2007-1545 du 
+30 octobre 2007 
+Conseil 
+supérieur de 
+l'audiovisuel 
+(CSA) 
+Acteurs et organismes visés à 
+l'article 19 de la loi n° 86-1067 du 
+30 septembre 1986 relative à la 
+liberté de communication.  
+Demandes adressées dans le cadre des 
+missions du CSA définies aux articles 3-1 à 19 
+de la loi n° 86-1067 du 30 septembre 1986 
+relative à la liberté de communication. 
+" (…) toutes les informations nécessaires " concernant 
+les acteurs et dans le respect des modalités prévues à 
+l'article 19 de la loi n° 86-1067 du 30 septembre 1986 
+relative à la liberté de communication. 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+S'agissant du recueil prévue au 1° de l'article 19, 
+opposabilité des " limitations (...) qui résultent du libre 
+exercice de l'activité des partis et groupements 
+politiques mentionnés à l'article 4 de la Constitution " 
+(article 19 de la loi n° 86-1067 du 30 septembre 1986 
+relative à la liberté de communication). 
+Articles 3-1 à 19 de la 
+loi n° 86-1067 du 30 
+septembre 1986 
+relative à la liberté de 
+communication 
+Le Défenseur 
+des Droits 
+(DDD) 
+Toute personne physique ou 
+morale mise en cause devant lui 
+ou dont le concours lui paraît utile 
+Demandes adressées dans le cadre des 
+missions du DDD définies à l'article 4 de la loi 
+organique du 29 mars 2011 relative au 
+défenseur des droits. 
+Toutes explications à toutes personnes physiques ou 
+morales mise en cause devant lui (article 18 de la loi 
+précitée). 
+ 
+À l'égard des personnes physiques ou morales mises 
+Articles 4, 18 et 20 de 
+la loi organique n° 
+2011-333 du 29 mars
+
+----- page 37 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+37 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+en cause, toutes informations et pièces utiles à 
+l'exercice de sa mission. 
+ 
+Sur les faits portés à sa connaissance, toute 
+information qui lui apparaît nécessaire. 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+Secrets opposables : secret de la défense nationale, 
+de la sûreté de l'Etat et de la politique extérieure 
+(article 20 de la loi organique n° 2011-333 du 29 mars 
+2011. 
+ 
+" Les informations couvertes par le secret médical ou 
+par le secret professionnel applicable aux relations 
+entre un avocat et son client ne peuvent lui être 
+communiquées qu'à la demande expresse de la 
+personne concernée. Toutefois, les informations 
+couvertes par le secret médical peuvent lui être 
+communiquées sans le consentement de la personne 
+concernée lorsqu'elles sont relatives à des privations, 
+sévices et violences physiques, sexuelles ou 
+psychiques commis sur un mineur ou une personne 
+qui n'est pas en mesure de se protéger en raison de 
+son âge ou de son incapacité physique ou psychique " 
+(article 20 de la loi organique n° 2011-333 du 29 mars 
+2011). 
+ 
+Secrets non opposables : secret de l'enquête et de 
+l'instruction. 
+Exclusion des poursuites en application de l'article 
+226-13 du code pénal dans les conditions prévues à 
+l'article 20 de la loi organique n° 2011-333 du 29 mars 
+2011. 
+  
+2011 relative au 
+Défenseur des droits
+
+----- page 38 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+38 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+La Haute 
+Autorité pour la 
+diffusion des 
+œuvres et la 
+protection des 
+droits sur 
+Internet 
+(HADOPI) 
+Opérateurs de communications 
+électroniques (au titre du III de 
+l'article L. 34-1 du CPCE)  
+ 
+Prestataires mentionnés aux 1 et 2 
+du I de l'article 6 de la loi n° 2004-
+57 5 du 21 juin 2004 pour la 
+confiance dans l'économie 
+numérique 
+Demandes adressées dans le cadre du 
+traitement des saisines adressées à la 
+commission de protection des droits (de la 
+HADOPI) dans les conditions prévues à l'article 
+L. 331-24 du CPI. Il s'agit des demandes 
+initiales adressées par l'Hadopi aux différents 
+FAI en vue d'obtenir l'identité des titulaires 
+d'abonnement après saisine de la Commission 
+de protection des droits par les ayants droit. Ces 
+demandes sont automatisées et réalisées par le 
+biais d'une interconnexion sécurisée avec le 
+fournisseur d'accès internet. L'absence ou le 
+retard de réponse est sanctionnable pénalement 
+par une contravention de 5ème classe (article R. 
+331-38 CPI). 
+ 
+Demandes adressées par les membres de la 
+commission des droits ou par les agents publics 
+assermentés habilités par le président de la 
+HADOPI. Il s'agit des demandes 
+complémentaires adressées aux FAI en vue 
+d'une vérification plus poussée des coordonnées 
+et/ou de l'identité du titulaire d'abonnement 
+initialement fournies par le FAI. Elles sont 
+adressées par messagerie sécurisée ou par voie 
+postale. L'absence ou le retard de réponse est 
+sanctionnable pénalement par une contravention 
+de 5ème classe (article R. 331-38 CPI). 
+" Ils peuvent, pour les nécessités de la procédure, 
+obtenir tous documents, quel qu'en soit le support, y 
+compris les données conservées et traitées par les 
+opérateurs de communications électroniques en 
+application de l'article L. 34-1 du code des postes et 
+des communications électroniques et les prestataires 
+mentionnés aux 1 et 2 du I de l'article 6 de la loi n° 
+2004-575 du 21 juin 2004 pour la confiance dans 
+l'économie numérique. 
+ 
+Ils peuvent également obtenir copie des documents 
+mentionnés à l'alinéa précédent. 
+ 
+Ils peuvent, notamment, obtenir des opérateurs de 
+communications électroniques l'identité, l'adresse 
+postale, l'adresse électronique et les coordonnées 
+téléphoniques de l'abonné dont l'accès à des services 
+de communication au public en ligne a été utilisé à des 
+fins de reproduction, de représentation, de mise à 
+disposition ou de communication au public d'œuvres 
+ou d'objets protégés sans l'autorisation des titulaires 
+des droits prévus aux livres Ier et II lorsqu'elle est 
+requise " (article L. 331-21 du code de la propriété 
+intellectuelle). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+L'habitation des agents par le Président de la HADOPI 
+" ne dispense pas de l'application des dispositions 
+définissant les procédures autorisant l'accès aux 
+secrets protégés par la loi " (article L. 331-21 du CPI).   
+Articles L. 331-21, R. 
+331-37 et R. 331-38 
+du CPI
+
+----- page 39 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+39 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Commission 
+nationale des 
+comptes de 
+campagne et 
+des 
+financements 
+politiques 
+(CNCCFP) 
+Partis et groupements politiques  
+Demandes adressées dans le cadre de la 
+vérification du respect des obligations légales 
+des partis politiques prévues à l’article 11-7 de 
+la loi du 11 mars 1988 relative à la transparence 
+financière de la vie politique. 
+ 
+Demandes adressées le cas échéant par un 
+OPJ agissant pour le compte de la CNCCFP (en 
+application du dernier alinéa de l'article L. 52-14 
+du code électoral).                                                  
+" Toutes les pièces comptables et de tous les 
+justificatifs nécessaires au bon accomplissement de sa 
+mission de contrôle " (article 11-7 de la loi n° 88-227 
+du 11 mars 1988 relative à la transparence financière 
+de la vie politique). 
+Article 11-7 de la loi 
+n° 88-227 du 11 mars 
+1988 relative à la 
+transparence 
+financière de la vie 
+politique 
+Autorité 
+nationale des 
+jeux (ANJ) 
+Ministres compétents 
+Opérateurs de jeux ou de paris en 
+ligne 
+Opérateurs titulaires de droits 
+exclusifs pour leur activité de jeux 
+de loterie en ligne 
+Entreprises intervenant dans le 
+secteur des jeux d'argent et de 
+hasard 
+Demandes adressées dans le cadre du contrôle 
+permanent de l'activité des opérateurs de jeux 
+ou de paris en ligne agréés afin d'assurer le 
+respect des objectifs définis à l'article 3 et au IV 
+de l'article 34 de la loi n°2010-476 du 12 mai 
+2010 relative à l'ouverture à la concurrence et à 
+la régulation du secteur des jeux d'argent et de 
+hasard en ligne (article 38 de la loi n°2010-476). 
+ 
+Enquêtes administratives réalisées par " des 
+fonctionnaires et agents habilités à cet effet par 
+le directeur général de l'Autorité de régulation 
+des jeux en ligne " qui peuvent accéder " à 
+toutes les informations utiles détenues par les 
+opérateurs de jeux ou de paris en ligne titulaires 
+d'un agrément et [requérir] de leur part, sur 
+place ou sur convocation, tout renseignement et 
+tout document relatifs à l'activité de jeu ou pari " 
+(article 42 de la loi n°2010-476). 
+Mise à disposition par les opérateurs des informations 
+listées à l'article 38 de la loi n°2010-476. 
+ 
+" Toutes les informations nécessaires " pour 
+l'accomplissement des missions qui lui sont confiées 
+(article 42 de la loi n°2010-476). 
+ 
+Secret professionnel : cas explicitement prévus par les 
+textes 
+" Dans l'exercice de ces pouvoirs d'enquête, le secret 
+professionnel ne peut leur être opposé par les 
+opérateurs " (article 42 de la loi n°2010-476). 
+ 
+" Pour la mise en œuvre [des procédures prévues à 
+l'article L. 563-2 du CMF et à l'article 61 de la loi 
+n°2010-476], le secret bancaire n'est pas opposable 
+aux enquêteurs assermentés de l'Autorité de 
+régulation des jeux en ligne ". 
+Articles 38 et 42 de la 
+loi n° 2010-476 du 12 
+mai 2010
+
+----- page 40 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+40 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Haut conseil du 
+commissariat 
+aux comptes 
+(H3C) 
+Commissaires au compte et toute 
+personne disposant des 
+informations liées à la mission de 
+certification des comptes ou à 
+toute autre prestation fournie par le 
+commissaire aux comptes aux 
+personnes ou entités dont il certifie 
+les comptes. 
+Demandes adressées dans le cadre des 
+contrôles visés au 5° de l'article L. 821-1 du 
+code du commerce et des enquêtes visées au 6° 
+du même article. 
+Dans le cadre des contrôles : 
+Pouvoir d'obtenir du commissaire au compte copie de 
+" tout document ou toute information, sous quelque 
+forme que ce soit, concernant la mission de 
+certification des comptes ou toute autre prestation 
+fournie par lui aux personnes ou entités dont il certifie 
+les comptes " (1° de l'article L. 821-12 du code du 
+commerce). 
+Pouvoir d'obtenir de toute autre personne que le 
+commissaire au compte " des informations liées à la 
+mission de certification des comptes ou à toute autre 
+prestation fournie par le commissaire aux comptes aux 
+personnes ou entités dont il certifie les comptes " (2° 
+de l'article L. 821-12 du code du commerce). Dans le 
+cadre des enquêtes : 
+Pouvoir d'obtenir du commissaire aux comptes, " tout 
+document ou information, sous quelque forme que ce 
+soit " (1° de l'article L.824-5 du code de commerce) et 
+d'obtenir, de toute personne, " tout document ou 
+information utile à l'enquête " (2° de l'article L.824-5 du 
+code de commerce). 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+" Le secret professionnel n'est pas opposable au Haut 
+conseil et à ses services dans l'exercice de leurs 
+missions, sauf par les auxiliaires de justice " (II de 
+l'article L. 821-3-3 du code du commerce). Non 
+opposabilité du secret professionnel par le 
+commissaire au compte à l'égard du rapporteur 
+Articles L. 821-1 et 
+suivants du code du 
+commerce
+
+----- page 41 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+41 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+général en application du 1° de l'article L. 824-5 du 
+code du commerce. 
+Banque de 
+France 
+Personnes et organismes visés au 
+I de l'article L. 141-6 du code 
+monétaire et financier 
+Demandes adressées dans le cadre de la 
+réalisation des missions de la Banque de France 
+dites " missions fondamentales " (article L. 141-6 
+du code monétaire et financier) définies aux 
+articles L. 141-1 à L. 141-6-1 du code monétaire 
+et financier. 
+" tous documents et renseignements qui lui sont 
+nécessaires " (article L. 141-6 du CMF). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+" Outre les cas où la loi le prévoit, le secret 
+professionnel ne peut être opposé ni à l'Autorité de 
+contrôle prudentiel et de résolution ni à la Banque de 
+France ni à l'Institut d'émission des départements 
+d'outre-mer, (...) " (articles L. 511-33-I, L. 522-19-I, L. 
+526-35, L. 531-12 du CMF). 
+Articles L. 141-1 à L. 
+141-6-1 du CMF 
+ 
+Articles L. 511-33-I, L. 
+522-19-I, L. 526-35 et 
+L. 531-12 du CMF 
+Institut 
+d'émission des 
+départements 
+d'outre-mer 
+(IEDOM) 
+Personnes et organismes visés au 
+I de l'article L. 141-6 du code 
+monétaire et financier et basées 
+dans les collectivités territoriales 
+mentionnées à l'article L. 711-1 du 
+CMF (départements de la 
+Guadeloupe, de la Guyane, de la 
+Martinique, de la Réunion, de 
+Mayotte, ainsi que les collectivités 
+de Saint-Barthélemy, de Saint-
+Martin et de Saint-Pierre-et-
+Miquelon). 
+Demandes adressées dans le cadre de la 
+réalisation des missions de la Banque de France 
+dites " missions fondamentales " (article L. 141-6 
+du code monétaire et financier) définies aux 
+articles L. 141-1 à L. 141-6-1 du code monétaire 
+et financier. L'exécution de ces missions revient 
+à l'IEDOM pour les collectivités mentionnées à 
+l'article L. 711-1 du CMF en application de 
+l'article L. 711-2 du CMF. 
+" tous documents et renseignements qui lui sont 
+nécessaires " (article L. 141-6 du CMF). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+" Outre les cas où la loi le prévoit, le secret 
+professionnel ne peut être opposé ni à l'Autorité de 
+contrôle prudentiel et de résolution ni à la Banque de 
+France ni à l'Institut d'émission des départements 
+d'outre-mer, (...) " (articles L. 511-33-I, L. 522-19-I, L. 
+526-35, L. 531-12 du CMF). 
+ 
+" Pour l'exercice de ses missions, l'Institut d'émission 
+des départements d'outre-mer ne peut se voir opposer 
+le secret professionnel au sens des articles L. 511-33 
+et L. 531-12 " (article L. 711-2 du CMF). 
+Articles L. 141-1 à L. 
+141-6-1 du CMF 
+ 
+Articles L. 511-33-I, L. 
+522-19-I, L. 526-35 et 
+L. 531-12 du CMF 
+ 
+Articles L. 711-1 et L. 
+711-2 du CMF
+
+----- page 42 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+42 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Institut 
+d'émission 
+d'outre-mer 
+(IEOM) 
+Personnes et organismes visés au 
+4ème alinéa de l'article L. 712-5 du 
+CMF et basées dans les 
+collectivités territoriales 
+mentionnées au premier alinéa de 
+l'article précité (Nouvelle-
+Calédonie, Polynésie française, 
+îles Wallis et Futuna). 
+Demandes adressées dans le cadre de la 
+mission de vérification de la " sécurité des 
+moyens de paiement " (article L. 712-5 du CMF). 
+" tous documents et renseignements qui lui sont 
+nécessaires " (article L. 712-5 du CMF). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes 
+" Outre les cas où la loi le prévoit, le secret 
+professionnel ne peut être opposé (...) à l'Institut 
+d'émission d'outre-mer, (...) " (articles L. 511-33-I, L. 
+522-19-I, L. 526-35, L. 531-12 du CMF). 
+Article L. 712-5 du 
+CMF 
+Institut 
+d'émission 
+d'outre-mer 
+(IEOM) 
+Établissements et entreprises 
+exerçant leur activité dans les 
+collectivités territoriales relevant de 
+la zone d'émission de l'IEOM 
+(Nouvelle-Calédonie, Polynésie 
+française, îles Wallis et Futuna). 
+Demandes adressées dans le cadre de la 
+mission d'établissement de la " balance des 
+paiements " (article L. 712-7 du CMF). 
+" tous les renseignements qui lui sont nécessaires " 
+(article L. 712-7 du CMF). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+" Outre les cas où la loi le prévoit, le secret 
+professionnel ne peut être opposé (...) à l'Institut 
+d'émission d'outre-mer, (...) " (articles L. 511-33-I, L. 
+522-19-I, L. 526-35, L. 531-12 du CMF). 
+Article L. 712-7 du 
+CMF
+
+----- page 43 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+43 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Autorité de 
+contrôle 
+prudentiel et de 
+résolution 
+(ACPR) 
+Personnes et organismes visés 
+aux articles L. 612-23 et suivants 
+du code monétaire et financier 
+ 
+Commissaires aux comptes 
+Demandes adressées dans le cadre de la 
+réalisation des missions de l'ACPR définies aux 
+articles L. 612-1 et suivants du code monétaire 
+et financier. 
+Documents listés à l'article L. 612-24 du code 
+monétaire et financier.  
+ 
+Pouvoir d'obtenir des " commissaire au compte des 
+personnes soumises à son contrôle tout 
+renseignement sur l'activité et sur la situation 
+financière de l'entité qu'ils contrôlent ainsi que sur les 
+diligences qu'ils y ont effectuées dans le cadre de leur 
+mission " (L. 612-44 du CMF). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes   
+" Pour l'application des dispositions de la présente 
+section (section 8 : Relations avec les commissaires 
+aux comptes), les commissaires aux comptes sont 
+déliés du secret professionnel à l'égard de l'Autorité de 
+contrôle prudentiel et de résolution " (article L. 612-44 
+du CMF). 
+ 
+" Outre les cas où la loi le prévoit, le secret 
+professionnel ne peut être opposé ni à l'Autorité de 
+contrôle prudentiel et de résolution ni à la Banque de 
+France ni à l'Institut d'émission des départements 
+d'outre-mer, (...) " (articles L. 511-33-I, L. 522-19-I, L. 
+526-35, L. 531-12 du CMF). 
+Articles L. 612-1 et 
+suivants du CMF 
+ 
+Articles L. 511-33-I, L. 
+522-19-I, L. 526-35 et 
+L. 531-12 du CMF
+
+----- page 44 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+44 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Exploitants de 
+services publics 
+de transport 
+Administrations publiques 
+Organismes de sécurité sociale 
+Demande de communication d'information afin 
+de " fiabiliser les données relatives à l'identité et 
+à l'adresse du contrevenant (...) en vue de 
+permettre le recouvrement des sommes dues au 
+titre de la transaction pénale ou de l'amende 
+forfaitaire majorée " (article L. 2241-2-1 du code 
+des transports). 
+ 
+Modalités de communication : " Les demandes 
+des exploitants et les renseignements 
+communiqués en réponse sont transmis par 
+l'intermédiaire d'une personne morale unique, 
+commune aux exploitants " (article L. 2241-2-1 
+du code des transports). 
+" (…) nom, prénoms, date et lieu de naissance des 
+contrevenants, (…) adresse de leur domicile " (article 
+L. 2241-2-1 du code des transports). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes   
+Non opposabilité du secret professionnel (article L. 
+2241-2-1 du code des transports). 
+Article L. 2241-2-1 du 
+code des transports 
+Agence 
+française 
+anticorruption 
+(AFA) 
+Administrations de l'Etat  
+Collectivités territoriales (et leurs 
+établissements publics et sociétés 
+d'économie mixte)  
+Associations et fondations 
+reconnues d'utilité publique 
+Sociétés visées à l'article 17 de la 
+loi n°2016-1691 du 9 décembre 
+2016 
+Demande de communication d'information afin 
+de réaliser les contrôles prévus aux 3° et 4° de 
+l'article 3 de la loi n°2016-1691 du 9 décembre 
+2016. 
+ 
+Possibilité de " procéder sur place à toute 
+vérification de l'exactitude des informations 
+fournies " (article 4 de la loi n°2016-1691 du 9 
+décembre 2016). 
+" (…) tout document professionnel, quel qu'en soit le 
+support, ou toute information utile " (article 4 de la loi 
+n°2016-1691 du 9 décembre 2016). 
+Loi n° 2016-1691 du 
+9 décembre 2016 
+relative à la 
+transparence, à la 
+lutte contre la 
+corruption et à la 
+modernisation de la 
+vie économique
+
+----- page 45 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+45 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Autorité de 
+sûreté nucléaire 
+(ASN) 
+Organismes en charge : - 
+d'installations nucléaires de base 
+(mentionnées à l'article L. 593-1 du 
+code de l'environnement)- du 
+transport de substances 
+radioactives - d'équipements sous 
+pression nucléaire (mentionnés à 
+l'article L. 595-2 du code de 
+l'environnement)- d'activités 
+nucléaires (mentionnés à l'article L. 
+1333-1 du code de la santé 
+publique) 
+Demande de communication d'information afin 
+de réaliser le contrôle prévu à l'article L. 596-1 
+du code de l'environnement dans les conditions 
+précisées aux articles L. 171-1 et suivants du 
+code de l'environnement.  
+Possibilité de " se faire communiquer et prendre copie 
+des documents qui sont relatifs à l'objet du contrôle, 
+quel que soit leur support et en quelques mains qu'ils 
+se trouvent, et qui sont nécessaires à 
+l'accomplissement de leur mission. Ils ne peuvent 
+emporter les documents originaux qu'après en avoir 
+établi la liste qui est contresignée par leur détenteur. 
+Les documents originaux sont restitués dans le délai 
+d'un mois après le contrôle. Lorsque les documents 
+sont sous une forme informatisée, les fonctionnaires et 
+agents ont accès aux logiciels et à ces données. Ils 
+peuvent demander la transcription de ces données par 
+tout traitement approprié dans des documents 
+directement utilisables pour les besoins du contrôle 
+(article L. 171-3 du code de l'environnement). 
+Articles L. 171-1 et 
+suivants du code de 
+l'environnementArticle 
+L. 596-3 du code de 
+l'environnement 
+Commission 
+d’enquête 
+parlementaire 
+Organisme, personne physique ou 
+morale concernés par l'enquête 
+d'une commission menée " sur des 
+faits déterminés [ou] sur la gestion 
+des services publics ou des 
+entreprises nationales " (article 6-I 
+de l'ordonnance n° 58-1100 du 17 
+novembre 1958) 
+Demande de fourniture de renseignements sur 
+pièces et sur place dans le cadre de leur mission 
+de recueil d'éléments d'information " en vue de 
+soumettre leurs conclusions à l'assemblée qui 
+les a créées " (article 6-I de l'ordonnance n° 58-
+1100 du 17 novembre 1958). 
+ 
+Enquête pouvant être réalisée par la Cour des 
+comptes sur demande. 
+" Tous les renseignements de nature à faciliter " la 
+mission de la commission d'enquête (article 6-II de 
+l'ordonnance n° 58-1100 du 17 novembre 1958). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes   
+Communication possible de " tous documents de 
+service, à l'exception de ceux revêtant un caractère 
+secret et concernant la défense nationale, les affaires 
+étrangères, la sécurité intérieure ou extérieure de 
+l'Etat, et sous réserve du respect du principe de la 
+séparation de l'autorité judiciaire et des autres 
+pouvoirs " (article 6-II de l'ordonnance n° 58-1100 du 
+17 novembre 1958). 
+ 
+ 
+Article 6 de 
+l’ordonnance n° 58-
+1100 du 17 novembre 
+1958
+
+----- page 46 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+46 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Opposabilité du secret professionnel (saufs cas 
+particuliers précisés à l'article 6-II de l'ordonnance n° 
+58-1100 du 17 novembre 1958). 
+Conseil national 
+des activités 
+privées de 
+sécurité 
+(CNAPS) 
+Personnes physiques ou morales 
+(à l'exception des service public 
+administratif) exerçant les activités 
+mentionnées aux titres Ier, II et II 
+bis du livre VI du code de la 
+sécurité intérieure (partie 
+législative) 
+Demande de communication d'informations aux 
+fins de contrôle des personnes exerçant les 
+activités mentionnées aux titres Ier, II et II bis du 
+livre VI du code de la sécurité intérieure (partie 
+législative). 
+ 
+Pouvoir des membres et des agents de la 
+commission nationale ou des commissions 
+d'agrément et de contrôle de demander 
+communication de copies de documents ou de 
+les recueillir sur place.  
+" (…) tout document nécessaire à l'accomplissement 
+de leur mission, quel qu'en soit le support, et en 
+prendre copie " article L. 634-3 du CSI. 
+ 
+" (...) ils peuvent recueillir, sur place ou sur 
+convocation, tout renseignement et toute justification 
+utiles. Ils peuvent consulter le registre unique du 
+personnel prévu à l'article L. 1221-13 du code du 
+travail " article L. 634-3 du CSI. 
+Article L. 634-3 du 
+CSI
+
+----- page 47 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+47 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Perquisition 
+administrative 
+En tout lieu (sauf lieux affectés à 
+l'exercice d'un mandat 
+parlementaire ou à l'activité 
+professionnelle des avocats, des 
+magistrats ou des journalistes et 
+les domiciles des personnes 
+concernées) 
+Pouvoirs de visite et saisie du représentant de 
+l'Etat dans le département (ou, à Paris, du Préfet 
+de police) sur autorisation (ordonnance écrite et 
+motivée) du juge des libertés et de la détention 
+du TGI de Paris. 
+ 
+Pouvoir de visite et saisie " aux seules fins de 
+prévenir la commission d'actes de terrorisme et 
+lorsqu'il existe des raisons sérieuses de penser 
+qu'un lieu est fréquenté par une personne dont 
+le comportement constitue une menace d'une 
+particulière gravité pour la sécurité et l'ordre 
+publics et qui soit entre en relation de manière 
+habituelle avec des personnes ou des 
+organisations incitant, facilitant ou participant à 
+des actes de terrorisme, soit soutient, diffuse, 
+lorsque cette diffusion s'accompagne d'une 
+manifestation d'adhésion à l'idéologie exprimée, 
+ou adhère à des thèses incitant à la commission 
+d'actes de terrorisme ou faisant l'apologie de tels 
+actes " (article L. 229-1 du CSI). 
+ 
+Formalisme et qualité des agents habilités à y 
+procéder précisés aux articles L. 229-1 et 
+suivants du CSI. 
+" (…) documents ou données relatifs à la menace 
+d'une particulière gravité pour la sécurité et l'ordre 
+publics que constitue le comportement de la personne 
+concernée, (...)  données contenues dans tout 
+système informatique ou équipement terminal présent 
+sur les lieux de la visite " (article L. 229-5 du CSI). 
+ 
+Conformément à la DC n° 2017-695 QPC du 29 mars 
+2018 sont contraires à la Constitution les mots " 
+documents, objets ou " et " objets, documents ou " 
+figurant à l'article L. 229-5 du CSI. 
+Articles L. 229-1 et 
+suivants du CSI et 
+DC n° 2017-695 QPC 
+du 29 mars 2018
+
+----- page 48 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+48 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+État d'urgence - 
+Perquisition 
+administrative 
+En tout lieu (sauf lieu affecté à 
+l'exercice d'un mandat 
+parlementaire ou à l'activité 
+professionnelle des avocats, des 
+magistrats ou des journalistes) 
+Existence, dans le texte déclarant ou prorogeant 
+l'état d'urgence, d'une disposition expresse 
+prévoyant pour les autorités administratives 
+(visées à l'article 8 de la loi n° 55-385 du 3 avril 
+1955 relative à l'état d'urgence) le pouvoir 
+d'ordonner des perquisitions conformément à 
+l'article 11 de la loi n° 55-385 du 3 avril 1955 
+relative à l'état d'urgence. 
+ 
+Perquisition réalisée sur le fondement d'une 
+décision de l'une des autorités précitées et 
+conduite en présence d'un OPJ (le procureur de 
+la République doit être informé). 
+ 
+Possibilités et conditions d'accès, de copie et de 
+saisie précisées à l'article 11 de la loi précitée. 
+" (…) données contenues dans tout système 
+informatique ou équipement terminal présent sur les 
+lieux de la perquisition " (article 11 de la loi n° 55-385 
+du 3 avril 1955 relative à l'état d'urgence). 
+Article 11 de la loi n° 
+55-385 du 3 avril 
+1955 relative à l'état 
+d'urgence
+
+----- page 49 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+49 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Haute autorité 
+pour la 
+transparence de 
+la vie publique 
+(HATVP) 
+Personnes soumises aux 
+obligations de déclaration auprès 
+de la Haute Autorité et personnes 
+concernées par le registre des 
+représentants d'intérêts  
+Demandes adressées par la HATVP afin de " 
+s'assure[r] du respect des articles 18-3 et 18-5 
+par les représentants d'intérêts " (article 18-6 de 
+la loi n°2013-907) dans le cadre de 
+l'établissement du répertoire numérique prévu à 
+l'article 18-1 de la loi n° 2013-907. 
+ 
+" Le fait, pour un représentant d'intérêts, de ne 
+pas communiquer, de sa propre initiative ou à la 
+demande de la Haute Autorité pour la 
+transparence de la vie publique, les informations 
+qu'il est tenu de communiquer à cette dernière 
+en application de l'article 18-3 est puni d'un an 
+d'emprisonnement et de 15 000 € d'amende " 
+(article 18-9 de la loi n°2013-907).  
+ 
+Demande adressées par la Haute Autorité  en 
+vue de l'exercice de ses missions prévues au I 
+de l'article 20 de la loi 2013-907 (contrôle des 
+déclarations de patrimoine et d'intérêts, réponse 
+aux demandes de conseil déontologique et 
+contrôle de la reconversion professionnelle dans 
+le privé de certains responsables publics). 
+S'agissant des demandes relatives au registre des 
+représentants d'intérêts :  
+" (...) toute information ou tout document nécessaire à 
+l'exercice de sa mission " relative au respect des 
+articles 18-3 et 18-5 par les représentants d'intérêts 
+(article 18-6 de la loi n°2013-907).  
+ 
+S'agissant des demandes relatives aux contrôles des 
+déclarations d'intérêts et de patrimoine, demandes 
+d'avis déontologiques et contrôles des reconversions 
+professionnelles dans le privé de certains 
+responsables publics : " La Haute Autorité pour la 
+transparence de la vie publique peut demander aux 
+personnes mentionnées aux articles 4, 11 et 23 toute 
+explication ou tout document nécessaire à l'exercice 
+de ses missions prévues au I du présent article. Elle 
+peut entendre ou consulter toute personne dont le 
+concours lui paraît utile " (article 20 II de la loi 2013-
+907). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+Secret professionnel non opposable à l'occasion des 
+contrôles sur pièces (article 18-6 de la loi n°2013-907). 
+Articles 18-3, 18-6, et 
+20  de la loi n°2013-
+907 du 13 octobre 
+2013
+
+----- page 50 -----
+ENQUETES ADMINISTRATIVES 
+ 
+ 
+50 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Préfet de 
+département 
+Autorités personnes privées 
+mentionnées aux 1° à 8° de l'article 
+L. 611-12 du CESEDA (autorités 
+dépositaires des actes d'état civil, 
+administrations chargées du travail 
+et de l'emploi, organismes de 
+sécurité sociale et de l'institution 
+mentionnée à l'article L. 5312-1 du 
+code du travail, établissements 
+scolaires et des établissements 
+d'enseignement supérieur, 
+fournisseurs d'énergie et des 
+services de communications 
+électroniques, établissements de 
+santé publics et privés, 
+établissements bancaires et 
+organismes financiers, greffes des 
+tribunaux de commerce 
+Demande adressée par l'autorité administrative 
+compétente dans le cadre des contrôles " 
+agissant dans le cadre de l'instruction d'une 
+première demande de titre ou d'une demande 
+de renouvellement de titre ou dans le cadre des 
+contrôles prévus à l'article L. 313-5-1 du 
+CESEDA " (article L. 611-12 du CESEDA). 
+" (...) les documents et les informations nécessaires au 
+contrôle de la sincérité et de l'exactitude des 
+déclarations souscrites ou au contrôle de l'authenticité 
+des pièces produites en vue de l'attribution d'un droit 
+au séjour ou de sa vérification " (article L. 611-12 du 
+CESEDA). Ces informations pouvant faire l'objet d'une 
+demande de communication ont été précisées, par 
+autorité et personne privée, à l'article R. 611-41-2 du 
+CESEDA. 
+ 
+" Pour l'application du 5° du présent article 
+[fournisseurs d'énergie et des services de 
+communications électroniques], le droit de 
+communication ne peut porter sur les données 
+techniques définies à l'article L. 34-1 du code des 
+postes et des communications électroniques " (article 
+L. 611-12 du CESEDA). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes  
+Secret professionnel non opposable à l'exception du 
+secret médical (article L. 611-12 du CESEDA). 
+Articles L. 313-5-1, L. 
+611-12 et R. 611-41-2 
+du CESEDA
+
+----- page 51 -----
+51 
+ 
+ 
+ 
+ 
+ 
+ENQUETES ECONOMIQUES
+
+----- page 52 -----
+ENQUETES ECONOMIQUES 
+ 
+ 
+52 
+ 
+Procédure 
+ou autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Administrati
+on fiscale 
+Personnes physiques et organismes 
+visées aux articles L 82 A à L 96 J 
+du livre des procédures fiscales. 
+Pour l’établissement de l’assiette, le contrôle et le 
+recouvrement des impôts. Sur place ou par 
+correspondance, sur demande de l'administration 
+fiscale et dans les conditions prévues aux articles L. 
+81 à L. 96 J. 
+ 
+Le refus de communication des documents attendus 
+par l'administration dans l'exercice de son droit de 
+communication est sanctionné dans les conditions 
+prévues à l'article 1734 du code général des impôts. 
+Les documents et renseignements mentionnés aux articles 
+L. 81 à L. 96 J du livre des procédures fiscales. 
+ 
+Secret professionnel : cas explicitement prévus par les 
+textes  
+Non opposabilité du secret professionnel s'agissant des 
+documents de service et données mentionnées à l'article L. 
+83 du LPF. 
+Articles L. 81 
+à L. 96 J du 
+LPF 
+Administrati
+on des 
+impôts 
+Organismes visés aux articles L. 97 
+à L. 102 AG du livre des procédures 
+fiscales. 
+Communication des informations sans demande 
+préalable de l'administration des impôts 
+(communications périodiques ou rendues 
+obligatoires par un évènement). 
+ 
+Le refus de communication des documents attendus 
+par l'administration dans l'exercice de son droit de 
+communication est sanctionné dans les conditions 
+prévues à l'article 1734 du code général des impôts. 
+Les documents et renseignements mentionnés aux articles 
+L. 97 à L. 102 AG du livre des procédures fiscales. 
+Articles L. 97 
+à L. 102 AG 
+du LPF 
+Administrati
+on des 
+douanes 
+Locaux, lieux à usage professionnel, 
+terrains et  entrepôts où les 
+marchandises et documents se 
+rapportant aux infractions prévues 
+par le code des douanes sont 
+susceptibles d'être détenus quel 
+qu'en soit le support. 
+ 
+Moyens de transport à usage 
+professionnel et leur chargement. 
+Demandes adressées dans le cadre des 
+investigations nécessaires à la recherche et à la 
+constatation des infractions prévues au code des 
+douanes. 
+ 
+Demandes, adressées par les agents des douanes 
+de catégorie A ou B et les agents de catégorie C 
+(pour autant qu'ils soient accompagnés d'un agent 
+de catégorie A ou B), de retenue ou de copie de 
+documents. 
+Marchandises et documents se rapportant aux infractions 
+prévues par le code des douanes susceptibles d'être 
+détenus quel qu'en soit le support. 
+Article 63 ter 
+du code des 
+douanes
+
+----- page 53 -----
+ENQUETES ECONOMIQUES 
+ 
+ 
+53 
+ 
+Procédure 
+ou autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+L'administrat
+ion des 
+douanes 
+Administrations et organismes 
+visées à l'article 64 A du code des 
+douanes 
+Pour établir les impôts institués par les lois 
+existantes.   
+Droit de communication adressé par un agent des 
+douanes ayant au moins le grade de contrôleur ou 
+un agent des douanes de catégorie C agissant sur 
+ordre écrit d'un agent des douanes ayant au moins 
+le grade d'inspecteur (ordre écrit à présenter lors de 
+la demande de communication). 
+Documents de service détenus par les administrations et 
+organismes cités à l'article 64 A du code des douanes. 
+ 
+Secret professionnel : cas explicitement prévus par les 
+textes   
+Le secret professionnel ne peut être opposé aux agents des 
+douanes ayant au moins le grade de contrôleur par les 
+organismes et dans les conditions précisées à l'article L. 64 
+A du code des douanes.  
+Article 64 A 
+du code des 
+douanes 
+L'administrat
+ion des 
+douanes 
+Personnes physiques ou morales 
+ayant accès aux informations 
+concernant les pièces 
+administratives exigées pour la 
+circulation de véhicules ou affectant 
+la disponibilité de ceux-ci. 
+Demande adressée par les " fonctionnaires des 
+douanes " (article 64 B du code des douanes). 
+"Les documents et informations mentionnés aux articles L. 
+330-2 à L. 330-4 du code de la route" (article L. 64 B du 
+code des douanes). 
+Article L. 64 B 
+du code des 
+douanes 
+L'administrat
+ion des 
+douanes 
+Toutes les personnes physiques ou 
+morales directement ou 
+indirectement intéressées à des 
+opérations régulières ou irrégulières 
+relevant de la compétence du 
+service des douanes (listées à 
+l'article 65 du code des douanes). 
+Suivi et contrôle de toute opération intéressant leur 
+service. 
+Droit de communication adressé par un agent des 
+douanes ayant au moins le grade de contrôleur ou 
+un agent des douanes de catégorie C agissant sur 
+ordre écrit d'un agent des douanes ayant au moins 
+le grade d'inspecteur (ordre écrit à présenter à 
+l'administration lors de la demande). Possibilité de 
+prise de copie ou saisie. 
+" (…) papiers et documents de toute nature relatifs aux 
+opérations intéressant leur service, quel qu'en soit le 
+support" (article 65 du code des douanes) dans les lieux et 
+conditions précisées à l'article 65 du code des douanes. 
+Article 65 du 
+code des 
+douanes
+
+----- page 54 -----
+ENQUETES ECONOMIQUES 
+ 
+ 
+54 
+ 
+Procédure 
+ou autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+L'administrat
+ion des 
+douanes 
+Toutes les personnes physiques et 
+morales entrant dans le champ des 
+articles 64 A et 65 du code des 
+douanes. 
+Droit de communication au profit des agents des 
+douanes chargés du recouvrement de toutes 
+sommes perçues selon les modalités prescrites par 
+le code des douanes et aux conditions mentionnées 
+aux articles 64 A et 65 du code des douanes.  
+" (…) papiers et documents de toute nature relatifs aux 
+opérations intéressant leur service, quel qu'en soit le 
+support" (article 65 du code des douanes) dans les lieux et 
+conditions précisées à l'article 65 du code des douanes. 
+ 
+Documents de service détenus par les administrations et 
+organismes cités à l'article 64 A du code des douanes. 
+ 
+Secret professionnel : cas explicitement prévus par les 
+textes   
+Le secret professionnel ne peut être opposé aux agents des 
+douanes ayant au moins le grade de contrôleur par les 
+organismes et dans les conditions précisées à l'article L. 64 
+A du code des douanes. 
+Articles 64 A, 
+65 et 65 bis 
+du code des 
+douanes 
+L'administrat
+ion des 
+douanes 
+"(...) les opérateurs de 
+communications électroniques dans 
+le cadre de l'article L. 34-1 du code 
+des postes et des communications 
+électroniques ainsi que par les 
+prestataires mentionnés aux 1 et 2 
+du I de l'article 6 de la loi n° 2004-
+575 du 21 juin 2004 pour la 
+confiance dans l'économie 
+numérique" (article 65 quinquies du 
+code des douanes). 
+Droit de communication, réservé aux agents des 
+douanes ayant au moins le grade de contrôleur et 
+spécialement habilités par le directeur du service 
+auquel ils sont affectés, aux fins de " (…) constater 
+les délits mentionnés aux articles 414, 415 et 459, 
+d'en rassembler les preuves et d'en rechercher les 
+auteurs, les complices ainsi que ceux qui y ont 
+participé comme intéressés au sens de l'article 399" 
+du code des douanes (article 65 quinquies du code 
+des douanes). 
+ 
+Le droit de communication doit être préalablement 
+autorisé par le procureur de la République près le 
+tribunal de grande instance du lieu de la direction 
+des douanes dont dépend le service chargé de la 
+procédure. L'autorité doit être "mentionnée ou 
+versée au dossier de la procédure" (article 65 
+quinquies du code des douanes).  
+ 
+Données conservées et traitées par les opérateurs et 
+prestataires précités. 
+Article 65 
+quinquies du 
+code des 
+douanes
+
+----- page 55 -----
+ENQUETES ECONOMIQUES 
+ 
+ 
+55 
+ 
+Procédure 
+ou autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+La communication des données fait l'objet d'un 
+procès-verbal de constat, qui est versé au dossier 
+de la procédure. Une copie de ce procès-verbal est 
+transmise au procureur de la République qui a 
+autorisé la mise en œuvre du droit de 
+communication ainsi qu'aux opérateurs et 
+prestataires qui ont communiqué les informations. 
+Administrati
+ons fiscales 
+et 
+douanières 
+"Les établissements de crédit, les 
+établissements de monnaie 
+électronique, les établissements de 
+paiement ainsi que les organismes 
+et services mentionnés à l'article L. 
+518-1" du code monétaire et 
+financier (article L. 152-3 du code 
+monétaire et financier). 
+Sur demande des administrations fiscales et 
+douanières. 
+" (...) la date et le montant des sommes transférées à 
+l'étranger par les personnes visées à l'article L. 152-2, 
+l'identification de l'auteur du transfert et du bénéficiaire ainsi 
+que les références des comptes concernés en France et à 
+l'étranger " (article L. 152-3 CMF) 
+Article L. 152-
+3 du CMF 
+Comptable 
+du Trésor 
+Personne ou organisme faisant 
+l'objet d'une amende ou d'une 
+condamnation pécuniaire qui ne 
+sont pas de nature fiscale. 
+Pour le recouvrement des amendes et 
+condamnations pécuniaires qui ne sont pas de 
+nature fiscale. Dans les conditions prévues à l'article 
+L. 81 du LPF. 
+Droit de communication des documents mentionnés à 
+l'article L. 81 du Livre des procédures fiscales 
+Articles 81 du 
+LPF et 90 de 
+la loi n° 86-
+1317 du 30 
+décembre 
+1986 de 
+finances pour 
+1987
+
+----- page 56 -----
+ENQUETES ECONOMIQUES 
+ 
+ 
+56 
+ 
+Procédure 
+ou autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Comptable 
+public 
+Collectivités territoriales et leurs 
+établissements publics locaux, 
+organismes de sécurité sociale, 
+organismes ou particuliers assurant 
+des prestations de services à 
+caractère juridique, financier ou 
+comptable, ou la détention de biens 
+ou de fonds pour le compte de 
+débiteurs, établissements publics de 
+santé (8° de l'article L. 1617-5 du 
+CGCT). 
+Sur demande du comptable agissant en tant que 
+"chargés du recouvrement d'une créance assise et 
+liquidée par une collectivité territoriale ou ses 
+établissements publics" (8° de l'article L. 1617-5 du 
+CGCT). 
+ 
+Sur demande du comptable public de l'Etat " chargé 
+du recouvrement des créances hospitalières " 
+(article L. 115-1 du CSS). 
+Informations et renseignements nécessaires à l'exercice de 
+la mission de recouvrement du comptable relatifs "à l'état 
+civil des débiteurs, à leur domicile, aux nom et adresse de 
+leur employeur et des établissements ou organismes auprès 
+desquels un compte de dépôt est ouvert à leur nom, aux 
+nom et adresse des organismes ou particuliers qui 
+détiennent des fonds et valeurs pour leur compte, à 
+l'immatriculation de leur véhicule" (8° de l'article L. 1617-5 
+du CGCT et article L. 115-1 du CSS). 
+ 
+Secret professionnel : cas explicitement prévus par les 
+textes  
+Secret professionnel non opposable (8° de l'article L. 1617-5 
+du CGCT et article L. 135Q du LPF). 
+Article L. 
+1617-5 du 
+CGCT 
+Direction 
+générale de 
+la 
+concurrence
+, de la 
+consommati
+on et de la 
+répression 
+des fraudes 
+(DGCCRF) 
+Professionnels et activités soumis 
+aux dispositions du code de la 
+consommation 
+Réalisation des enquêtes menées par les agents de 
+la DGCCRF aux fins de constats d'infractions ou de 
+manquements aux dispositions visées par les 
+articles L.511-3 et suivants du code de la 
+consommation. Modalités de demandes des 
+informations précisées aux articles L. 512-8 et 
+suivants du code de la consommation. 
+Informations et documents cités aux articles L. 512-8 du 
+code de la consommation. 
+ 
+Secret professionnel : cas explicitement prévus par les 
+textes  
+Le secret professionnel ne peut être opposé aux agents 
+agissant dans le cadre des pouvoirs qui leur sont conférés 
+par le présent livre (article L. 512-3 du code de la 
+consommation). 
+Articles L. 
+511-3 et 
+suivants du 
+code de la 
+consommatio
+n
+
+----- page 57 -----
+ENQUETES ECONOMIQUES 
+ 
+ 
+57 
+ 
+Procédure 
+ou autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Direction 
+générale de 
+la 
+concurrence
+, de la 
+consommati
+on et de la 
+répression 
+des fraudes 
+(DGCCRF) 
+Professionnels et activités soumis 
+aux dispositions du code de la 
+consommation 
+Réalisation des enquêtes menées par les agents de 
+la DGCCRF aux fins de constats d'infractions ou de 
+manquements aux dispositions du livre IV (partie 
+législative) du code de commerce. 
+" Les agents peuvent exiger la communication et obtenir ou 
+prendre copie, par tout moyen et sur tout support, des livres, 
+factures et autres documents professionnels de toute nature, 
+entre quelques mains qu'ils se trouvent, propres à faciliter 
+l'accomplissement de leur mission. Ils peuvent exiger la 
+mise à leur disposition des moyens indispensables pour 
+effectuer leurs vérifications. Ils peuvent également recueillir, 
+sur place ou sur convocation, tout renseignement, document 
+ou toute justification nécessaire au contrôle. Pour le contrôle 
+des opérations faisant appel à l'informatique, ils ont accès 
+aux logiciels et aux données stockées ainsi qu'à la restitution 
+en clair des informations propres à faciliter 
+l'accomplissement de leurs missions. Ils peuvent en 
+demander la transcription par tout traitement approprié des 
+documents directement utilisables pour les besoins du 
+contrôle " (article L. 450-3 du code de commerce). 
+Articles L. 
+450-1 et L. 
+450-3 du 
+code de 
+commerce 
+Caisse des 
+dépôts et 
+consignation
+s 
+Établissements de crédit 
+mentionnés au titre Ier et II du livre 
+V du CMF (partie législative) 
+Établissements de monnaie 
+électronique  
+Demande de communication d'informations aux fins 
+de poursuivre la mission de consignation de la 
+Caisse des Dépôts. Transmission des informations à 
+sa demande.  
+" (…) informations et documents relatifs au solde des 
+comptes à la date du dépôt prévu au I du présent article, à la 
+computation des délais mentionnés au même I et au régime 
+d'imposition applicable, ainsi que les informations et 
+documents permettant d'identifier les titulaires de ces 
+comptes et, le cas échéant, leurs ayants droit " (IV de 
+l'article L. 312-20 du CMF). 
+Article L312-
+20 du CMF
+
+----- page 58 -----
+ENQUETES ECONOMIQUES 
+ 
+ 
+58 
+ 
+Procédure 
+ou autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Commissair
+e aux 
+comptes 
+Personne ou entité dont les 
+commissaires aux comptes sont 
+chargés de certifier les comptes et 
+de contrôler la conformité de leur 
+comptabilité aux règles en vigueur 
+Demande de communication d'informations aux fins 
+de procéder au contrôle de la régularité et de la 
+sincérité des comptes annuels et consolidés. 
+ 
+Le cas échéant, demande adressée par un expert 
+ou un collaborateur choisi par le commissaire au 
+compte et présenté à la personne ou à l'entité 
+concernée (article L. 823-13 du code du commerce). 
+" toutes les pièces qu'ils estiment utiles à l'exercice de leur 
+mission et notamment tous contrats, livres, documents 
+comptables et registres des procès-verbaux " (article L. 823-
+13 du code du commerce). 
+ 
+Secret professionnel : cas explicitement prévus par les 
+textes   
+Secret professionnel non opposable, sauf par les auxiliaires 
+de justice (L. 823-14 du code du commerce).  
+Article L. 823-
+13 du code de 
+commerce 
+Service 
+Traitement 
+du 
+renseignem
+ent et action 
+contre les 
+circuits 
+financiers 
+clandestins 
+(TRACFIN) 
+Personnes morales et physiques 
+mentionnées à l'article L. 561-2 du 
+CMF 
+Personnes morales et physiques 
+mentionnées au II bis / ter / quater 
+de l'article L. 561-25 du CMF 
+Pour les personnes morales et physiques 
+mentionnées à l'article L. 561-2 du CMF : 
+Demande d'information adressée " dans le but de 
+reconstituer l'ensemble des opérations faites par 
+une personne physique ou morale liées à une 
+opération ayant fait l'objet d'une déclaration 
+mentionnée à l'article L. 561-15 ou à une information 
+reçue au titre des articles L. 561-27, L. 561-28 ou L. 
+561-29, ainsi que dans le but de renseigner, dans 
+les conditions prévues à l'article L. 561-29, des 
+cellules de renseignement financier homologues 
+étrangères " (article L. 561-25 du CMF). 
+ 
+Demande de communication sur pièce ou sur place 
+et, en fonction de la personne morale ou physique 
+concernée, selon les modalités particulières 
+précisées par l'article L. 561-25 du CMF. 
+Pour les personnes morales et physiques mentionnées à 
+l'article L. 561-2 du CMF : 
+" (…) documents, informations ou données, quel que soit le 
+support utilisé, conservés en application de l'article L. 561-
+10-2 et des articles L. 561-12 et L. 561-13 " du CMF (article 
+L. 561-25 du CMF).  
+ 
+Pour les personnes morales et physiques mentionnées au II 
+bis / ter / quater de l'article L. 561-25 du CMF 
+Nature des informations précisée au sein du II bis / ter / 
+quater de l'article L. 561-25 du CMF. 
+ 
+Secret professionnel : cas explicitement prévus par les 
+textes   
+Interdiction, sous peine des sanctions prévues à l'article L. 
+574-1 du CMF, de donner des informations à des tiers sur 
+les suites qui ont été réservées à une déclaration faite 
+auprès du service TRACFIN (périmètre de l'interdiction 
+précisé à l'article L. 561-18 du CMF). 
+ 
+Interdiction, sous peine des sanctions prévues à l'article L. 
+574-1 du CMF, de donner des informations à des tiers 
+Articles L. 
+561-25 et L. 
+574-1 du 
+CMF
+
+----- page 59 -----
+ENQUETES ECONOMIQUES 
+ 
+ 
+59 
+ 
+Procédure 
+ou autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+relatives à l'exercice par le service TRACFIN du droit de 
+communication prévu à l'article L. 561-25 (périmètre de 
+l'interdiction précisé au III de l'article L. 561-25 du CMF). 
+Service 
+Traitement 
+du 
+renseignem
+ent et action 
+contre les 
+circuits 
+financiers 
+clandestins 
+(TRACFIN) 
+Caisses créées en application du 9° 
+de l'article 53 de la loi n° 71-1130 du 
+31 décembre 1971 
+Informations communiquées à TRACFIN " par 
+l'intermédiaire du bâtonnier de l'ordre auprès duquel 
+l'avocat concerné est inscrit " (article L. 561-25-1 du 
+CMF). 
+" (…) informations relatives au montant, à la provenance et à 
+la destination des fonds, effets ou valeurs déposés par un 
+avocat, l'identité de l'avocat concerné et l'indication de la 
+nature de l'affaire enregistrée par la caisse " (article L. 561-
+25-1 du CMF). 
+ 
+Secret professionnel : cas explicitement prévus par les 
+textes   
+Interdiction, sous peine des sanctions prévues à l'article L. 
+574-1 du CMF, de donner des informations à des tiers 
+concernant " l'exercice par le service [TRACFIN] du droit de 
+communication prévu au présent article ". (article L. 561-25-
+1 du CMF). 
+Articles L. 
+561-25-1 et L. 
+574-1 du 
+CMF 
+Administrati
+on fiscale 
+Personnes morales et physiques 
+mentionnées à l'article L. 561-2 du 
+CMF 
+Demande de communication adressée pour 
+l'application de la directive 2011/16/ UE du Conseil 
+du 15 février 2011 relative à la coopération 
+administrative dans le domaine fiscal. 
+" Documents et informations [que les personnes morales et 
+physiques visées à l'article L. 561-2 du CMF] détiennent 
+dans le cadre de leurs obligations de vigilance définies aux 
+articles L. 561-4-1 à L. 561-14-2 du [CMF] " (article L. 88 du 
+LPF).   
+Articles L. 
+561-22-1 du 
+CMF et L. 88 
+du LPF
+
+----- page 60 -----
+ENQUETES ECONOMIQUES 
+ 
+ 
+60 
+ 
+Procédure 
+ou autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Fonctionnair
+es et agents 
+visés à 
+l'article L. 
+172-4 du 
+code de 
+l'environnem
+ent 
+Tous lieux visés à l'article L. 172-5 
+du code de l'environnement 
+Demande de communication (ou de saisie) 
+adressée pour l'accomplissement de la mission de 
+recherche et de constat des infractions aux 
+dispositions du code de l'environnement. 
+" (…) documents de toute nature qui sont relatifs à l'objet du 
+contrôle, quel que soit leur support et en quelques mains 
+qu'ils se trouvent, et qui sont nécessaires à 
+l'accomplissement de leur mission (…) accès aux logiciels et 
+aux données " (article L. 172-11 du code de 
+l'environnement). 
+ 
+Consultation prévue pour " (…) tout document nécessaire à 
+l'accomplissement de leur mission auprès des 
+administrations publiques, des établissements et 
+organismes placés sous le contrôle de l'Etat et des 
+collectivités territoriales " (article L. 172-11 du code de 
+l'environnement). 
+ 
+Secret professionnel : cas explicitement prévus par les 
+textes   
+Secret professionnel non opposable " sans motif légitime "  
+(article L. 172-11 du code de l'environnement). 
+Articles L. 
+172-4 et 
+suivants du 
+code de 
+l'environneme
+nt 
+Autorités de 
+gestion 
+Organismes 
+payeurs  
+Autorités 
+d'audit, de 
+certification 
+et de 
+contrôles 
+nationaux et 
+européens 
+Bénéficiaire d'un programme de 
+financement européen (FEADER, 
+FEAMP, FEDER et FSE). 
+Demande de communication adressée aux fins de 
+vérification sur pièces et sur place " de la réalisation 
+de l'opération ou de l'acquittement des dépenses "  
+(article 3 de l'arrêté du 8 mars 2016 pris en 
+application du décret n° 2016-279 du 8 mars 2016). 
+" (…) tout document ou pièce originale nécessaire à 
+l'établissement de la preuve de la réalisation de l'opération 
+ou de l'acquittement des dépenses " (article 3 de l'arrêté du 
+8 mars 2016 pris en application du décret n° 2016-279 du 8 
+mars 2016). 
+Arrêté du 8 
+mars 2016 
+pris en 
+application du 
+décret n° 
+2016-279 du 
+8 mars 2016
+
+----- page 61 -----
+61 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ENQUETES SOCIALE, TRAVAIL ET SANTE
+
+----- page 62 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+62 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Organismes 
+débiteurs de 
+prestations 
+familiales 
+Administrations publiques 
+(notamment  administrations 
+financières)  
+Organismes de sécurité 
+sociale, de retraite 
+complémentaire et 
+d'indemnisation du chômage 
+Demande de communication d'informations pour 
+l'exercice des contrôles des informations et déclarations 
+transmises pour l'attribution de prestations familiales. 
+" Pour l'exercice de leur contrôle (…) toutes les 
+informations nécessaires " (article L. 583-3 du CSS) 
+" Les informations demandées (...) doivent être 
+limitées aux données strictement nécessaires à 
+l'attribution des prestations familiales " (article L. 583-
+3 du CSS). 
+Article L. 583-3 
+du CSS 
+Organismes 
+chargés de la 
+gestion d'un 
+régime obligatoire 
+de sécurité sociale  
+Organismes 
+chargés du 
+recouvrement des 
+cotisations de 
+sécurité sociale 
+(mentionnées au 
+CSS) 
+Organismes 
+chargés du service 
+des allocations et 
+prestations 
+(mentionnées au 
+CSS) 
+Personnes et organismes 
+mentionnées aux articles L. 
+114-20 et L. 243-7 du CSS 
+Demande de transmission d'informations adressées 
+dans le cadre des " enquêtes nécessaires " en cas de " 
+connaissance d'informations ou de faits pouvant être de 
+nature à constituer une fraude " (article L. 114-9 du 
+CSS). 
+ 
+ 
+Demande de transmission d'informations adressées 
+dans le cadre des " vérifications ou enquêtes 
+administratives concernant l'attribution des prestations, 
+le contrôle du respect des conditions de résidence et la 
+tarification des accidents du travail et des maladies 
+professionnelles " (article L. 114-10 du CSS). 
+ 
+Actes réalisés par des agents assermentés et agrées. 
+ 
+Droit de communication s'exerçant " quel que soit le 
+support utilisé pour la conservation des documents et 
+peut s'accompagner de la prise immédiate d'extraits et 
+de copies " (article L. 114-19 du CSS). 
+ 
+S'agissant des organismes mentionnés à l'article L. 
+114-20 du CSS : " dans les conditions prévues et 
+auprès des personnes mentionnées à la section 1 du 
+chapitre II du titre II du livre des procédures fiscales à 
+" (…) documents et informations nécessaires " aux 
+agents mentionnés à l'article L. 114-19 du CSS. 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes    
+Non opposabilité du secret professionnel (article L. 
+114-19 du CSS). 
+Articles L. 114-9, 
+L. 114-10, L. 
+114-19 et L. 114-
+20 du CSS (dans 
+la limite posée 
+par la DC 
+n°2019-789 QPC 
+du 14 juin 2019 
+du Conseil 
+constitutionnel)
+
+----- page 63 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+63 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+l'exception des personnes mentionnées aux articles L. 
+82 C, L. 83 A, L. 84, L. 84 A, L. 91, L. 95 et L. 96 B à L. 
+96 F " (article L. 114-20 du CSS). 
+Président du 
+conseil général, 
+représentants de 
+l'Etat et 
+organismes 
+chargés de 
+l'instruction et du 
+service du revenu 
+de solidarité active 
+Administrations publiques et 
+notamment financières 
+Collectivités territoriales 
+Organismes de sécurité 
+sociale, de retraite 
+complémentaire et 
+d'indemnisation du chômage 
+Organismes publics ou privés 
+concourant aux dispositifs 
+d'insertion ou versant des 
+rémunérations au titre de 
+l'aide à l'emploi 
+Demande de transmission d'information pour l'exercice 
+des compétences du tiers autorisé.  
+ 
+" Les informations demandées (...) doivent être limitées 
+aux données nécessaires à l'instruction du droit au 
+revenu de solidarité active, à sa liquidation et à son 
+contrôle ainsi qu'à la conduite des actions d'insertion " 
+(article L. 262-40 du code de l'action sociale et des 
+familles).  
+" (...) toutes les informations nécessaires à 
+l'identification de la situation du foyer " (article L. 262-
+40 du code de l'action sociale et des familles). 
+Article L. 262-40 
+du CASF 
+Agence nationale 
+chargée de la 
+sécurité sanitaire 
+de l'alimentation, 
+de l'environnement 
+et du travail 
+(ANSES) 
+Toute personne physique ou 
+morale 
+Demande d'accès aux informations et de 
+communication de données dans le cadre de " 
+l'exercice de ses missions " et " dans des conditions 
+préservant la confidentialité des données à l'égard des 
+tiers " (article L. 1313-2 du code de la santé publique). 
+Accès aux " informations nécessaires à l'exercice de 
+ses missions qui sont détenues par toute personne 
+physique ou morale " (article L. 1313-2 du CSP). 
+ 
+Communication concernant " les données, les 
+synthèses et les statistiques qui en sont tirées mais 
+aussi toute information utile à leur interprétation " 
+(article L. 1313-2 du CSP). 
+Secret professionnel : cas explicitement prévus 
+par les textes   
+Accès par l'ANSES aux informations " détenues par 
+toute personne physique ou morale sans que puisse 
+lui être opposé le secret médical, le secret 
+professionnel ou le secret des affaires " (article L. 
+1313-2 du CSP)  
+Article L. 1313-2 
+du CSP
+
+----- page 64 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+64 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Agence nationale 
+de santé publique 
+(ANSP) 
+Personnes et organismes 
+mentionnés à l'article L.1413-
+7 du CSP. 
+Demande de communication d'informations dans le 
+cadre des missions visées à l'article L. 1413-7 du CSP 
+("missions prévues aux 1°, 2° et 6° de l'article L. 1413-
+1" du CSP). 
+"Les informations nécessaires à l'exercice de ses 
+missions prévues aux 1°, 2° et 6° de l'article L.1413-1" 
+(article L.1413-7 du CSP). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes    
+Un décret en Conseil d'Etat (non publié à ce jour) doit 
+notamment préciser les modalités d'accès "aux 
+informations couvertes par le secret médical, le secret 
+professionnel ou le secret des affaires" (article 
+L.1413-12-3 du CSP). 
+Articles L.1413-1 
+et L.1413-7 du 
+CSP 
+Agence nationale 
+de santé publique 
+(ANSP) 
+Personnes physiques ou 
+morales visées aux articles L. 
+1413-7 et L. 1413-8 du CSP. 
+Demande de communication d'informations en 
+application de l'article L. 1413-7 du CSP aux fins de 
+poursuite des missions prévues aux 1°, 2° et 6° de 
+l'article L. 1413-1 du CSP ou "lorsqu'il s'avère 
+nécessaire de prévenir ou de maîtriser des risques 
+graves pour la santé humaine" (article L.1413-8 du 
+CSP). 
+" Les informations nécessaires à l'exercice de ses 
+missions prévues aux 1°, 2° et 6° de l'article L. 1413-1 
+" (article L.1413-7 du CSP). 
+" (…) toute information en sa possession relative à de 
+tels risques " (article L.1413-8 du CSP). 
+Secret professionnel : cas explicitement prévus 
+par les textes   
+" La communication à l'Agence nationale de santé 
+publique, en application de l'article L. 1413-8, 
+d'informations couvertes par le secret médical ou 
+industriel fait l'objet d'une demande écrite et motivée 
+de son directeur général. 
+Celui-ci désigne la personne qui est habilitée au sein 
+de l'Agence nationale de santé publique à recevoir 
+ces informations. La demande mentionne son nom, 
+ainsi que ses adresses administrative et électronique. 
+S'il s'agit d'informations couvertes par le secret 
+médical, la personne désignée est un médecin " 
+(article R. 1413-34 du CSP, voir les articles suivants 
+concernant les modalités de transmission). 
+Articles L. 1413-
+1, L. 1413-7, L. 
+1413-8, R. 1413-
+34 et suivants  
+du CSP.
+
+----- page 65 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+65 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Membres du 
+réseau national de 
+santé publique 
+Personnes physiques ou 
+morales concernées tenues 
+de transmettre des 
+informations à l'agence sur le 
+fondement des articles 
+L.1413-7 et L.1413-8 du CSP. 
+Les personnes physiques ou morales tenues de 
+transmettre des informations à l'ANSP sur le fondement 
+des articles L.1413-7 et L.1413-8 les font également 
+parvenir aux membres du réseau national de santé 
+publique lorsque la transmission leur est indispensable 
+pour apporter leur concours à l'agence.  
+ 
+L'organisation du réseau national de santé publique est 
+fixée par décret en Conseil d'Etat (non publié à ce jour). 
+Informations ou données "indispensable[s] aux 
+membres du réseau national de santé publique pour 
+apporter leur concours à l'agence dans l'exercice de 
+ses missions mentionnées aux 1°, 2° et 6° de l'article 
+L.1413-1" du CSP (article L.1413-6 du CSP). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes   
+" Lorsque la transmission d'informations individuelles 
+mentionnées aux articles L. 1413-6, L. 1413-7 et L. 
+1413-8 est indispensable aux membres du réseau 
+national de santé publique pour l'exercice de leur 
+mission d'appui à l'Agence nationale de santé 
+publique prévue par le 1° de l'article L. 1413-3, les 
+professionnels de santé transmettent ces informations 
+aux membres désignés par le directeur général de 
+l'agence, selon les modalités prévues aux articles R. 
+1413-38 et R. 1413-39 " (R. 1413-40 du CSP). 
+Articles L.1413-6 
+et R. 1413-40  du 
+CSP 
+Services sanitaires 
+et de santé 
+publique visés à 
+l'article L. 1421-1 
+du CSP 
+Organismes au sein desquels 
+ont vocation à s'appliquer les 
+dispositions que les services 
+visés à l'article L. 1421-1 du 
+CSP contrôlent. 
+Demande de communication de " tout renseignement, 
+toute justification ou tout document nécessaires aux 
+contrôles (…) ou procéder à la saisie des documents de 
+toute nature, entre quelques mains qu'ils se trouvent, 
+propres à faciliter l'accomplissement de leur mission et 
+la mise à leur disposition des moyens indispensables 
+pour effectuer leurs vérifications " (article L. 1421-3 du 
+CSP). 
+ 
+" Pour le contrôle des opérations faisant appel à 
+l'informatique, ils ont accès aux logiciels et aux 
+données stockées, ainsi qu'à la restitution en clair des 
+informations propres à faciliter l'accomplissement de 
+leurs missions. Ils peuvent en demander la transcription 
+" (…) tout renseignement, toute justification ou tout 
+document nécessaires aux contrôles (…) documents 
+de toute nature " (article L. 1421-3 du CSP). 
+ 
+" (…) accès aux logiciels et aux données stockées, 
+ainsi qu'à la restitution en clair des informations 
+propres à faciliter l'accomplissement de leurs 
+missions. Ils peuvent en demander la transcription par 
+tout traitement approprié dans des documents 
+directement utilisables pour les besoins du contrôle " 
+(article L. 1421-3 du CSP). 
+ 
+ 
+Article L. 1421-1 
+et L. 1421-3 du 
+CSP
+
+----- page 66 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+66 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+par tout traitement approprié dans des documents 
+directement utilisables pour les besoins du contrôle " 
+(article L. 1421-3 du CSP). 
+Secret professionnel : cas explicitement prévus 
+par les textes   
+Possibilité d'accès par les agents ayant la qualité de 
+médecin ou de pharmacien " à toutes données 
+médicales individuelles nécessaires " dans les 
+conditions prévues à l'article L. 1421-3 du CSP. 
+Agences 
+régionales de 
+santé (ARS) 
+Organismes au sein desquels 
+ont vocation à s'appliquer les 
+dispositions que les services 
+visés à l'article L. 1421-1 du 
+CSP 
+contrôlent.Établissements et 
+services sociaux et médico-
+sociaux visés à l'article L. 
+313-13 du code de l'action 
+sociale et des familles. 
+Demande de communication de " tout renseignement, 
+toute justification ou tout document nécessaires aux 
+contrôles (…) ou procéder à la saisie des documents de 
+toute nature, entre quelques mains qu'ils se trouvent, 
+propres à faciliter l'accomplissement de leur mission et 
+la mise à leur disposition des moyens indispensables 
+pour effectuer leurs vérifications " (article L. 1421-3 du 
+CSP)." Pour le contrôle des opérations faisant appel à 
+l'informatique, ils ont accès aux logiciels et aux 
+données stockées, ainsi qu'à la restitution en clair des 
+informations propres à faciliter l'accomplissement de 
+leurs missions. Ils peuvent en demander la transcription 
+par tout traitement approprié dans des documents 
+directement utilisables pour les besoins du contrôle " 
+(article L. 1421-3 du CSP). 
+" (…) tout renseignement, toute justification ou tout 
+document nécessaires aux contrôles (…) documents 
+de toute nature " (article L. 1421-3 du CSP)." (…) 
+accès aux logiciels et aux données stockées, ainsi 
+qu'à la restitution en clair des informations propres à 
+faciliter l'accomplissement de leurs missions. Ils 
+peuvent en demander la transcription par tout 
+traitement approprié dans des documents directement 
+utilisables pour les besoins du contrôle " (article L. 
+1421-3 du CSP). 
+Secret professionnel : cas explicitement prévus 
+par les textes    
+Possibilité d'accès par les agents ayant la qualité de 
+médecin ou de pharmacien " à toutes données 
+médicales individuelles nécessaires " dans les 
+conditions prévues à l'article L. 1421-3 du CSP. 
+Articles L. 1421-3 
+et L. 1435-7 du 
+CSP 
+Agence nationale 
+de sécurité du 
+médicament et des 
+produits de santé 
+(ANSM) 
+Personnes physique ou 
+morale concernée par les 
+compétences de l'ANSM 
+fixées à l'article L. 5311-1 du 
+CSP 
+Demande d'accès aux informations " en vue de 
+l'accomplissement de ses missions " et " dans des 
+conditions préservant la confidentialité des données à 
+l'égard des tiers "  (article L. 5311-2 du CSP). 
+" (…) informations nécessaires à l'exercice de ses 
+missions qui sont détenues par toute personne 
+physique ou morale " (article L. 5311-2 du CSP). 
+ 
+ 
+Articles L. 5311-1 
+et L. 5311-2 du 
+Code de santé 
+publique
+
+----- page 67 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+67 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Secret professionnel : cas explicitement prévus 
+par les textes    
+Non opposabilité du secret médical, du secret 
+professionnel et du secret des affaires (article L. 
+5311-2 du CSP). 
+Représentant de 
+l'Etat dans le 
+département 
+Organismes chargés de la 
+distribution de l'eau, du gaz, 
+de l'électricité et du téléphone 
+ 
+Professionnels de l'immobilier 
+Demande de consultation des informations dans le 
+cadre de la procédure de réquisition pour l'exercice du 
+droit au logement " en vue de prendre connaissance 
+des informations strictement nécessaires à la recherche 
+des locaux vacants, à la détermination de la durée de la 
+vacance et à l'identification du titulaire du droit d'usage 
+sur les locaux " (L. 642-7 du code de la construction et 
+de l'habitation). 
+ 
+Consultation effectuées le cas échéant par des agents 
+assermentés nommés par le représentant de l'Etat dans 
+le département. 
+Consultation des " fichiers des organismes chargés de 
+la distribution de l'eau, du gaz, de l'électricité, du 
+téléphone, ainsi que les fichiers tenus par les 
+professionnels de l'immobilier " (L. 642-7 du code de 
+la construction et de l'habitation). 
+Article L. 642-7 
+du code de la 
+construction et 
+de l’habitation 
+ Pôle emploi 
+Administrations sociales et 
+fiscales 
+Demande d'accès aux informations dans le cadre du 
+contrôle de la recherche d'emploi (articles L. 5426-1 et 
+R5426-2 du code du travail). 
+" (…) renseignements détenus par les administrations 
+sociales et fiscales " (article L. 5426-9 du code du 
+travail). 
+Articles L. 5312-
+1, L. 5426-1 et L. 
+5426-9 du code 
+du travail 
+Inspection du 
+travail 
+Tout établissement où sont 
+applicables les " dispositions 
+du code du travail et des 
+autres dispositions légales 
+relatives au régime du travail, 
+ainsi qu'aux stipulations des 
+conventions et accords 
+Demande de présentation et de communication de 
+documents aux fins de contrôle du respect des 
+dispositions du code du travail, des autres dispositions 
+relatives au régime du travail  ainsi qu'aux stipulations 
+des conventions et accords collectifs de travail 
+répondant au Livre II de la 2ème partie du Code du 
+travail ou mentionnées aux articles L. 8113-5 et 
+Nature des documents concernés précisée aux 
+articles L. 8113-4 et suivants du code du travail. 
+Articles L. 8112-1 
+et suivants du 
+code du travail
+
+----- page 68 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+68 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+collectifs " visées à l'article L. 
+8112-1 du code du travail. 
+suivants du code du travail et aux fins de constation des 
+infractions à ces dispositions et stipulations 
+Agents de contrôle 
+du travail illégal 
+(mentionnés à 
+l'article L. 8271-1-
+2) 
+Personnes morales et 
+physiques mentionnées aux 
+article L. 8271-4 et suivants 
+du code du travail.  
+Demande de communication dans le cadre de la 
+mission de recherche et de constat d'infractions 
+constitutives de travail illégal (infractions mentionnées à 
+l'article L. 8211-1 du code du travail). 
+ 
+Demandes pouvant être adressées par les services 
+mentionnés à l'article L. 8271-1-2 " dans la limite de 
+leurs compétences respectives en matière de travail 
+illégal " (article L. 8271-1 du code du travail).  
+" (…) documents justifiant du respect des dispositions 
+du présent livre et du chapitre II du titre VI du livre II 
+de la première partie " (L. 8271-6-2 du code du 
+travail). 
+Articles L. 8271-1 
+et suivants du 
+code du travail 
+Agents de contrôle 
+du travail dissimulé 
+(mentionnés à 
+l'article L. 8271-1-
+2) 
+Personnes morales et 
+physiques mentionnées aux 
+article L. 8271-7 et suivants 
+du code du travail.  
+Demande de communication dans le cadre de la 
+mission de recherche des infractions d'interdiction au 
+travail dissimulé (infractions mentionnées à l'article L. 
+8221-1 du code du travail). 
+ 
+Demandes pouvant être adressées par les services 
+mentionnés à l'article L. 8271-1-2 " dans la limite de 
+leurs compétences respectives en matière de travail 
+illégal " (article L. 8271-1 du code du travail).  
+Documents mentionnés aux articles L. 8271-9 et 
+suivants du code du travail. 
+Articles L. 8271-9 
+et L. 8221-3 et -5 
+du code du 
+travail 
+Inspecteurs et 
+contrôleurs du 
+travail  
+Agents et officiers 
+de police judiciaire  
+Agents des impôts 
+et des douanes 
+Opérations de marchandage 
+Demande de communication dans le cadre de la 
+mission de recherche des infractions aux dispositions 
+de l'article L. 8231-1 relatives à l'interdiction du 
+marchandage. 
+Pouvoir de se faire présenter les " devis, les bons de 
+commande ou de travaux, les factures et les contrats 
+ou documents commerciaux relatifs aux opérations de 
+prêt illicite de main-d’œuvre " (article L. 8271-15 du 
+code du travail). 
+Articles L. 8271-
+14 et 8271-15 du 
+code du travail
+
+----- page 69 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+69 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Agents de contrôle 
+mentionnés à 
+l'article L. 8112-1 
+du code du travail 
+Opérations de prêt illicite de 
+main-d'œuvre 
+Demande de communication dans le cadre de la 
+mission de lutte contre le prêt illicite de main-d'œuvre. 
+Pouvoir de se faire présenter les " devis, les bons de 
+commande ou de travaux, les factures et les contrats 
+ou documents commerciaux relatifs aux opérations de 
+marchandage " (article L. 8271-16 du code du travail). 
+Article L. 8271-
+16 du code du 
+travail 
+Inspection du 
+travail 
+Inspecteur de la 
+formation 
+professionnelle 
+Fonction publique 
+d'Etat 
+Organismes visés à l'article L. 
+6362-1 du code du travail 
+Demande de communication dans le cadre du contrôle 
+administratif et financier portant " sur tout ou partie de 
+l'activité, des actions de formation ou des dépenses de 
+l'organisme " (article L. 6361-3 du code du travail). 
+Documents et justifications à apporter selon 
+l'organisme détaillés aux articles L. 6362-1 et suivants 
+du code du travail. 
+Articles L. 6361-5 
+et suivants du 
+code du travail 
+Collectivités 
+territoriales 
+Groupements de 
+collectivités 
+Établissements 
+publics et  
+organismes 
+chargés de la 
+gestion d'un 
+service public 
+Organismes de sécurité 
+sociale chargés de la gestion 
+d'un régime obligatoire de 
+sécurité sociale 
+Demande de communication "sur un de leurs 
+ressortissants, après l'en avoir informé et aux seules 
+fins d'apprécier sa situation pour l'accès à des 
+prestations et avantages sociaux qu'ils servent" (article 
+L.115-2 du CSS). 
+"… des informations sur un de leurs ressortissants 
+(…) aux seules fins d'apprécier sa situation pour 
+l'accès à des prestations et avantages sociaux" 
+(article L.115-2 du CSS et décret d'application n° 
+2009-716 du 18 juin 2009). 
+Article L.115-2 
+du CSS 
+Commission de 
+surendettement 
+des particuliers 
+(CSP) 
+Administrations publiques 
+Établissements de crédit 
+Sociétés de financement  
+Établissements de monnaie 
+électronique 
+Établissements de paiement  
+Organismes mentionnés au 5 
+Demande de communication dans le cadre de l'examen 
+de dossiers de surendettement afin d'obtenir " une 
+exacte information sur la situation du débiteur, 
+l'évolution possible de celle-ci et les procédures de 
+conciliation amiables en cours " (article L. 712-6 du 
+code de la consommation). 
+" (…) tout renseignement de nature à lui donner une 
+exacte information sur la situation du débiteur, 
+l'évolution possible de celle-ci et les procédures de 
+conciliation amiables en cours " (article L. 712-6 du 
+code de la consommation). 
+Article L. 712-6 
+du code de la 
+consommation
+
+----- page 70 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+70 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+de l'article L. 511-6 du CMF 
+Organismes de sécurité et de 
+prévoyance sociale  
+Services chargés de 
+centraliser les risques 
+bancaires et les incidents de 
+paiement 
+Département 
+Administrations publiques 
+(notamment administrations 
+fiscales, collectivités 
+territoriales, et organismes de 
+sécurité sociale et de retraite 
+complémentaire) 
+Demande de communication par les services 
+compétents " pour vérifier les déclarations des 
+intéressés et s'assurer de l'effectivité de l'aide qu'ils 
+reçoivent" (article L. 232-16 du code de l'action sociale 
+et des familles).  
+ 
+Informations " transmises et utilisées dans des 
+conditions garantissant leur confidentialité " (article L. 
+232-16 du code de l'action sociale et des familles). 
+" (…) toutes les informations nécessaires (…). 
+Lesdites informations doivent être limitées aux 
+données nécessaires à l'identification de la situation 
+du demandeur en vue de l'attribution de l'allocation 
+personnalisée d'autonomie et au contrôle de 
+l'effectivité de l'aide, en adéquation avec le montant 
+d'allocation versé " (article L. 232-16 du code de 
+l'action sociale et des familles). 
+Article L. 232-16 
+du CASF 
+Conseil national 
+pour l'accès aux 
+origines 
+personnelles 
+(CNAOP) 
+Procureur de la République 
+Administrations ou services 
+de l'Etat et des collectivités 
+publiques  
+Organismes de sécurité 
+sociale  
+Organismes qui assurent la 
+gestion des prestations 
+sociales 
+Demande de communication d'informations permettant 
+de déterminer les adresses de la mère et du père de 
+naissance de la personne concernée. 
+S'agissant du procureur de la République : " (…) 
+éléments figurant dans les actes de naissance 
+d'origine, lorsque ceux-ci sont considérés comme nuls 
+en application de l'article 354 du code civil " (article L. 
+147-8 du CASF). 
+ 
+S'agissant des autres acteurs : " (...) renseignements 
+dont ils disposent permettant de déterminer les 
+adresses de la mère et du père de naissance " (article 
+L. 147-8 du CASF). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes   
+Opposabilité de l'article 6 de la loi n° 51-711 du 7 juin 
+Article L. 147-8 
+du CASF
+
+----- page 71 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+71 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+1951 sur l'obligation, la coordination et le secret en 
+matière de statistiques. 
+Organisme chargé 
+de l'allocation de 
+solidarité aux 
+personnes âgées 
+Administrations publiques, 
+notamment fiscales 
+Organismes de sécurité 
+sociale, de retraite 
+complémentaire et 
+d'indemnisation du chômage 
+Demande de communication d'informations en vue de 
+la " liquidation des droits et au contrôle du service de 
+l'allocation de solidarité aux personnes âgées " et à la 
+mise en œuvre du recouvrement sur les successions 
+(article L. 815-17 du CSS). 
+" (…) les renseignements qu'ils détiennent et qui sont 
+nécessaires à la liquidation des droits et au contrôle 
+du service de l'allocation de solidarité aux personnes 
+âgées, ainsi qu'à la mise en œuvre des dispositions 
+de l'article L. 815-13, notamment en ce qui concerne 
+la détermination du montant des successions " (article 
+L. 815-17 du CSS). 
+ 
+Secret professionnel : cas explicitement prévus 
+par les textes   
+Secret professionnel non opposable (article L. 815-17 
+du CSS). 
+Article L. 815-17 
+du CSS 
+Agence nationale 
+de contrôle du 
+logement social 
+Organismes mentionnés aux 
+articles L. 342-2 et L. 342-4 
+du code de la construction et 
+de l'habitation.Commissaires 
+aux comptes mentionnés à 
+l'article L. 342-7 du code de la 
+construction et de l'habitation. 
+Demande de communication d'informations afin de 
+procéder aux contrôles et évaluations prévus aux 
+articles L. 342-1 et L. 342-2 du code de la construction 
+et de l'habitation. 
+" (…) accès à tous documents, justificatifs ou 
+renseignements " (article L. 342-4 du code de la 
+construction et de l'habitation).S'agissant des 
+missions prévue à l'article L. 342-1 du code de la 
+construction et de l'habitation : " L'agence peut 
+demander tous les documents, données ou 
+justifications nécessaires à l'exercice de ses missions 
+mentionnées à l'article L. 342-1 " (article L. 342-5 du 
+code de la construction et de l'habitation). 
+S'agissant des entrepreneurs ou architectes ayant 
+traité avec des organismes soumis à un contrôle : " 
+dans l'intérêt exclusif de ce contrôle (…) tous 
+documents comptables, contrats, copies de lettre, 
+pièces de recettes et de dépenses " (article L. 342-4 
+du code de la construction et de l'habitation). 
+Articles L. 342-4 
+et suivants du 
+code de la 
+construction et 
+de l'habitation
+
+----- page 72 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+72 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+S'agissant des commissaires aux comptes des 
+organismes soumis à son contrôle : " toute information 
+recueillie dans le cadre de leur mission " (article L. 
+342-7 du code de la construction et de l'habitation).   
+Secret professionnel : cas explicitement prévus 
+par les textes   
+Secret professionnel non opposable, " sauf par les 
+auxiliaires de justice " (article L. 342-19 du code de la 
+construction et de l'habitation). 
+Commission 
+administrative 
+paritaire 
+Administrations de l'Etat et 
+établissements publics de 
+l'Etat visés à l'article 1 du  
+décret n°82-451 du 28 mai 
+1982 relatif aux commissions 
+administratives paritaires.  
+Demandes adressées dans le cadre de l'exercice de 
+leurs attributions détaillées aux articles 25 et 26 du 
+décret décret n°82-451 du 28 mai 1982 relatif aux 
+commissions administratives paritaires.  
+" toutes pièces et documents nécessaires (…) " 
+(article 1 du  décret n°82-451 du 28 mai 1982 relatif 
+aux commissions administratives paritaires).  
+Articles 1, 25, 26 
+et 39 du décret 
+n°82-451 du 28 
+mai 1982 
+Commission 
+administrative 
+paritaires des 
+collectivités 
+territoriales et de 
+leurs 
+établissements 
+publics 
+Centres de gestion auprès 
+desquels les collectivités 
+territoriales sont affiliées. 
+Demandes adressées dans le cadre de l'exercice de 
+leurs attributions détaillées à l'article 37-1 du décret 
+n°89-229 du 17 avril 1989 relatif aux commissions 
+administratives paritaires des collectivités territoriales et 
+de leurs établissements publics.  
+" toutes pièces et documents nécessaires (…) " 
+(article 35 du décret n°89-229 du 17 avril 1989 relatif 
+aux commissions administratives paritaires des 
+collectivités territoriales et de leurs établissements 
+publics). 
+Articles 35 et 37-
+1 du décret n°89-
+229 du 17 avril 
+1989 relatif aux 
+commissions 
+administratives 
+paritaires des 
+collectivités 
+territoriales et de 
+leurs 
+établissements 
+publics
+
+----- page 73 -----
+ENQUETES SOCIALE, TRAVAIL ET SANTE 
+  
+73 
+ 
+Procédure ou 
+autorité 
+Acteur soumis  
+à la demande d'informations 
+Objectifs et conditions de la demande / de l'acte 
+Nature des informations accessibles / transmissibles 
+Fondements  
+juridiques 
+Commissions 
+administratives 
+paritaires 
+nationales de la 
+fonction publique 
+hospitalière.  
+Ministères et établissements 
+cités à l'article 2 de la loi n° 
+86-33 du 9 janvier 1986 
+portant dispositions 
+statutaires relatives à la 
+fonction publique hospitalière.  
+Demandes adressées dans le cadre de l'exercice de 
+leurs attributions détaillées à l'article 32-1 du décret 
+n°91-790 du 14 août 1991 relatif aux commissions 
+administratives paritaires nationales de la fonction 
+publique hospitalière.  
+" toutes pièces et documents nécessaires (…) " 
+(article 28 du décret n°91-790 du 14 août 1991 relatif 
+aux commissions administratives paritaires nationales 
+de la fonction publique hospitalière). 
+Article 2 de la loi 
+n° 86-33 du 9 
+janvier 1986 
+portant 
+dispositions 
+statutaires 
+relatives à la 
+fonction publique 
+hospitalière.  
+ 
+Articles 28 et 32-
+1 du  décret 
+n°91-790 du 14 
+août 1991 relatif 
+aux commissions 
+administratives 
+paritaires 
+nationales de la 
+fonction publique 
+hospitalière  
+ 
+(se reporter au 
+décret n°2003-
+655 du 18 juillet 
+2003 pour les 
+CAP locales et 
+départementales)
+
+----- page 74 -----
+ABREVIATIONS 
+ 
+ 
+Abréviation Signification 
+APJ  Agent de police judiciaire 
+CASF Code de l'action sociale et des familles 
+CESEDA Code de l'entrée et du séjour des étrangers et du droit d'asile 
+CJF Code des juridictions financières 
+CMF Code des marchés financiers 
+CNDA Cour nationale du droit d'asile 
+CPC CPC : code procédure civile 
+CPCE Code des postes et des communications électroniques 
+CPI Code de la propriété intellectuelle 
+CPP Code de procédure pénale 
+CSI Code de la sécurité intérieure 
+CSP Code de la santé publique 
+CSS Code de la sécurité sociale 
+DGCCRF Direction générale de la concurrence, de la consommation et de la répression des fraudes 
+LPF Livre des procédures fiscales 
+OPJ Officier de police judiciaire 
+TGI Tribunal de grande instance

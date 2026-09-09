@@ -1,0 +1,744 @@
+
+----- page 1 -----
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Portail Plateforme 
+Numérique 
+ 
+ 
+Guide utilisateur  
+ 
+Version 2025-1 du 26 septembre 2025
+
+----- page 2 -----
+Portail Plateforme numérique 
+V2025-1 
+2 
+Guide utilisateur 
+ 
+ 
+ 
+Version 
+Crée ou 
+modifié le 
+Nature des mises à jour et commentaires 
+2025-1 
+26/09/2025 
+Version initiale – Phase bac à sable
+
+----- page 3 -----
+Portail Plateforme numérique 
+V2025-1 
+3 
+Guide utilisateur 
+Sommaire 
+1. 
+Introduction 
+4 
+1.1 
+Espace non connecté du Portail Plateformes Numériques 
+4 
+1.2 
+Qu’est-ce que le Portail Plateformes Numériques ? 
+4 
+1.3 
+Prérequis pour accéder au Portail Plateformes Numériques 
+4 
+2. 
+Espace connecté du Portail Plateformes Numériques 
+5 
+2.1 
+Généralités sur le Portail Plateformes Numériques 
+5 
+2.2 
+Connexion au Portail Plateformes Numériques 
+5 
+2.3 
+Page d’accueil du Portail Plateformes Numériques 
+6 
+2.4 
+Gestion de « mon compte » 
+7 
+2.4.1 
+Accès aux informations du profil utilisateur 
+7 
+2.4.2 
+Modification du mot de passe 
+8 
+2.5 
+Gestion des collaborateurs plateforme et des habilitations 
+8 
+2.5.1 
+Les différents profils de collaborateurs plateformes, et d’habilitations aux 
+rubriques du Portail 
+8 
+2.5.2 
+La gestion des habilitations par l’administrateur 
+9 
+2.5.3 
+Créer un collaborateur plateforme 
+11 
+2.5.4 
+Supprimer un collaborateur plateforme 
+13 
+2.6 
+Réaliser des tests à blanc via l’espace de Bac à Sable 
+14 
+2.6.1 
+Qu’est-ce que le Bac à sable ? 
+14 
+2.6.2 
+Conditions d’accès au Bac à sable 
+14 
+2.6.3 
+Déposer des fichiers tests et récupérer les fichiers retours de l’Urssaf 
+15 
+2.6.4 
+Demander l’habilitation pour réaliser des échanges réels en environnement de 
+production 
+17 
+2.7 
+Réaliser des échanges réels avec l’Urssaf 
+17 
+2.8 
+Accéder aux statistiques et tableaux de bord 
+17 
+2.9 
+Echanger avec l’Urssaf via la messagerie connectée 
+17
+
+----- page 4 -----
+Portail Plateforme numérique 
+V2025-1 
+4 
+Guide utilisateur 
+1. INTRODUCTION 
+1.1 Espace non connecté du Portail Plateformes Numériques 
+Le 
+Portail 
+Plateformes 
+Numériques 
+est 
+accessible 
+depuis urssaf.fr, 
+au 
+lien 
+suivant :  
+https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html  
+ 
+Cette page urssaf.fr, dédiée aux plateformes numériques, constitue un espace non connecté, qui doit 
+notamment permettre de : 
+▪ 
+Pour toutes les plateformes : 
+o 
+Consulter les actualités, 
+o 
+Consulter la documentation relative au dispositif (y compris la documentation 
+technique), 
+▪ 
+Pour les plateformes non encore référencées :  
+o 
+Contacter l’Urssaf via un formulaire de contact non connecté, 
+o 
+Adresser à l’Urssaf une demande de référencement via un formulaire dédié,  
+▪ 
+Pour les plateformes déjà référencées : Se connecter à leur espace. 
+ 
+1.2 Qu’est-ce que le Portail Plateformes Numériques ?  
+Dans le cadre du dispositif de prélèvement à la source des cotisations sociales des auto-entrepreneurs 
+par les plateformes numériques, un « Portail Plateformes numériques » permet aux plateformes 
+référencées (inscrites) de *:  
+▪ 
+Transmettre, à l’Urssaf, les fichiers d’identification, de déclaration, et de régularisation, 
+et d’effectuer les reversements des cotisations prélevées ; 
+▪ 
+Réceptionner les rapports émis en retours par l’Urssaf ;  
+▪ 
+Réaliser, à tout moment, des tests à blanc via un environnement de « bac à sable » ; 
+▪ 
+Suivre les échanges réalisés avec l’Urssaf, accéder à des statistiques et indicateurs. 
+▪ 
+Gérer les habilitations de leurs utilisateurs ; 
+▪ 
+Echanger avec l’Urssaf via une messagerie connectée 
+ 
+Certaines fonctionnalités décrites seront mises à disposition ultérieurement. 
+ 
+1.3 Prérequis pour accéder au Portail Plateformes Numériques  
+Afin d’accéder au Portail Plateformes Numériques, la plateforme doit être référencée au sein du 
+dispositif.  
+En 2026, pour les plateformes volontaires mettant en œuvre le dispositif de manière anticipée, un 
+formulaire de référencement sera envoyé par l’Urssaf, à compléter manuellement et à retourner, afin de 
+communiquer à l’Urssaf les éléments d’identification et désigner un administrateur pour l’espace 
+connecté du Portail Plateformes Numériques.  
+ 
+A l’issue de cette étape et après validation du dossier, le compte en ligne de l’administrateur est créé et 
+la plateforme a accès au portail Plateformes numériques. L’administrateur peut alors créer des comptes 
+pour habiliter d’autres personnes au sein de la plateforme.
+
+----- page 5 -----
+Portail Plateforme numérique 
+V2025-1 
+5 
+Guide utilisateur 
+2. ESPACE CONNECTE DU PORTAIL 
+PLATEFORMES NUMERIQUES  
+2.1 Généralités sur le Portail Plateformes Numériques  
+Les collaborateurs d’une plateforme peuvent être « administrateur local » (administrateur de la 
+plateforme), ou simple « utilisateurs ». Ces profils permettent d’accéder à différentes fonctionnalités, 
+détaillées au paragraphe §2.5.1 « Les différents profils de collaborateurs plateformes, et d’habilitations 
+aux rubriques du Portail ». 
+Tableau récapitulatif des fonctionnalités du Portail Plateformes Numériques et de leur 
+disponibilité :  
+Fonctionnalité 
+Disponibilité 
+Administrateur 
+Utilisateur 
+Page d’accueil 
+X 
+X 
+Gestion du compte personnel 
+X 
+X 
+Gestion des comptes collaborateurs de la 
+plateforme 
+X 
+ 
+Bac à sable pour les tests techniques 
+X 
+X 
+Rubrique Identification 
+A venir 
+A venir, sous réserve 
+d’habilitation 
+Rubrique Déclaration 
+A venir 
+A venir, sous réserve 
+d’habilitation 
+Rubrique Paiement 
+A venir 
+A venir, sous réserve 
+d’habilitation 
+Statistiques et tableaux de bord 
+A venir 
+A venir, sous réserve 
+d’habilitation 
+Messagerie connectée 
+A venir 
+A venir 
+ 
+2.2 Connexion au Portail Plateformes Numériques  
+La connexion au Portail Plateformes Numériques s’effectue depuis le bouton de connexion dédié sur la 
+page Plateformes Numériques urssaf.fr : https://plateforme-numerique.urssaf.fr/connexion 
+ 
+ 
+➔ Cas particulier - Première connexion :  
+A la première connexion du collaborateur, un email informant de la création du compte sur le Portail 
+Plateformes Numériques de l'Urssaf sera envoyé*.  Le collaborateur sera invité à définir un nouveau 
+mot de passe, via une procédure de mot de passe oublié.  
+A la finalisation de la procédure de changement de mot de passe, il sera possible de se connecter au 
+Portail Plateformes Numériques avec l’adresse email, et le mot de passe nouvellement défini. 
+Le collaborateur sera ensuite invité à prendre connaissance et signer les Conditions Générales 
+d’Utilisation (CGU) du Portail Plateformes Numériques. Ces CGU devront être signée :  
+▪ 
+Lors de la première connexion ; 
+▪ 
+A toute nouvelle version des CGU.
+
+----- page 6 -----
+Portail Plateforme numérique 
+V2025-1 
+6 
+Guide utilisateur 
+2.3 Page d’accueil du Portail Plateformes Numériques  
+ 
+ 
+La page d’accueil du Portail Plateformes Numériques permet d’accéder aux différentes fonctionnalités.  
+ 
+Bandeau supérieur :  
+Le bandeau supérieur constitue un menu, accessible depuis toutes les pages du Portail, 
+permettant : 
+▪ 
+D’accéder aux différents modules du Portail auxquels le collaborateur de la plateforme 
+est habilité,  
+▪ 
+De visualiser le nom de votre plateforme  
+▪ 
+D’accéder à la rubrique « mon compte »  
+ 
+Sélecteur de langue :  
+Sur plusieurs pages du Portail Plateformes Numériques, un sélecteur de langue permet 
+d’indiquer les préférences d’affichage : en français, ou en anglais.  
+Certains modules du Portail Plateformes Numériques ne peuvent être traduits. Auquel cas, le 
+bouton de traduction n’est pas disponible.  
+ 
+Rubriques :  
+Les différentes rubriques du Portail auxquelles le collaborateur de la plateforme est habilité sont 
+détaillées et affichées dans des modules cliquables. Tout comme dans le bandeau de haut de 
+page, ces modules constituent un point d’entrée pour ces différentes rubriques du Portail. 
+ 
+Actualités :  
+Un module permet de visualiser les dernières actualités du Portail. Ces dernières peuvent être 
+communes à l’ensemble des plateformes, ou spécifiques à une plateforme. 
+En cliquant sur « toutes les actualités », il est possible d’accéder à l’historique des actualités 
+publiées. 
+En cliquant sur « lire l’article », le collaborateur est renvoyé vers l’article complet.   
+  
+Bandeau de bas de page :  
+Le bandeau de bas de page est accessible depuis toutes les pages du Portail. Il permet 
+d’accéder aux mentions légales du Portail, à la politique de confidentialité et d’accessibilité, et 
+aux CGU.     
+ 
+Tableau de bord « mes évènements plateforme » : Fonctionnalité à venir
+
+----- page 7 -----
+Portail Plateforme numérique 
+V2025-1 
+7 
+Guide utilisateur 
+ 
+Fil d’activité : Fonctionnalité à venir  
+2.4 
+Gestion de « mon compte » 
+2.4.1 Accès aux informations du profil utilisateur 
+Depuis le bandeau supérieur du Portail Plateformes Numériques, il est possible d’accéder aux 
+informations du compte personnel en cliquant sur « Voir mon profil ». 
+ 
+ 
+ 
+La page « Mon profil » permet :  
+▪ 
+De visualiser les informations collaborateur : nom, prénom, adresse e-mail et 
+organisme (plateforme) ; 
+▪ 
+De modifier le mot de passe du compte ; 
+▪ 
+De consulter les habilitations collaborateur pour chaque module du Portail. 
+ 
+En tant qu’utilisateur classique (« collaborateur plateforme »), il est nécessaire de se rapprocher de 
+l’administrateur plateforme ou de l’Urssaf pour effectuer des modifications sur ces champs.
+
+----- page 8 -----
+Portail Plateforme numérique 
+V2025-1 
+8 
+Guide utilisateur 
+2.4.2 Modification du mot de passe 
+Pour modifier le mot de passe, il convient 
+de cliquer sur le bouton dédié dans la 
+page « Mon profil ».  
+  
+Un formulaire de modification de mot 
+passe s’affiche, demandant de renseigner 
+le mot de passe actuel, ainsi qu’un 
+nouveau mot de passe répondant aux 
+exigences de sécurité définies. 
+ 
+A validation du formulaire de changement 
+de mot de passe, un email de confirmation 
+sera envoyé.  
+ 
+ 
+ 
+ 
+ 
+2.5 Gestion des collaborateurs plateforme et des habilitations 
+2.5.1 Les différents profils de collaborateurs plateformes, et d’habilitations aux 
+rubriques du Portail  
+ 
+Un collaborateur plateforme peut disposer de plusieurs types d’habilitation.  
+ 
+➔ Profils de collaborateur : 
+ 
+Un collaborateur plateforme peut être :  
+▪ 
+ Administrateur local : c’est-à-dire 
+administrateur 
+de 
+sa 
+plateforme. 
+Un 
+administrateur plateforme à la possibilité de 
+créer ou supprimer d’autres collaborateurs, et 
+de gérer les habilitations de ces derniers.  
+ 
+Nb : il peut y avoir plusieurs administrateurs 
+pour une même plateforme. 
+ 
+▪ 
+ Utilisateur : 
+Un 
+utilisateur 
+« classique » ne peut pas consulter la liste 
+des autres collaborateurs inscrits sur le 
+Portail, ni gérer leurs habilitations. Il peut 
+cependant accéder aux différents modules 
+du Portail en fonction des droits qui lui sont 
+accordés par son administrateur.  
+ 
+ 
+ 
+➔ Habilitations aux rubriques :  
+L’accès à certaines rubriques n’est pas soumis à habilitation. C’est le cas pour la page d’accueil, la 
+gestion de « mon profil » et la rubrique « Bac à sable ». L’ensemble des collaborateurs d’une
+
+----- page 9 -----
+Portail Plateforme numérique 
+V2025-1 
+9 
+Guide utilisateur 
+plateforme, dès lors qu’ils disposent d’un compte sur le Portail, ont accès et peuvent interagir avec ces 
+rubriques.  
+ 
+Toutefois, l’accès à certaines rubriques est soumis à habilitation : c’est le cas des rubriques 
+« Identification », « Déclaration » et « Paiement ». 
+ 
+ 
+2.5.2 La gestion des habilitations par l’administrateur  
+Seul un administrateur local (administrateur plateforme) ou un administrateur national (administrateur 
+Urssaf) peut modifier les droits des collaborateurs d’une plateforme.  
+Pour ce faire, l’administrateur dispose d’un menu « Administration » dans l’icône de son compte.  
+ 
+ 
+Depuis cet écran, l’administrateur accède à la liste des collaborateurs de la plateforme inscrits sur le 
+portail plateformes numériques.  
+ 
+ 
+ 
+Il a la possibilité d’accéder au détail d’un des collaborateurs en cliquant sur sa ligne, afin de modifier 
+ses informations, ou ses habilitations.
+
+----- page 10 -----
+Portail Plateforme numérique 
+V2025-1 
+10 
+Guide utilisateur 
+ 
+ 
+Le collaborateur plateforme peut être habilité sur plusieurs modules :  
+▪ 
+« Identification et déclaration » : Les rubriques « Identification » et « Déclaration » 
+sont rassemblés au sein d’un même module d’habilitation. Il n’est pas possible 
+d’accorder des droits plus fins pour ces rubriques.  
+▪ 
+« Paiement »  
+ 
+L’administrateur pourra accorder des accès 
+en consultation uniquement, ou en mise à 
+jour sur ces modules. *  
+ 
+Si 
+la 
+coche 
+« mise 
+à 
+jour » 
+est 
+sélectionnée, 
+alors 
+la 
+coche 
+« consultation » est sélectionnée par défaut 
+en lecture seule.  
+ 
+La coche « consultation » pourra être 
+décochée uniquement si la coche « mise à 
+jour » n’est plus cochée. 
+ 
+ 
+ 
+ 
+ 
+A la création d'un nouveau collaborateur, ce dernier dispose par défaut des habilitations suivantes : 
+▪ 
+Habilitation à l’« Espace Plateformes Numériques » (  il s’agit d’un prérequis pour 
+pouvoir accéder au Portail) 
+▪ 
+Rôle : utilisateur  
+▪ 
+« Mise à jour » sur l'ensemble des modules. 
+ 
+A noter : Lorsqu'un collaborateur se voit attribuer le rôle "Administrateur Local", l'ensemble des 
+habilitations sont cochées en mise à jour. 
+* Les détails des actions possibles en consultation ou en mise à jour sur chaque module sont 
+précisés dans les rubriques dédiées.
+
+----- page 11 -----
+Portail Plateforme numérique 
+V2025-1 
+11 
+Guide utilisateur 
+ 
+2.5.3 Créer un collaborateur plateforme 
+Seuls un administrateur local (administrateur plateforme) ou un administrateur national (administrateur 
+Urssaf) peuvent créer un nouveau collaborateur pour une plateforme.  
+ 
+Pour ce faire, un menu « Administration » est accessible pour les administrateurs. 
+ 
+ 
+Cet écran affiche la liste des collaborateurs de la plateforme inscrits sur le portail plateformes 
+numériques.  
+ 
+ 
+ 
+En cliquant sur « + créer un nouvel utilisateur », il est possible de compléter un formulaire de création 
+de compte collaborateur.
+
+----- page 12 -----
+Portail Plateforme numérique 
+V2025-1 
+12 
+Guide utilisateur 
+ 
+ 
+A la création d'un nouveau collaborateur, ce dernier dispose par défaut des habilitations suivantes : 
+▪ 
+Habilitation à l’« Espace Plateformes Numériques » (  il s’agit d’un prérequis pour 
+pouvoir accéder au Portail) 
+▪ 
+Rôle : utilisateur  
+▪ 
+« Mise à jour » sur l'ensemble des modules. 
+ 
+Ces habilitations peuvent être modifiées comme souhaité.  
+ 
+ 
+ 
+A validation du formulaire de création d’un 
+nouvel utilisateur, ce dernier recevra un 
+email lui permettant de finaliser la création 
+de son compte, en définissant un mot de 
+passe via la procédure de « mot de passe 
+oublié ».
+
+----- page 13 -----
+Portail Plateforme numérique 
+V2025-1 
+13 
+Guide utilisateur 
+2.5.4 Supprimer un collaborateur plateforme   
+Seul un administrateur local (administrateur plateforme) ou un administrateur national (administrateur 
+Urssaf) peut supprimer le compte d’un collaborateur plateforme.  
+ 
+Pour ce faire, un menu « Administration » est accessible pour les administrateurs. 
+ 
+ 
+ 
+Cet écran affiche la liste des 
+collaborateurs de la plateforme 
+inscrits sur le portail plateformes 
+numériques.  
+ 
+ 
+ 
+ 
+ 
+En cliquant sur la ligne d’un 
+collaborateur, 
+l’administrateur 
+accède à sa fiche détaillée, et à la 
+possibilité de la « modifier ». 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Depuis l’écran de modification d’un 
+collaborateur, il est possible de 
+cliquer sur « supprimer ».  
+ 
+Lors de sa prochaine tentative de 
+connexion, le collaborateur ne 
+pourra 
+accéder 
+au 
+Portail 
+Plateformes Numériques.
+
+----- page 14 -----
+Portail Plateforme numérique 
+V2025-1 
+14 
+Guide utilisateur 
+A noter : s’il ne reste qu’un seul collaborateur habilité au Portail Plateformes Numériques pour une 
+plateforme, alors il devient par défaut administrateur local, et son compte ne peut pas être supprimé.   
+ 
+ 
+2.6 Réaliser des tests à blanc via l’espace de Bac à Sable  
+2.6.1 Qu’est-ce que le Bac à sable ?  
+Le bac à sable est un ensemble de fonctionnalités simplifiées permettant aux plateformes de tester à 
+tout moment le dispositif de bout en bout (hors paiement), en déposant des fichiers tests d’identification 
+et/ou des fichiers tests de déclaration, et en obtenant en retour un « rapport » d’intégration (rapport 
+global et/ou détaillé). 
+Accessible à tout moment et non connectées aux environnements de production Urssaf, ces 
+fonctionnalités permettront : 
+▪ 
+Aux nouvelles plateformes intégrant le dispositif : de réaliser les tests nécessaires à 
+l’obtention de l’autorisation officielle pour démarrer les échanges réels en environnement de 
+production avec l’Urssaf. 
+▪ 
+Aux plateformes déjà habilités à réaliser les échanges réels en environnement de 
+production : de réaliser des tests autant que de besoin (par exemple en cas d’évolution du 
+dispositif ou du champ d’activité de la plateforme). 
+ 
+Le Bac à sable est constitué de trois écrans :  
+▪ 
+Un écran dédié aux tests à blanc pour l’identification des utilisateurs, 
+▪ 
+Un écran dédié aux tests à blanc pour la déclaration, 
+▪ 
+Un écran pour effectuer une demande d’accès à l’environnement de production, 
+lorsqu’applicable. 
+ 
+ 
+ 
+2.6.2 Conditions d’accès au Bac à sable 
+L’espace Bac à sable est accessible depuis la page d’accueil de l’espace connecté, rubrique « Bac à 
+sable ». 
+Il est accessible et peut être utilisé par tous les collaborateurs de la plateforme, peu importe leur profil 
+(administrateur local ou utilisateur) et leurs droits. Autrement dit, il n’est pas possible de restreindre 
+l’accès au Bac à sable à certains collaborateurs d’une plateforme uniquement. 
+Le Bac à sable est accessible lorsque la plateforme n’a pas encore l’habilitation pour réaliser les 
+échanges réels avec l’Urssaf en environnement de production. Il reste accessible une fois la plateforme 
+habilitée à réaliser des échanges réels en environnement de production.
+
+----- page 15 -----
+Portail Plateforme numérique 
+V2025-1 
+15 
+Guide utilisateur 
+ 
+2.6.3 Déposer des fichiers tests et récupérer les fichiers retours de l’Urssaf  
+ 
+ 
+Transmettre un fichier test 
+Pour déposer un fichier test d’identification ou de déclaration, il convient de se rendre sur la rubrique 
+dédiée « tests à blanc identification » ou « tests à blanc déclaration ».  
+ 
+Un bouton « + Transmettre un fichier » permet de déposer un fichier xml, au format .gz, dans a limite 
+de 100Mo.  
+ 
+L’ensemble des règles de construction du fichier xml sont précisées dans les contrats d’interface 
+« UCN_ContratInterface_PhaseIdentification_FR » 
+et 
+« UCN_ContratInterface_PhaseDeclaration_FR » disponibles sur urssaf.fr :  
+https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html 
+ 
+Lorsqu’un fichier test a été déposé par la plateforme et que ce dernier est toujours en cours de traitement 
+et n’a pas encore fait l’objet d’un rapport retourné par l’Urssaf, un nouveau fichier du même type 
+(identification / déclaration) ne peut pas être transmis. 
+ 
+ 
+Accéder aux retours Urssaf  
+Une fois le fichier traité, les informations retour de l’Urssaf sont affichées dans l’encart « Dernier 
+rapport ». 
+Cet encart permet de retrouver, pour le dernier fichier transmis uniquement :  
+ 
+➔ Pour un fichier d’identification :  
+▪ 
+La période déclarative concernée par le fichier ;
+
+----- page 16 -----
+Portail Plateforme numérique 
+V2025-1 
+16 
+Guide utilisateur 
+▪ 
+Les informations concernant le fichier déposé : nom, date de dépôt, utilisateur ayant réalisé 
+le dépôt, statut du fichier (intégré, en cours de traitement, ou rejeté) et, si le fichier n’a pas 
+été rejeté, le nombre d’utilisateurs transmis ; 
+▪ 
+Les retours Urssaf : fichiers retours (rapport global, rapport détaillé, fichier des utilisateurs à 
+prélever), 
+date 
+de 
+réponse, 
+nombre 
+d’autoentrepreneurs 
+identifiés 
+et 
+nombre 
+d’autoentrepreneurs signalés.  
+ 
+ 
+* Un fichier spécifique des utilisateurs signalés peut être téléchargé en cliquant sur la donnée 
+afférente. 
+ 
+➔ Pour un fichier de déclaration :  
+▪ 
+La période déclarative concernée par le fichier ; 
+▪ 
+Les informations concernant le fichier déposé : nom, date de dépôt, utilisateur ayant réalisé 
+le dépôt, statut du fichier (intégré, en cours de traitement, ou rejeté) et, si le fichier n’a pas 
+été rejeté, le nombre d’utilisateurs concernés, le chiffre d’affaires concerné, ainsi que le 
+montant de prélèvement concerné ; 
+▪ 
+Les retours Urssaf : fichiers retours (rapport global, rapport détaillé), date de réponse, et 
+nombre de lignes en erreur*.  
+ 
+ 
+ 
+* Un fichier spécifique des utilisateurs signalés peut être téléchargé en cliquant sur la donnée 
+afférente. 
+ 
+Accéder à l’historique des tests 
+Un dernier encart « Historique des tests » permet d’accéder à une vision consolidée des tests 
+effectués depuis l’environnement de Bac à Sable.  
+ 
+Il est possible de visualiser le nombre de tests « identification » ou « déclaration » effectués, et parmi 
+ceux-ci, le nombre de tests non concluants (rejetés), le nombre de tests concluants, la date du dernier 
+test et le statut du dernier test.  
+ 
+Un accordéon permet d’afficher le détail de chaque test effectué : date de réception du fichier test, 
+nombre de lignes présentes dans le fichier de test, dont nombre de lignes valides et nombre de lignes 
+en erreur.
+
+----- page 17 -----
+Portail Plateforme numérique 
+V2025-1 
+17 
+Guide utilisateur 
+2.6.4 Demander l’habilitation pour réaliser des échanges réels en environnement 
+de production 
+Avant de pouvoir réaliser des échanges réels de fichiers avec l’Urssaf en environnement de production, 
+la plateforme doit réaliser un certain nombre de tests concluants sur l’environnement « Bac à sable ».  
+ 
+Un écran spécifique permet aux collaborateurs plateformes habilités en mise à jour au droit 
+« Identification et déclaration » d’effectuer une demande d’autorisation pour débuter les échanges 
+réels en environnement de production. 
+ 
+Dans l’attente du démarrage de la phase pilote, cet écran est neutralisé. 
+ 
+Les conditions pour demander l’accès à l’environnement de production seront précisées dans une 
+version ultérieure de ce guide utilisateur. 
+ 
+ 
+2.7 Réaliser des échanges réels avec l’Urssaf  
+Dans l’attente du démarrage de la phase pilote, les écrans liés aux échanges réels en environnement 
+de production (identification, déclaration, paiement) sont neutralisés.  
+ 
+Description des fonctionnalités à venir. 
+ 
+2.8 Accéder aux statistiques et tableaux de bord 
+Description des fonctionnalités à venir. 
+ 
+ 
+2.9 Echanger avec l’Urssaf via la messagerie connectée 
+Description des fonctionnalités à venir.

@@ -1,0 +1,252 @@
+
+----- page 1 -----
+Les outils pour convertir un visiteur en client
+Tous secteurs confondus, les taux de conversion  moyens oscillent entre 1 et 4 % sur une boutique en 
+ligne. Autrement dit, moins d’une visite sur dix donne lieu à une vente.
+Derrière toutes ces ventes manquées figurent des internautes hésitants ou peut-être déçus qui peuvent 
+encore être convertis en clients. Ils constituent un vivier à valoriser en procédant à différents types de 
+relance. 
+Cette notice donne des pistes permettant de déclencher une vente à trois moments clés d’une visite 
+sur un site marchand.
+Performance 
+numérique
+Votre rendez-vous mensuel
+Quand le visiteur hésite
+CCI DORDOGNE - Performance numérique - NOVEMBRE 2015
+1
+Il est possible d’agir avant que l’inter-
+naute quitte le site. Voici quelques 
+outils permettant de le convaincre :
+> Le chat
+Il permet d’afficher une fenêtre de 
+dialogue proposant à l’internaute de 
+l’aider dans ses recherches. Les solu-
+tions payantes offrent un peu plus 
+d’options que les offres gratuites. 
+Le chat peut par exemple s’afficher 
+sur une période donnée ou selon 
+le montant du produit consulté par 
+l’internaute (Exemple de traitement : 
+si une personne regarde un produit 
+> 1 000€, le e-commerçant engage la 
+discussion et essaye de l’orienter vers 
+un appel téléphonique).
+Il faut, bien entendu, éviter d’afficher 
+le chat si personne ne peut répondre. 
+Prévoir également d’avoir une pré-
+sence sur le chat lors de l’envoi d’un 
+e-mailing.
+L’impact du chat reste léger sur le 
+taux de conversion. En revanche, 
+c’est un élément de rassurance car le 
+visiteur se rend compte qu’il y a une 
+personne derrière le site. C’est aussi 
+un bon moyen pour récupérer des 
+informations sur la perception du 
+site (sur la qualité de navigation par 
+exemple).
+> Le rappel
+Le rappel propose à l’internaute 
+de laisser son numéro et d’être re-
+contacté par l’équipe du site. Si un 
+engagement est pris sur le délai de 
+rappel (contact dans les 48h par 
+exemple), il convient d’être à la hau-
+teur de la promesse.
+Il est possible de proposer des cré-
+neaux horaires afin que l’internaute 
+soit rappelé au moment où il est le 
+plus disponible.
+> Le pop-up
+Le pop-up est une fenêtre apparais-
+sant spontanément. Très répandu 
+pour faire de la publicité, il peut avoir 
+une tout autre utilité sur une bou-
+tique en ligne. 
+Il permet notamment de récupérer 
+des emails en échange d’informa-
+tions : proposition de conseils thé-
+matiques, télécharger une vidéo, un 
+pdf,… Le but étant ensuite de pou-
+voir relancer les internautes via des 
+emailings.
+Le pop-up peut aussi être utilisé pour 
+proposer une offre spéciale (coupon 
+de réduction, livraison offerte…) à 
+l’internaute qui semble hésiter sur 
+une page.
+Il existe plusieurs systèmes de pop-
+up intégrables sur les sites. La plu-
+part d’entre eux permettent de 
+déterminer la durée après laquelle 
+se déclenche l’affichage du pop-up 
+(exemple : après 5 secondes sans clic 
+sur une page produit). 
+Le site Cdiscount propose un pop-up de négo-
+ciation en ligne. Si un internaute n’ajoute pas 
+un produit au panier, une fenêtre apparaît au 
+bout de quelques secondes pour lui demander 
+combien il est prêt à payer pour cet article. Si la 
+somme proposée est trop basse, une nouvelle 
+proposition est faite par Cdiscount.
+
+----- page 2 -----
+CCI DORDOGNE - Performance numérique - NOVEMBRE 2015
+2
+> Le pop-up de sortie
+Le pop-up de sortie s’affiche lorsque 
+l’internaute quitte le site en propo-
+sant par exemple une remise ou de 
+laisser son adresse email pour rece-
+voir des offres. Cependant, il ne fonc-
+tionne pas sur les mobiles.
+> Le reciblage publicitaire
+Aussi appelé retargeting, ce système 
+permet de faire apparaître un pro-
+duit consulté par un visiteur dans 
+des encarts publicitaires présents 
+sur d’autres sites. Techniquement, 
+l’internaute consulte un produit sur 
+un site, un cookie est installé sur son 
+disque dur1. Il se rend ensuite sur un 
+autre site disposant d’un encart pu-
+blicitaire dédié au reciblage publici-
+taire. Grâce au cookie, ce site affiche 
+dans l’encart le produit consulté par 
+l’internaute.
+Pour faire du retargeting, il faut 
+s’adresser à une régie publicitaire 
+telle que Critéo, Nextperformance ou 
+AdWords. 
+Quand le visiteur quitte le site
+Quelques jours après la visite
+> Récupérer les données
+Pour pouvoir relancer l’internaute, il 
+faut parvenir à récupérer ses coor-
+données (adresse email ou télé-
+phone) lorsqu’il visite le site. Voici 
+quelques suggestions :
+•	 Système d’alerte du stock. Propo-
+ser à l’internaute d’être averti par 
+email lorsqu’un produit est de 
+nouveau en stock.
+•	 Contenu gratuit. Il s’agit d’offrir 
+gratuitement le téléchargement 
+d’un contenu en échange de 
+coordonnées : outil de configu-
+ration sur un tableur, patron de 
+couture, calendrier original, jeux/
+coloriages pour enfants…
+•	 Offre « sur mesure ». Proposer 
+au visiteur de créer un compte 
+pour exprimer sa demande et lui 
+répondre de manière personna-
+lisée.
+Les adresses emails obtenues via des concours 
+s’avèrent souvent peu efficaces. Elles proviennent 
+surtout de joueurs et non d’acheteurs potentiels. 
+Elles génèrent de ce fait un fort taux de désabon-
+nement. 
+> Quand relancer l’internaute ?
+Dans le cas d’un abandon de panier, 
+il n’apparaît pas pertinent de relancer 
+un prospect immédiatement. Parfois 
+la commande arrive en effet dans les 
+24 h. Il peut simplement s’agir d’un 
+problème avec la banque ou une 
+attente de carte bancaire. 
+La relance doit néanmoins être faite 
+après un délai plutôt court (< 8 jours) 
+car le prospect risque d’acheter ail-
+leurs ou d’oublier. Certains avancent 
+un délai maximal de 515 min après 
+lesquelles 70% à 80% des prospects 
+sont perdus. 
+En matière de relance, il convient de 
+ne pas se monter trop intrusif. Un 
+juste milieu doit être trouvé entre 
+une démarche trop pressante et une 
+action trop tardive.
+> Choisir une stratégie de 
+relance
+Relancer un prospect peut prendre 
+du temps et doit donc être justifié. 
+Mettre en place une stratégie per-
+met d’optimiser ce temps. Voici com-
+ment procéder :
+La relance manuelle
+La relance manuelle consiste à télé-
+phoner ou envoyer un message 
+personnalisé un visiteur. Ce type de 
+relance est la plus chronophage et 
+doit donc être réservé pour les pa-
+niers dont le montant est important 
+ou si la cause d’abandon le justifie 
+(exemple : délai d’authentification de 
+la carte bancaire dépassé).
+L’appel téléphonique permet en 
+outre d’avoir un retour client sur 
+l’usage du site et s’avère riche en 
+enseignement dans la relation client. 
+La relance automatique
+Il s’agit d’envoyer des emailings à 
+tous les internautes ayant abandon-
+né leur panier et de les convaincre 
+d’aller jusqu’au paiement en leur 
+proposant une offre spéciale ou un 
+cadeau ajouté à leur commande par 
+exemple. 
+Selon l’outil d’emailing utilisé, le mes-
+sage pourra être plus ou moins per-
+sonnalisé et son envoi programmé 
+automatiquement en fonction du 
+comportement de l’internaute sur le 
+site. Par exemple, deux internautes vi-
+sitent le site, le premier le quitte rapi-
+dement, il ne recevra rien. Le second 
+ajoute un produit dans son panier 
+et laisse son adresse email. Le lende-
+main, un email lui sera automatique-
+ment envoyé pour qu’il confirme sa 
+commande.
+Si l’adresse email d’un internaute 
+n’est pas connue, il existe une autre 
+solution, l’email retargeting. Il s’agit 
+en fait de faire appel à la base de 
+données d’autres e-commerçants 
+affiliés au même service d’email re-
+targeting. Si un visiteur a déjà laissé 
+son adresse email à l’un de ces sites 
+partenaires, le service de reciblage se 
+charge d’envoyer le message auto-
+matique de relance.
+1Le cookie est un petit fichier installé sur le disque dur de l’ordinateur de l’internaute. Il permet de reconnaître un visiteur lorsqu’il revient sur un site web. Il ne pourra cependant pas faire la 
+différence entre deux visiteurs différents se connectant à partir du même ordinateur.
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - NOVEMBRE 2015
+3
+Aucune relance 
+Parfois, le ratio temps passé ou coût 
+(dans le cas du reciblage) / transfor-
+mation n’est pas rentable. Dans ce 
+cas, il est préférable de ne pas faire 
+de relance. 
+Votre prochain rdv numérique :
+« Qu’est-ce que
+le cross canal ? »
+La prochaine lettre Performance 
+Numérique vous aidera à com-
+prendre ce que l’on peut attendre 
+du cross-canal, quelle stratégie 
+mettre en place et les enjeux de 
+la maîtrise des données clients.
+VOTRE contact
+Samuel COSTE 
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+ 
+Rdv le 8 décembre à la CCI Dordogne pour l’Atelier 
+numérique « Ergonomie web, UX et qualité web »
+Inscription en ligne ici

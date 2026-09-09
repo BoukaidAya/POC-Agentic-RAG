@@ -1,0 +1,396 @@
+
+----- page 1 -----
+Les prestataires de site web pré-
+sentent différemment leur devis mais 
+respectent une trame commune, en 
+règle générale : un volet consacré 
+à la création du site, et un second à 
+son fonctionnement dans le temps. 
+Chaque partie est elle même décou-
+pée en plusieurs types de prestations 
+(graphisme, développement informa-
+tique, hébergement,…) chiffrées de 
+manière indépendante (en lots).
+Il convient donc de rester vigilant et 
+d’interroger le prestataire si :
+•	 Le devis n’est pas détaillé : toutes 
+les prestations fournies doivent 
+être listées car dès lors qu’il est 
+daté et signé par les deux parties, 
+celui-ci revêt une valeur contrac-
+tuelle.
+•	 Les prestations sont estimées par 
+lot. Même le devis d’un site vi-
+trine de quelques pages doit être 
+détaillé par type de coût car les 
+prestations sont calculées diffé-
+remment : la création graphique 
+dépend du temps passé, l’héber-
+gement quant à lui est chiffré 
+en fonction de caractéristiques 
+techniques (volume de stockage, 
+bande passante…)
+Attention, il convient de se méfier des prestataires 
+qui obligent le client à signer le devis immédiate-
+ment pour bénéficier d’un tarif avantageux. Cette 
+pratique peut cacher une arnaque consistant à 
+vendre un équipement en leasing (tel qu’un ordi-
+nateur portable ou une caméra vidéo) et d’offrir 
+la création du site.
+Si le client n’est pas satisfait de la prestation, il ne 
+peut pas se retourner contre le prestataire car le 
+contrat porte sur l’achat de matériel, pas sur la 
+création d’un site web.
+Comment lire un devis de création 
+de site web ?
+En matière de création ou de refonte d’un site Internet, il apparaît souvent difficile de faire un choix 
+parmi les propositions qui font suite à une consultation. Même en fournissant un cahier des charges 
+précis, il est courant de constater d’importants écarts de prix d’un devis à l’autre. 
+Par ailleurs, certains postes comme le référencement ou la maintenance sont parfois peu détaillés et le 
+vocabulaire employé se révèle trop technique.
+Au final, le client à du mal à savoir ce qu’il achète !
+Cette notice apporte les clés de lecture permettant de décrypter un devis.
+Performance 
+numérique
+Votre rendez-vous mensuel
+Préambule
+CCI DORDOGNE - Performance numérique - JANVIER 2015
+1
+Création du site
+> Développement 
+informatique
+Le montant d’un devis varie prin-
+cipalement en fonction du temps 
+consacré par le prestataire au déve-
+loppement informatique. Celui-ci est 
+fonction du degré de standardisation 
+de l’architecture du site. 
+Chaque site est construit à partir 
+d’un noyau standard comprenant 
+des fonctions basiques. Les presta-
+taires ajoutent à ce noyau des déve-
+loppements spécifiques en fonction 
+des besoins de leurs clients. Plus le 
+site est personnalisé, plus le presta-
+taire y consacre du temps et plus le 
+montant de la prestation sera élevé.
+
+----- page 2 -----
+CCI DORDOGNE - Performance numérique - JANVIER 2015
+2
+Voici comment reconnaitre les prin-
+cipales offres du marché d’après le 
+devis.
+1.	 Les offres packagées
+Il s’agit de sites composés unique-
+ment d’un noyau standard façonné 
+par un éditeur (exemple : Powerbou-
+tique, Oxatis…). 
+ Ces offres sont présentées sous 
+formes de packages selon le type de 
+prestations choisi (3 ou 4 formules 
+en général).
+ 
+L’architecture simple de cette solu-
+tion en fait une des offres les moins 
+chères du marché.
+ 
+Les offres packagées sont difficile-
+ment personnalisables. 
+2.	 Les solutions éditeurs
+Il s’agit de solutions développées par 
+des sociétés d’ingénierie informa-
+tique et vendues en direct, ou par 
+l’intermédiaire d’une agence web 
+partenaire. Les éditeurs de solution 
+web proposent un noyau standard 
+amélioré par leur soin et générale-
+ment personnalisable selon les be-
+soins des clients.
+Selon la renommée et la richesse 
+fonctionnelle de la solution, les prix 
+varient considérablement. 
+ Ce type d’offre est le plus difficile 
+à reconnaitre sur un devis car le nom 
+de l‘application utilisée est rarement 
+mentionné. Le devis est chiffré de 
+manière forfaitaire (montant global 
+pour le développement informa-
+tique et les tests) ou selon les fonc-
+tionnalités choisies par le client.
+•	 Le client bénéficie d’une solution 
+fonctionnellement plus riche 
+qu’une offre packagée
+•	 Des 
+développements 
+spéci-
+fiques peuvent être réalisés 
+pour s’adapter aux besoins et au 
+contexte du client.
+•	 L’éditeur fait évoluer sa solution 
+de manière régulière.
+•	 Il est difficile de jauger la per-
+formance de la solution et son 
+adéquation avec les besoins de 
+l’entreprise sur la base d’un devis. 
+Il convient donc de tester la solu-
+tion et de faire appel aux clients 
+de l’éditeur pour affiner son point 
+de vue sur la solution.
+•	 Le client n’est pas complètement 
+propriétaire de son site car l’édi-
+teur conserve ses droits d’auteur 
+sur la solution. Aussi, toute migra-
+tion vers une autre solution signi-
+fie qu’il faut recréer une nouvelle 
+architecture.
+3.	 Les solutions open source
+Il s’agit de solutions créées par un 
+éditeur et perfectionnées par une 
+large communauté de développeurs. 
+Beaucoup de sites ont ainsi été dé-
+veloppés sur CMS Made Simple ou 
+TYPO3. En matière de e-commerce 
+OsCommerce et Joomla utilisés au 
+début des années 2000 ont progres-
+sivement laissé place à des solutions 
+open source dites « modulaires », 
+telles que Magento et Prestashop. 
+Ces solutions comportent un noyau 
+de départ auquel on peut ajouter 
+des modules standards, gratuits ou 
+payants. 
+ Les devis mentionnent générale-
+ment le nom de la solution utilisée. 
+•	 Une indépendance vis-à-vis du 
+prestataire. En cas de migration, 
+le client reste propriétaire de l’ar-
+chitecture du site.
+•	 Le client peut ajouter lui-même 
+des fonctions à son site en ache-
+tant des modules conçus par 
+des développeurs sur la place de 
+marché de la solution. 
+•	 Des modules spécifiques per-
+mettent de s’interconnecter avec 
+d’autres progiciels (ERP, gestion 
+commerciale,…).
+ 
+Il faut provisionner un budget an-
+nuel pour faire intégrer par un déve-
+loppeur les mises à jour de la solution 
+développées par la communauté.
+4.	 Les offres sur-mesure
+Il s’agit de sites dont les fonctions 
+ont été spécifiquement développées 
+pour couvrir les besoins du client. Ce 
+type d’offre s’applique à des sites aty-
+piques permettant, par exemple, à 
+l’internaute de personnaliser un pro-
+duit (couleur, accessoires…) ou de 
+rechercher un produit dans un cata-
+logue à l’aide d’un configurateur. Les 
+offres sur-mesure s’adressent égale-
+ment aux demandes plus spécifiques 
+comme la création d’une place de 
+marché ou d’un réseau social.
+ Les devis sont en général très dé-
+taillés car ils font intervenir plusieurs 
+compétences spécialisées (chef de 
+projet, directeur artistique, architecte 
+technique…). Ils peuvent d’ailleurs 
+être chiffrés en fonction du temps 
+passé par chaque personne sur le 
+site (coût à l’heure).
+ 
+Solution au plus près des besoins de 
+l’entreprise et permettant de se dé-
+marquer des concurrents.
+•	 Solution la plus onéreuse du 
+marché
+•	 Forte dépendance vis-à-vis du 
+prestataire
+•	 Mises à jour plus difficiles et 
+plus onéreuses que les solutions 
+packagées, développées par un 
+éditeur ou open source dont les 
+mises à jour sont développées 
+pour plusieurs clients.
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - JANVIER 2015
+3
+Cette partie du devis porte sur des 
+prestations récurrentes annuelles.
+> Référencement
+En général, la ligne « référencement » 
+comprend l’optimisation du référen-
+cement naturel à la création du site 
+et dans le temps. Cette prestation 
+doit être détaillée dans la proposi-
+tion commerciale qui l’accompagne. 
+A défaut, il convient vérifier auprès 
+du prestataire s’il a prévu a minima :
+•	 D’optimiser les balises1 (titre, 
+meta description, H1, H2, attri-
+buts Alt) 
+•	 De fournir des statistiques sur le 
+trafic 
+•	 De proposer des pistes d’amé-
+lioration en matière de réfé-
+rencement : contenu éditorial, 
+échange de liens,…
+Cette ligne est parfois assortie d’une 
+prestation de référencement payant 
+sur Google Adwords incluant la créa-
+tion des annonces et le suivi des sta-
+tistiques par le prestataire. 
+Habituellement, cette prestation n’in-
+tègre pas les coûts inhérents à l’utili-
+sation du service de Google Adwords 
+(coûts des clics).
+> Hébergement
+La prestation « hébergement » peut 
+être facturée à l’année ou au mois. 
+Elle couvre l’hébergement du site 
+chez un professionnel du domaine et 
+la gestion des sauvegardes. Son coût 
+varie selon plusieurs critères : 
+•	 le volume de données, qui pourra 
+être important pour un site mar-
+chand comportant beaucoup de 
+photos.
+•	 les besoins en bande passante, 
+importants si le site doit faire face 
+à de forts pics de connexions si-
+multanées d’internautes.
+•	 le type de développement du 
+site. Un site sur Magento, par 
+exemple, implique nécessaire-
+ment un hébergement dédié2 
+•	 …
+Selon ses caractéristiques, l’héberge-
+ment varie entre 4€ et 800€ par mois.
+Par ailleurs, la prestation d’héberge-
+ment peut intégrer l’achat du nom 
+de domaine (à partir de 6€ par an). Si 
+tel est le cas, il convient de s’assurer 
+que l’entreprise reste propriétaire du 
+nom de domaine.
+> Maintenance
+Il convient de distinguer mainte-
+nance corrective et maintenance 
+évolutive. 
+La maintenance corrective consiste 
+à corriger les défauts de fonctionne-
+ment du site. Elle est en principe fac-
+turée de manière forfaitaire.
+Charges de fonctionnement
+> Graphisme
+Cette prestation apparaît en géné-
+ral assez clairement dans un devis. 
+Dans la plupart des cas, son montant 
+correspond à une somme globale 
+comprenant l’élaboration d’une ou 
+plusieurs maquettes graphiques et 
+de leur intégration au site, bien que 
+ces deux prestations recouvrent des 
+métiers différents.
+Le coût du graphisme varie en fonc-
+tion des éléments à créer. Faut-il 
+créer une charte graphique / un logo 
+ou adapter l’existant au format web ?
+Le prestataire peut également créer 
+des éléments de graphisme comme 
+des pictogrammes ou acheter des 
+images pour illustrer certaines pages.
+De manière générale, plus l’entre-
+prise apportera de contenu (images, 
+logo, éléments graphique…), moins 
+le montant sera élevé.
+L’intégration du graphisme consiste 
+ensuite à créer des gabarits ou mo-
+dèles de pages : une page d’accueil 
+et un gabarit de page intérieure, par 
+exemple. Le nombre de gabarits à 
+créer augmentera d’autant la facture.
+Il est possible de consulter une agence de com-
+munication indépendante du prestataire du site 
+pour réaliser le graphisme. Il faut bien garder à 
+l’esprit que cette agence doit avoir une spéciali-
+sation en web design : on ne produit pas un site 
+comme une plaquette publicitaire.
+> Gestion de projet
+Cette prestation est nécessaire pour 
+garantir le bon déroulement du pro-
+jet et le respect du planning. Le chef 
+de projet est chargé notamment 
+de faire le lien entre le client et les 
+différentes compétences qui inter-
+viennent sur le site (infographiste, 
+développeur,…). Il tient le client 
+informé de l’avancement du projet, 
+spécifie les besoins et les principes 
+de navigation, fait valider les livrables 
+(maquette fonctionnelle, charte gra-
+phique, ergonomie,…) et accom-
+pagne le déploiement du site (for-
+mation, communication).
+Le coût de la gestion de projet est 
+calculé sur la base d’un forfait jour. Le 
+devis fait donc apparaitre un nombre 
+de jours.
+> Formation
+Ce volet est assez courant dans un 
+devis mais pas obligatoire. Il consiste 
+à facturer quelques heures de forma-
+tion d’une ou plusieurs personnes de 
+l’entreprise sur l’utilisation du back-
+office du site.
+Cette prestation peut être réalisée 
+dans l’entreprise ou par téléphone. 
+Elle inclue parfois quelques heures 
+d’assistance téléphonique.
+1 Ces balises contiennent les mots clés qui vont être indexés par les moteurs de recherche.
+2 Hébergement dédié : le site possède son propre serveur contrairement à l’hébergement mutualisé où plusieurs sites sont hébergés sur un seul serveur.
+
+----- page 4 -----
+CCI DORDOGNE - Performance numérique - JANVIER 2015
+4
+VOTRE contact
+Samuel COSTE 
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+ 
+CCI DORDOGNE
+Votre prochain rdv numérique :
+« Mesurer le trafic de 
+son site web »
+S’agissant de solutions open source, 
+cette prestation n’est pas automa-
+tique. Il convient néanmoins de la 
+budgéter dès la création du site et de 
+la renouveler chaque année.
+La maintenance évolutive consiste 
+à faire évoluer la solution en l’enri-
+chissant de fonctions ou de modules 
+supplémentaires, ou en remplaçant 
+une fonction existante par une autre.
+Dans le cas d’une solution dévelop-
+pée par un éditeur, deux fonction-
+nements sont envisageables : soit le 
+prestataire intègre la maintenance 
+évolutive à la maintenance correc-
+tive, soit le client devra payer une 
+prestation complémentaire pour bé-
+néficier des évolutions de la solution.
+Concernant 
+les 
+solutions 
+open 
+source, toute évolution fait l’objet 
+d’une prestation supplémentaire. 
+C’est pourquoi il est conseillé de 
+budgéter chaque année une somme 
+consacrée à l’évolution du site.

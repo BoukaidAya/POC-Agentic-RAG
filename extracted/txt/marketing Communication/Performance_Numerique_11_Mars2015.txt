@@ -1,0 +1,303 @@
+
+----- page 1 -----
+> Les comparateurs de prix 
+LeGuide, Kelkoo, ou encore Cher-
+chons : ces sites comparent les prix 
+d’un produit référencé sur plusieurs 
+sites marchands. Les boutiques en 
+ligne leur versent une commission 
+chaque fois qu’un comparateur leur 
+envoie un visiteur. Dans certains do-
+maines - comme l’électroménager 
+ou la décoration - près de 80% du 
+chiffre d’affaires d’une boutique est 
+généré grâce aux comparateurs de 
+prix.
+> Les places de marché
+Les places de marché sont des sites 
+marchands à forte notoriété qui 
+ouvrent leur catalogue à d’autres 
+vendeurs. La transaction et le suivi 
+de commande se passe sur leur site 
+mais la livraison est assurée par la 
+boutique partenaire. Elles se rému-
+nèrent en prélevant une commission 
+sur le montant de la vente.
+Amazon, Pixmania, Rueducommerce 
+ou encore Cdiscount disposent cha-
+cun d’une place de marché.
+Maîtriser la diffusion de son catalogue 
+e-commerce
+Un site marchand est sans cesse en recherche de moyens pour développer son activité. Au-delà de 
+l’optimisation de la boutique, il est possible d’exporter son catalogue vers plusieurs intermédiaires qui 
+se chargeront de générer du trafic sur le site ou de réaliser des ventes pour le compte du e-marchand. 
+Ces canaux aussi appelés « moteurs de shopping » peuvent prendre la forme d’un comparateur de prix 
+ou d’une place de marché. Contre rémunération, ils intègrent les produits des sites marchands dans leur 
+propre catalogue.
+Vendre par l’intermédiaire de ces plateformes s’avère néanmoins à double tranchant. L’activité d’une 
+boutique en ligne peut être subitement dopée mais aussi mise en péril si aucune stratégie n’est élaborée 
+en amont.
+Cette notice explique comment utiliser et maîtriser les moteurs de shopping.
+Performance 
+numérique
+Votre rendez-vous mensuel
+Les moteurs de shopping
+CCI DORDOGNE - Performance numérique - MARS 2015
+1
+Diffuser son catalogue
+> Respecter le format du 
+moteur de shopping
+Pour diffuser son catalogue sur les 
+moteurs de shopping, il faut leur 
+transmettre les informations sur les 
+produits en respectant les exigences 
+de chacun. Certaines données sont 
+obligatoires chez l’un et facultatives 
+chez l’autre. Par ailleurs, les produits 
+doivent être classés conformément 
+aux catégories de chaque moteur de 
+shopping.
+
+----- page 2 -----
+CCI DORDOGNE - Performance numérique - MARS 2015
+2
+> Transmettre les informations
+Les informations sur les produits 
+(nom, 
+prix, 
+garantie, 
+photos…) 
+peuvent être transmises aux moteurs 
+de shopping de deux manières :
+•	 En déposant un fichier sur le bac-
+koffice du moteur de shopping 
+dans un format d’échange stan-
+dard (*.txt, *.csv). Cette opération 
+doit être répétée :
+- à chaque mise à jour du cata-
+logue (nouveaux descriptifs par 
+exemple)
+- lorsque des produits sont ajou-
+tés ou supprimés de la liste de 
+diffusion
+- si un produit n’est plus en stock
+•	 Créer un flux xml1 qui sera en-
+voyé ou récupéré par le moteur 
+de shopping. 
+Dans la pratique, les e-commerçants 
+utilisent plutôt le flux xml car il per-
+met de générer automatiquement 
+un fichier d’échange via des appli-
+cations. Celles-ci peuvent prendre la 
+forme d’un module dédié (gestion 
+d’un seul moteur de shopping) ou 
+d’une plateforme de gestion de flux 
+(gestion de plusieurs moteurs de 
+shopping).
+Les modules dédiés
+Les sites marchands utilisant des solutions open-sources 
+telles que Prestashop ou Magento peuvent enrichir 
+leurs fonctionnalités par l’ajout de modules (aussi appe-
+lé plug-in ou add-on). Certaines de ces extensions font 
+office d’interface entre le site et un moteur de shopping.
+Le module dédié permet avant tout de faciliter l’import 
+des données dans un moteur de shopping et de tenir à 
+jour le stock disponible en fonction des ventes réalisées 
+sur le site marchand. Le flux xml qu’il génère automatise 
+les transferts d’information.
+Certains modules permettent également de sélection-
+ner les produits à diffuser et ainsi d’optimiser l’utilisation 
+des moteurs de shopping.
+Les modules sont vendus entre 0€ et 100€ selon les mo-
+teurs de shopping.
+Les plateformes de gestion de flux
+Ces solutions permettent de gérer la diffusion d’un cata-
+logue sur plusieurs comparateurs et places de marché 
+sur une seule interface. Comme les modules dédiés, elles 
+permettent de créer un flux de transfert de catalogue.
+Le backoffice des comparateurs et places de marchés 
+permet de paramétrer la diffusion des produits et de 
+suivre les statistiques. Les plateformes de gestion de flux 
+disposent néanmoins de fonctionnalités plus étendues : 
+segmentation du catalogue, mise en place de règles au-
+tomatisées pour la diffusion, statistiques détaillées (taux 
+de transformation de chaque produit, coût d’acquisition 
+client…). 
+ 
+Ce type de solution fonctionne par abonnement men-
+suel.
+1 XML (eXtensible Markup Language) : langage informatique permettant de décrire des données.
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - MARS 2015
+3
+Les moteurs de shopping sont une 
+source de trafic et un moyen de réali-
+ser des ventes supplémentaires. Mais 
+il ne faut pas oublier que ces services 
+sont payants et que leurs commis-
+sions viennent grignoter la marge 
+des sites.
+C’est pourquoi il est important 
+d’adopter très tôt une démarche 
+d’optimisation lorsqu’on commence 
+à diffuser son catalogue sur les mo-
+teurs de shopping.
+> Les attributs
+Satisfaire les moteurs de shopping
+On appelle « attributs » les différents 
+champs de description d’un produit 
+: référence, titre, photo, description 
+courte, prix… Selon les moteurs de 
+shopping, certains sont obligatoires, 
+d’autres facultatifs. La quantité et la 
+qualité des informations fournies 
+pour un article peuvent influer sur sa 
+visibilité dans le moteur de shopping.
+Travailler les contenus
+Les attributs peuvent également 
+jouer un rôle dans le taux de trans-
+formation2 d’un produit. Sur les 
+comparateurs de prix, il est possible 
+d’optimiser l’apparence de la fiche 
+produit en jouant par exemple sur la 
+longueur du nom de l’article.
+De manière générale, le catalogue 
+du site doit être repensé pour sa dif-
+fusion sur chaque moteur de shop-
+ping. Ce travail est long car il néces-
+site la réécriture des descriptions ou 
+la modification de certaines photos. 
+Mais cet effort d’optimisation sera 
+récompensé dans le temps.
+> Filtrage des flux
+Le filtrage du catalogue permet de 
+contrôler la diffusion des produits. 
+Grâce à ce paramétrage, il est pos-
+sible d’envoyer sur un moteur de 
+shopping uniquement et au bon 
+moment les produits dont le taux de 
+transformation est le plus important.
+La mise en place de filtre peut se 
+faire sur l’interface du moteur de 
+shopping concerné ou sur une pla-
+teforme de gestion de flux. Ces der-
+nières offrent généralement des 
+fonctionnalités plus avancées.
+Exemple : affichage d’un produit 
+sur tel comparateur uniquement s’il 
+a été cliqué au moins x fois dans le 
+mois et que son taux de conversion 
+est d’au moins y%.
+> Statistiques
+Les statistiques permettent d’affiner 
+la stratégie de diffusion d’un cata-
+logue en identifiant par exemple :
+•	 Les articles qui sont les plus ren-
+tables (taux de conversion par 
+rapport aux commissions ver-
+sées au moteur de shopping).
+•	 La saisonnalité de certains pro-
+duits (qui peut être un peu diffé-
+rente de celle du site).
+•	 Les articles qui « fonctionnent » 
+le mieux selon le comparateur 
+ou la place de marché.
+> Adopter une stratégie
+Au démarrage, deux stratégies sont 
+possibles :
+•	 Diffuser en priorité les produits 
+les plus rentables puis ajouter 
+d’autres produits par tâtonne-
+ment.
+•	 Diffuser l’intégralité du catalogue 
+et ajuster au fur et à mesure en 
+fonction des résultats obtenus. 
+Dans ce cas, le coût initial étant 
+important le flux doit être opti-
+misé rapidement : réduire de 
+moitié les produits présentés 
+dans les 2 mois qui suivent le 
+lancement puis n’en garder que 
+30% dans le temps.
+Par la suite, la présence sur les mo-
+teurs de shopping doit répondre à 
+une stratégie commerciale qui peut 
+évoluer dans le temps : acquisition 
+client à n’importe quel prix, écouler 
+un stock à l’instant « t », valoriser une 
+marque…
+La mise en œuvre  de cette stratégie 
+s’appuiera essentiellement sur les 
+paramètres de filtrage. C’est pour-
+quoi il convient de bien maîtriser la 
+segmentation de son catalogue et la 
+création de règles automatisées de 
+diffusion.
+Optimiser sa rentabilité
+2 Taux de transformation : pourcentage d’internautes ayant acheté le produit après avoir cliqué dessus dans le moteur de shopping
+Les pièges à éviter
+> Le duplicate content
+Les moteurs de shopping conservent 
+souvent le meilleur descriptif parmi 
+ceux des différents vendeurs d’un 
+même produit. Celui qui est retenu 
+risque non seulement de profiter 
+aux concurrents mais aussi de faire 
+doublon avec celui du site marchand 
+dont il est issu.
+Google pourrait alors sanctionner le 
+site auteur du descriptif pour dupli-
+cation de contenu.
+Pour éviter cela :
+•	 Les nouveaux produits ajoutés 
+dans le catalogue ne doivent pas 
+être diffusés immédiatement sur 
+les comparateurs et places de 
+marché afin que le site conserve 
+l’antériorité du contenu.
+•	 Prévoir des descriptions plus 
+courtes et spécifiques à destina-
+tion les moteurs de shopping.
+> La perte de marge
+Les comparateurs de prix et les 
+places de marché permettent, en 
+dépensant un peu d’argent, de réali-
+ser plus de ventes. Il faut néanmoins 
+veiller au suivi de ces dépenses. Sur 
+des produits à faible marge, le mon-
+
+----- page 4 -----
+tant des commissions prélevées par 
+les moteurs de shopping peut faire 
+perdre de l’agent à un site marchand.
+> Devenir dépendant
+Attention à ne pas négliger l’opti-
+misation du site marchand au profit 
+des moteurs de shopping. Certes 
+les comparateurs et les places de 
+marché ont un impact rapide sur les 
+ventes. Mais s’ils représentent 50% du 
+chiffre d’affaires il y a risque de dé-
+pendance. Le changement de règles 
+du moteur de shopping (nouvelles 
+conditions pour vendre à Noël par 
+exemple) ou l’arrivée d’un concur-
+rent qui casse les prix peuvent alors 
+s’avérer dramatiques.
+Il est important de continuer à opti-
+miser régulièrement le référence-
+ment naturel et l’ergonomie du site 
+marchand.
+VOTRE contact
+Samuel COSTE 
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+ 
+CCI DORDOGNE
+Votre prochain rdv numérique :
+« Mettre en conformité son 
+site avec les cookies »
+CCI DORDOGNE - Performance numérique - MARS 2015
+4

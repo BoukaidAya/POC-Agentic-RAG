@@ -1,0 +1,925 @@
+
+----- page 1 -----
+Mars 2026
+Contribution Sociale
+de Solidarité des Sociétés 
+C3S 
+Notice - C3S
+
+----- page 2 -----
+2
+SOMMAIRE 
+INFORMATIONS UTILES 	
+3
+I - Les entreprises assujetties à la C3S	
+4 
+II - Les entreprises exonérées de la C3S 	
+5
+III - Déclaration des modifications survenues dans l’entreprise 	
+6
+IV - Assiette de la C3S et taux applicables 	
+8
+	
+−Opérations à déclarer	
+9
+	
+−Déductions éventuelles	
+13
+	
+−Base de calcul de la contribution nette due / Taux normal	
+13
+	
+−Établissements de crédit et sociétés financières	
+14
+	
+−Assurances, mutuelles et institutions de prévoyance	
+15
+	
+−Taux plafonnés dits « taux réduits »	
+15
+V - Montant des opérations à declarer ≤ à l’abattement 
+de 19 000 000 € -C3S non due 	
+16
+VI - Montant des opérations a declarer > à l’abattement 
+de 19 000 000 € -modalités de déclaration et de paiement 	
+16
+	
+−Formalités d’inscription à net-entreprises.fr	
+16
+	
+−Déclaration sur net-entreprises.fr	
+17
+	
+−Paiement sur net-entreprises.fr	
+17
+	
+−Assistance	
+19
+VII - Droits et obligations des entreprises 	
+19
+	
+−Date d’échéance unique au 15 mai 	
+19
+	
+−Les majorations de retard	
+20
+	
+−Les majorations pour défaut de régularisation par voie dématérialisée	
+20
+	
+−La procédure de remise gracieuse des majorations	
+20
+VIII - La procédure de contrôle de l’assiette C3S 	
+21
+	
+−La procédure de contrôle sur pièces	
+21
+	
+−Les majorations liées à la procédure de contrôle sur pièces	
+21
+	
+−La charte de l’entreprise contrôlée	
+22
+Correspondance avec les services 	
+22
+
+----- page 3 -----
+3
+Sommaire
+INFORMATIONS UTILES 
+Toutes les informations relatives à la C3S sont disponibles sur : 
+www.urssaf.fr/c3s 
+Pour toute question liée à la C3S, vous pouvez contacter 
+l’Urssaf Provence-Alpes-Côte-d’Azur : 
+	
+→Par téléphone au :
+0 806 804 260 (appel non surtaxé) du lundi au vendredi 
+de 9h à 17h 
+	
+→Par courriel : 
+Un formulaire de contact est disponible sur le site 
+www.urssaf.fr/c3s, rubrique « Contactez l’Urssaf » 
+	
+→Par courrier à l’adresse suivante : 
+Urssaf C3S 
+TSA 62101 
+69833 SAINT PRIEST CEDEX 9 
+	
+→La télédéclaration et le télérèglement de la C3S 
+s’effectuent obligatoirement via le site 
+www.net-entreprises.fr 
+Nous vous conseillons de vérifier votre inscription en vous 
+connectant le plus tôt possible afin de vous laisser le temps 
+nécessaire pour procéder à une éventuelle modification 
+d’inscription.
+Assurez-vous que vos coordonnées, en particulier votre 
+adresse de messagerie, sont à jour de façon à recevoir les 
+informations communiquées par le site des déclarations 
+sociales et l’Urssaf PACA au titre de la campagne déclarative 
+de la C3S.
+
+----- page 4 -----
+4
+Sommaire
+I - Les entreprises assujetties à la C3S 
+La déclaration de la contribution sociale de solidarité des sociétés doit être souscrite par les 
+sociétés ou entreprises énumérées ci-après (articles L.137-30 du Code de la Sécurité sociale), 
+lorsque : 
+	
+→elles existent au 1er janvier de l’année au titre de laquelle la contribution est due ; 
+	
+→elles ont réalisé un chiffre d’affaires hors taxes supérieur à 19 000 000 €. Dans le cas contraire, 
+les sociétés ou entreprises ne sont pas tenues d’effectuer une déclaration et ne sont 
+redevables d’aucune contribution. 
+1°	
+Les sociétés anonymes et les sociétés par actions simplifiées quelles que soient, le cas 
+échéant, la nature et la répartition de leur capital ; 
+2°	
+Les sociétés à responsabilité limitée ; 
+3°	
+Les sociétés en commandite ; 
+4°	
+Les personnes morales de droit public dans les limites de leur activité concurrentielle ; 
+4°bis Les groupements d’intérêt public assujettis à la taxe sur la valeur ajoutée, en application des 
+dispositions du chapitre Ier du titre II de la première partie du livre Ier du Code général des 
+impôts, autres que celles de l’article 256 B du même code ; les personnes morales dont le 
+siège est situé hors du territoire de la France métropolitaine ou des départements d’Outre-
+mer, à raison des affaires réalisées sur ce territoire et les rendant passibles de l’impôt sur les 
+sociétés ; 
+5°	
+Les sociétés en nom collectif ; 
+6°	
+Les groupements d’intérêt économique ; 
+7°	
+Les groupements européens d’intérêt économique, à raison des affaires réalisées sur le 
+territoire de la France métropolitaine ou des départements d’outre-mer ; 
+8°	
+Indépendamment de leur forme juridique, les établissements et entreprises mentionnés 
+aux I et II de l’article L.511-1 du Code monétaire et financier et relevant des chapitres Ier 
+à VII ainsi que de la section 2 du chapitre VIII du titre Ier du livre V du même code ; 
+9°bis Indépendamment de leur forme juridique, les entreprises ou sociétés d’assurance, de 
+capitalisation et de réassurance de toute nature régies par le Code des Assurances, les 
+mutuelles et unions de mutuelles relevant du livre II du Code de la mutualité, les institutions 
+de prévoyance et unions d’institutions de prévoyance relevant du titre III du livre IX du Code 
+de la Sécurité sociale ou du titre VII du livre VII du Code rural et de la pêche maritime ; 
+9°ter Indépendamment de leur forme juridique, des fonds de retraite professionnelle 
+supplémentaire mentionnés à l’article L.381-1 du Code des assurances, des mutuelles ou 
+unions de retraite professionnelle supplémentaire mentionnées à l’article L.222-12 du Code 
+de la mutualité et des institutions de retraite professionnelle supplémentaire ; 
+9°	
+Les sociétés ou organismes non visés aux 1° à 9°bis qui sont régis par la loi n° 47-1775 du 
+10 septembre 1947 portant statut de la coopération, à l’exception de ceux visés à l’article 
+L. 521-1 du Code rural et de la pêche maritime, au titre 1er de la loi n°83-657 du 20 juillet 
+1983 relative au développement de certaines activités d’économie sociale, aux articles 
+L.3441-2 et L.4431-2 du Code des transports et aux articles L.931-5, L.931-24 et L.931-28 
+du Code rural et de la pêche maritime ; 
+10°	
+Les sociétés européennes au sens de l’article L.229-1 du Code du commerce et des 
+sociétés coopératives européennes au sens du règlement (CE) 1435/2003 du Conseil du 
+22 Juillet 2003, relatif au statut de la société coopérative européenne.
+
+----- page 5 -----
+5
+Sommaire
+D’une manière plus générale, toute entreprise qui ne se considérerait pas assujettie doit pouvoir 
+en justifier auprès du service gestionnaire de la C3S, en produisant tout document attestant du 
+motif invoqué. 
+Précisions jurisprudentielles :
+	
+→La forme juridique de l’entreprise est le seul critère d’assujettissement à la contribution. 
+Il n’est pas tenu compte de l’objet social de la société, de l’affiliation du gérant (Cass. Soc. 26 
+novembre 1992 - Arrêt N° 4017 D). 
+	
+→La transformation d’une société en forme juridique non assujettie, au 1er janvier, n’a pas 
+d’incidence sur l’assujettissement à la contribution de l’année en cours au titre du chiffre 
+d’affaires réalisé jusqu’à la date de la transformation (Cass. Soc. 15 juin 1995 - Arrêt N° 2760 
+D, Cass. Soc. 25 janvier 1996 - Arrêt N° 235D). 
+	
+→Caractère concurrentiel de l’activité d’un Établissement Public Foncier (Cass. Civ., 
+29 novembre 2018, Arrêts N° 1445 F-D et 1446 F-D, Cass. Civ., 17 février 2022 Arrêt N°211 
+F-D, Cass. Civ. 26 janvier 2023 Arrêt 88 FS-D et Cour d’appel de Colmar Arrêt du 16 janvier 
+2025 RG 23/01297). 
+II - Les entreprises exonérées de la C3S 
+Les sociétés ou entreprises mentionnées à l’article L.137-31 du Code de la Sécurité sociale et dont 
+la liste est reprise ci-dessous, sont exonérées de la C3S. 
+Cependant, elles doivent en justifier auprès du service gestionnaire de la C3S, en rappelant le 
+numéro du cas d’exonération invoqué et en produisant une copie de leurs statuts. 
+1°	 Les sociétés d’habitation à loyer modéré et de crédit immobilier régies par les articles 
+L.411-1 et suivants du Code de la construction et de l’habitation, ainsi que les unions de ces 
+sociétés. Sont également exonérés les Offices Publics de l’Habitat. 
+En revanche, depuis le 1er janvier 2008, les sociétés de crédit immobilier devenues SACICAP 
+ne peuvent plus bénéficier de ce motif d’exonération, car elles ne sont plus mentionnées à 
+l’article L.411-2 du Code de la construction et de l’habitation ; 
+2°	 Les sociétés immobilières de copropriété régies par les articles L.212-1 à L.212-13 du Code 
+de la construction et de l’habitation ; 
+3°	 Les sociétés d’économie mixte de construction ou d’aménagement pour les activités qu’elles 
+réalisent dans le cadre des missions de service d’intérêt général mentionnées aux onzième, 
+douzième et treizième alinéa de l’article L.411-2 du Code de la construction et de l’habitation ; 
+4°	 Les sociétés de rédacteurs de presse (ces sociétés ont pour objet de garantir l’indépendance 
+des rédacteurs d’un journal et d’agir en cas de conflit entre les journalistes pris 
+collectivement et les propriétaires d’une publication) ; 
+5°	 Les sociétés mentionnées à l’article 4 de la loi n° 69-717 du 8 juillet 1969 relative à certaines 
+dispositions concernant les sociétés (sociétés de gestion immobilière à but non lucratif, 
+charitable, éducatif, social, sanitaire, cultuel ou culturel) ; 
+6°	 (abrogé par la loi n° 95-885 du 4 août 1995) ; 
+7°	 Les sociétés d’investissement régies par les articles L.214-7 à L.214-7-4, L.214-24-29 à 
+L.214-24-33 et L.214-127 à L.214-135 du Code monétaire et financier ; 
+8°	 Les sociétés d’aménagement foncier et d’établissement rural régies par l’article 15 de la loi 
+n°60-808 du 5 août 1960 dite loi d’orientation agricole (titre IV du livre 1er du Code rural et de 
+la pêche maritime) ; 
+9°	 (abrogé par la loi n° 91-1322 du 30 décembre 1991) ;
+
+----- page 6 -----
+6
+Sommaire
+10°	Les sociétés en nom collectif et les groupements d’intérêt économique constitués 
+exclusivement entre des sociétés exonérées par application des dispositions prévues aux 
+1° à 8°, pour la réalisation d’opérations que ces sociétés peuvent mettre en œuvre 
+directement avec le bénéfice de cette exonération (adresser au service gestionnaire 
+de la C3S la copie des statuts et une attestation du commissaire aux comptes) ; 
+11°	 Les sociétés coopératives maritimes ayant pour objet exclusif soit l’avitaillement, soit 
+l’armement de leurs associés coopérateurs visées aux articles L.931-5 et suivants du 
+Code rural et de la pêche maritime (cette exonération est devenue sans objet en raison de 
+l’exclusion de l’assujettissement des coopératives maritimes et d’intérêt maritime par l’article 
+21 de la LFSS pour 2015) ; 
+12°	Les sociétés de libre partenariat régies par l’article L.214-154 du Code monétaire et financier. 
+III - Déclaration des modifications survenues 
+dans l’entreprise 
+Nouvelle forme juridique 
+Le changement de forme juridique d’une société ou entreprise et toute autre modification de 
+nature à entraîner une exonération de la contribution restent sans effet sur son assujettissement 
+à celle-ci au titre du chiffre d’affaires réalisé jusqu’à la date du changement ou de la modification 
+(article D.137-35 alinéa 2 du Code de la Sécurité Sociale), avec obligation de déclaration et de 
+paiement s’il est supérieur à 19 000 000 €.
+Absorption, fusion, transmission universelle de patrimoine 
+En cas d’absorption, de fusion ou de transmission universelle de patrimoine, l’entreprise 
+absorbante ou nouvelle déclare son propre chiffre d’affaires et celui de l’entreprise absorbée selon 
+les modalités suivantes :
+	
+→Si l’entreprise reprise ou absorbée en 2025 a été radiée du registre du commerce et des 
+sociétés en 2025 : l’entreprise absorbante ou nouvelle déclare les deux chiffres d’affaires 
+cumulés y compris si ces derniers n’excèdent pas chacun 19 M€, l’abattement de 19 M€ 
+s’appliquant sur la globalité comme l’a confirmé la Cour de cassation dans un arrêt du 25 
+novembre 2021 (Cour de cassation Ch. Civ.2 25/11/2021 n°20-16.979).
+Concrètement, cette déclaration unique des deux chiffres d’affaires cumulés est effectuée 
+sur le formulaire électronique de l’entreprise absorbante ou nouvelle dans le cadre 1, 
+sans déduire l’abattement de 19 M€, ce dernier s’appliquant automatiquement à l’issue du 
+parcours déclaratif (cf. pour vous guider, la reproduction ci-après du cadre I du formulaire 
+avec les cases matérialisées en bleu à compléter par vos soins).
+
+----- page 7 -----
+7
+Sommaire
+	
+→Si l’entreprise reprise ou absorbée en 2025 n’a été radiée du registre du commerce et 
+des sociétés qu’en 2026 (ou n’est pas encore radiée) : l’entreprise absorbante ou nouvelle 
+déclare chacun des chiffres d’affaires séparément (pas de cumul de chiffres d’affaires), 
+l’abattement de 19 M € s’appliquant sur chaque chiffre d’affaires. 
+Concrètement, cette déclaration est effectuée sur le formulaire électronique de l’entreprise 
+absorbante ou nouvelle* : 
+	
+−Le chiffre d’affaires de l’entreprise absorbante ou nouvelle est déclaré dans le cadre I, 
+sans déduire l’abattement de 19 M €, ce dernier s’appliquant automatiquement à l’issue du 
+parcours déclaratif. 
+	
+−Le chiffre d’affaires de l’entreprise absorbée ou reprise est déclaré dans le cadre II, 
+rubriques « sommes à ajouter », « autres cas », « absorption fusion TUP », en ayant eu soin 
+au préalable de soustraire l’abattement de 19 M € et les déductions éventuelles (cf. pour 
+vous guider, la reproduction ci-dessous du cadre II du formulaire avec la case à compléter 
+par vos soins matérialisée en bleu). 
+(*) Attention, si l’entreprise absorbante ou nouvelle a réalisé un chiffre d’affaires inférieur à l’abattement de 19 M€ ET que l’entreprise 
+absorbée ou reprise a réalisé un chiffre d’affaires supérieur à 19 M€, ces deux déclarations distinctes sont à effectuer sur les 
+deux formulaires électroniques respectifs des deux entreprises, sans déduire l’abattement de 19 M€, ce dernier s’appliquant 
+automatiquement à l’issue de chaque parcours déclaratif. 
+Mise en gérance 
+La société, qui conserve une existence légale, reste assujettie à la contribution sociale de 
+solidarité des sociétés assise notamment sur la redevance de gérance qui est un élément de son 
+chiffre d’affaires. Il convient d’indiquer l’adresse de correspondance, dans l’hypothèse où elle 
+serait différente de celle connue du service gestionnaire de la C3S, et de répondre aux obligations 
+de déclaration et de paiement si le chiffre d’affaires est supérieur à 19 000 000 €. 
+Absence temporaire d’activité, vente partielle ou totale du fonds, 
+mise en dissolution 
+Dans la mesure où l’entreprise a une existence légale au 1er janvier de l’année d’exigibilité (non 
+radiée du Registre du Commerce), celle-ci doit répondre à ses obligations de déclaration et de 
+paiement si le chiffre d’affaires réalisé est supérieur à 19 000 000 €. Toute nouvelle adresse pour la 
+correspondance devra être indiquée.
+
+----- page 8 -----
+8
+Sommaire
+Clôture de liquidation-radiation 
+Dès lors que la personne morale a été radiée du registre du commerce avant le 1er janvier de 
+l’année d’exigibilité, la contribution n’est pas due. Un extrait de radiation dudit registre doit être 
+adressé au service gestionnaire de la C3S. 
+Procédure de sauvegarde, redressement et liquidation judiciaires
+Lorsque la date du jugement est située dans l’année en cours, indiquer cette date et déclarer le 
+chiffre d’affaires si ce dernier est supérieur à 19 000 000 €. 
+Lorsque le jugement d’ouverture (procédure de sauvegarde, redressement judiciaire) est 
+antérieur à l’année en cours, celui-ci reste sans effet sur l’assujettissement de l’entreprise qui doit 
+remplir ses obligations de déclaration de la totalité du chiffre d’affaires réalisé au cours de l’année 
+précédente et de paiement. 
+En effet, les créances nées postérieurement au jugement d’ouverture devront être réglées à leurs 
+échéances, puisqu’elles constituent pour les sociétés une obligation légale prévue par l’article 
+L.137-30 du Code de la Sécurité sociale et qu’elles sont inhérentes à l’activité de la société (Cour 
+de Cassation, Chambre Commerciale – Affaire ARDDI c/ RSI – Arrêt n° 620 FS-P+B du 15/06/2011). 
+IV - ASSIETTE DE LA C3S ET TAUX APPLICABLES 
+Toutes les entreprises dont le montant des opérations à déclarer définies au A ci-après, est 
+supérieur à l’abattement de 19 000 000 €, sont tenues d’effectuer une déclaration, qu’elles 
+soient ou non redevables de la C3S à l’issue du parcours déclaratif. 
+L’abattement est bien pris en compte dans l’affichage du déroulé déclaratif du formulaire et les 
+entreprises ne doivent pas le déduire elles-mêmes du montant des opérations à déclarer susvisé. 
+En général, l’assiette de la C3S est constituée par le chiffre d’affaires entrant dans le champ 
+d’application des taxes sur le chiffre d’affaires, c’est-à-dire l’addition des sommes imposables à la 
+TVA, ou de celles qui, tout en étant dans son champ d’application, en sont exonérées. 
+Ce chiffre d’affaires est calculé hors taxes sur le chiffre d’affaires et taxes assimilées. Ne sont 
+donc pas considérées comme élément du chiffre d’affaires, le montant des taxes relevant dans le 
+livre premier du Code général des impôts, du titre II de la 1ère partie et du chapitre I bis du titre 
+III de la 2e partie (Cass. Civ.2, 26/05/2016, arrêt n° 816 F-D). Le cas échéant, le montant de ces 
+taxes devra être porté en « sommes à soustraire » du chiffre d’affaires déclaré, selon les modalités 
+précisées ci-après (cf. point IV-A-4). 
+À défaut de déclaration de chiffre d’affaires, les entreprises s’exposent à une fixation d’office de 
+celui-ci par l’Urssaf Provence-Alpes-Côte d’Azur à partir des éléments dont elle dispose ou des 
+comptes annuels dont il est fait publicité (article L.137-33, avant dernier alinéa), étant précisé que 
+des majorations de retard sont prévues par les articles L.137-36 et L.137-37.
+
+----- page 9 -----
+9
+Sommaire
+Pour les départements d’Outre-mer : 
+En leur qualité de départements français, la Guadeloupe, la Martinique, la Guyane et la Réunion 
+sont expressément soumis à la législation métropolitaine, notamment en matière sociale. 
+Ils sont ainsi dans le champ d’application de la contribution sociale de solidarité des sociétés 
+conformément à l’article L.137-30, 5° du Code de la Sécurité sociale. 
+Les entreprises des DOM communiquent en conséquence au service gestionnaire de la C3S leur 
+chiffre d’affaires global déclaré à l’administration fiscale (article L.137-33, 1er alinéa), soit sur la 
+base de leurs déclarations TVA-CA3, soit sur la base du chiffre d’affaires mentionné dans leur 
+compte de résultat annuel s’agissant de la Guyane (compte de résultats n° 2052). 
+Opérations à déclarer 
+(article L.137-33 du Code de la Sécurité sociale) 
+C’est à partir du montant des opérations à déclarer tel que défini ci-dessous qu’il y a lieu 
+de déterminer s’il convient de réaliser une déclaration ou non. Dès lors qu’il est supérieur à 
+l’abattement de 19 M€, la déclaration est obligatoire. 
+Le formulaire électronique prévoit 3 étapes dans la déclaration des opérations à considérer pour la 
+C3S soit : 
+	
+→une déclaration correspondant aux montants figurant sur les imprimés fiscaux 
+(cf. points 1 et 2 ci-après) ; 
+	
+→une déclaration des opérations à ajouter le cas échéant (cf. point 3 ci-après) ; 
+	
+→une déclaration des opérations à soustraire le cas échéant (cf. point 4 ci-après) ; 
+Le montant des opérations à déclarer est la résultante de ces 3 déclarations. 
+Dans le cadre des échanges de données avec l’administration fiscale, le service gestionnaire 
+de la C3S seront amenés à opérer des contrôles en cas de distorsion dans les montants déclarés 
+(cf. chapitre VIII) ou à engager les actions en recouvrement prévues par l’article L. 137-33 du 
+Code de la Sécurité sociale en l’absence d’éléments permettant de confirmer un chiffre d’affaires 
+inférieur ou égal à l’abattement. 
+1. Votre entreprise dépose des déclarations TVA 
+Pré-remplissage automatique (CA3) 
+Pour simplifier les démarches des entreprises, les données de la déclaration C3S sont pré-
+remplies automatiquement, à partir des informations communiquées à l’Urssaf Provence-Alpes-
+Côte d’Azur, à sa demande, par l’administration fiscale (lignes A1, E1, E2 et F2 des déclarations 
+TVA-CA3 enregistrées par cette dernière pour l’année N-1). 
+	
+→Si les montants inscrits sont strictement conformes à votre déclaration auprès de 
+l’administration fiscale, vous avez simplement à les valider. 
+	
+→Si les montants inscrits sont inexacts ou incomplets par rapport à votre déclaration auprès 
+de l’administration fiscale, saisissez alors les montants corrigés, à la hausse ou à la baisse, 
+dans les cases prévues à cet effet. 
+Les opérations entrant dans le champ d’application de la TVA, taxées ou exonérées, qui ne seraient 
+pas inscrites sur les lignes normalement concernées de l’imprimé TVA-CA3, seront à porter dans la 
+rubrique « II – Sommes à ajouter ».
+
+----- page 10 -----
+10
+Sommaire
+En l’absence de Pré-remplissage 
+En l’absence d’informations fiscales exploitables, le formulaire déclaratif n’est pas pré rempli.
+Il vous appartient de déterminer et de reporter sur le formulaire déclaratif le chiffre d’affaires, 
+imposé à la TVA ou exonéré, déclaré à l’administration fiscale au cours de l’année civile 
+précédente. 
+Le chiffre d’affaires servant de base à la contribution due en année N est constitué par l’addition 
+des éléments suivants, déterminés en année N-1 : 
+	
+→Le chiffre d’affaires imposé ou exonéré, déclaré mensuellement ou trimestriellement, 
+figurant aux lignes A1, E1, E2 et F2 de la déclaration n° 3310 CA 3 ; 
+Si vous possédez déjà une consolidation à l’année civile des CA3, il n’est pas nécessaire de 
+remplir les zones mensuelles ou trimestrielles. 
+	
+→Le chiffre d’affaires mentionné aux lignes 02, 03, 04 et 05A à 10 de la déclaration n° 3517-S 
+CA 12/12E (pour les entreprises soumises au régime simplifié d’imposition) ou aux lignes 01, 
+02, 03 et 04 à 09 de la déclaration n° 3517-AGR CA12A/12AE (régime simplifié de l’agriculture). 
+2. Votre entreprise ne dépose pas de déclarations TVA 
+Vous porterez sur le formulaire déclaratif le chiffre d’affaires servant de base à la contribution due 
+en année N qui est constitué par l’addition des éléments suivants, déterminés en année N-1 : 
+	
+→Le chiffre d’affaires mentionné aux lignes FA, FB, FD, FE, FG, FH ou le chiffre d’affaires 
+reporté à la ligne FL du compte de résultat n° 2052. 
+	
+→Le chiffre d’affaires mentionné aux lignes 210, 214, 218 du compte de résultat simplifié 
+n° 2033-B. 
+3. Sommes à ajouter le cas échéant aux opérations visées au 1 ou 2 
+Le cas échéant, il conviendra d’inscrire à la rubrique « sommes à ajouter » : 
+	
+→Les opérations de la ligne A2 de la déclaration CA3 ou de la ligne 13 des imprimés CA12/
+CA12E ou de la ligne 12 des imprimés CA12A/CA12AE dès lors qu’elles constituent un chiffre 
+d’affaires pour votre entreprise (notamment subventions, opérations intragroupes, prestations 
+de services visées à l’article 259-2° du Code général des impôts).
+	
+→Les commissions versées, dans le cas d’entremise à la vente, par les commettants des 
+intermédiaires opaques remplissant les conditions fixées à l’article L.137-33, alinéas 5 à 10 du 
+Code de la Sécurité sociale. 
+D’autres sommes à ajouter sont possibles sur le formulaire électronique dans la rubrique « Autres 
+cas » (cf. les exemples donnés sur l’écran d’aide correspondant). 
+Cas particulier des sociétés membres d’un groupe de TVA : 
+L’assujetti unique (AU) est un régime optionnel de TVA introduit par l’article 162 de la loi de 
+finances n°2020-1721 pour 2021, codifié à l’article 256 C du Code général des impôts (CGI). 
+Ce dispositif, applicable depuis le 1er janvier 2023, permet à plusieurs personnes morales 
+assujetties établies en France et étroitement liées sur les plans financier, économique et 
+organisationnel d’être considérées comme un assujetti unique pour la TVA. 
+L’assujetti unique devient alors la seule entité fiscale vis-à-vis des tiers en matière de TVA, 
+réalisant les déclarations et le paiement de la taxe pour l’ensemble de ses membres. Ce régime 
+vise à simplifier la gestion fiscale des entreprises et à obtenir une meilleure neutralité économique 
+de l’impôt, notamment en supprimant la TVA sur les opérations internes au groupe.
+
+----- page 11 -----
+11
+Sommaire
+Ainsi, il est déclaré à la ligne F9, l’ensemble des opérations internes réalisées entre membres d’un 
+assujetti unique. Cette ligne représente le montant du chiffre d’affaires afférent aux livraisons de 
+biens et aux prestations de services réalisées par les membres au bénéfice d’autres membres de 
+l’AU, et qui aurait été imposable à la taxe sur la valeur ajoutée en l’absence d’AU. 
+L’article 256 C, III-7 du Code général des impôts précise toutefois : « L’existence de l’assujetti 
+unique aux fins d’application des règles de la taxe sur la valeur ajoutée est sans incidence sur les 
+autres impôts, taxes, droits et prélèvements de toute nature dont sont redevables ses membres. » 
+Or, conformément au cas général précisé en page précédente, les opérations intra-groupes étant 
+constitutives de chiffre d’affaires, elles doivent être intégrées à l’assiette de la C3S. 
+Ainsi, s’agissant du cas particulier des sociétés membres de l’AU, les opérations portées en ligne 
+F9 de l’annexe 3310-M-AU des imprimés CA3 doivent être intégrées dans l’assiette de la C3S. 
+Ces opérations seront portées, lors de l’étape II de la télédéclaration, à la rubrique sommes à 
+ajouter « case AA3 - Autres cas - Opérations internes réalisées entre membres d’un assujetti 
+unique ». 
+4. Sommes à soustraire le cas échéant aux opérations visées au 1 ou 2 :
+Le cas échéant, il conviendra d’inscrire à la rubrique « sommes à soustraire » : 
+	
+→Les taxes et droits indirects de consommation ayant grevé les produits médicamenteux 
+et de parfumerie, les boissons, les produits pétroliers (TICPE, TGAP codifiée à l’article 266 
+quindecies du Code des douanes) et le gaz naturel (TICGN) y compris le droit spécifique sur 
+les bières et certaines boissons non alcoolisées lorsque ces taxes ou droits ont été versés à 
+l’administration fiscale par la société déclarante elle-même. 
+	
+→Le montant du chiffre d’affaires retenu pour asseoir la contribution prévue par l’article 
+L.138-1 du Code de la Sécurité sociale par les établissements de vente en gros de produits 
+pharmaceutiques et les entreprises assurant l’exploitation d’une ou plusieurs spécialités 
+pharmaceutiques au sens de l’article L.5124-1 du Code de la santé publique. Conformément 
+à l’alinéa 11 de l’article L.137-33 du Code de la Sécurité sociale, l’assiette de la contribution 
+prévue par l’article L.138-1 du même code est déterminée en ne tenant compte que de la 
+partie du prix de vente hors taxes de chaque unité vendue aux officines inférieure à un 
+montant de 2 500 euros augmenté de la marge maximale que ces entreprises sont autorisées 
+à percevoir sur cette somme en application de l’arrêté prévu à l’article L. 162-38. Cette 
+évolution des modalités de calcul de l’assiette de la contribution est applicable à compter de 
+la C3S 2025 assise sur le chiffre d’affaires 2024.
+	
+→Les opérations effectuées d’un pays étranger à l’autre par une entreprise française dans la 
+mesure où elles ne sont pas soumises à la TVA en France. 
+En revanche, les opérations correspondant aux exportations et aux livraisons 
+intracommunautaires effectuées à partir de la France et celles correspondant aux transferts 
+intracommunautaires entrent dans le champ d’application de la TVA et sont à inclure dans la 
+déclaration (articles 262-1, 262 Ter I et article 256 III du code général des impôts) – Cour de 
+Cassation Ch.Civ.2, 7 novembre 2013, arrêt n° 1663 P+B. 
+Toutefois, si les biens transférés et déclarés dans la base de calcul de la C3S ne sont pas 
+destinés à être vendus dans l’autre Etat membre ou ont été acheminés en France sans avoir 
+été vendus dans l’autre Etat membre, leur valeur peut être déduite du chiffre d’affaires réalisé 
+l’année du réacheminement (en utilisant la rubrique « Autres cas »). 
+D’autres sommes à soustraire sont possibles sur le formulaire électronique dans la rubrique 
+« Autres cas » (cf. les exemples donnés sur l’écran d’aide correspondant).
+
+----- page 12 -----
+12
+Sommaire
+Cas particulier des commissionnaires opaques : 
+L’intermédiaire dit « opaque », selon l’article L.132-1 du code du Commerce, « est celui 
+qui agit en son nom propre ou sous un nom social pour le compte d’un commettant », et 
+qui se trouve seul engagé à l’égard des tiers avec lesquels il traite. Sur le plan fiscal, il 
+est redevable de la TVA sur la totalité des transactions. 
+Au regard de la C3S, ceux-ci sont visés aux alinéas 5 à 9 de l’article L.137-33 du code de 
+la Sécurité sociale qui prévoient : 
+« Pour les commissionnaires au sens de l’article L.132-1 du code 
+du Commerce qui s’entremettent dans une livraison de biens ou de 
+services, l’assiette de la contribution est constituée par le montant 
+de leur commission, sous réserve que les conditions suivantes soient 
+simultanément remplies : 
+1° L’opération d’entremise est rémunérée exclusivement par une commission 
+dont le taux est fixé au préalable d’après le prix, la quantité ou la nature 
+des biens ou des services ; 
+ 2° Il est rendu compte au commettant du prix auquel l’intermédiaire a traité 
+avec l’autre contractant ; 
+ 3° L’intermédiaire qui réalise ces opérations d’entremise doit agir en vertu 
+d’un mandat préalable et ne jamais devenir propriétaire des biens ; 
+4° Les opérations ne sont pas réalisées par des personnes établies en 
+France qui s’entremettent dans la livraison de biens ou l’exécution des 
+services par des redevables qui n’ont pas établi dans l’Union européenne 
+le siège de leur activité, un établissement stable, leur domicile où leur 
+résidence habituelle. » 
+La condition visée au 1° ne doit être satisfaite que pour autant qu’une commission ait été 
+conclue entre les parties, la loi n’exigeant pas, selon la Cour de cassation, que l’opération 
+d’entremise soit rémunérée. 
+Les autres conditions doivent, en revanche, être réunies simultanément : l’entreprise qui 
+réclame le bénéfice de ces dispositions doit donc démontrer qu’elle a été préalablement 
+mandatée pour accomplir une opération de pure entremise – ce qui suppose qu’elle 
+ne fournit pas les biens ou les services qui en font l’objet par ses propres moyens 
+d’exploitation, et qu’elle n’en devient jamais propriétaire – et qu’elle rend compte de cette 
+opération à son commettant. Ces conditions sont, en fait, imbriquées. 
+Cette activité d’entremise vise les entreprises qui, agissant en leur nom propre pour le 
+compte d’autrui, réalisent une opération d’entremise soit à l’achat à un tiers et la vente 
+à un commettant (entremise à l’achat) ou encore l’achat à un commettant et la vente à 
+un tiers (entremise à la vente), sans jamais fournir elles-mêmes les biens ou les services 
+avec leurs propres moyens d’exploitation. 
+En pratique, l’intermédiaire opaque mentionnera au I- Opérations portées aux lignes 
+des imprimés TVA (CA3/CA12) du formulaire C3S, les opérations qu’il a déclaré à la TVA 
+(ces sommes sont dans la plupart des cas déjà préchargées sur le formulaire C3S des 
+données fournies par l’Administration fiscale). 
+Pour bénéficier de l’assiette réduite prévue à l’article L.137-33 susvisé, il portera au 
+III- Sommes à soustraire du même formulaire C3S, la valeur des biens et des services 
+qu’il acquiert ou reçoit de sorte que l’assiette de la C3S ne soit constituée que de la 
+commission qu’il perçoit.
+
+----- page 13 -----
+13
+Sommaire
+Déductions éventuelles 
+(Article L.137-32 du Code de la Sécurité sociale) 
+Le montant des éventuelles déductions listées ci-après, telles que prévues à l’article L.137-32, 
+qui s’ajoute à l’abattement de 19 000 000€, pourra être porté sur le formulaire déclaratif dans la 
+rubrique prévue à cet effet : 
+n°1	
+Les sociétés en nom collectif, les groupements d’intérêt économique, les groupements 
+européens d’intérêt économique et les groupements d’intérêt public doivent déduire la part 
+de chiffre d’affaires correspondant à des prestations de services acquises auprès d’un ou 
+plusieurs de leurs associés ou membres et refacturées à leurs associés ou membres. 
+n°2	
+Les sociétés et groupements visés ci-dessus ne tiennent pas compte des ventes de biens 
+réalisées à ceux de leurs associés ou membres acquittant la contribution et détenant au 
+moins 20% des droits à leurs résultats, à condition que ces biens soient vendus à l’issue 
+d’opérations de production effectuées par ces sociétés ou groupements. 
+n°3	
+Les sociétés anonymes, les sociétés par actions simplifiées, les sociétés à responsabilité 
+limitée, les sociétés en commandite, les personnes morales de droit public autres que les 
+groupements d’intérêt public, les sociétés étrangères, les sociétés ou organismes relevant 
+du secteur coopératif, les sociétés européennes et les sociétés coopératives européennes 
+doivent déduire la part du chiffre d’affaires correspondant à des ventes de biens réalisées 
+avec les sociétés ou groupements visés au n°1 et acquittant la contribution, dans lesquels 
+ils détiennent une participation au moins égale à 20 %, à condition que ces biens soient 
+utilisés pour les besoins d’opérations de production effectuées par ces sociétés ou 
+groupements. 
+n°4	
+En raison de la suppression de l’assujettissement à la C3S des sociétés coopératives 
+agricoles à compter de 2015, la déduction n°4 est devenue sans objet (article 3 de la LFRSS 
+pour 2014). 
+n°5	
+En raison de la suppression de l’assujettissement à la C3S des sociétés coopératives 
+maritimes et d’intérêt maritime à compter de 2015, la déduction n°5 est devenue sans objet 
+(article 21 de la LFSS pour 2015). 
+n°6	
+Pour les organismes financiers visés à l’articleL.137-30 et affiliés à l’un des organes 
+centraux mentionnés à l’article L.511-30 du Code monétaire et financier, la part du chiffre 
+d’affaires correspondant à des intérêts reçus à raison d’opérations de centralisation des 
+ressources financières, à l’échelon régional ou national, n’est pas soumise à la contribution 
+dans la limite du montant des intérêts servis en contrepartie de ces mêmes opérations. 
+Base de calcul de la contribution nette due / Taux normal 
+Dès lors que le montant des opérations à déclarer (IV-A) est supérieur à l’abattement de 
+19 000 000 €, la déclaration est obligatoire. Cette base peut être éventuellement minorée des 
+déductions visées au paragraphe IV- B- Déductions. 
+Le montant de la base de calcul de la contribution nette due au taux normal se calcule ainsi : 
+Montant des opérations à déclarer (IV-A) – montant de l’abattement (19 000 000 €) – montant des 
+éventuelles déductions (IV-B). 
+À partir du résultat obtenu, la contribution est due au taux de 0,16 % (article L.137-32). 
+Si le résultat obtenu est inférieur ou égal à 0, aucune contribution n’est due. 
+En cas de rectification par l’administration fiscale des éléments servant de base de calcul à 
+cette contribution et susceptible d’en modifier son montant, la société doit en informer le service 
+gestionnaire de la C3S dans le délai de trois mois à compter de la notification de cette rectification 
+par l’administration fiscale, ou en cas de contestation, à compter de la notification de la décision 
+définitive. Dans la mesure où vous connaîtriez une situation particulière non précisée dans la 
+notice, nous vous invitons à prendre contact avec nos services.
+
+----- page 14 -----
+14
+Sommaire
+Activités spécifiques 
+Du fait de la spécificité de leur activité, certaines entreprises relèvent d’un régime 
+particulier quant à l’assiette à déclarer ou au taux à appliquer. Le formulaire électronique 
+prévoit des parcours déclaratifs appropriés avec calculs automatiques et aides en ligne. 
+Ces régimes particuliers s’appliquent aux entreprises redevables, c’est-à-dire à celles dont 
+le chiffre d’affaires hors taxes est supérieur à 19 000 000 €. 
+Nous attirons votre attention sur la nécessité de suivre scrupuleusement les indications 
+données lors de la télédéclaration C3S. 
+Il convient donc de renseigner impérativement toutes les zones de saisie en y portant 
+rigoureusement les montants correspondant aux intitulés des rubriques (CVAE, postes du 
+compte de résultat). 
+Toute circonstance particulière doit être décrite dans la zone réservée à cet effet. 
+Le respect des champs à remplir et les précisions apportées seront de nature à permettre 
+au service gestionnaire de la C3S de vérifier l’assiette de cette contribution, tout en évitant 
+ou en limitant les demandes ultérieures de justificatifs. 
+Établissements de crédit et sociétés financières 
+(Article L.137-33 du Code de la Sécurité sociale) 
+Le deuxième alinéa de l’article L.137-33 du Code de la Sécurité sociale définit pour les 
+établissements de crédit, les sociétés de financement, et les entreprises d’investissement agréées 
+par l’Autorité de Contrôle Prudentiel et de Résolution (ACPR), le chiffre d’affaires retenu pour le 
+calcul de la contribution sociale de solidarité des sociétés, par référence à celui retenu en matière 
+fiscale, au 1 du III de l’article 1586 sexies du Code général des impôts, pour l’imposition à la 
+cotisation sur la valeur ajoutée des entreprises (CVAE). 
+Le troisième alinéa de l’article précité prévoit, en outre, un dispositif de plafonnement de la 
+contribution pour tenir compte de la spécificité de l’activité de certains établissements financiers. 
+Ainsi, pour les établissements de crédit, les sociétés de financement et les sociétés 
+d’investissement mentionnées ci-dessus dont le produit net bancaire est au plus égal à 10 % 
+du chiffre d’affaires défini sur la base de celui pris en compte pour l’imposition à la CVAE, sans 
+application de la déduction de l’abattement de 19 000 000 € mais après déduction, le cas échéant, 
+de la quote-part de chiffre d’affaires mentionnée au 6eme alinéa de l’article L.137-32 du Code de la 
+Sécurité sociale, le montant de la contribution sociale de solidarité des sociétés ne pourra excéder 
+1,6 % du produit net bancaire. 
+La circulaire ministérielle n° DSS/SD5/2013/149 du 8 avril 2013 précise les modalités de 
+détermination du chiffre d’affaires retenu pour le calcul de la contribution. 
+L’abattement, d’un montant de 19 000 000 €, est pris en compte pour déterminer si l’entreprise est 
+redevable de la contribution. En revanche, il n’intervient ni dans la comparaison entre le produit 
+net bancaire et le chiffre d’affaires, permettant de déterminer si l’entreprise relève du taux normal 
+ou du taux plafonné égal à 1,6 % du PNB, ni dans la détermination de l’assiette dans le cas où le 
+taux plafonné s’appliquerait. En effet, le taux plafonné de 1,6 % s’applique au PNB et non au chiffre 
+d’affaires. 
+Si le taux plafonné est applicable mais que le calcul de la C3S au taux normal est plus favorable 
+à l’entreprise, alors ce dernier sera retenu et sera automatiquement proposé dans le formulaire 
+déclaratif dématérialisé.
+
+----- page 15 -----
+15
+Sommaire
+Assurances, Mutuelles et Institutions de prévoyance 
+(Article L.137-33 du Code de la Sécurité sociale) 
+Le quatrième alinéa de l’article L.137-33 du Code de la Sécurité sociale définit, pour les sociétés 
+d’assurance et de réassurance, les mutuelles et les institutions de prévoyance, le chiffre d’affaires 
+retenu pour le calcul de la contribution sociale de solidarité des sociétés, par référence à celui 
+retenu en matière fiscale, au 1 du VI de l’article 1586 sexies du Code général des impôts, pour 
+l’imposition à la cotisation sur la valeur ajoutée des entreprises (CVAE). 
+L’abattement est pris en compte pour déterminer si l’entreprise est redevable de la contribution. 
+Il s’applique après la détermination du chiffre d’affaires calculé selon les modalités prévues par la 
+circulaire ministérielle n° DSS/5D/DGFIP/2013/148 du 9 avril 2013. 
+Taux plafonnés dits « taux réduits » 
+(Articles L.137-32, D.137-30, D.137-31 et D.137-32 du Code de la Sécurité sociale) 
+Les entreprises exerçant leur activité dans les secteurs ci-après cités peuvent bénéficier d’un taux 
+plafonné pour le calcul de la contribution due, sous réserve de remplir certaines conditions :
+	
+→Les sociétés de commerce international et intracommunautaire qui réalisent plus de la moitié 
+de leurs achats ou de leurs ventes hors taxes sur les marchés extérieurs et disposent d’une 
+marge brute au plus égale à 4 % de leur chiffre d’affaires hors taxes. 
+	
+→Les sociétés de commerce international et intracommunautaire réalisant à titre accessoire 
+des opérations de commission qui répondent aux mêmes conditions que celles précisées 
+ci-avant. 
+	
+→Les sociétés de négoce en gros des combustibles qui ont une marge brute au plus égale à 
+4 % de leur chiffre d’affaires hors taxes. 
+	
+→Les sociétés de commerce de détail de carburants qui exercent cette activité à titre principal 
+et ont une marge brute au plus égale à 4 % de leur chiffre d’affaires hors taxes (Cour de 
+Cassation, 2e Chambre Civile, arrêt n° H 15-21.249 du 7 juillet 2016). 
+	
+→Les sociétés de négoce en l’état des produits du sol et de l’élevage, engrais et produits 
+connexes, qui réalisent plus de la moitié de leurs achats ou de leurs ventes hors taxes avec 
+les producteurs agricoles ou leurs coopératives et ont une marge brute au plus égale à 4 % de 
+leur chiffre d’affaires hors taxes. 
+Dès lors que le chiffre d’affaires est supérieur à l’abattement de 19 000 000 €, la contribution est 
+due. En revanche, l’abattement n’a pas à être pris en compte dans le calcul de la marge brute, ni 
+dans la comparaison entre cette dernière et le chiffre d’affaires. 
+Le taux de la C3S est alors plafonné à 3,08 % de la marge brute. 
+Si le taux plafonné est applicable mais que le calcul de la C3S est plus favorable au taux normal, 
+alors ce dernier sera retenu et sera automatiquement proposé dans le formulaire déclaratif 
+dématérialisé.
+
+----- page 16 -----
+16
+Sommaire
+V - Montant des opérations à déclarer ≤ à 
+l’abattement de 19 000 000 € - C3S non due
+Pour alléger la démarche des entreprises dont le montant des opérations à déclarer est inférieur 
+ou égal à 19 000 000 €, la loi les dispense d’obligation déclarative pour l’échéance du 15 mai, les 
+données communiquées par l’administration fiscale à l’Urssaf Provence-Alpes-Côte d’Azur selon 
+l’article L.152 du Livre des Procédures Fiscales, devant permettre de confirmer cette situation. 
+Néanmoins, à défaut de confirmation que le seuil de 19 000 000 € n’est pas atteint, le service 
+gestionnaire de la C3S pourra revenir vers les entreprises concernées pour connaître leur 
+situation et, le cas échéant, engager une action en recouvrement (article L.137-33 du Code de la 
+Sécurité sociale). 
+Bien entendu, dès lors qu’une entreprise pourra attester d’un chiffre d’affaires non imposable, 
+même après mise en demeure avec fixation d’office, aucune somme ne sera due ; si une telle 
+déclaration intervenait après l’engagement d’une procédure contentieuse, l’entreprise pourrait se 
+voir réclamer le règlement des frais afférents. 
+Le formulaire électronique prévoit, à l’exception des entreprises concernées par le pré-remplissage 
+automatique (cf. 1. Votre entreprise dépose des déclarations de TVA), un parcours simplifié et 
+adapté à ces entreprises qui, souhaiteraient opérer une déclaration. 
+Dès lors que le montant des opérations à déclarer est inférieur ou égal à 19 000 000 €, il est 
+rappelé que la C3S n’est pas due. Aucun règlement n’est donc à effectuer. 
+VI - Montant des opérations à déclarer > 
+à l’abattement de 19 000 000 € - modalités 
+de déclaration et de paiement 
+Vous devez satisfaire à vos obligations dès lors que le chiffre d’affaires hors taxes réalisé au titre 
+de l’année civile précédente est supérieur à 19 000 000 €. 
+Conformément à l’article L.137-35 du Code de la Sécurité sociale, toutes les entreprises redevables 
+ont l’obligation de télédéclarer et de télérégler la contribution sociale de solidarité des sociétés en 
+utilisant les services du site www.net-entreprises.fr 
+Formalités d’inscription à « net-entreprises.fr » 
+Ces formalités, gratuites (hors frais de connexion), sont indispensables pour être en mesure de 
+respecter l’obligation de déclaration et de paiement par voie dématérialisée. Elles n’ont pas à être 
+renouvelées, sauf modifications souhaitées par l’entreprise. 
+	
+→Si vous n’êtes pas inscrit à net-entreprises, vous devez effectuer le parcours d’inscription à 
+partir du portail officiel des déclarations sociales en ligne www.net-entreprises.fr
+La réception du mail de validation de votre adresse électronique finalise votre inscription et 
+vous permet ainsi d’accéder à la télédéclaration. 
+	
+→Si vous êtes inscrit à net-entreprises et souhaitez compléter, modifier votre inscription ou 
+gérer vos habilitations, vous pouvez, après vous être connecté sur www.net-entreprises.fr, 
+engager cette démarche à partir de la liste proposée par l’option «Gestion» de votre espace 
+entreprise.
+
+----- page 17 -----
+17
+Sommaire
+Nous vous conseillons de vérifier votre inscription en vous connectant le plus tôt possible 
+afin de vous laisser le temps nécessaire pour procéder à une éventuelle modification 
+d’inscription. 
+Assurez-vous que vos coordonnées, en particulier votre adresse de messagerie, sont à jour 
+de façon à recevoir les informations communiquées par le site des déclarations sociales et 
+l’Urssaf PACA au titre de la campagne déclarative de la C3S. 
+Déclaration sur « net-entreprises.fr » 
+L’inscription devenue effective, vous pouvez accéder à votre déclaration C3S en cliquant sur le 
+pavé « C3S » puis laissez-vous guider. 
+Seule l’obtention d’un accusé de réception de votre déclaration vous assurera que celle-ci a 
+bien été finalisée. 
+Exemple d’accusé de réception de déclaration C3S : 
+Paiement sur « net-entreprises.fr » 
+La rubrique « Vos coordonnées bancaires » du tableau de bord de déclaration C3S permet au 
+collaborateur de l’entreprise ou au tiers déclarant, ayant le statut d’administrateur habilité à payer 
+la C3S sur le site net-entreprises.fr, de gérer les coordonnées bancaires de l’entreprise ainsi que 
+les mandats (autorisation de prélèvement) associés. 
+Une fois le ou les compte(s) bancaire(s) créé(s), il conviendra que l’administrateur crée puis 
+acquitte le mandat qui y sera associé.
+
+----- page 18 -----
+18
+Sommaire
+Attention : 
+Un mandat acquitté pour lequel aucun ordre de prélèvement SEPA n’a été présenté pendant 
+une période de 36 mois (à compter de la date d’échéance du dernier prélèvement SEPA) 
+devient caduc et ne doit donc plus être utilisé. Si vous êtes dans cette situation, nous vous 
+préconisons de le révoquer puis d’acquitter un nouveau mandat pour éviter tout risque de 
+rejet du télérèglement à l’échéance de la C3S le 15 mai 2026. 
+L’acquittement du mandat ne vaut pas validation de l’ordre de paiement du montant de C3S 
+dû. Après avoir acquitté le mandat, il vous appartient, en fin de parcours déclaratif de la 
+C3S, de procéder à son télérèglement. 
+Seul l’affichage de l’accusé de réception de paiement vaut confirmation de la prise en 
+compte effective de votre ordre de paiement.
+
+----- page 19 -----
+19
+Sommaire
+Exemple d’accusé de réception de paiement C3S : 
+L’ordre de prélèvement donné ne sera exécuté qu’à la date d’échéance de la C3S. 
+À noter : si l’entreprise n’effectue pas les démarches en ligne, elle est susceptible d’encourir une 
+majoration de 0,2 % du montant de la contribution due, en cas d’absence de télédéclaration, et/ou 
+des sommes qui n’auront pas été téléréglées. 
+Assistance 
+Le site www.net-entreprises.fr vous apportera des précisions pratiques et vous aidera à résoudre 
+d’éventuelles difficultés. 
+Si vous ne parvenez pas à résoudre vous-même les difficultés liées à votre inscription 
+ou authentification, vous pouvez contacter le centre de contacts de net-entreprises au 
+0 806 800 700 (appel non surtaxé). 
+Nos services se tiennent également à votre disposition au 0 806 804 260 (appel non surtaxé). 
+VII - Droits et obligations des entreprises 
+Date d’échéance unique au 15 mai 
+Toutes les entreprises redevables et seulement celles-ci, sont tenues d’accomplir leurs obligations 
+de déclaration et de paiement au plus tard le 15 mai. 
+La déclaration et le paiement de la C3S doivent être réalisées exclusivement par voie 
+dématérialisée (article L.137-35 du Code de la Sécurité sociale). Des majorations sont appliquées 
+pour sanctionner le non-respect de ces obligations.
+
+----- page 20 -----
+20
+Sommaire
+Les majorations de retard 
+(Articles L.137-36 I et L.137-37 du Code de la Sécurité sociale) 
+Les majorations de retard se calculent ainsi : 
+	
+→Retard de déclaration : application d’une majoration dans la limite de 10 % de la contribution due. 
+	
+→Retard de paiement : application d’une majoration dans la limite de 10 % de la contribution non 
+réglée à la date limite de versement augmentée de plein droit d’une nouvelle majoration dans 
+la limite de 4,8 %, par année ou fraction d’année de retard. 
+Les majorations visées aux articles L.137-36 I et L.137-37 sont également applicables dans le cadre 
+de la taxation d’office en vertu de l’article L.137-38. 
+Les majorations pour défaut de régularisation par voie dématérialisée 
+(Article L.137-35 du Code de la Sécurité sociale) 
+Les majorations dues pour défaut de déclaration et/ou de versement par voie dématérialisée sont 
+les suivantes : 
+	
+→Défaut de télédéclaration : 0,2 % de la contribution due. 
+	
+→Défaut de paiement par télérèglement : 0,2 % des sommes versées par un autre moyen. 
+La procédure de remise gracieuse des majorations 
+(Article R. 243-20 du Code de la Sécurité sociale) 
+Les dispositions applicables à la contribution sociale de solidarité des sociétés sont codifiées à 
+l’article R. 243- 19 1° et à l’article R.243-20, alinéas 1, 4 et 5 du Code de la Sécurité sociale. 
+Ainsi, les entreprises peuvent exceptionnellement, sous certaines conditions, bénéficier d’une 
+remise totale ou partielle des majorations qui leur sont notifiées. 
+La recevabilité de la demande est soumise aux conditions suivantes : 
+	
+→Le règlement de la totalité de la contribution ayant donné lieu à l’application des majorations, 
+Ou 
+	
+→La souscription d’un plan d’apurement avec l’organisme de recouvrement dont relève 
+l’entreprise. 
+Les entreprises doivent donc tout mettre en œuvre dans leur organisation, malgré la survenance 
+d’aléas, pour veiller au bon accomplissement de leurs obligations pour la date limite fixée par les 
+textes.
+
+----- page 21 -----
+21
+Sommaire
+VIII - La procédure de contrôle de l’assiette C3S 
+La procédure de contrôle sur pièces 
+(Article L.137-34 du Code de la Sécurité sociale) 
+Outre le croisement systématique de ses fichiers avec ceux de l’administration fiscale, l’organisme 
+gestionnaire de la C3S peut réclamer aux entreprises tous renseignements et documents 
+nécessaires à la vérification de l’assiette déclarée, conformément à la procédure de contrôle sur 
+pièces prévue par l’article L.137-34 du Code de la Sécurité sociale. 
+L’entreprise dispose alors d’un délai de 60 jours, à compter de sa réception, pour répondre à la 
+demande. 
+	
+→Si les éléments sont fournis dans le délai et qu’ils révèlent une insuffisance dans le chiffre 
+d’affaires déclaré par l’entreprise, une lettre lui notifiant le montant de la rectification 
+envisagée sera envoyée par lettre recommandée avec AR. Le redevable aura alors 30 
+jours à compter de sa réception pour faire part de sa réponse. Passé ce délai et à défaut de 
+règlement, l’action en recouvrement par voie de mise en demeure pourra être engagée. 
+	
+→Si aucun élément n’est fourni dans le délai, une lettre adressée en RAR notifiera à 
+l’entreprise le montant de la rectification envisagée nécessairement estimée selon les 
+règles fixées par l’avant-dernier alinéa de l’article L.137-33. Le redevable aura alors 30 
+jours à compter de sa réception pour faire part de sa réponse. Passé ce délai et à défaut de 
+règlement, l’action en recouvrement par voie de mise en demeure pourra être engagée. 
+	
+→Si des éléments sont fournis dans le délai mais que la réponse est incomplète, une mise en 
+demeure sera adressée à l’entreprise par lettre RAR lui ouvrant un nouveau délai de 30 jours 
+à compter de sa réception pour produire les pièces manquantes. Dans ce cas : 
+	
+−Si les éléments sont adressés dans le délai et qu’ils révèlent une insuffisance dans le 
+chiffre d’affaires initialement déclaré par l’entreprise, une lettre notifiant le montant de 
+la rectification envisagée sera envoyée par lettre RAR. Le redevable aura alors 30 jours 
+à compter de sa réception pour faire part de sa réponse. Passé ce délai et à défaut de 
+règlement, l’action en recouvrement par voie de mise en demeure pourra être engagée. 
+	
+−Si aucun élément n’est fourni dans le délai ou que la réponse est incomplète, une 
+lettre adressée en RAR notifiera à l’entreprise le montant de la rectification envisagée 
+nécessairement estimée selon les règles fixées par l’avant-dernier alinéa de l’article 
+L.137-33 du Code de la sécurité sociale. Le redevable aura alors 30 jours à compter de sa 
+réception pour faire part de sa réponse. Passé ce délai et à défaut de règlement, l’action en 
+recouvrement par voie de mise en demeure pourra être engagée. 
+Les majorations liées à la procédure de contrôle sur pièces 
+(Articles L.137-34 III et L.137-36 II du Code de la Sécurité sociale) 
+Outre les majorations applicables pour défaut ou retard de déclaration, retard de paiement et 
+défaut d’utilisation de la voie dématérialisée, des sanctions spécifiques à la procédure de contrôle 
+sont prévues : 
+	
+→Majoration pour défaut de réponse, réponse insuffisante ou tardive à la demande de 
+renseignements ou de documents ou à la mise en demeure mentionnée au II de l’article 
+L.13734 (procédure de contrôle sur pièces) : dans la limite de 5 % de la contribution due.
+	
+→Majoration pour rectification notifiée dans le cadre de la procédure de contrôle sur pièces 
+prévue à l’article L.137-34 IV : dans la limite de 10 % sur le supplément de contribution dû.
+Ces majorations peuvent faire l’objet de la procédure de remise gracieuse visée (cf. page 
+précédente).
+
+----- page 22 -----
+22
+La charte de l’entreprise contrôlée 
+Pour une meilleure qualité de service et la sécurisation des pratiques, la Charte de l’entreprise 
+contrôlée expose les droits et devoirs de toute entreprise faisant l’objet d’une vérification 
+d’assiette, selon la procédure de contrôle sur pièces prévue pour la C3S. 
+À chaque stade de la procédure de contrôle, les lettres font référence à ce document qui peut être 
+adressé, à la demande. 
+La Charte est consultable, et peut être imprimée au format PDF, sur le site www.urssaf.fr/c3s, 
+rubrique « la procédure de contrôle de l’assiette C3S ». 
+CORRESPONDANCE AVEC LES SERVICES 
+Plusieurs moyens vous sont offerts pour entrer 
+en contact avec nos services : 
+	
+→Par courrier à l’adresse postale : 
+Urssaf C3S 
+TSA 62101 
+69833 SAINT PRIEST CEDEX 9 
+	
+→Par courriel 
+en utilisant le formulaire de contact mis à votre 
+disposition sur www.urssaf.fr/c3s  rubrique 
+Contactez l’Urssaf 
+	
+→Par téléphone en composant le 0 806 804 260 
+Retrouvez toute l’information sur la C3S sur www.urssaf.fr/c3s 
+Urssaf CN/6910/Mars 2026/Notice C3S

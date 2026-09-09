@@ -1,0 +1,348 @@
+
+----- page 1 -----
+1 Balises de référencement : titre et description d’une page web et de ses images.
+Le e-commerce à l’export
+Il est fréquent qu’un e-commerçant soit sollicité par des clients étrangers. Tant et si bien que certains 
+d’entre eux deviennent exportateurs par opportunité, sans maîtriser les enjeux relatifs à l’export.
+Toutefois, il ne suffit pas de décréter du jour au lendemain que l’on souhaite vendre à l’international. 
+Une des premières démarches consiste à s’assurer que vos produits peuvent être vendus dans le pays 
+: répondent-ils aux normes en vigueur ? Y a-t-il un marché pour ce type de produit ? Vos fournisseurs 
+vous autorisent-ils à vendre à l’étranger, etc.
+Ce point résolu, il reste à régler les problèmes liés aux fonctionnalités du site, aux droits de douane, à la 
+TVA, à la logistique et au service après-vente.
+Cette notice vous guide pas à pas à travers les étapes d’une démarche export via un site de vente en 
+ligne.
+Performance 
+numérique
+Votre rendez-vous mensuel
+Adaptation au pays
+CCI DORDOGNE - Performance numérique - AVRIL 2016
+1
+Il s’agit d’adapter le site aux habi-
+tudes des acheteurs potentiels. Selon 
+les pays, une simple traduction des 
+pages du site ne suffit pas ; il est 
+peut-être nécessaire de concevoir 
+un ou plusieurs sites spécifiques 
+pour s’adapter aux us et coutumes 
+du pays en question.
+> La langue
+Le vocabulaire
+Une attention particulière doit être 
+portée au vocabulaire du site, même 
+si celui-ci est francophone. En effet, 
+un Belge ou un Québécois em-
+ploient parfois un mot différent pour 
+exprimer une même idée.
+Il ne s’agit donc pas uniquement de 
+traduire les pages d’un site : il faut 
+également identifier les mots-clés 
+utilisés par un internaute au cours de 
+leur recherche d’informations.
+A titre d’exemple, l’application « 
+Google Insight » permet de com-
+parer la popularité de mots-clés par 
+zone géographique. 
+En voici deux exemples :
+Le référencement
+Si l’export n’est pas l’objectif 
+premier du site internet, il n’est 
+pas utile de faire figurer la double 
+ou triple appellation d’un produit. 
+Néanmoins, intégrer les autres 
+désignations d’un produit (chandail, 
+wassing) dans les balises 
+de référencement1 s’avère 
+efficace et augmente la 
+visibilité de vos pages dans 
+les résultats de recherche.
+Si votre site est en français 
+et que vous ciblez des 
+clients anglophones, il est 
+déconseillé de créer des 
+pages en anglais sur votre 
+site initial : constatant la 
+coexistence de pages 
+de langues différentes, 
+les robots des moteurs 
+1.  Mot-clé utilisé pour rechercher un « pull »
+2.  Mot-clé utilisé pour rechercher une « serpillère »
+
+----- page 2 -----
+de recherche concluront alors à 
+un manque d’harmonie dans le 
+contenu du site. Au final, le site sera 
+moins bien positionné dans les 
+résultats des moteurs de recherche.
+Il est préférable de distinguer les 
+sites selon les cibles visées, en 
+créant un site indépendant avec un 
+nom de domaine en « .com », par 
+exemple.
+CCI DORDOGNE - Performance numérique - AVRIL 2016
+2
+> La culture
+Pour mieux prendre en compte la 
+diversité culturelle des différentes 
+régions du monde, une refonte du 
+site est parfois nécessaire. 
+Voici quelques exemples de diffé-
+rences culturelles :
+•	 Le sens des couleurs : en Chine, 
+la couleur jaune a une connota-
+tion pornographique, l’associa-
+tion du rouge et du vert est signe 
+de mauvais goût
+•	 Les illustrations : éviter les 
+images d’alpage dans les pays 
+arides
+•	 Le contenu : les internautes eu-
+ropéens apprécient des sites au 
+graphisme travaillé voire recher-
+ché, tandis que les Américains 
+préfèrent les sites dépouillés, 
+allant à l’essentiel dans un souci 
+d’efficacité
+•	 Les références : mettre en valeur 
+des clients connus dans le pays 
+où l’on souhaite exporter
+•	 Sens de lecture : certaines lan-
+gues ne se lisant pas de gauche 
+à droite, il est impératif de modi-
+fier la maquette graphique des 
+pages
+> La monnaie
+Les outils de gestion de boutique 
+en ligne intègrent, dans leur grande 
+majorité, la possibilité d’afficher des 
+prix différents selon la devise de l’in-
+ternaute.
+Attention toutefois, les clients de-
+vront s’acquitter de frais de conver-
+sion monétaire.
+Par ailleurs, tous les moyens de paie-
+ment ne sont pas valables à l’étran-
+ger (chèque, paiement en plusieurs 
+fois). Il faut donc veiller à verrouiller 
+certaines options selon le pays de 
+l’acheteur.
+Il s’agit des règles générales relatives 
+à la majorité des biens et services 
+vendus sur Internet. Certains produits 
+font néanmoins l’objet d’une législa-
+tion particulière (nourritures, alcools, 
+produits parapharmaceutiques, etc.)
+Sont considérés comme territoires 
+d’exportation les zones géogra-
+phiques en dehors de la France mé-
+tropolitaine et Monaco. L’administra-
+tion fiscale et les douanes font une 
+distinction entre :
+•	 Les pays de l’Union Européenne 
+(UE)
+•	 Les autres pays et les « terri-
+toires spéciaux » de l’UE comme 
+les départements d’Outre-Mer, 
+les Iles Féroé ou les îles Anglo-
+Normandes2 pour qui les règles 
+appliquées sont les mêmes que 
+pour les pays hors de l’UE
+La vente de produits dématérialisés tels que le 
+téléchargement payant de logiciels ou de mu-
+sique répond à des règles juridiques et fiscales 
+complexes nécessitant les conseils d’un avocat.
+> La TVA
+D’une manière générale, les outils de 
+gestion de boutique en ligne pro-
+posent un module de calcul automa-
+tique de la TVA. Voici néanmoins les 
+règles à connaître :
+La TVA dans l’Union Européenne
+•	 Si le client dispose d’un numéro 
+de 
+TVA intracommunautaire3 
+(professionnel), vous facturez HT 
+votre client assujetti à la tva dans 
+son pays. Le numéro de TVA de 
+Intégrer les règles juridiques et fiscales
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - AVRIL 2016
+3
+votre client doit figurer sur votre 
+facture ainsi que la mention 
+d’exonération de TVA . Attention 
+à conserver tous les justificatifs 
+pouvant prouver la sortie du 
+territoire 
+français 
+(document 
+de transport par exemple) pour 
+pouvoir justifier la facturation HT 
+en cas de contrôle.
+•	 Si le client ne dispose pas de 
+numéro de TVA intracommu-
+nautaire (particulier), la facture 
+est établie sur la base de la TVA 
+française. Toutefois, lorsque le 
+vendeur français réalise plus 
+d’un certain montant de chiffre 
+d’affaires dans un pays étranger 
+dans l’année, c’est la TVA du pays 
+qui s’applique. Ce montant est 
+différent selon le pays : 100 000 
+€ pour l’Allemagne, 70 000 GBP 
+pour le Royaume-Uni, 35 000 € 
+pour la Belgique.
+•	 Par ailleurs, le paiement d’une 
+TVA étrangère implique de s’en-
+registrer auprès de l’administra-
+tion fiscale du pays concerné et 
+de respecter certaines règles de 
+facturation.
+La TVA hors de l’UE et dans les « 
+territoires spéciaux »
+Pour les ventes BtoB et BtoC, vous 
+facturez votre client HT.
+Le client devra s’acquitter des autres 
+taxes, dont les droits de douane. Veil-
+lez bien à en informer le client dans 
+vos conditions générales de vente 
+(CGV).
+Cependant, certains produits (biens 
+d’occasion, œuvre d’art, vins, alcools) 
+sont soumis à des régimes TVA par-
+ticuliers.
+Attention à conserver tous les justi-
+ficatifs pouvant prouver la sortie du 
+territoire européen (déclaration d’ex-
+portation, documents de dédouane-
+ment et de transport) pour pouvoir 
+justifier la facturation HT en cas de 
+contrôle.
+> Les formalités douanières
+Les livraisons intracommunautaires 
+en B2B devront être reprises sur 
+la DEB (déclaration d’échanges de 
+bien).
+Dans le cas des livraisons B2C, tant 
+que vous vendez TTC TVA française 
+incluse vous n’avez pas d’obligation 
+déclarative à respecter. Si vous devez 
+facturer TTC TVA du pays client, vous 
+devez déposer une DEB expédition 
+en France et une DEB introduction 
+dans le pays client.
+Dans le cas d’une exportation vers 
+un pays n’appartenant pas à l’UE ou 
+vers « un territoire spécial » les forma-
+lités douanières obligatoires sont les 
+suivantes : 
+La déclaration en douane
+Elle consiste à :
+•	 Remplir un formulaire CP 72 
+contenant les deux déclarations 
+en douane CN 23
+•	 Etablir un Document Administra-
+tif Unique (DAU) si la valeur du 
+colis dépasse 8 000 €
+Le DAU et les récépissés postaux CP 
+72 et CN 23 doivent être conservés 
+comme justificatifs. Ils permettent, 
+entre autres, de justifier l’exonération 
+de TVA.
+Les obligations documentaires
+Chaque pays a ses exigences propres. 
+Voici la liste des principaux docu-
+ments utilisés dans les échanges 
+internationaux :
+•	 La facture pro forma4  
+•	 Le certificat d’origine
+•	 Le certificat de conformité ou 
+certificat phytosanitaire
+•	 La liste de colisage
+•	 L’attestation d’assurance
+Certains produits sont soumis à des 
+réglementations spécifiques préa-
+lables à l’exportation (vins et spiri-
+tueux soumis à droits d’accises, auto-
+risation d’exportation pour les biens 
+à double usage, etc.)
+Les envois vers les départements d’Outre-Mer 
+sont soumis à une règlementation moins contrai-
+gnante que les autres « territoires spéciaux » de 
+l’UE.
+2 Liste exhaustive des « territoires spéciaux » : France : Martinique, Guadeloupe, Guyane, Réunion/Allemagne : Ile de Helgoland et Territoire de Büsingen/Danemark : Iles Féroé et du Groen-
+land/Espagne : Iles Canaries, Ceuta et Melilla/Italie : communes de Livigno et de Campione/Grèce : le Mont Athos/Royaume Uni : Iles Anglo-Normandes/Finlande : Iles Åland/Chypre : zone 
+septentrionale.
+3 Possibilité de vérifier un n° de TVA intracommunautaire sur : http://ec.europa.eu/taxation_customs/vies/vieshome.do
+4 La facture pro forma doit faire mention des coordonnées exactes des parties contractantes avec si possible le nom des représentants respectifs de chaque société, d’une description détail-
+lée du produit ou service avec tous les aspects techniques et les détails du conditionnement (volume, poids et emballage), des modalités de transport et délais de livraison, du prix détaillé 
+(prix unitaire, etc.).
+Gérer le transport
+Certains outils de gestion de bou-
+tique en ligne permettent de cal-
+culer automatiquement les frais de 
+port à la charge du client en fonction 
+des tarifs des transporteurs. 
+Il faudra néanmoins veiller à ver-
+rouiller certaines options, comme la 
+livraison en 24 h ou en point relais, si 
+celles-ci ne sont pas applicables au 
+pays destinataire.
+Par ailleurs, lorsque le volume 
+d’export vers un pays devient consé-
+quent, il est conseillé d’y implanter 
+des points de stockage de proximité 
+pour réduire les coûts de livraison.
+
+----- page 4 -----
+CCI DORDOGNE - Performance numérique - AVRIL 2016
+4
+Vis-à-vis de vos clients étrangers, il 
+est impératif de :
+•	 Fournir des conditions générales 
+de vente adaptées à l’export: 
+droits de douane éventuels, 
+conditions des retours produits, 
+etc.
+•	 Produire une facture et des CGV 
+de préférence en anglais s’ils ne 
+sont pas francophones.
+•	 Les 
+informer 
+d’un 
+délai 
+approximatif de livraison
+•	 Leur répondre par email ou par 
+téléphone en anglais s’ils ne sont 
+pas francophones.
+•	 Transmettre 
+un 
+numéro 
+de 
+téléphone 
+aux 
+normes 
+internationales (avec l’indicatif 
+d’appel 
+vers 
+la 
+France) 
+et 
+éventuellement 
+les 
+informer 
+du coût approximatif de la 
+communication.
+Travaillez en Dordogne avec Corner Cow
+Votre prochain rdv numérique :
+« ERP, quelle réponse pour les 
+PME ? »
+VOTRE contact
+Samuel COSTE 
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+ 
+Gérer la relation client
