@@ -1,0 +1,105 @@
+
+----- page 1 -----
+Les cotisations sociales d’un auto-entrepreneur se calculent sur la base du chiffre d’affaires qui est par définition toujours hors taxes (TVA), cf. fiche
+pratique n°03. Si la plateforme ne dispose pas du montant de TVA appliqué par l’auto-entrepreneur, elle devra en informer l’Urssaf dans la déclaration
+mensuelle afin qu’une procédure de régularisation de TVA soit engagée par l’Urssaf auprès de l’auto-entrepreneur.
+Pour rappel, toute entreprise, personne physique ou morale, exerçant de manière indépendante et habituelle une activité économique est assujettie à la TVA. Parmi les
+assujettis, il y a deux types d’entreprises :
+•
+Les « redevables » : entreprises qui doivent collecter et reverser la TVA à l’Etat, pour toutes les opérations de ventes et prestations de service qu’elles réalisent.
+•
+Les « exonérées » ou « non redevables » : entreprises qui relèvent notamment du régime de la franchise en base de TVA, applicable sous conditions de seuil de chiffre
+d’affaires. Ces entreprises, bien qu’assujetties, n’ont pas à facturer, collecter et reverser la TVA sur les opérations de ventes et de prestations de service qu’elles réalisent.
+Le numéro de TVA intracommunautaire est obligatoire pour les seules entreprises qui doivent collecter cette taxe, c’est-à-dire pour les entreprises qui ne
+sont pas en franchise de TVA. Il existe cependant des exceptions.
+DANS QUEL
+CAS LE
+NUMÉRO DE
+TVA EST-IL
+OBLIGATOIRE ?
+Le numéro de TVA est obligatoire pour toutes les entreprises qui ne sont pas en franchise de TVA :
+→Un auto-entrepreneur bénéficie de la franchise en base de TVA si son chiffre d’affaires annuel de l’année
+précédente ne dépasse pas certains seuils.
+→Le numéro de TVA ne doit donc pas être demandé aux auto-entrepreneurs qui indiquent relever du régime de
+la franchise en base de TVA car ils n’en sont pas redevables et ne facturent pas la TVA à leurs clients.
+Même si l’entreprise est en franchise de TVA, il existe des cas d’exception dans lesquels le numéro de TVA
+est obligatoire :
+→Exception 1 : si l’entreprise réalise des achats dans un pays de l’UE (Union Européenne) ou hors UE ou reçoit
+une prestation d’un prestataire de l’UE, elle doit demander un numéro de TVA.
+→Exception 2 : Dans certaines situations, si l’entreprise française effectue des ventes ou des prestations
+territorialisées dans un pays de l’UE, elle doit demander dans l'Etat membre concerné un numéro de TVA
+(sauf si le client pratique l'autoliquidation et paye directement la TVA).
+
+----- page 2 -----
+Situation
+Déclaration plateforme :
+Numéro de TVA
+Déclaration plateforme :
+Indicateur TVA déduite du CA
+Gestion spécifique Urssaf à réception de la déclaration plateforme
+1 : Non redevable de la TVA
+Non renseigné
+Non renseigné
+Aucune
+2A : Redevable de la TVA et
+Montant TVA déduit du CA
+Renseigné
+Indicateur renseigné à 1 (Oui)
+Aucune
+2B : Redevable de la TVA et
+Montant TVA non connu de
+la plateforme
+Renseigné
+Indicateur renseigné à 0 (Non)
+Un service spécifique de l’Urssaf, accessible dès réception de la déclaration de la
+plateforme, permettra à l’auto-entrepreneur de déclarer le montant de TVA inclus
+dans le CA transmis par la plateforme. L’Urssaf recalculera automatiquement les
+cotisations sociales sur la base du CA hors taxes et remboursera le trop prélevé.
+TVA : INFORMATIONS À TRANSMETTRE À L’URSSAF PAR LES PLATEFORMES
+Le numéro de TVA est une information qui doit être demandée par les plateformes à leurs utilisateurs qui sont tenus de le déclarer uniquement s’ils sont
+effectivement redevables de la TVA.
+Selon les plateformes, plusieurs situations peuvent se présenter :
+•
+Situation 1 ➔l’auto-entrepreneur n’est pas redevable de la TVA (pas de numéro de TVA déclaré à la plateforme) : la plateforme applique le prélèvement à la source des
+cotisations sociales sur un chiffre d’affaires (CA) qui est forcément hors taxes.
+•
+Situation 2A ➔l’auto-entrepreneur est redevable de la TVA (numéro de TVA déclaré à la plateforme) et la plateforme connait le montant de TVA appliqué par l’auto-
+entrepreneur sur ses ventes ou prestations : elle est en mesure de calculer le prélèvement à la source des cotisations sociales sur un chiffre d’affaires (CA) hors taxes.
+•
+Situation 2B ➔l’auto-entrepreneur est redevable de la TVA mais la plateforme ne connait pas le montant de TVA appliqué par l’auto-entrepreneur sur ses ventes ou
+prestations : le prélèvement à la source des cotisations sociales sera calculé sur la base d’un chiffre d’affaires (CA) qui comprend potentiellement une part au titre de la
+TVA. Dans cette situation, à réception de la déclaration mensuelle de la plateforme, l’Urssaf invitera l’auto-entrepreneur à indiquer le montant de TVA qu’il a appliqué afin
+que ses cotisations sociales soient revues à la baisse : le trop prélevé par la plateforme sera remboursé automatiquement à l’auto-entrepreneur par l’Urssaf.
+Pour tenir compte de ces différentes situations, les plateformes devront préciser, pour chaque déclaration mensuelle transmise à l’Urssaf, les informations
+qui permettront à l’Urssaf de régulariser, si nécessaire, la situation auprès de l’auto-entrepreneur. Les informations sont les suivantes :
+L’auto-entrepreneur redevable de la TVA doit continuer de déclarer et payer la TVA auprès de l’administration fiscale, selon les modalités en vigueur.
+
+----- page 3 -----
+TVA : CADRE JURIDIQUE
+L’identification par un numéro de TVA intracommunautaire est prévue à l'article 214 de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au
+système commun de taxe sur la valeur ajoutée Directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée -
+Légifrance. Le numéro de TVA est obligatoirement attribué à tout redevable de la TVA, c’est-à-dire les assujettis hors ceux qui relèvent de la franchise en base
+de TVA : article 286 ter 1° du Code général des impôts Article 286 ter - Code général des impôts - Légifrance. L'entreprise doit faire sa demande d'attribution de
+numéro de TVA intracommunautaire en ligne via la messagerie de son compte professionnel sur le site impots.gouv.fr.
+Exceptions à la non-obligation d’un numéro de TVA en France : dans les cas suivants, l’entreprise doit avoir un numéro de TVA (article 286 ter 2° à 6° du Code
+général des impôts Article 286 ter - Code général des impôts - Légifrance) et doit être identifiée comme redevable de la TVA :
+•
+l’entreprise réalise des achats dans un pays de l’UE ou hors UE ou reçoit une prestation d’un prestataire de l’UE
+Exceptions à l’obligation d’un numéro de TVA : dans les cas suivants, l’entreprise peut ne pas avoir de numéro de TVA (article 286 ter A du Code général des
+impôts Article 286 ter A - Code général des impôts - Légifrance) :
+•
+Activités occasionnelles : l’entreprise fait seulement de temps en temps des ventes ou des prestations.
+•
+TVA due par le client (autoliquidation) : l’entreprise ne fait que des opérations où c’est le client qui paye la TVA (et non le vendeur).
+•
+Sorties ou importations exonérées : l’entreprise ne fait que des sorties de biens ou des importations exonérées de TVA.
+•
+Ventes à distance via le guichet unique : l’entreprise ne fait que des ventes à distance de biens importés et déclare la TVA via le régime européen spécial.
+•
+Entreprise étrangère utilisant le régime européen spécial : une entreprise non établie en France qui gère sa TVA via un guichet unique dans un autre pays de
+l’UE.
+Seuils de chiffre d’affaires pour être en franchise en base de TVA :
+•
+Section VIII bis : Franchise en base (Articles 293-0 B à 293 F) – Légifrance
+•
+Les factures doivent porter la mention « TVA non applicable - article 293 B du CGI »

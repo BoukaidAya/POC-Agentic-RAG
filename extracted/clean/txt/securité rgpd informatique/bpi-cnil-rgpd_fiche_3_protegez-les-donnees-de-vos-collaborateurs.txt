@@ -1,0 +1,132 @@
+
+----- page 1 -----
+PROTÉGEZ
+LES DONNÉES
+DE VOS COLLABORATEURS
+
+----- page 2 -----
+Protéger les données personnelles
+de vos collaborateurs sur leur lieu
+et pendant leur temps de travail
+c’est aussi un moyen de renforcer
+le lien de confiance nécessaire
+au bon fonctionnement
+de votre entreprise.
+Le développement de l’utilisation
+des nouvelles technologies au travail
+peut faire craindre surveillance
+systématique.
+La transparence sera alors
+le meilleur moyen de s’en prémunir.
+
+----- page 3 -----
+LA GESTION
+DE VOS COLLABORATEURS
+De très nombreuses données personnelles relatives
+aux employés sont nécessaires pour la gestion
+de leur carrière au sein de votre entreprise.
+Par exemple, vous avez besoin de beaucoup d’informations pour assurer :
+la rémunération et les déclarations sociales obligatoires ;
+la tenue du registre unique du personnel ;
+la gestion administrative du personnel (exemple : type de permis de conduire détenu
+ou coordonnées de personnes à prévenir en cas d’urgence) ;
+l’organisation du travail (exemple : photographie facultative de l’employé pour les annuaires
+internes et organigrammes) ;
+l’action sociale prise en charge par l’employeur (exemple : les informations concernant
+les ayants-droit de l’employé).
+
+----- page 4 -----
+Ne demandez à vos employés que les informations utiles pour accomplir leurs missions,
+et évitez de traiter des données dites « sensibles » (activité syndicale, opinions politiques, religion,
+origine ethnique, santé). Si vous devez en traiter, des obligations particulières sont applicables.
+Vous disposez forcément d’informations particulières (et donc à risque) sur vos employés (coordonnées
+bancaires pour la paie, numéro de sécurité sociale pour les déclarations sociales, etc.). Assurez-vous
+d’en garantir la confidentialité et la sécurité. Ainsi, seules les personnes habilitées doivent
+en prendre connaissance. Les actions sur les données effectuées par les personnes habilitées doivent
+être enregistrées (savoir qui se connecte à quoi, quand et pour faire quoi).
+Informez vos collaborateurs à chaque fois que vous leur demander des informations (exemple :
+mise à jour des données administratives, demande de formation, formulaire d’entretien d’évaluation,
+etc.).
+Enfin, souvenez-vous toujours que vos salariés peuvent vous demander une copie de toutes les données
+les concernant que vous détenez : copie d’un bulletin de paie, état d’un compte épargne-temps, mais
+aussi les enregistrements téléphoniques, relevés des badgeuses, ou encore des messages envoyés
+via le mail professionnel, y compris lorsqu’un employé n’est plus en poste ou est en litige avec vous.
+
+----- page 5 -----
+Lorsque vous recrutez un nouveau collaborateur,
+vous ne pouvez pas demander tout et n’importe quoi
+aux candidats.
+Seules les informations utiles au regard du poste à pourvoir peuvent être collectées.
+LE RECRUTEMENT D’UN NOUVEAU
+COLLABORATEUR
+EXEMPLE
+Des informations sur l’emploi occupé par les membres de sa famille n’ont pas de lien avec
+les compétences du candidat à occuper l’emploi proposé. Il est par ailleurs inutile, à ce stade,
+de demander aux candidats leur numéro de sécurité sociale.
+Informez les candidats sur ce que vous allez faire des données qu’ils vous communiquent,
+qui va y avoir accès (service RH, un prestataire ?), combien de temps vous allez les conserver, comment
+ils peuvent exercer leurs droits sur leurs données.
+Les candidats doivent notamment pouvoir accéder à leurs données, les faire rectifier ou supprimer.
+Une fois le choix de votre nouvel employé effectué, supprimez les informations sur les candidats
+non retenus, sauf s’ils acceptent de rester dans votre « vivier » pour une durée limitée (2 ans).
+
+----- page 6 -----
+Le code du travail vous permet
+de contrôler l’activité de vos employés.
+Mais, même sur son lieu de travail, un employé a droit au respect de sa vie privée et à la protection de
+ses données personnelles.
+2 règles simples à retenir :
+N’abusez pas de votre pouvoir !
+• la surveillance doit reposer sur un intérêt légitime de l’entreprise (exemple : limiter les risques
+d’abus d’une utilisation trop personnelle d’internet pendant le temps de travail) ;
+• les employés ne doivent pas être mis sous surveillance permanente (exemple : sécuriser
+un local professionnel n’impose pas de filmer en permanence un employé sur son poste
+de travail) ;
+• n’utilisez pas un outil pour autre objectif caché (exemple : la géolocalisation des véhicules
+opérant une tournée chaque matin chez des clients pour optimiser votre organisation ne doit
+pas servir à contrôler la vitesse de circulation en temps réel).
+Soyez transparent !
+• consultez les instances représentatives du personnel ;
+• informez les employés de la mise en œuvre d’un dispositif de surveillance, selon les modalités
+les plus appropriées en fonction de votre organisation (exemple : note de service, avenant
+au contrat de travail, mention d’information sur l’intranet, courrier joint au bulletin de paye,
+etc.).
+En fonction des technologies que vous utilisez des règles particulières peuvent s’appliquer.
+LES LIMITES DU CONTRÔLE
+POUR EN SAVOIR PLUS :
+Fiches pratiques « Travail et protection des données »
+sur le site internet de la CNIL
+
+----- page 7 -----
+La protection des données personnelles
+de vos employés comme de vos clients n’est pas
+que l’affaire de juristes ou d’informaticiens.
+Tous vos employés doivent être sensibilisés à cette question. Ils sont concernés en tant que professionnels
+en relation avec vos clients, vos fournisseurs, vos prestataires, et en tant que citoyens.
+Des points d’attention assez simples peuvent facilement être mis en place :
+sensibilisez sur les droits des personnes concernées afin que les demandes reçues dans
+n’importe quel service soient clairement identifiées et qu’une procédure de traitement par
+le bon service soit connue et appliquée (exemple : le service client reçoit une demande d’opposition
+à recevoir de la publicité et la transmet au service en charge du marketing) ;
+sensibilisez largement sur les règles internes de gestion des données personnelles (on ne peut
+accéder qu’aux données dont on a besoin, on ne doit pas divulguer des données à des tiers
+non autorisés, les dossiers archivés ne sont accessibles qu’à certaines personnes, il faut effectuer
+des sauvegardes régulières de ses fichiers, etc.) ;
+sensibilisez aux règles élémentaires de sécurité (exemple : log-in, et mot de passe personnels
+complexes, poste de travail verrouillé dès que l’on s’absente, ne pas stocker des documents
+professionnels sur des outils personnels, etc.).
+Profitez de la mise en place du RGPD pour sensibiliser l’ensemble de vos collaborateurs sur
+les règles à suivre en matière de protection des données et diffusez votre charte informatique.
+SENSIBILISEZ ET FORMEZ
+VOS COLLABORATEURS !
+
+----- page 8 -----
+CNIL
+3, Place de Fontenoy - TSA 80715
+75334 Paris Cedex 07
+Tél. : 01 53 73 22 22
+Bpifrance
+27-31, avenue du Général Leclerc
+94710 Maisons-Alfort Cedex
+Tél. : 01 41 79 80 00
+Document non contractuel - Bpifrance Le Lab - Avril 2018.

@@ -1,0 +1,324 @@
+
+----- page 1 -----
+> Gérer les variations d’activités
+Les activités de vente en ligne se
+caractérisent par des pics d’activité
+dans l’année, au moment des soldes
+ou de Noël, par exemple. Par ailleurs,
+les commandes peuvent brusque-
+ment augmenter en quelques mois.
+Ces variations ne facilitent pas l’opti-
+misation de la surface de stockage.
+Or louer un entrepôt plus grand c’est
+prendre le risque de le sous-exploi-
+ter : les m2 coûtent cher (loyer, assu-
+rance, électricité...).
+La fluctuation de l’activité rend la
+gestion de la main d’œuvre plus dif-
+ficile. En raison de sa flexibilité, le re-
+cours à de la main d’œuvre en intérim
+est souvent préféré à l’embauche de
+préparateurs de commandes. Cette
+solution présente néanmoins deux
+inconvénients : d’une part, tout nou-
+vel extra doit être formé, et d’autre
+part, au moment des pics d’activité
+(Noël notamment), les intérimaires
+sont souvent sollicités par d’autres
+secteurs.
+Au fil des mois, l’externalisation per-
+met de supporter des charges pro-
+portionnelles aux besoins. Par ailleurs,
+le logisticien assume seul l’investis-
+sement financier, technologique et
+humain.
+> Se recentrer sur son coeur
+d’activité
+La logistique peut vite devenir chro-
+nophage. Or le temps passé à prépa-
+rer les commandes n’est pas affecté
+au développement de l’activité.
+L’externalisation permet aux e-com-
+merçants de se dégager du temps
+pour mener des actions e-marketing,
+optimiser leur site, assurer le service
+après-vente ou encore trouver de
+nouveaux fournisseurs.
+Comment externaliser sa e-logistique ?
+La logistique, maillon essentiel du e-commerce, a un impact direct sur la satisfaction du client.
+Néanmoins, face à l’accumulation des commandes, nombre d’e-commerçants projettent de sous-traiter
+cette activité stratégique pour se recentrer sur leur cœur de métier.
+D’après les logisticiens, l’externalisation peut s’envisager à partir de 30 à 50 commandes quotidiennes.
+Chaque cas étant unique, nombre de paramètres doivent être examinés avant de prendre une telle
+décision. Des grands noms du e-commerce ont ainsi choisi de conserver la maîtrise de leur logistique
+malgré l’importance des commandes à traiter.
+Un projet d’externalisation doit donc être mûrement réfléchi et ne pas être choisi pour de mauvaises
+raisons. Un écueil courant consiste à sous-traiter parce que la logistique interne est désorganisée. Mais
+externaliser un problème ne le fait pas disparaitre. On ne confie efficacement à d’autres que ce qu’on
+maîtrise déjà.
+Cette notice fait le point sur les avantages et les inconvénients de l’externalisation de la e-logistique et
+explique quelle en est la démarche.
+Performance
+numérique
+Votre rendez-vous mensuel
+Pourquoi externaliser ?
+CCI DORDOGNE - Performance numérique - JUILLET 2014
+L’externalisation de la e-logistique ne doit pas
+être envisagée comme un moyen de réduire
+les coûts de fonctionnement. Néanmoins, elle
+permet de bénéficier de tarifs négociés par le
+logisticien auprès des fournisseurs d’emballage
+et des transporteurs.
+
+----- page 2 -----
+> Dérapage des coups
+Selon les logisticiens, l’externalisation
+de la logistique représente 13% à
+27% de la marge. Il s’agit néanmoins
+de coûts moyens. Des surfactura-
+tions peuvent facilement alourdir
+ces chiffres si les besoins ont été mal
+évalués au départ.
+Des coûts mal évalués
+Les logisticiens facturent la plu-
+part des prestations « à l’acte ». Par
+exemple, la préparation de com-
+mande représente un coût fixe mais
+chaque ligne de commande (chaque
+article) est également facturée. Aussi,
+si les clients ont tendance à ache-
+ter certains articles en nombre, un
+conditionnement par lot s’avèrera
+plus économique, d’autant plus si la
+marge est faible.
+Les services spéciaux
+Un contrat avec un logisticien est
+établi sur la base de processus dé-
+crits dans le cahier des charges. Toute
+demande particulière est facturée en
+sus (vérification d’un produit dans le
+stock par exemple).
+> Baisse de la qualité de
+service
+La qualité de préparation du colis
+est déterminante pour fidéliser le
+client. C’est pourquoi, dans le cadre
+d’une externalisation de la logistique,
+il est essentiel de s’assurer régulière-
+ment de la satisfaction des clients :
+en ayant recours à des solutions de
+questionnaires automatiques par
+exemple (le client s’exprime sur la
+qualité du service) ou en procédant
+à des commandes tests.
+Les risques de l’externalisation
+CCI DORDOGNE - Performance numérique - JUILLET 2014
+Pour réaliser un devis, un logisticien a
+essentiellement besoin de connaître
+les « flux » de son client : les flux logis-
+tiques (entrée et sortie de marchan-
+dise) et les flux informatiques (format
+et volume de données échangées).
+C’est pourquoi il est davantage
+conseillé d’externaliser sa logistique
+après un an d’activité.
+> Description des produits
+Il convient, dans un premier temps,
+de décrire les produits vendus sur le
+site : dimensions, poids, conditionne-
+ment (textile sur cintre, composants
+électroniques en sachet...), fragilité,
+valeur (si elle justifie la mise en place
+de mesures de sécurité particulières),
+volume du stock.
+Le logisticien doit comprendre com-
+ment stocker les produits et sur
+quelle surface.
+> Organisation de la logistique
+Il s’agit de décrire les processus ac-
+tuellement mis en place dans le cadre
+de la gestion interne de la logistique.
+Dans sa réponse, le logisticien expli-
+quera sur cette base quelle nouvelle
+organisation des opérations logis-
+tiques il propose pour apporter le ser-
+vice recherché.
+Approvisionnements
+Il convient d’expliquer les processus
+mis en place avec les fournisseurs :
+fréquence de livraison, codifications
+des articles, conditionnement des
+produits...
+Grâce à ces informations, le logisticien
+doit pouvoir calculer, par exemple, le
+coût de déchargement d’une palette
+ou classer les produits reçus dans un
+rayon.
+Commande
+Cette section consiste à décrire les
+étapes de préparation de commande :
+la facture se trouve-t-elle dans le colis
+? Le préparateur adjoint-il des échan-
+tillons ou des bons de réduction aux
+produits commandés ? Quelles tailles
+de cartons sont utilisées ? Un certain
+type de calage doit-il être privilégié
+(papier bulle, gaines, protection éco-
+logique...) ? Etc.
+Sa prestation étant facturée à l’acte, le
+logisticien doit saisir précisément la
+complexité de la préparation de com-
+mande.
+On appelle « asilage » l’insertion de documents
+(catalogue, bon de réduction...) ou d’objet
+(échantillon, cadeau...) dans un colis.
+Retours produits
+Le e-commerçant doit expliquer la
+manière de gérer les retours de pro-
+duits endommagés ou n’ayant pas
+convenu au client : quelles sont les
+vérifications à effectuer sur le produit
+? Dans quels cas l’article est-il remis
+en stock ? Les clients ayant exercé
+leur droit de rétractation doivent-ils
+joindre un document spécifique dans
+le colis (bon de retour délivré par le
+service après-vente) ? Que faire des
+produits abimés ?, etc.
+> Activité
+Il s’agit de donner des informations
+sur la variation de l’activité du site
+dans l’année et, si possible, les évolu-
+tions à moyen terme :
+• Historique des commandes mois
+par mois
+• Pics éventuels certains jours de la
+semaine
+• Périodes de promotion
+• Nombre moyen d’articles par
+commande
+• Taux de produits retournés...
+> Système d’information
+Il existe plusieurs moyens de synchro-
+niser les flux d’information entre le
+site e-commerce et le logisticien (qui
+rend compte de l’état des stocks et de
+l’avancement du traitement des com-
+mandes).
+Le cahier des charges
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - JUILLET 2014
+Ils peuvent s’échanger des fichiers
+standardisées à heures fixes par email
+ou de manière automatique via un
+FTP. Les deux systèmes informatiques
+peuvent également être interfacés
+afin de communiquer en temps réel:
+on parle de web EDI1. Dans ce cas,
+un développement informatique
+sera nécessaire. C’est pourquoi il est
+important de mentionner dans le
+cahier des charges la plateforme de
+CMS utilisée par le site. Le logisticien
+pourra faire une estimation du coût
+du développement informatique
+selon le type de site.
+> Qui sélectionner pour l’appel
+d’offre ?
+Les logisticiens sont nombreux, voici
+quelques critères permettant de faire
+une première sélection :
+La spécialisation
+Certains logisticiens, spécialisés dans
+le e-commerce, proposent des ser-
+vices dédiés et des modes de fonc-
+tionnement plus flexibles que des
+entrepôts logistiques traditionnels.
+D’autres ont choisi de recentrer leur
+activité sur un domaine particulier :
+le textile, par exemple.
+Il est conseillé de choisir un logisti-
+cien traitant des commandes com-
+parables en termes de fragilité et de
+taille notamment.
+Taille
+Les logisticiens ayant une plus faible
+surface de stockage sont en général
+moins exigeants sur le nombre de
+commandes minimum quotidiennes
+et peuvent donc convenir aux sites e-
+commerce en phase de lancement.
+Leurs tarifs sont souvent inférieurs
+à ceux des gros logisticiens. Néan-
+moins, leur gamme de services est
+également moins étendue et leur
+flexibilité, moindre. Les sites ayant un
+fort potentiel de développement des
+commandes à court terme devront
+davantage s’orienter vers les grands
+acteurs du secteur.
+La localisation géographique
+Même si l’adresse de l’entrepôt a peu
+d’incidence sur les délais de livraison,
+il peut être pertinent de choisir un lo-
+gisticien suffisamment proche pour
+se rendre sur place dans la journée
+en cas de dysfonctionnement grave.
+Amazon propose d’assurer la logistique (stoc-
+kage et expéditions) des sites e-commerces ven-
+dant sur sa place de marché. Les tarifs diffèrent
+selon le type de produits vendus.
+> Points de vigilance
+Dans l’analyse des réponses au cahier
+des charges formulée par les logisti-
+ciens, une vigilance toute particulière
+doit être accordée à plusieurs points :
+Compatibilité des systèmes d’infor-
+mation
+S’assurer que le système de com-
+munication des flux d’informations
+entre le site et le logisticien est réali-
+sable auprès de son prestataire web.
+La transmission d’informations doit
+absolument être fiable pour garan-
+tir une bonne qualité de service au
+client. Par ailleurs, l’interfaçage des
+deux systèmes d’information peut
+coûter cher. Attention aux mau-
+vaises surprises après conclusion du
+contrat !
+Délais de déchargement
+Beaucoup de logisticiens réincré-
+mentent les stocks 48h après la livrai-
+son du fournisseur. Il est important
+de connaître ce délai de décharge-
+ment afin de bien anticiper les ap-
+provisionnements au moment des
+pics d’activité.
+Responsabilité du logisticien
+Le contrat avec le logisticien doit sti-
+puler quelle est la responsabilité du
+logisticien dans les cas suivants :
+• Casse ou vol de produits dans
+l’entrepôt (vérifier si un inventaire
+régulier du stock est réalisé) ;
+• Erreur constatée sur la prépara-
+tion de commande ;
+• Retard dans l’expédition des
+commandes
+(notamment
+lorsque le site s’engage auprès
+du client sur une date de livrai-
+son).
+Choisir un e-logisticien
+1EDI : Echange de Données Informatisées.
+VOTRE contact
+Samuel COSTE
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+CCI DORDOGNE
+Votre prochain rdv numérique :
+« E-commerce
+et droit de la consommation »

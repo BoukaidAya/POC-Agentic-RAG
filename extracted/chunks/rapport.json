@@ -1,0 +1,20 @@
+{
+  "total_docs": 96,
+  "par_type": {
+    "code_juridique": {
+      "docs": 2,
+      "chunks": 1188,
+      "chars_moyen": 664,
+      "chars_min": 47,
+      "chars_max": 5628
+    },
+    "generique": {
+      "docs": 94,
+      "chunks": 3262,
+      "chars_moyen": 983,
+      "chars_min": 205,
+      "chars_max": 3993
+    }
+  },
+  "total_chunks": 4450
+}

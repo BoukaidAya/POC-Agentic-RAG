@@ -1,0 +1,371 @@
+
+----- page 1 -----
+Le tunnel d’achat a pour objectif
+d’amener l’internaute à la transac-
+tion, le plus rapidement possible (en
+4 ou 5 étapes maximum). Par ailleurs,
+la navigation dans ce processus doit
+être intuitive :
+• éléments alignés pour faciliter la
+lecture
+• bouton permettant de passer à
+l’étape suivante d’une couleur
+différente de la charte graphique
+• frise d’avancement dans le tun-
+nel (figure a.).
+Un autre enjeu consiste à mettre
+l’internaute en confiance tout au
+long du processus. A chaque étape,
+des éléments dits « de réassurance
+Ergonomie et optimisation du taux de
+conversion du site internet (partie 2/2)
+Sur Internet, l’ergonomie est un savant mélange de deux notions : « l’utilité » et « l’utilisabilité ».
+Autrement dit, un site doit remplir sa fonction (être utile) tout en étant adapté aux utilisateurs (être
+utilisable).
+En matière de e-commerce, cette subtile alchimie doit aboutir à des ventes. Le taux de conversion, c’est–
+à-dire le rapport entre le nombre de visiteurs et le nombre de clients, permet de mesurer l’efficacité
+ergonomique du site.
+Le premier volet de cette notice « Ergonomie et optimisation du taux de conversion – partie 1/2 » faisait
+l’objet d’une étude approfondie de l’impact de l’ergonomie sur le processus d’ajout au panier. Ce second
+volet se focalise sur le processus de commande, plus communément appelé « tunnel d’achat ».
+En quatre ou cinq étapes, l’internaute est amené à valider sa commande, s’identifier, choisir un mode de
+livraison et procéder au paiement. A tout moment, il peut renoncer à commander.
+C’est pour cette raison que l’ergonomie du tunnel d’achat doit conforter l’internaute dans son choix.
+Dans le cas contraire, le site verra grimper en flèche son « taux d’abandon de panier », un bon indicateur
+permettant de mesurer l’efficacité du tunnel d’achat.
+Cette notice explique, étape par étape, les points essentiels d’une bonne ergonomie du tunnel d’achat.
+Performance
+numérique
+Votre rendez-vous mensuel
+Le tunnel d’achat
+CCI DORDOGNE - Performance numérique - MAI 2014
+1 Voir la notice « Ergonomie et optimisation du taux de conversion », partie 1
+a. Exemple de frise d’avancement
+» doivent figurer en bonne place sur
+la page : paiement sécurisé, mention
+« satisfait ou remboursé », assistance
+téléphonique, conditions de livrai-
+son,... (figure b.).
+Les éléments de réassurance doivent
+figurer au dessus de la « ligne de flot-
+taison », cette ligne imaginaire au-
+delà de laquelle l’internaute devra
+faire glisser la roulette de sa souris
+pour voir le reste de la page1.
+
+----- page 2 -----
+On appelle communément « panier »
+la première étape du tunnel d’achat.
+Cette page dresse un récapitulatif de
+la commande.
+Le panier peut se présenter horizon-
+talement ou verticalement : aucun
+des deux modes de présentation
+n’est meilleur que l’autre. Le marché,
+la cible client, la tendance et surtout
+des tests utilisateurs permettront
+de guider de e-marchand dans son
+choix.
+> Fonctions
+Suppression d’un article
+L’internaute doit pouvoir facilement
+comprendre comment supprimer
+un article. Les pictogrammes repré-
+sentant une croix ou une corbeille
+doivent être assortis d’un libellé
+«supprimer» en toutes lettres.
+Mauvaise pratique
+Bonne pratique
+2 éléments indiquent
+comment supprimer l’article
+Modification des quantités
+Lorsqu’une quantité d’articles est
+modifiée, une actualisation automa-
+tique du panier est préférable à une
+mise à jour manuelle par l’internaute.
+En revanche, le mode de variation de
+quantité dépend avant tout du type
+de produit vendu. Les flèches ou les
+«+» et «-» conviennent mieux aux ar-
+ticles commandés en faible quantité.
+Colorées, elles peuvent même inciter
+à augmenter les quantités.
+Le champ permet de choisir rapi-
+dement de grandes quantités et
+convient assez biens aux produits
+ayant une faible valeur marchande.
+En effet, les internautes peuvent
+être tentés de commander plusieurs
+articles pour rentabiliser les frais de
+livraison.
+Variation des quantités via un + et un - :
+Variation des quantités via un champ :
+Ajout d’un code de réduction
+Les codes de réduction interviennent
+dès l’étape du panier car ils sont sus-
+ceptibles de faire varier le montant
+de la commande. Un lien invitant l’in-
+ternaute à saisir un code sera cepen-
+dant moins déceptif qu’un champ
+vide. Par ailleurs, le code de réduction
+incite parfois l’internaute à sortir du
+site pour trouver un code sur des
+sites spécialisés.
+Champ vide :
+Lien :
+> Intégration des frais de
+livraison
+Il est préférable d’intégrer les frais
+de livraison dès le panier pour limi-
+ter les risques d’abandon au cours
+des étapes suivantes (figure b.). Ainsi,
+l’internaute connait exactement le
+montant de sa commande au mo-
+ment de la valider.
+Par ailleurs, lorsque les frais de ports
+sont offerts au-delà d’un certain
+montant de panier, il peut être per-
+tinent d’indiquer la somme restante
+pour bénéficier de cette offre. L’in-
+ternaute sera ainsi tenté d’ajouter
+d’autres articles au panier.
+> Conditions générales de
+vente
+C’est au moment du panier que le
+client doit accepter les Conditions
+Générales de Vente (CGV). Concrète-
+ment, il lui est souvent demandé de
+cocher une case.
+Le panier
+CCI DORDOGNE - Performance numérique - MAI 2014
+Pour Le panier contient généralement un bouton
+permettant à l’internaute de continuer ses
+achats. Cet élément ne doit pas être caché mais
+rester discret. L’internaute doit être accompa-
+gné vers la transaction mais on ne peut pas lui
+interdire de continuer à naviguer sur le site. Il
+est conseillé de placer le bouton de retour aux
+achats au même niveau que celui de validation
+commande, à gauche de la page avec un gra-
+phisme plus discret (gris par exemple).
+b. Eléments de réassurance et intégration des frais de livraison au panier
+Elément de
+réassurance
+Frais de livraison
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - MAI 2014
+Par manque d’espace, beaucoup de
+sites affichent un lien permettant
+de consulter les CGV. Pour rendre
+ces dispositions plus lisibles, il est
+conseillé de mettre en valeur cer-
+taines d’entre elles comme les délais
+de rétractation ou les conditions de
+retour d’un produit.
+> Cross selling
+On appelle « cross-selling » la sugges-
+tion de produits complémentaires
+aux articles choisis par l’internaute.
+Dans l’exemple ci-contre (figure c.),
+il est suggéré d’ajouter des dosettes
+de sel à la commande de dosettes de
+poivre.
+Cette technique permet d’augmen-
+ter la valeur du panier moyen. Néan-
+moins, les articles présentés en cross-
+selling doivent figurer directement
+sous le récapitulatif de commande.
+Par ailleurs, le panier de l’internaute
+est supérieur au panier moyen, il est
+préférable de s’abstenir. En poursui-
+vant sa navigation, l’internaute pour-
+rait douter de son achat.
+c. Exemple de cross-selling
+> Clients, prospects et invités
+La deuxième étape du tunnel d’achat
+consiste généralement à s’identifier.
+L’internaute, déjà client est invité à
+renseigner son email et son mot de
+passe. Les nouveaux clients doivent
+renseigner leurs coordonnées dans
+un formulaire dédié.
+Il existe deux manières de présenter
+la page d’identification. La forme la
+plus classique consiste à séparer la
+page en deux regroupant l’identifica-
+tion des clients d’un côté, et la créa-
+tion de compte des non-membres
+de l’autre (figure d.). Il est néanmoins
+préférable que cette séparation soit
+verticale pour garantir une meilleure
+visibilité (figure e.).
+Une autre manière de présenter la
+page d’identification consiste à de-
+mander une adresse électronique au
+préalable, puis l’internaute indique
+qu’il est déjà client du site en cochant
+une case (figure f.).
+En outre, il est possible de proposer
+des comptes « invités ». Les nou-
+veaux clients « invités » peuvent ainsi
+commander plus rapidement si ils
+le souhaitent. En effet, le formulaire
+d’inscription du compte « invité »
+comporte moins de champs qu’un
+formulaire classique.
+Le compte « invité » est très utilisé
+dans certains pays comme l’Alle-
+magne. Néanmoins, l’intérêt de ce
+type d’inscription doit être claire-
+ment expliqué à l’internaute. Le
+compte « invité » peut ainsi être pré-
+Inscription / Connexion
+d. Présentation horizontale de la page d’identification
+e. Présentation verticale de la page d’identification
+f. Identification par adresse électronique
+senté comme une bonne alternative
+pour les internautes pressés.
+
+----- page 4 -----
+> Accompagner à la saisie des
+champs
+Pour limiter les erreurs de saisie, il
+est conseillé d’accompagner l’inter-
+naute dans le renseignement du for-
+mulaire. Avec le support d’info-bulles,
+cette démarche d’accompagnement
+permet à l’internaute de passer plus
+rapidement à l’étape suivante en lui
+évitant de se poser trop de question
+qui pourraient remettre en cause sa
+commande.
+Les champs de saisie doivent être
+dimensionnés à la taille des informa-
+tions demandées : le champ « code
+postal » doit être plus petit que les
+autres.
+> Les champs
+Dans le but de fournir un meilleur
+service au client, il est pertinent
+de demander ses centres d’intérêt
+ou sa situation maritale à l’inter-
+naute. Néanmoins, cette démarche
+peut déplaire... Il faut donc éviter
+les champs n’ayant pas un rapport
+direct avec la commande (la profes-
+sion, par exemple), ou de les justifier. Il
+est nécessaire d’expliquer que l’inter-
+naute pourra recevoir des coupons
+de réduction en échange de ces
+informations.
+Dans tous les cas, ces champs doivent
+être facultatifs.
+Suggérer à l’internaute de s’abonner à la news-
+letter du site dans le formulaire d’inscription
+(case à cocher).
+CCI DORDOGNE - Performance numérique - MAI 2014
+La livraison
+Le mode de livraison doit être traité à
+l’étape du panier.
+> Offrir différents modes de
+livraison
+Il est conseillé de proposer plusieurs
+modes de livraison : à domicile, en
+relais colis, en livraison express...
+(figure h.). Cette possibilité offerte à
+l’internaute renforce le sentiment de
+confiance dans le site.
+Par ailleurs, il est impératif de confor-
+ter la rassurance du client en affi-
+chant clairement les logos des trans-
+porteurs partenaires du site.
+En outre, une estimation de la date
+de livraison incite davantage les in-
+ternautes à passer commande.
+> Faciliter la lecture
+Si la livraison n’est pas intégrée dans
+la page panier, veiller à récapituler
+la commande pour que l’internaute
+connaisse le montant total de sa
+commande instantanément lorsqu’il
+choisit son mode livraison (figure i.).
+Afin de clarifier la lecture et l’identifi-
+cation des différents modes de livrai-
+son, on peut :
+• utiliser des pictogrammes (une
+maison pour la livraison à do-
+micile, une enveloppe pour
+l’adresse de livraison, etc.),
+• géolocaliser sur une carte les
+points relais à proximité de
+l’adresse de facturation de l’inter-
+naute,
+• utiliser des onglets : la tête
+énonce le mode de livraison, son
+prix et la date approximative de
+livraison et la partie déployée
+détaille les conditions de la livrai-
+son.
+Les 48% des acheteurs sur Internet choisissent
+la livraison en point relais. Ce chiffre est en
+constante évolution, tandis que la livraison à
+domicile régresse.
+g. Saisie des champs
+h. Modes de livraison
+
+----- page 5 -----
+CCI DORDOGNE - Performance numérique - MAI 2014
+VOTRE contact
+Samuel COSTE
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+CCI DORDOGNE
+Votre prochain rdv numérique :
+« Générer des réservations
+grâce à son site Internet »
+Dates approximatives de livraison
+Les modes de livraison sont présentés sous
+forme d’onglets pour plus de lisibilité.
+Elément de
+réassurance
+Récapitulatif de la
+commande.
+Mise en valeur du
+coût total de la
+commande.
+i. Bonnes pratiques en matière de page «livraison»
+Le paiement
+A l’instar de la livraison, l’internaute
+appréciera d’avoir à sa disposition le
+choix entre plusieurs types de paie-
+ment : carte bancaire, portefeuille en
+ligne (Paypal, Paybox, ...), paiement
+en plusieurs fois, chèque, etc. Même
+si 80% des internautes privilégient le
+paiement par carte bancaire, les 20%
+restant ne doivent pas être négligés
+(figure j.).
+Il convient d’uniformiser la pré-
+sentation des différents modes de
+paiement et de les associer à des
+pictogrammes clairs et explicites, de
+préférence au dessus ligne de flottai-
+son.
+Enfin, la sécurisation de la transaction
+doit être mise en avant avec le logo
+de la banque, des cartes bancaires
+(Visa, Mastercard), et opérateurs de
+paiement...
+Depuis 2008, la sécurisation des transactions
+bancaires a été renforcée par le 3D Secure. Ce
+protocole oblige les internautes qui souhaitent
+payer par carte bancaire à s’authentifier via
+un code d’accès envoyé par SMS, une date de
+naissance ou encore une réponse à une question
+secrète.
+Cette nouvelle étape dans le processus de
+transaction doit être clairement expliquée aux
+internautes sur la page de paiement.
+j. Les principaux services de paiement utilisés

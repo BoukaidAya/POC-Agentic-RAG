@@ -1,0 +1,277 @@
+
+----- page 1 -----
+Comment gérer un projet d’objet connecté ?
+En 1999 arrive sur le marché le premier réfrigérateur connecté. La domotique commence alors à faire
+émerger au sein du grand public, l’idée qu’on puisse connecter les objets à Internet. La « maison du
+futur » restera néanmoins une Arlésienne pendant plus de 10 ans.
+Aujourd’hui, avec le développement du wifi, les terminaux mobiles mais aussi du cloud computing, un
+vrai marché est en train d’éclore.
+Face à cette nouvelle opportunité économique, nombre d’objets connectés sont créés mais beaucoup
+ne rencontrent pas leur marché. L’écueil le plus fréquent consiste à développer un objet connecté
+comme un produit alors qu’il doit avant tout être conçu comme un service.
+A cela s’ajoute souvent une mauvaise maîtrise de la complexité du projet engendrant un dérapage des
+coûts et des délais.
+C’est pourquoi cette notice tente de donner quelques pistes pour réussir un projet d’objet connecté1.
+Performance
+numérique
+Votre rendez-vous mensuel
+Avant de commencer
+Se lancer dans un projet d’objet
+connecté
+passe
+obligatoirement
+par des étapes logiques de concep-
+tion de produit. Cette démarche se
+distingue par la multiplicité des do-
+maines couvrir.
+Pour bien commencer, il est impor-
+tant de ne pas focaliser sur le déve-
+loppement technique. Une étude
+attentive des besoins utilisateurs
+permettra de valider les usages at-
+tendus de l’objet connecté. Ce sont
+eux qui feront le succès du produit
+et éviteront de tomber dans le syn-
+drome du gadget.
+1Il est recommandé de lire au préalable Performance Numérique « Qu’est-ce qu’un objet connecté ? » (janvier 2016)
+
+----- page 2 -----
+2 Pour en savoir plus, https://www.cnil.fr/fr/comprendre-vos-obligations
+> Etudier les besoins
+utilisateurs
+Avant de se lancer dans un projet
+d’objet connecté, il est essentiel de
+bien en connaître la cible. Quelle
+est-elle ? Que recherche-t-elle? Quel
+investissement est-elle prête à faire
+pour acquérir l’objet ? Celui-ci répon-
+dra-t-il aux besoins des clients des
+autres produits de l’entreprise ?
+L’objet connecté peut aussi per-
+mettre d’attirer une nouvelle catégo-
+rie de clients à condition d’avoir bien
+étudié leurs propres besoins.
+> Définir le service
+Il s’agit de définir ce que l’objet ap-
+portera à l’utilisateur. Quel sont les
+usages concrets qu’il pourra en faire
+? Ces services devront bien entendu
+être en adéquation avec les besoins
+clients identifiées auparavant.
+Ces usages doivent ensuite être vali-
+dés auprès des utilisateurs poten-
+tiels au moyen de prototypes. Cette
+phase permet de révéler comment
+sont acceptés les bouleversements
+engendrés par l’objet connecté.
+Les aspects techniques du projet
+(quel type de capteur ou de réseau
+de télécommunication choisir ?)
+interviennent seulement pour ré-
+pondre aux besoins de l’utilisateur.
+Ce ne sont pas les fonctions d’un
+objet connecté qui dicte le service
+mais bien l’inverse.
+Il est possible de ne pas fournir tous les services
+dès le lancement de l’objet. L’utilisateur peut
+avoir besoin de se familiariser avec l’objet avant
+de pouvoir envisager d’autres usages.
+Cette étape est aussi le moment de
+s’interroger sur la monétisation du
+service apporté. Dans le cas d’un
+modèle payant, il convient de s’assu-
+rer que les utilisateurs potentiels sont
+prêts à payer ce nouveau service. Un
+modèle gratuit peut être une stra-
+tégie visant à se différencier de la
+concurrence.
+Les données collectées via un objet
+connecté peuvent également être
+monétisées auprès de publicitaires
+ou de tiers souhaitant analyser
+le comportement d’une cible de
+consommateur. L’accord des utilisa-
+teurs s’avère néanmoins indispen-
+sable s’il s’agit de données à carac-
+tère personnel (au sens de la CNIL) 2.
+> Maquetter son projet
+Différentes solutions techniques à
+faible coût (fablab, arduino, rasberry
+PI) permettent maintenant de faire
+une première maquette d’un service
+et de l’objet afin d’obtenir un retour
+rapide des utilisateurs potentiels.
+Grâce à ces outils, il est possible d’évi-
+ter de valider le concept dans une
+phase trop éloignée du démarrage
+du projet.
+> Passer à la phase
+insdustrialisation du produit
+ou du service
+Après avoir fait une première ver-
+sion de l’objet, vient une phase plus
+industrielle qui consiste à intégrer les
+spécificités du marché (normes, volu-
+métrie de production) et à faire pré-
+estimer les coûts de développement
+du produit par des bureaux d’études
+spécialisés.
+Concernant le service en ligne ou
+mobile, il sera nécessaire d’intégrer
+les niveaux de qualités de services
+qui seront proposés aux clients. Dans
+cette phase, il est important de bien
+spécifier les besoins en matière de
+sécurité des données produites.
+Les grandes étapes
+Respecter la confidentialité du projet
+Les objets connectés génèrent une
+quantité de données très diverses :
+• Des données personnelles sur les
+utilisateurs (adresse email, âge...)
+• Les données individuelles d’utili-
+sation du service (données issues
+des capteurs, par exemple, la lo-
+calisation via le GPS)
+• Les données de la communauté
+des utilisateurs lorsque ceux-ci
+peuvent comparer leurs don-
+nées individuelles d’utilisation
+• Les données techniques (confi-
+guration du téléphone, temps
+d’utilisation...)
+L’exploitation de ces données repré-
+sente un enjeu à la fois commercial
+et juridique.
+
+----- page 3 -----
+En fonction de l’usage du service
+ou de l’objet connecté, certaines
+données peuvent s’avérer sensibles
+et doivent donc faire l’objet d’une
+attention particulière :
+• Les données personnelles (nom,
+date de naissance, numéro de
+téléphone...)
+• Les données médicales
+• Les autres données sujettes à un
+usage frauduleux (biens person-
+nels, code accès à des lieux phy-
+siques...)
+En dehors des données personnelles
+(dont l’usage est encadré par la CNIL
+en France), les données médicales
+sont certainement les informations
+les plus sensibles. La législation est
+très stricte à ce sujet, en Europe, mais
+également à l’international en par-
+ticulier aux Etats Unis d’Amérique
+où les sanctions en cas de diffusion
+peuvent s’avérer très lourdes.
+Ces données seront potentiellement
+concernées par le droit à l’oubli sans
+porter atteinte éventuellement au
+fonctionnement intrinsèque de l’ob-
+jet.
+La conception d’un objet connec-
+té requiert de nombreuses com-
+pétences
+qui
+peuvent
+amener
+l’entreprise à changer de métier, à
+commencer par le mode de com-
+mercialisation. Elle devra faire la tran-
+sition entre la vente de produits à la
+vente de services.
+C’est pourquoi il est vivement recom-
+mandé de s’entourer de spécialistes.
+> Les compétences à mobiliser
+• Chef de projet innovation multidis-
+ciplinaire
+• Marketeur : il réfléchit à la propo-
+sition de valeur, cible les clients,
+spécifie l’offre, imagine le ou les
+business models.
+• Architecte système : responsable
+technique du projet qui a une
+vision du système technique
+complet.
+• Designer industriel : il intègre
+la vision “usage” et identité de
+marque dans la conception de
+l’objet et ses interfaces.
+• Concepteur mécanique ou plastur-
+gique : il conçoit l’enveloppe de
+l’objet.
+• Electroniciens
+• Développeur de logiciel embarqué
+: il intègre l’intelligence dans le
+produit (fonctions métier, com-
+munication...).
+• Développeur d’application PC, Web,
+Mobile : il développe les applica-
+tions d’interfaçage avec le pro-
+duit et les plateformes de ser-
+vices.
+• [Dans le cadre de l’existence d’une
+plateforme de services] : Adminis-
+trateur système : c’est celui qui
+s’assure la qualité de service de
+la plateforme de services et de sa
+sécurité.
+• Analyste des données : il maitrise
+les outils et les méthodes de
+traitement de données (poten-
+tiellement les outils Big Data)
+pour analyser et remonter des
+informations vers le marketing
+ou spécifier des applications à
+valeur ajoutée à mettre à dis-
+position du client. Son rôle doit
+être d’appréhender la dimension
+métier des données et savoir les
+restituer.
+• Animateur de communauté d’uti-
+lisateurs : lorsque les données
+sont partagées entre utilisateurs
+sur une plateforme web ou un
+réseau social, c’est celui qui spé-
+cifie les évolutions de cette pla-
+teforme et modère les contenus
+si nécessaire.
+> Les compétences internes
+Bien qu’il puisse être possible de
+sous-traiter intégralement la concep-
+tion d’un objet connecté. Deux com-
+pétences doivent absolument être
+présentes dans l’entreprise : le mar-
+keteur et l’architecte technique.
+Le premier aura en charge de défi-
+nir la cible, les attentes clients, les
+business models, les usages et les
+services. L’architecte technique aura
+quant à lui une vue d’ensemble du
+système et coordonnera les diffé-
+rents développements.
+En fonction des moyens de l’entre-
+prise, d’autres compétences pour-
+ront être intégrées notamment en
+formant des personnes en interne.
+Par ailleurs, il est fortement recom-
+mandé de disposer en interne d’une
+ou plusieurs personnes capables de
+maintenir le service dans le temps.
+Même s’il est proposé gratuitement,
+la détérioration voire l’interruption
+du service donnera une mauvaise
+image auprès des clients.
+S’entourer
+Votre prochain rdv numérique :
+« Les solutions pour faire du
+cross-canal »
+VOTRE contact
+Samuel COSTE
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr

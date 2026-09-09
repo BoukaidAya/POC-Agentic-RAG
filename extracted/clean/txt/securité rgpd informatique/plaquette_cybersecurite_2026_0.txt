@@ -1,0 +1,371 @@
+
+----- page 1 -----
+www.cnil.fr
+Cybersécurité
+édition
+
+----- page 2 -----
+LES NOTIFICATIONS DE VIOLATION
+DE DONNÉES PERSONNELLES
+Qu’est-ce qu’une violation de données ?
+Le RGPD définit une violation de données personnelles
+comme « une violation de la sécurité entraînant, de manière
+accidentelle ou illicite, la destruction, la perte, l’altération, la
+divulgation non autorisée de données à caractère personnel
+transmises, conservées ou traitées d’une autre manière, ou
+l’accès non autorisé à de telles données. »
+Il s’agit de tout incident de sécurité, d’origine malveillante
+ou non, et se produisant de manière intentionnelle ou non,
+ayant comme conséquence de compromettre l’intégrité, la
+confidentialité ou la disponibilité de données personnelles.
+Quelques exemples :
+suppression accidentelle de données médicales conser­
+vées par un établissement de santé et non sauvegardées
+par ailleurs ;
+perte d’une clé USB non sécurisée contenant une copie de
+la base clients d’une société ;
+introduction malveillante dans une base de données sco­
+laires et modification des résultats obtenus par les élèves.
+En moyenne, près de 16 notifications ont été reçues par
+jour en 2025.
+Les secteurs d’activité les plus concernés
+en 2025 :
+Nature et causes des violations notifiées
+94 %
+des notifications de violations reçues par la
+CNIL en 2025 concernent une perte de confi­
+dentialité, c’est-à-dire une intrusion par un tiers qui peut
+prendre connaissance des données, voire les copier.
+Bien que le RGPD considère qu’une violation de données per­
+sonnelles peut aussi résulter d’un incident de sécurité engen­
+drant une perte d’intégrité et de disponibilité, les statistiques
+montrent que ce type de violation de données reste encore
+méconnu des responsables de traitement.
+Toutefois, même si elles demeurent marginales par rapport
+aux notifications de perte de confidentialité, la CNIL constate
+une nette progression des notifications liées à une perte d’in­
+tégrité (données modifiées illégitimement) et de disponibi­
+lité (données inaccessibles pendant un certain temps). Cette
+évolution est notamment due à la progression des violations
+résultant d’une attaque par rançongiciel.
+Par ailleurs, l’obligation de notifier la CNIL concerne les vio­
+lations ayant une origine accidentelle ou illicite. La majorité
+d’entre elles a pour origine un acte externe malveillant (pira­
+tage, vol d’un support physique ou les arnaques au faux sup­
+port technique).
+Le RGPD impose aux responsables de
+traitement :
+de documenter, en interne, les violations de données
+personnelles ;
+de notifier les violations présentant un risque pour les
+droits et libertés des personnes à la CNIL dans un délai de
+72 h ;
+d’informer, lorsque le risque est élevé, les personnes
+concernées.
+En 2025, le piratage
+informatique
+représente 50 %
+du total des
+notifications
+adressées à la CNIL
+19 %
+15 %
+9 %
+8 %
+4 %
+2 %
+2 %
+7 %
+4 %
+2 %
+12 %
+3 %
+2 %
+4 %
+ADMINISTRATION PUBLIQUE
+SANTÉ HUMAINE
+ET ACTION SOCIALE
+ACTIVITÉS FINANCIÈRES ET
+D'ASSURANCE
+ACTIVITÉS SPÉCIALISÉES,
+SCIENTIFIQUES ET TECHNIQUES
+COMMERCE, RÉPARATION
+AUTOMOBILES ET MOTOCYCLES
+INFORMATION ET
+COMMUNICATION
+AUTRES ACTIVITÉS DE SERVICES
+ACTIVITÉS DE SERVICES
+ADMINISTRATIFS ET DE SOUTIEN
+ENSEIGNEMENT
+INDUSTRIE MANUFACTURIÈRE
+ACTIVITÉS IMMOBILIÈRES
+HÉBERGEMENT ET RESTAURATION
+ARTS, SPECTACLES ET ACTIVITÉS
+RÉCRÉATIVES
+TRANSPORTS ET ENTREPOSAGE
+CONSTRUCTION
+AUTRES
+5 %
+1 %
+
+----- page 3 -----
+En cas de non-respect
+des règles :
+amende
+administrative
+de 20 millions d’euros
+ou 4 % du chiffre
+d’affaires
+LE RGPD,
+UN INSTRUMENT
+AU SERVICE DE
+LA CYBERSÉCURITÉ
+La sécurité informatique, une obligation
+présente dès 1978 et un cadre renforcé
+avec le RGPD.
+La sécurité fait partie des principes fondamentaux de la loi
+Informatique et Libertés. En effet, l’absence de sécurité d’un
+traitement de données personnelles fait notamment courir le
+risque que des données soient récupérées par un tiers malveil­
+lant et utilisées contre les personnes concernées.
+Le RGPD a rehaussé les exigences en matière de sécurisation
+des données personnelles. Il a ainsi renforcé le rôle des autori­
+tés de protection des données auprès de l’ensemble des entre­
+prises et des administrations en matière de cybersécurité.
+LES OBLIGATIONS DE SÉCURITÉ PRÉVUES PAR LE RGPD
+Mettre en place des mesures techniques et
+organisationnelles pour sécuriser les données
+Tenir un registre des violations de données
+Effectuer une analyse d’impact (AIPD)
+> Pour certains traitements sensibles
+Notifier la CNIL d’une violation de données
+> En cas de risque pour les personnes
+Informer les personnes d’une violation de données
+> En cas de risque élevé pour les personnes
+La CNIL accompagne
+les administrations et
+les entreprises dans la prise
+en compte de la sécurité
+informatique.
+L’obligation de sécurité, inscrite dans la loi depuis
+45 ans, a été renforcée par le RGPD et complétée
+de nouvelles obligations et d’outils comme la noti­
+fication des violations, l’analyse d’impact sur la
+protection des données, les codes de conduite ou
+la certification.
+notifications de violations
+de données
+6 167
+notifications de violations
+résultent d’une attaque par
+rançongiciel, soit 9 % du
+volume total
+des notifications de
+violations reçues sont
+consécutives à des incidents
+chez 8 sous-traitants
+10%
+sanctions prononcées par
+la CNIL comportaient au
+moins un manquement à la
+sécurité des données
+www.cnil.fr/AIPD
+En savoir +
+LES CHIFFRES 2025
+Qu’est-ce qu’une Analyse d’Impact sur la Protection des Données (AIPD) ?
+L’AIPD est un outil qui permet de construire un traitement conforme au RGPD et respectueux de la vie privée. Elle
+concerne les traitements de données personnelles qui sont susceptibles d’engendrer un risque élevé pour les droits et
+libertés des personnes concernées. Le RGPD prévoit qu’un organisme doit, lorsqu’il n’arrive pas à réduire son niveau
+de risque résiduel de façon satisfaisante, consulter son autorité de contrôle (la CNIL en France) préalablement à la mise
+en place du traitement. S’il s’avère impossible de réduire suffisamment les risques à l’issue de cette phase d’échanges,
+alors l’autorité de contrôle peut rendre un avis indiquant que le traitement envisagé constitue une violation du RGPD.
+Le RGPD est le premier texte
+à imposer des obligations de
+cybersécurité précises, de
+façon transversale, et soumises
+au pouvoir de contrôle et de
+sanction d’une autorité admi­
+nistrative telle que la CNIL.
+FOCUS
+
+----- page 4 -----
+Un accompagnement
+spécifique des TPE/PME
+La CNIL met à disposition des TPE/PME différents outils,
+tels que le guide de vulgarisation du RGPD co-édité avec
+Bpifrance, une check-list RGPD, des référentiels, le guide
+des durées de conservation des données, un modèle
+simplifié de registre ou encore des fiches pratiques sur
+son site web. Pour en assurer la diffusion, la CNIL a mis
+en place une stratégie dite « des têtes de réseaux »,
+indispensable pour toucher indirectement l’ensemble
+des acteurs via les associations, fédérations ou réseaux
+professionnels. Ces derniers produisent également, avec
+le concours de la CNIL, des guides pratiques et des outils
+d’évaluation adaptés aux activités spécifiques de leurs
+adhérents.
+LES RESSOURCES UTILES
+Les technologies pour protéger son patrimoine
+informationnel, protéger les personnes concernées des
+atteintes à leurs données :
+www.cnil.fr/fr/cybersecurite
+Centre gouvernemental de veille, d’alerte
+et de réponse aux attaques informatiques
+à consulter quotidiennement : www.cert.ssi.gouv.fr
+ANSSI (Agence nationale de la sécurité des systèmes
+d’information) : www.cyber.gouv.fr
+Assistance et prévention en sécurité numérique :
+www.cybermalveillance.gouv.fr
+LE RÔLE DE LA CNIL EN MATIÈRE DE
+CYBERSÉCURITÉ
+La sécurité des données personnelles est, au-delà d’une obligation légale, un enjeu majeur pour tous les organismes publics
+et privés, ainsi que pour tous les individus. La CNIL joue pleinement son rôle au service de la cybersécurité en déployant son
+action autour de quatre axes :
+L’accompagnement des
+professionnels
+Dans la mise en place d’une politique de cybersécurité efficace, toutes
+les étapes sont essentielles. Afin d’accompagner au mieux les pro­
+fessionnels, la CNIL met à disposition son expertise au travers de
+nombreux contenus, notamment :
+
+une recommandation sur l’authentification multifacteur ;
+une recommandation sur les mots de passe ;
+
+une recommandation sur la journalisation ;
+
+un guide général sur la sécurité des données ainsi qu’une
+check-list ;
+
+des fiches pratiques pour sécuriser les sites web et les systèmes
+d’information ;
+des publications régulières sur des exemples de violations de
+données fréquentes (rançongiciels, fraude au président,
+attaques sur les messageries, attaques sur les défauts de
+configuration de cloud, credential stuffing, perte de matériel,
+etc.).
+Au-delà de ces conseils généraux, la CNIL publie également des rap­
+pels et des bonnes pratiques pour de nombreux secteurs d’activité
+dans ses différents guides et mène des actions de sensibilisation dans
+le cadre de son partenariat avec CCI France. La question de la sécurité
+des données tient également une place importante dans les projets
+bénéficiant d’un accompagnement de la CNIL, par exemple dans le
+cadre de son dispositif « bac à sable » sur l’IA et les services publics
+lancé en 2023 et la silver économie en 2024.
+La sensibilisation
+du grand public
+Pour sensibiliser le grand public aux enjeux de sécurisation des don­
+nées personnelles dans les usages du quotidien, la CNIL propose
+différentes ressources. Elle a ainsi publié de nombreuses fiches pra­
+tiques sur son site web, parmi lesquelles :
+Fuite ou vol de données : comment savoir si vous êtes concerné
+et que pouvez-vous faire ?
+Phishing : détecter un message malveillant
+
+Prévenir, repérer et réagir face au piratage de ses comptes
+sociaux
+Réagir en cas de chantage à la webcam
+
+4 réflexes pour mieux protéger votre identité en ligne
+Comment réagir face à une usurpation d’identité ?
+Les conseils de la CNIL pour un bon mot de passe
+La navigation privée pour limiter les risques de piratage
+de vos comptes en ligne
+Une affiche Cyber réflexes - Se protéger sur Internet
+La CNIL met également en place des partenariats avec des relais au
+sein de la société civile et des entreprises.
+www.cnil.fr/mon-quotidien/ma-securite-numerique
+En savoir +
+www.cnil.fr/cybersecurite
+En savoir +
+
+----- page 5 -----
+Les attaques par rançongiciel
+Le
+rançongiciel
+(ransomware
+ou
+cryptolocker
+en
+anglais) est un programme malveillant qui empêche la
+victime d’accèder à ses données, en les chiffrant, qui va
+ensuite demander une rançon en échange de la clé de
+déchiffrement. Il se transmet souvent par une pièce jointe
+de courriel ou des liens permettant le téléchargement de
+logiciels ou de contenus. Une fois présent dans le système
+informatique, ce programme va progressivement chiffrer
+tous les fichiers accessibles et les rendre illisibles. Dans le
+cas d’un réseau d’entreprise, le logiciel va chercher à se
+propager sur toutes les ressources accessibles.
+Le rançongiciel est répandu car très rentable pour les
+attaquants. Si ce type d’attaque est parfois opportuniste,
+pour des rançons correspondant généralement à
+quelques centaines d’euros, de plus en plus d’entités de
+taille importante sont ciblées pour des montants pouvant
+atteindre plusieurs millions d’euros.
+Certains rançongiciels utilisent des failles de sécurité
+connues afin de se propager via le réseau des organismes
+touchés et de multiplier les dommages. En particulier, en
+rendant inaccessibles les serveurs, logiciels et données
+de leurs victimes, les rançongiciels entraînent une
+indisponibilité de services critiques (site web, services
+destinés aux utilisateurs externes ou internes) et très
+souvent une altération et/ou une perte de disponibilité
+des données personnelles, ce qui constitue alors une
+violation de données personnelles.
+Un contrôle systématique et des
+sanctions régulières
+La sécurité est vérifiée de manière systématique dans les plus de 300
+procédures formelles de contrôle que la CNIL mène chaque année,
+d’abord par la vérification du respect des principes de base (mots de
+passe, sécurisation des bases de données et du réseau, etc.), mais
+aussi par la vérification de l’existence d’un registre des violations, une
+obligation issue du RGPD.
+Les manquements les plus fréquents :
+
+des données librement accessibles par modification d’URL
+(défaut d’authentification, URL prédictible), par exemple quand il
+suffit de modifier un nombre dans la barre d’adresse pour accé­
+der à des documents d’autres personnes ;
+une politique de mot de passe non conforme, ne respectant
+pas au minimum la recommandation mot de passe de la CNIL ;
+la transmission de mot de passe en clair, par exemple lors de la
+création d’un compte sur un site web ;
+la transmission de données par une connexion non chiffrée
+(HTTP), par exemple dans le cas d’un formulaire sur un site web
+par lequel l’utilisateur envoie des données personnelles ;
+l’absence de verrouillage automatique des sessions de postes
+de travail, permettant ainsi à un tiers d’accéder à un système
+d’information contenant des données personnelles ;
+un défaut de protocole de test afin de garantir l’absence de
+vulnérabilité avant la mise en production d’un nouveau déve­
+loppement : c’est le cas quand un organisme développe un nou­
+vel outil (application, site web, formulaire) traitant des données
+personnelles, sans prévoir de phase de test destinée à identifier
+les éventuelles vulnérabilités de l’outil.
+La participation
+à l’écosystème cyber
+La CNIL accorde une grande importance au développement
+d’une compréhension partagée des enjeux de protection
+des données et de cybersécurité. Elle travaille activement
+avec les différentes parties prenantes de l’écosystème cyber
+(régulateurs, GIP, fédérations professionnelles, associations,
+éditeurs) pour élaborer sa doctrine ainsi que pour sensibili­
+ser le public, par exemple au travers d’interventions ou de la
+diffusion de supports de communication*.
+FOCUS
+Illustrations de documents produit en partenariat avec la CNIL
+Illustrations de documents produit en partenariat avec la CNIL
+*En collaboration avec
+Cybermalveillance.gouv.fr
+(GIP ACYMA), France services,
+et l’Union nationale des
+associations familiales (UNAF).
+
+----- page 6 -----
+www.cnil.fr
+Commission nationale
+de l’informatique et des libertés
+3 place de Fontenoy
+75007 PARIS
+01 53 73 22 22
+www.cnil.fr/fr/cybersecurite

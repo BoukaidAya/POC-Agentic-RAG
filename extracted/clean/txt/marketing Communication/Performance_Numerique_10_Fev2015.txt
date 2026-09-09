@@ -1,0 +1,232 @@
+
+----- page 1 -----
+Les outils d’analyse de trafic ou d’au-
+dience permettent de mesurer le
+nombre de visiteurs sur le site web
+de l’entreprise, d’apporter des infor-
+mations sur leur profil et éventuel-
+lement sur leur parcours au sein du
+site.
+Cette information est précieuse car
+elle permet de mieux connaître les
+centres d’intérêts des visiteurs et de
+faire évoluer le contenu du site en
+conséquence.
+Deux
+grandes
+familles
+d’outils
+existent sur le marché. Ceux-ci uti-
+lisent des technologies et des mé-
+thodes de comptage différentes.
+Mesurer le trafic de son site web
+Neuf entreprises sur dix ont un site web qui présente au minimum leur activité et leurs produits. Peu
+d’entre elles mesurent pourtant l’efficacité de leur démarche en ligne et son retour sur investissement.
+Comment analyser son audience ? Comment améliorer le pilotage de son site, voir l’évolution du trafic
+et connaître les centres d’intérêts des visiteurs ?
+Cette notice a pour objectif de donner quelques repères simples pour vous permettre une première
+analyse de trafic d’un site web.
+Performance
+numérique
+Votre rendez-vous mensuel
+Les outils d’analyse de trafic
+Les outils bases sur les fichiers de log
+L’activité d’un site Internet est tracée
+en temps réel dans un « journal de
+log » enregistré sur le serveur qui
+l’héberge. Toutes les actions des visi-
+teurs y sont inscrites lorsqu’ils par-
+courent le site.
+Ce fichier peut être exploité directe-
+ment en le lisant, mais ce travail est
+à laisser aux spécialistes. Des outils
+graphiques spécifiques ont été dé-
+veloppés afin de faciliter la lecture et
+l’exploitation des logs.
+Le journal de log est confidentiel et
+accessible après une authentifica-
+tion sur le serveur. Pour le consulter, il
+faut demander à votre hébergeur le
+nom d’utilisateur et le mot de passe.
+> Quelles informations sont
+exploitables ?
+Les outils de statistiques peuvent
+exploiter deux types de données, les
+données liées à l’internaute d’une
+part, et les données liées à la visite du
+site d’autre part.
+1 Journal du log : journal des connexions
+
+----- page 2 -----
+• Les données liées à l’internaute
+- L’adresse IP de l’ordinateur et/
+ou son nom de domaine
+- Les traces laissées par les robots
+des moteurs de recherche
+- La configuration de l’ordinateur
+utilisé (navigateur, système d’ex-
+ploitation, taille de l’écran...)
+• Les informations liées à la visite
+du site
+- Le nombre de pages vues
+- Les sites d’où proviennent les
+visiteurs
+- Le parcours de l’internaute sur
+le site (page d’entrée, page de
+sortie ...)
+- Les mots-clés tapés dans le mo-
+teur de recherche avant la visite.
+> Comment exploiter ces
+données ?
+Des indicateurs exploitent le fichier
+de log et en tirent une synthèse sous
+forme de tableaux ou de graphiques
+sur une période définie (jour, mois...).
+Les principaux indicateurs mesurés
+par des outils statistiques sont :
+• Le
+comptage
+des
+visiteurs
+uniques. Un visiteur unique est
+une «personne» (poste informa-
+tique) qui visite le site web. L’outil
+statistique permet de compta-
+biliser le nombre de visiteurs
+uniques connectés au site sur
+une période donnée
+• La durée de visite : temps moyen
+passé par les visiteurs sur le site
+• Les pages les plus visitées
+• L’origine des visiteurs : sites de-
+puis lesquels les visiteurs arrivent
+• Les mots-clés tapés les plus fré-
+quemment dans les moteurs de
+recherche avant l’arrivée sur le
+site
+Ces indicateurs sont affichables par
+jour, semaine, mois, année ou sur un
+intervalle de temps choisi par l’uti-
+lisateur. Ils peuvent permettre, par
+exemple, de mesurer l’impact d’une
+action de communication sur la fré-
+quentation du site.
+> Les outils disponibles
+Un grand nombre d’outils existent
+sur le marché. Cependant, il n’est sou-
+vent pas possible d’en choisir un en
+particulier car l’hébergeur met en
+place un seul outil sur l’ensemble de
+ses serveurs.
+Ce service, s’il est proposé par l’hé-
+bergeur, est accessible à une adresse
+spécifique protégée par un accès
+sécurisé fournie par le prestataire (ex:
+www.nomdusite.com/stats).
+> Les limites des outils bases
+sur les fichiers du log
+• Le cache
+De part le fonctionnement d’Inter-
+net, certaines visites ne sont pas
+comptabilisées. En effet, lorsqu’un
+visiteur se rend sur un site web, l’en-
+semble des éléments qui composent
+les pages Internet sont stockés tem-
+porairement sur son ordinateur (ou
+un serveur) dans ce que l’on appelle
+le cache.
+Si peu de temps après, le même visi-
+teur souhaite consulter les mêmes
+pages, les éléments ne seront pas
+rechargés mais importés du cache.
+De ce fait, en l’absence de nouveau
+chargement, le journal de log ne
+tiendra pas compte de cette visite.
+• Les robots
+Certains outils ne différencient pas
+la visite d’un moteur de recherche
+d’un internaute. Les statistiques d’au-
+dience sont donc parfois faussées : le
+trafic du site croît artificiellement.
+• Pas de données précises
+Une analyse fine des données
+comme celle des pages les plus visi-
+tées s’avère difficile. Les informations
+du journal de log sont noyées dans
+une masse d’informations com-
+plexes à exploiter sans connaissance
+technique.
+• Pas de vérité dans les chiffres
+Les données fournies par les outils
+statistiques doivent être interpré-
+tées avec précaution car elles ne
+sont qu’une image de la réalité. Ce-
+pendant, elles constituent les seules
+informations simples et gratuites,
+exploitables sur le fonctionnement
+d’un site web.
+
+----- page 3 -----
+Ce système est différent et nécessite
+une intervention technique sur les
+pages du site web. Il s’agit de placer
+un petit programme sur les pages
+pour lesquelles on souhaite mesurer
+le nombre de visites.
+> Le fonctionnement des tags
+Les éditeurs de solution de mesure
+de trafic fournissent des lignes de
+codes html à insérer dans les pages
+du site. A chaque visite de la page,
+l’éditeur est averti.
+Ces informations sur le trafic sont
+accessibles via un accès sécurisé
+sur le serveur dédié de l’éditeur.
+Elles
+permettent
+d’obtenir
+des
+représentations graphiques du flux
+de visiteurs.
+Cette solution présente l’avantage
+de
+pouvoir
+mesurer
+le
+trafic
+uniquement sur les pages qui
+semblent
+intéressantes
+pour
+la
+gestion du site web. Elle permet
+également d’éviter le problème de
+comptage lié au cache.
+Google Analytics est la solution
+la plus utilisée. Certains sites dont
+l’analyse de trafic est stratégique,
+notamment les boutiques en ligne,
+choisissent de cumuler deux outils
+pour disposer de plus d’informations
+> Les limites des outis bases
+sur les marqueurs
+Les outils ne mesurent pas tous la
+même chose. Certains retirent par
+exemple du comptage la visite des
+moteurs de recherche. Cependant,
+ce sont les seules solutions simples
+disponibles pour évaluer le trafic sur
+un site web et prendre des décisions.
+Les outils bases sur des tags ou marqueurs
+VOTRE contact
+Samuel COSTE
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+CCI DORDOGNE
+Votre prochain rdv numérique :
+« Maîtriser la diffusion de son
+catalogue e-commerce »
+Pour aller + loin :
+> Rdv le 5 mai à la CCI Dordogne pour l’Atelier numérique
+« Mesurer le trafic de son site web » - Inscription en ligne ici

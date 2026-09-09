@@ -1,0 +1,295 @@
+
+----- page 1 -----
+> Identité du e-commerçant
+La loi Hamon rappelle que tout site
+de e-commerce doit faire apparaître
+ses coordonnées postales télépho-
+niques et électroniques1.
+> Descriptif des fiches produits
+Les fiches produits doivent être suf-
+fisamment détaillées et faire appa-
+raître le prix de manière lisible.
+Par ailleurs, ces informations ne
+doivent pas présenter d’ambigüité.
+Le code de la consommation juge
+qu’une pratique commerciale est
+trompeuse si :
+• Elle crée une confusion avec un
+autre bien ou service, marque,
+nom commercial. Par exemple :
+vendre des articles B055 comme
+des produits de la marque Boss.
+• Elle repose sur des allégations,
+des indications ou présentations
+fausses ou de nature à induire en
+erreur et portant sur :
+- l’existence,
+- la disponibilité : si une pro-
+motion2 est faite sur un produit
+pendant une durée limitée, le
+vendeur a l’obligation de fournir
+le produit dans les mêmes condi-
+tions (prix, qualité) même s’il n’a
+plus de stock,
+- la nature du bien ou du service,
+- les caractéristiques essentielles
+du bien ou service (qualités
+substantielles, composition, ori-
+gine, quantité, mode et date de
+fabrication...). Exemple : déclarer
+qu’un produit industriel a été réa-
+lisé à la main.
+- le prix,
+- le mode de calcul,
+- le service après-vente,
+- l’identité et la qualité du profes-
+sionnel,
+- le traitement des réclamations.
+• Elle omet une information subs-
+tantielle dont le consommateur
+moyen a besoin, compte tenu du
+contexte, pour prendre une déci-
+sion commerciale en connais-
+sance de cause. Exemple : vendre
+une plante exotique sans préciser
+qu’elle ne peut vivre en deçà d’une
+certaine température extérieure.
+La tromperie est une infraction punie de 2 ans
+d’emprisonnement et/ou d’une amende de 37
+500€ pouvant être portée à 50% des dépenses de
+publicité constituant le délit.
+E-commerce et droit de la consommation
+En 2008, la loi « Pour le développement de la concurrence au service des consommateurs », dite « loi
+Châtel » a pour la première fois affirmé des principes relatifs à la protection des consommateurs en
+matière de vente en ligne.
+Cinq ans plus tard, une nouvelle loi sur la consommation dite « Hamon » ajoute de nouvelles dispositions.
+Cette retranscription de la directive européenne n°2011/83/UE des Droits des Consommateurs souhaite
+sécuriser les achats en ligne et favoriser le commerce transfrontalier.
+Désormais, les boutiques en ligne doivent être particulièrement attentives à l’exactitude et à l’exhaustivité
+des informations délivrées aux visiteurs. Par ailleurs, le droit de rétractation devient très encadré.
+Cette notice fait le point sur les dispositions des lois Châtel et Hamon relatives aux obligations en
+matière de vente à distance.
+Performance
+numérique
+Votre rendez-vous mensuel
+Information sur le site
+CCI DORDOGNE - Performance numérique - SEPTEMBRE 2014
+1 Loi n° 2014-344 du 17 mars 2014 relative à la consommation, article 6
+2 Le terme de « promotion » est en effet règlementé. Si le vendeur n’a plus de stock, il peut proposer un produit de substitution ou un délai plus long. Ces alternatives
+doivent néanmoins être proposées avant que la commande ne soit passée, auquel cas, il y aura tromperie.
+
+----- page 2 -----
+> Informations sur les moyens
+de paiement et la livraison
+Le client doit être informé des
+moyens de paiement acceptés et
+des restrictions de livraison au plus
+tard au début du processus de com-
+mande, c’est à dire quand il clique sur
+« régler la commande » ou « allez au
+panier ».
+> Informations sur les frais de
+retour
+Il convient d’informer le client du
+coût de renvoi d’un article volumi-
+neux nécessitant l’intervention d’un
+transporteur spécialisé. En effet, dans
+le cas où il souhaiterait exercer son
+droit de rétractation, les frais de re-
+tour seraient à sa charge.
+Cette notification doit bien sûr inter-
+venir avant que la commande ne soit
+validée.
+> Les CGV
+Les Conditions Générales de Vente
+(CGV) doivent pouvoir être impri-
+mées (fichier PDF). Ce document doit
+préciser une date d’effet, un numéro
+de version et être horodaté.
+Les commandes
+CCI DORDOGNE - Performance numérique - SEPTEMBRE 2014
+> Le panier
+Le processus de commande (aussi
+appelé « tunnel d’achat ») doit inclure
+avant la validation finale, un récapitu-
+latif des produits sélectionnés par le
+client mentionnant :
+• Les caractéristiques essentielles
+des articles
+• Le prix global
+Aucune case recueillant le consen-
+tement de l’acheteur ne doit être
+pré-cochée, l’ajout d’une assurance
+complémentaire ou la validation des
+conditions générales de vente par
+exemple.
+Le bouton permettant de valider la
+commande doit être sans ambigüité,
+l’acheteur doit comprendre qu’il de-
+vra payer à la fin du processus.
+Les formules telles que « Valider la
+commande » ou « Passer à l’étape
+suivante » doivent ainsi être aban-
+données au profit de « Régler la com-
+mande » ou « Validation de la com-
+mande et paiement » par exemple.
+> Délai de la livraison
+Les commandes doivent être obliga-
+toirement livrées dans les 30 jours.
+La boutique en ligne peut en re-
+vanche s’engager sur une date ou un
+délai de livraison. Dans ce cas elle doit
+faire mention de ces informations
+avant la finalisation de la commande.
+Si l’échéance n’est pas respectée, le
+client peut demander au e-commer-
+çant une livraison « dans un délai rai-
+sonnable ».
+Si le site de vente en ligne ne respecte
+pas ces règles, le client peut annuler
+sa commande et exiger un rembour-
+sement au plus tard dans les 14 jours.
+> Confirmation de commande
+A l’issue du paiement, le site mar-
+chand doit fournir au client une
+confirmation de commande sur un «
+support durable » comme un email
+par exemple. Ce document doit :
+• Rappeler l’identité du e-com-
+merçant
+• Récapituler les articles com-
+mandés et leurs caractéristiques
+essentielles
+• Communiquer une nouvelle fois
+les CGV, notamment les informa-
+tions relatives au droit de rétrac-
+tation du client.
+Le service client
+Le site marchand doit fournir des
+coordonnées téléphoniques per-
+mettant d’entrer effectivement en
+contact avec le vendeur notamment
+en matière de SAV.
+Le numéro de téléphone doit :
+• Permettre de joindre le vendeur
+pour obtenir des informations
+sur le suivi de la commande, pour
+exercer son droit de rétractation
+ou pour faire jouer la garantie
+d’un produit. Il est conseillé de
+préciser sur le site les horaires
+auxquels ces services sont joi-
+gnables.
+• Ne pas être surtaxé et assurer au
+client un temps d’attente gratuit
+pour les services précédemment
+cités.
+
+----- page 3 -----
+CCI DORDOGNE - Performance numérique - SEPTEMBRE 2014
+VOTRE contact
+Samuel COSTE
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+CCI DORDOGNE
+Votre prochain rdv numérique :
+« Marketing automatisé :
+optimiser l’acquisition et la
+fidélisation client »
+On appelle droit de rétractation la
+possibilité pour le client de renvoyer
+contre
+remboursement
+un
+ou
+plusieurs articles si ceux-ci s’ils ne
+le satisfont pas totalement. Certains
+biens font néanmoins exception :
+• articles sur-mesure ou personna-
+lisés
+• produits susceptibles de se péri-
+mer
+• produits d’hygiène
+• billets d’avion, de train ou de
+spectacle3
+• enregistrements audio ou vidéo
+et logiciels informatiques dont le
+support a été descellé.
+Les prestations de service consom-
+mées, avec l’accord du client, avant la
+fin du délai de 14 jours excluent éga-
+lement l’exercice du droit de rétrac-
+tation.
+Toute exception au droit de rétracta-
+tion, même si il elle est prévue par la
+loi, doit être stipulée dans les condi-
+tions générales de vente.
+>
+Exercice
+du
+droit
+de
+rétractation
+La loi Hamon a allongé le délai du
+droit de rétractation de 7 à 14 jours
+à compter de la réception de la com-
+mande ou de la date de conclusion
+du contrat s’il s’agit d’un service. Dans
+le cas de commandes livrées en plu-
+sieurs fois, le délai débute à la récep-
+tion du dernier envoi.
+Le client n’est pas tenu de justifier sa
+rétractation. Pour exercer son droit, il
+doit néanmoins remplir un formulaire
+mis à disposition par le site marchand.
+En retour, le e-commerçant doit adres-
+ser « sans délai, au consommateur un
+accusé de réception de la rétractation
+sur un support durable » (email).
+La loi Hamon prévoit de fournir un formulaire de
+rétractation type dans le décret d’application.
+> Remboursement du client
+Délai de remboursement
+Le client doit être remboursé dans les
+14 jours à compter de la date de sa
+rétractation. Il dispose du même délai
+pour renvoyer le ou les produits non
+satisfaisants.
+Toutefois, le site marchand peut « dif-
+férer le remboursement jusqu’à récu-
+pération des biens » ou obtention
+d’une preuve d’expédition fournie par
+le client.
+Sommes remboursées
+Le marchand doit rembourser la
+somme versée par le client pour ac-
+quérir le produit ainsi que les frais de
+livraison. C’est pourquoi il est conseillé
+aux sites proposant des produits dont
+les coûts de transport sont très diffé-
+rents de détailler les frais de livraison
+de chaque produit à la commande.
+Ainsi, un client achetant une armoire
+et un stylo et souhaitant se rétracter
+uniquement sur le stylo, ne sera rem-
+boursé que des frais de livraison rela-
+tifs à cet article.
+Les frais de retour restent en revanche
+à la charge du client, d’où l’obligation
+de préciser le coût de transport des
+produits volumineux sur les fiches
+produits.
+Par ailleurs, un site marchand est au-
+torisé à décoter un produit retourné
+trop usagé. Il est cependant conseillé
+de le préciser dans les conditions gé-
+nérales de vente.
+Modalités de remboursement
+Le client doit être remboursé avec
+le même moyen de paiement qu’il a
+utilisé pour régler sa commande. S’il
+a payé en bons cadeaux, il devra être
+remboursé en bons cadeaux.
+Le droit de rétractation
+3 Le droit de rétractation est exclu dans le cas d’achat de billets uniquement s’ils ont été commandés à distance.

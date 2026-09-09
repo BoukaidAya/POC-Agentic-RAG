@@ -1,0 +1,524 @@
+
+----- page 1 -----
+RELATIF A LA MISE EN ŒUVRE D’UNE
+SOLUTION DE MESURE D’AUDIENCE
+EXEMPTEE DE CONSENTEMENT.
+OUTIL D’AUTO-
+EVALUATION
+Juillet 2025
+
+----- page 2 -----
+1.
+À qui s’adresse cet outil d’auto-évaluation ?
+Les éléments ci-dessous permettent l’analyse par le fournisseur de la solution de mesure d’audience pour
+déterminer si elle peut être configurée de manière à entrer dans le cadre de l’exemption au consentement. Une
+fois cette analyse réalisée, celui-ci est invité remettre à ses prospects un document permettant
+d'attester du respect des conditions définies, ainsi que, le cas échéant, les actions à mettre en œuvre pour
+correctement configurer la solution. Un modèle de document est fourni en annexe.
+2.
+Portée de l’outil d’auto-évaluation
+Cet outil a pour unique but de permettre d’analyser si une solution de mesure d’audience peut être mise en
+œuvre sans consentement préalable. Il n’a pas vocation à permettre d’évaluer la conformité de la
+solution dans son ensemble au regard du cadre légal applicable.
+3.
+Objectifs poursuivis par la mise en place de la mesure d’audience
+La solution visée par le cadre d’analyse ne doit concerner que la mesure de l’audience d’un site
+ou d’une application.
+Les fonctionnalités autorisées sont :
+les mesures des performances ;
+la détection de problèmes de navigation ;
+l’optimisation des performances techniques ou de son ergonomie ;
+l’estimation de la puissance des serveurs nécessaires ;
+l’analyse des contenus consultés.
+Si la solution permet un traitement de données pour d’autres finalités, celles-ci doivent être
+désactivées par défaut, notamment :
+•
+toute mesure à visée marketing, y compris mais non limitée à la mesure de performance des canaux de
+conversion, de performance de campagnes publicitaires, de mesure des canaux d’acquisition, de lutte
+contre la fraude publicitaire, etc. ;
+•
+toute création de cohorte d’utilisateurs pour leur présenter des contenus différenciés, que
+l’appartenance à une telle cohorte soit définie de manière aléatoire ou bien en fonction des informations
+précédemment collectées.
+En cas de difficulté d’analyse d’une fonctionnalité, la question à poser est de savoir si l’absence de la mesure
+envisagée conduit à ce que le site ne puisse plus répondre à la demande expresse de la personne (étant entendu
+que la nécessité économique ne rentre pas dans le cadre de ce qui est considéré comme « strictement
+nécessaire »).
+Au-delà de l’engagement du prestataire à rendre possible la configuration de son outil pour atteindre l’objectif,
+la CNIL l’invite à rappeler ces principes ainsi qu’à indiquer la méthodologie pour désactiver les fonctionnalités
+non-conformes dans le document mis à disposition de ses prospects.
+À noter : Lorsque des données personnelles sont collectées pour une finalité initiale – par exemple ici pour
+la mesure d’audience exemptée du consentement – leur réutilisation ne nécessite pas en tant que tel de
+consentement à la condition qu’elles aient été préalablement anonymisées de manière
+effective. En effet, la réutilisation de données effectivement rendues anonymes est présumée ne pas créer
+d’atteinte supplémentaire à la vie privée au regard de la protection apportée par l’article 82 de la loi
+« informatique et libertés ». Le RGPD reste applicable au traitement d’anonymisation lui-même.
+
+----- page 3 -----
+4.
+Critères de mise en œuvre de la mesure d’audience
+Afin d’établir que l’outil de mesure d’audience rentre dans le cadre de l’outil d’auto-évaluation, celui-ci doit
+pouvoir être configuré afin de respecter l’ensemble des critères du tableau ci-dessous. Quand le tableau indique
+une mesure technique précise, il s’agit d’une recommandation de la CNIL. Il est possible pour le prestataire de
+démontrer qu’une mesure alternative remplit effectivement l’objectif. Dans ce cas, il lui est recommandé de
+l’indiquer et de le justifier dans la documentation qu’il fournit à ses potentiels clients (en étant clair sur le fait
+qu’il s’écarte des mesures recommandées par la CNIL).
+Critère
+L’unique finalité
+pour laquelle l’outil
+est utilisé est celle
+de la mesure de
+l’audience du site ou
+de l’application
+Le prestataire met à disposition des
+instructions pour désactiver toute
+fonctionnalité qui sort du cadre
+déterminé
+N/A
+Les données collectées sont
+minimisées au regard de la finalité de
+mesure d’audience poursuivie
+Si des données provenant des champs d’en-tête
+(« headers ») HTTP sont collectées (version de
+navigateur, système d’exploitation, matériel,
+taille d’écran), ces données sont minimisées
+(version majeure système
+d’exploitation/navigateur par exemple)
+La solution collecte au plus trois type
+d’évènements :
+•
+La simple présence d’une personne sur une
+page et les informations associée à cette
+page (nom, type, etc,)
+•
+L’utilisation par cette personne d’une
+fonctionnalité (clic bouton, clic lien) et les
+information associées (destination, label,
+etc)
+•
+Les statistiques de temps de chargement,
+de défilement ou de temps passé sur une
+page
+Le prestataire
+propose le service
+sous le régime de la
+sous-traitance
+Le prestataire met à disposition un
+accord de traitement des données (ou
+« data processing agreement », DPA)
+standard qui inclut les mentions
+obligatoires listées à l’article 28 du
+RGPD et le qualifie en tant que sous-
+traitant
+N/A
+Aucune mise en commun par le
+prestataire de données brutes de
+mesure d’audience provenant de
+plusieurs de ses clients n’est mise en
+œuvre
+N/A
+Aucune réutilisation des données pour
+le propre compte du prestataire et
+quelle que soit la finalité (amélioration
+de son service, lutte contre la fraude,
+etc.) n’est mise en œuvre
+N/A
+Le prestataire met à disposition en
+tant que sous-traitant un point de
+contact afin de recevoir et traiter les
+questions et réclamations de leurs
+prospect pour clarifier les doutes sur
+la conformité
+N/A
+
+----- page 4 -----
+Critère
+L’outil ne permet
+pas un suivi de la
+personne en dehors
+du site ou de
+l’application visée
+Aucun import de données externes
+n’est possible
+Désactivation de toute collecte ou import
+d’identifiant client (ou « CRM »), d’UTM ou
+d’identifiant de campagne dans les URLs
+Le référent (« referrer »), s’il est collecté, se
+limite au domaine (« host »).
+Toute intégration avec des outils tiers est exclue
+Aucun identifiant permettant un suivi
+à travers plusieurs domaines n’est
+utilisé
+Si l’identifiant utilisé est un cookie, celui-ci est
+déposé en interne (ou « first-party ») afin
+d’empêcher un suivi global de la navigation
+L’IP si elle est utilisée, permet la localisation à
+l’échelle de la ville puis est pseudonymisée en
+enlevant au moins le dernier octet
+Toute mesure visant à générer un identifiant en
+utilisant les caractéristiques du terminal
+(empreinte numérique ou « fingerprinting »)
+intègre une composante spécifique au site lors
+du calcul du hash (par exemple le domaine en
+cours de visite) pour empêcher un suivi à
+travers plusieurs domaines (ou « cross-site »),
+ainsi qu’une composante temporelle
+(permettant de s’assurer que l’emprunte
+numérique (ou « fingerprint ») ait une durée de
+vie limitée)
+Tout marquage permettant de récupérer des
+informations personnelles (par exemple par le
+biais de formulaires) est exclu
+Toute fonctionnalité visant à croiser,
+dédoubler ou mesurer un taux de
+couverture (« reach ») unifié d’un
+contenu est exclue
+Désactivation des outils relatifs à la mesure du
+taux de couverture (« reach »)
+Les données servent
+uniquement à
+produire des
+données statistiques
+anonymes
+Autant pour la visualisation mise à
+disposition dans l’interface de l’outil
+que lors d’export, l’ensemble des
+rapports générés par la solution
+comportent uniquement des
+statistiques anonymes
+Agrégation et la présentation à la dizaine la plus
+proche. A défaut, une analyse est menée pour
+justifier du caractère anonyme des données
+(voir l'avis du G29 sur le sujet)
+L’anonymisation est effective quels
+que soient les critères de sélection
+choisi par le client de la solution (une
+combinaison de critère ne doit pas
+permettre d’isoler un utilisateur).
+Aucun suivi de la navigation d’un
+utilisateur unique n’est possible
+Désactivation de toute fonctionnalités du type
+rejeu de session (« session replay »)
+Le droit à
+l’opposition des
+personnes est
+respecté
+Une modalité d’opposition est mise en
+œuvre dans la mesure ou un
+traitement de données à caractère
+personnel au sens du RGPD existe.
+Opposition disponible sous la forme d’un
+bouton ou lien cliquable au sein de la politique
+de confidentialité du site ou application visité.
+Des moyens suffisants sont mis en
+œuvre pour prendre en compte le
+refus dans la durée
+Procéder au dépôt d’un cookie d’opposition ou à
+la mesure et l’ajout à une liste repoussoir d’une
+empreinte numérique (ou « fingerprinting »).
+
+----- page 5 -----
+5.
+Annexe : modèle de document d’auto-évaluation
+D’après notre auto-évaluation, la solution [nom de la solution] est conforme aux critères établis par la CNIL
+[mettre un lien vers la page officielle], et peut-être mise en œuvre sans requérir le consentement des
+utilisateurs si elle est correctement configurée. Pour ce faire, elle doit être configurée de la manière décrite dans
+ce document.
+En effet, cette solution se limite uniquement à : [indiquer le cas échéant dans la liste]
+les mesures des performances;
+la détection de problèmes de navigation ;
+l’optimisation des performances techniques ou de son ergonomie ;
+l’estimation de la puissance des serveurs nécessaires ;
+l’analyse des contenus consultés.
+En excluant explicitement toute mesure à visée marketing, y compris mais non limitée à :
+la mesure de performance des canaux de conversion, de performance de campagnes publicitaires, de
+mesure des canaux d’acquisition, de lutte contre la fraude publicitaire, etc. ;
+toute création de cohorte d’utilisateurs pour leur présenter des contenus différenciés, que
+l’appartenance à une telle cohorte soit définie de manière aléatoire ou bien en fonction des informations
+précédemment collectées.
+L’ensemble des critères ci-dessous sont respectés si la configuration est correctement mise en œuvre. Pour
+chaque critère, si une opération est nécessaire de la part de l’éditeur de site, elle est indiquée dans la colonne
+« action à entreprendre ». Si l’éditeur ne met pas en œuvre la mesure en question, la solution est susceptible de
+ne plus bénéficier de l’exemption du recueil du consentement.
+Cette évaluation a pour unique but de permettre d’analyser si une solution de mesure d’audience peut être mise
+en œuvre sans consentement préalable et n’a pas vocation à permettre d’évaluer la conformité de la solution
+dans son ensemble au regard du cadre légal applicable.
+Critère
+Critère respecté
+Action à
+entreprendre
+L’unique
+finalité pour
+laquelle
+l’outil est
+utilisé est
+celle de la
+mesure de
+l’audience du
+site ou de
+l’application
+Le prestataire met à
+disposition des
+instructions pour
+désactiver toute
+fonctionnalité qui sort
+du cadre déterminé
+N/A
+Oui/Non [si des
+mesures
+techniques
+recommandées
+par la CNIL ne
+sont pas mises
+en œuvre,
+utiliser cette
+case pour
+expliciter les
+mesures
+alternatives qui
+permettent de
+remplir le
+critère]
+[utiliser cette
+case pour
+expliciter les
+configurations
+à mettre en
+œuvre]
+Les données collectées
+sont minimisées au
+regard de la finalité de
+mesure d’audience
+poursuivie
+Si des données provenant des
+champs d’en-tête
+(« headers ») HTTP sont
+collectées (version de
+navigateur, système
+d’exploitation, matériel, taille
+d’écran), ces données sont
+minimisées (version majeure
+système
+d’exploitation/navigateur par
+exemple)
+
+----- page 6 -----
+Critère
+Critère respecté
+Action à
+entreprendre
+La solution collecte au plus
+trois type d’évènements :
+•
+La simple présence
+d’une personne sur une
+page et les
+informations associée à
+cette page (nom, type,
+etc.)
+•
+L’utilisation par cette
+personne d’une
+fonctionnalité (clic
+bouton, clic lien) et les
+information associées
+(destination, label, etc.)
+•
+Les statistiques de
+temps de chargement,
+de défilement ou de
+temps passé sur une
+page
+Le
+prestataire
+propose le
+service sous
+le régime de
+la sous-
+traitance
+Le prestataire met à
+disposition un accord
+de traitement des
+données (ou « data
+processing agreement
+», DPA) standard qui
+inclut les mentions
+obligatoires listées à
+l’article 28 du RGPD et
+le qualifie en tant que
+sous-traitant
+N/A
+Aucune mise en
+commun par le
+prestataire de données
+brutes de mesure
+d’audience provenant
+de plusieurs de ses
+clients n’est mise en
+œuvre
+N/A
+Aucune réutilisation
+des données pour le
+propre compte du
+prestataire et quelle que
+soit la finalité
+(amélioration de son
+service, lutte contre la
+fraude, etc.) n’est mise
+en œuvre
+N/A
+Le prestataire met à
+disposition en tant que
+sous-traitant un point
+de contact afin de
+recevoir et traiter les
+questions et
+réclamations de leurs
+prospect pour clarifier
+les doutes sur la
+conformité
+N/A
+
+----- page 7 -----
+Critère
+Critère respecté
+Action à
+entreprendre
+L’outil ne
+permet pas
+un suivi de la
+personne en
+dehors du
+site ou de
+l’application
+visée
+Aucun import de
+données externes n’est
+possible
+Désactivation de toute collecte
+ou import d’identifiant client
+(ou « CRM »), d’UTM ou
+d’identifiant de campagne
+dans les URLs
+Le référent (« referrer »), s’il
+est collecté, se limite au
+domaine (« host »).
+Toute intégration avec des
+outils tiers est exclue
+Aucun identifiant
+permettant un suivi à
+travers plusieurs
+domaines n’est utilisé
+Si l’identifiant utilisé est un
+cookie, celui-ci est déposé en
+interne (ou « first-party »)
+afin d’empêcher un suivi
+global de la navigation
+L’IP si elle est utilisée, permet
+la localisation à l’échelle de la
+ville puis est pseudonymisée
+en enlevant au moins le
+dernier octet
+Toute mesure visant à générer
+un identifiant en utilisant les
+caractéristiques du terminal
+(empreinte numérique ou «
+fingerprinting ») intègre une
+composante spécifique au site
+lors du calcul du hash (par
+exemple le domaine en cours
+de visite) pour empêcher un
+suivi à travers plusieurs
+domaines (ou « cross-site »),
+ainsi qu’une composante
+temporelle (permettant de
+s’assurer que l’emprunte
+numérique (ou
+« fingerprint ») ait une durée
+de vie limitée)
+Tout marquage permettant de
+récupérer des informations
+personnelles (par exemple par
+le biais de formulaires) est
+exclu
+Toute fonctionnalité
+visant à croiser,
+dédoubler ou mesurer
+un taux de couverture
+(« reach ») unifié d’un
+contenu est exclue.
+Désactivation des outils
+relatifs à la mesure du taux de
+couverture (« reach »)
+Les données
+servent
+uniquement
+à produire
+des données
+Autant pour la
+visualisation mise à
+disposition dans
+l’interface de l’outil que
+lors d’export,
+Agrégation et la présentation à
+la dizaine la plus proche. A
+défaut, une analyse est menée
+pour justifier du caractère
+
+----- page 8 -----
+Critère
+Critère respecté
+Action à
+entreprendre
+statistiques
+anonymes
+l’ensemble des rapports
+générés par la solution
+comportent
+uniquement des
+statistiques anonymes.
+anonyme des données (voir
+l'avis du G29 sur le sujet)
+L’anonymisation est
+effective quels que
+soient les critères de
+sélection choisi par le
+client de la solution
+(une combinaison de
+critère ne doit pas
+permettre d’isoler un
+utilisateur).
+Aucun suivi de la
+navigation d’un
+utilisateur unique n’est
+possible
+Désactivation de toute
+fonctionnalités du type rejeu
+de session (« session replay »)
+Le droit à
+l’opposition
+des
+personnes
+est respecté
+Une modalité
+d’opposition est mise
+en œuvre dans la
+mesure ou un
+traitement de données
+à caractère personnel
+au sens du RGPD
+existe.
+Opposition disponible sous la
+forme d’un bouton ou lien
+cliquable au sein de la
+politique de confidentialité du
+site ou application visité.
+Des moyens suffisants
+sont mis en œuvre pour
+prendre en compte le
+refus dans la durée
+Procéder au dépôt d’un cookie
+d’opposition ou à la mesure et
+l’ajout à une liste repoussoir
+d’une empreinte numérique
+(ou « fingerprinting »).

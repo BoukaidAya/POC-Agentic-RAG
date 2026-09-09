@@ -1,0 +1,209 @@
+
+----- page 1 -----
+Enfin, en début de mois suivant [M+1], la plateforme :
+o déclare à l’Urssaf les chiffres d’affaires réalisés par ses utilisateurs et les montants de
+cotisations prélevés le mois précédent [M]
+o reverse à l’Urssaf, par virement bancaire, le total des cotisations prélevées à ses utilisateurs
+le mois précédent [M]
+En fin de mois [M-1], la plateforme identifie les utilisateurs qui seront à prélever le mois
+suivant et le taux de prélèvement qui sera à appliquer
+→La plateforme communique l’ensemble de ses utilisateurs avec les données permettant à
+l’Urssaf de les identifier (Siret notamment)
+→L’Urssaf indique à la plateforme pour chaque utilisateur s’il est à prélever et, le cas échéant,
+le taux de prélèvement à appliquer
+Le dispositif de prélèvement des
+cotisations sociales des auto-
+entrepreneurs par les plateformes
+numériques se décline
+opérationnellement en trois phases,
+sur un rythme mensuel
+Ce rythme mensuel vaut quelle que
+soit la périodicité de déclaration que
+l’auto-entrepreneur a choisi à l’Urssaf
+(mensuelle ou trimestrielle)
+LE DISPOSITIF
+La loi instaure une obligation de prélèvement à la source des cotisations sociales des utilisateurs de plateformes numériques à compter du 1er janvier 2027.
+Les utilisateurs à prélever sont ceux affiliés à l’Urssaf au régime « auto-entrepreneur ».
+Tous les secteurs d’activité relevant de l’économie des plateformes numériques sont concernés.
+Ensuite, pendant le mois [M], la plateforme calcule, sur la base du taux communiqué par
+l’Urssaf, et prélève au « fil de l’eau » les cotisations sociales dues par chaque utilisateur sur
+les transactions réalisées par son intermédiaire
+L’auto-entrepreneur reste en charge de la déclaration à l’Urssaf de son chiffre d’affaires, et du paiement des cotisations sociales associées, pour la part de
+son chiffre d’affaires réalisée en dehors des plateformes.
+
+----- page 2 -----
+FICHIER DES UTILISATEURS DE LA
+PLATEFORME
+URSSAF
+Mois [M+1]
+Phase 3 : Envoi à l’Urssaf
+Mois [M]
+Phase 2 : Prélèvement à la source des cotisations sociales
+Mois [M-1]
+Phase 1 : Identification des utilisateurs à prélever
+PLATEFORMES
+VÉRIFICATION DE
+LA SITUATION DE
+L’UTILISATEUR À
+L’URSSAF
+Utilisateur connu
+AE à l’Urssaf (= à
+prélever) + taux
+de prélèvement à
+appliquer en M
+→En fin de mois [M-1], la plateforme interroge
+l’Urssaf, en transmettant le fichier de tous ses
+utilisateurs, afin d’identifier ceux à prélever.
+→L’Urssaf indique en retour quels sont les
+utilisateurs
+à
+prélever
+et
+le
+taux
+de
+prélèvement applicable à chaque utilisateur
+pour le mois suivant.
+Les utilisateurs à prélever sont ceux affiliés à
+l’Urssaf
+en
+tant
+qu’auto-entrepreneur
+et
+toujours en activité pour la période.
+Le déclencheur du prélèvement à la source par la plateforme est le
+versement à l’utilisateur (versement direct ou sur porte-monnaie
+électronique).
+A chaque versement effectué en [M], la plateforme :
+→Calcule le montant des cotisations sociales à prélever sur le chiffre
+d’affaires réalisé par l’utilisateur (sur la base du taux de prélèvement
+communiqué par l’Urssaf pour le mois [M] en phase 1)
+→Déduit le montant des cotisations sociales calculées du versement
+qu’elle réalise à l’utilisateur.
+TRANSACTION 1
+TRANSACTION 2
+TRANSACTION 3
+TRANSACTION 4
+TRANSACTION 5
+Rythme de versement propre à la plateforme
+Versement 1 à
+l’utilisateur ➔
+prélèvement
+Au début du mois [M+1) :
+→La plateforme adresse à l’Urssaf le fichier de l’ensemble des
+utilisateurs
+prélevés
+avec
+pour
+chaque
+utilisateur
+les
+montants de chiffre d’affaires réalisés et de cotisations
+sociales prélevées pour le mois [M].
+→La plateforme effectue parallèlement un virement bancaire à
+l’Urssaf correspondant au total des montants prélevés pour le
+mois [M] (un seul versement mensuel par plateforme).
+PAIEMENT GLOBAL À
+L'URSSAF DU TOTAL
+PRÉLEVÉ EN M
+Phase 1 (fin mois [M-1]) :
+Identification des utilisateurs à prélever
+Phase 2 (pendant le mois [M]) :
+Prélèvement par la plateforme au « fil de l’eau » des cotisations
+sociales sur les versements effectués à ses utilisateurs
+Phase 3 (début [M+1]) :
+Déclaration à l’Urssaf et paiement par virement bancaire
+FICHIER DES
+UTILISATEURS
+PRÉLEVÉS EN M
+MISE A JOUR DES COMPTES
+AUTO-ENTREPRENEURS URSSAF
+(Chiffres d’Affaires, Cotisations,
+Paiements)
+RÉCEPTION DU FICHIER DES
+UTILISATEURS PRÉLEVÉS ET DU
+VIREMENT SUR LE COMPTE
+BANCAIRE DE L’URSSAF
+Pour chaque utilisateur à prélever
+...
+Versement 2 à
+l’utilisateur ➔
+prélèvement
+...
+Transactions concernées :
+Celles pour lesquelles la plateforme est
+en intermédiation financière, à
+l’exception des transactions en espèces
+CINÉMATIQUE GÉNÉRALE
+
+----- page 3 -----
+L’Urssaf communique à la plateforme un taux global de prélèvement pour chaque utilisateur, taux qui comprend
+l’ensemble des cotisations, contributions et taxes.
+Ce taux tient compte de la situation de l’auto-entrepreneur à l’Urssaf (exonération notamment) et des options choisies
+(comme le versement libératoire de l’impôt sur le revenu) : il peut varier d’un mois à l’autre.
+LES COTISATIONS SOCIALES À PRÉLEVER
+Toutes les cotisations, contributions et taxes recouvrées par les Urssaf entrent dans le champ du prélèvement à la source :
+o les cotisations et contributions sociales,
+o la contribution à la formation professionnelle (CFP),
+o l’éventuelle taxe pour frais de chambre consulaire,
+o le versement libératoire de l’impôt sur le revenu si l’auto-entrepreneur y a opté.
+Un taux global
+de prélèvement
+Selon l’activité réalisée par l’utilisateur (vente ou location de matériel par exemple), la nature fiscale du chiffre d’affaires n’est
+la même (BIC ventes, BIC prestations, BNC, ...). Or, les taux de cotisations sociales ne sont pas les mêmes selon la nature
+fiscale.
+Si plusieurs activités de nature fiscale différente sont possibles via la plateforme, l’Urssaf communiquera à la
+plateforme les différents taux applicables pour chaque utilisateur. Charge à la plateforme de prélever les transactions
+réalisées par l’utilisateur au taux qui correspond à la nature de la transaction effectuée. Les déclarations mensuelles de chiffre
+d’affaires et de cotisations prélevées devront être consolidées par nature d’activité,
+Voir aussi fiche pratique n°02.
+Un taux par
+nature d’activité
+
+----- page 4 -----
+CALENDRIER ET CADRE JURIDIQUE
+Les plateformes visées sont celles entrant dans le champ de l’obligation définie à l’article L. 242 bis du CGI en matière fiscale : « L'entreprise, quel que soit son
+lieu d'établissement, qui, en qualité d'opérateur de plateforme, met en relation des personnes par voie électronique en vue de la vente d'un bien, de la fourniture
+d'un service ou de l'échange ou du partage d'un bien ou d'un service ».
+Préparation de la mise en œuvre
+Cadre juridique général :
+o
+Article 6 de la Loi de Financement de la
+Sécurité Sociale (LFSS) 2024 Article 6 -
+LOI n° 2023-1250 du 26 décembre 2023
+de financement de la sécurité sociale
+pour 2024 (1) - Légifrance
+o
+Article 28 de la Loi de Financement de
+la Sécurité Sociale (LFSS) 2025 Article
+28 - LOI n° 2025-199 du 28 février 2025
+de financement de la sécurité sociale
+pour 2025 (1) - Légifrance.
+o
+En cas de soustraction de la plateforme
+à ses obligations, la loi prévoit des
+sanctions.
+Phase pilote avec des plateformes volontaires
+Généralisation à toutes plateformes
+Des plateformes volontaires appliquent de manière anticipée
+dès 2026 le dispositif de prélèvement à la source.
+Cadre juridique de la phase pilote :
+o
+Conditions et procédure pour se porter volontaire : Arrêté fixant
+les conditions dans lesquelles les plateformes se portent
+volontaires.
+o
+Liste des plateformes volontaires : Arrêté du 31 juillet 2025 fixant
+la liste des plateformes numériques concernées par la phase
+pilote du dispositif prévu à l'article L. 613-6-1 du code de la
+sécurité sociale – Légifrance
+o
+Décret encadrant la phase pilote : Décret n° 2026-488 du 10 juin
+2026 organisant l'entrée en vigueur progressive des obligations
+prévues à l'article L. 613-6-1 du code de la sécurité sociale
+auprès des opérateurs de plateforme volontaires - Légifrance
+Toutes les plateformes numériques appliquent à partir du
+1er janvier 2027 le dispositif de prélèvement à la source.
+Cadre juridique de la phase de généralisation :
+o
+Décrets à venir

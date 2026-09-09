@@ -1,0 +1,338 @@
+
+----- page 1 -----
+TRANSACTIONS À PRÉLEVER
+Les transactions à prélever sont celles pour lesquelles la plateforme est en intermédiation financière, c’est-à-dire que le paiement de l’utilisateur (auto-
+entrepreneur) se fait par l’intermédiaire de la plateforme - le client paye la plateforme qui ensuite reverse à l’utilisateur - et non directement par le client à
+l’utilisateur.
+Les transactions réalisées en France comme à l’étranger sont à prélever :
+•
+De manière générale, dès lors qu’un indépendant est affilié à un régime de sécurité sociale français, il doit cotiser sur l’ensemble de son chiffre d’affaires
+réalisé en France et/ou à l’étranger.
+•
+Ainsi, l’ensemble des transactions réalisées par l’intermédiaire de la plateforme sont soumises au prélèvement à la source des cotisations sociales, qu’elles
+soient réalisées en France ou à l’étranger, dès lors que l’Urssaf a confirmé que l’utilisateur était affilié en tant qu’auto-entrepreneur lors de la phase
+d’identification (ce qui implicitement signifie qu’il relève du régime de sécurité sociale français).
+Exception : Les transactions en espèces sont hors champ du prélèvement à la source.
+DÉCLENCHEUR ET CALCUL DU MONTANT DES COTISATIONS SOCIALES À PRÉLEVER
+Le déclencheur du prélèvement est le paiement à l’utilisateur (auto-entrepreneur) du montant de la ou des transactions réalisées (vente ou prestation),
+que ce paiement soit fait directement sur son compte bancaire ou sur un porte-monnaie électronique.
+Pour un paiement effectué un mois M :
+•
+Le taux de prélèvement à appliquer est celui transmis par l’Urssaf en M-1 au titre du mois M pour la nature d’activité correspondant à la transaction
+réalisée par l’utilisateur via la plateforme (cf. fiche pratique n°02 pour la notion de nature d’activité). Le taux de prélèvement comporte trois décimales.
+•
+La base de calcul du montant des cotisations sociales à prélever est le chiffre d’affaires hors taxes (cf. fiches pratiques n°03 et 04), arrondi aux centimes
+d’euro.
+Montant des cotisations sociales à prélever = [chiffre d’affaires hors taxes] x [taux de prélèvement], arrondi aux centimes d’euro.
+
+----- page 2 -----
+PRÉLÈVEMENT : GESTION DES CHANGEMENTS DE SITUATIONS
+En cas d’évolution du taux de prélèvement de l’auto-entrepreneur
+•
+Le taux de prélèvement à appliquer au titre du mois M peut évoluer après que l’Urssaf l’a transmis à la plateforme lors de la phase d’identification.
+•
+Dans cette situation, c’est l’Urssaf qui rectifiera automatiquement la situation de l’auto-entrepreneur à réception de la déclaration de la plateforme. La
+plateforme ne peut en aucun cas appliquer un taux autre que celui adressé par l’Urssaf lors de l’identification. C’est également l’Urssaf qui remboursera, le
+cas échéant, le « trop prélevé » directement à l’auto-entrepreneur.
+•
+Exemple :
+-
+Le 28 juin, l’Urssaf transmet à la plateforme un taux de prélèvement de 23,400% au titre du mois de juillet
+-
+Le 1er juillet, l’auto-entrepreneur fait sa demande d’exonération Acre à l’Urssaf à effet du 1er juin ➔le taux de prélèvement applicable au titre du mois de juillet est en fait de 14,100%
+-
+Le 4 août, la plateforme envoie la déclaration à l’Urssaf au titre du mois de juillet avec des cotisations sociales prélevées sur la base d’un taux à 23,400% ➔l’Urssaf recalcule
+automatiquement le montant des cotisations sociales du mois de juillet sur la base du chiffre d’affaires déclaré par la plateforme et du nouveau taux de 14,100%.
+-
+Les cotisations sociales de l’auto-entrepreneur sont revues à la baisse par l’Urssaf ➔le surplus de prélèvement est directement remboursé à l’auto-entrepreneur par l’Urssaf, si sa
+situation le permet (pas d’autre dette à l’Urssaf, ...)
+En cas de changement de statut de l’auto-entrepreneur
+•
+L’auto-entrepreneur peut changer de statut et ne plus relever plus du régime auto-entrepreneur à l’Urssaf : il sort de ce fait du champ du dispositif de
+prélèvement à la source.
+•
+Si ce changement a lieu après la phase d’identification, c’est l’Urssaf qui rectifiera automatiquement la situation de l’auto-entrepreneur à réception de
+la déclaration de la plateforme.
+•
+Exemple :
+-
+Le 28 décembre, l’Urssaf indique à la plateforme que l’utilisateur (auto-entrepreneur) est à prélever en janvier
+-
+Le 10 janvier, l’auto-entrepreneur demande à l’Urssaf de basculer au régime réel des travailleurs indépendants à effet du 1er janvier ➔il n’est donc plus affilié à l’Urssaf en tant qu’auto-
+entrepreneur pour le mois de janvier
+-
+Le 2 février, la plateforme envoie la déclaration à l’Urssaf au titre du mois de janvier ➔L’Urssaf détecte que l’utilisateur (anciennement auto-entrepreneur) n’aurait pas dû être prélevé pour ce
+mois-là : le prélèvement reversé à l’Urssaf par la plateforme est directement remboursé à l’utilisateur par l’Urssaf, si sa situation le permet (pas d’autre dette à l’Urssaf, ...)
+Pour les autres situations nécessitant une régularisation de la part de la plateforme (annulation d’une vente, erreur dans la déclaration transmise par la
+plateforme, ...), une procédure spécifique de régularisation est prévue ➔cf. fiche pratique n°08
+
+----- page 3 -----
+Prestation en mois M : Cours particulier ➔nature d’activité = « Prestation de service libérale »
+Montant de la prestation = 110 €, incluant 18,33€ de TVA
+Plus 5 € de frais de déplacement, incluant 0,83 € de TVA
+Dont commission prélevée à l’auto-entrepreneur par la plateforme sur la prestation réalisée = 15 €
+Chiffre d’affaires hors taxes = 95,84 €
+soit 110 (prestation) - 18,33 (part TVA) + 5 (frais déplacement) - 0,83 (part TVA)
+Taux de prélèvement communiqué par l’Urssaf = 25,800 %
+Montant des cotisations sociales à prélever = 95,84 € x 25,800 % = 24,726 arrondis à 24,73 €
+Montant du paiement à effectuer à l’auto-entrepreneur = 75,27 €
+soit 110 (prestation) + 5 (frais déplacement) - 15 (commission) - 24,73 (cotisations sociales)
+Déclaration à faire à l’Urssaf en M+1 :
+- Nature d’activité = Prestation de service libérale
+- Numéro de TVA = xx
+- Montant du chiffre d’affaires = 95,84 €
+- Indicateur TVA déduit du CA = 1 (Oui)
+- Montant des cotisations prélevées = 24,73 €
+CALCUL DU MONTANT DES COTISATIONS SOCIALES À PRÉLEVER : EXEMPLES
+EXEMPLE N°1
+Auto-entrepreneur
+redevable de la TVA
+(numéro de TVA = xx)
+Montant de TVA appliqué
+connu de la plateforme
+Commission plateforme
+appliquée à l’auto-
+entrepreneur
+Le client paye 115 € pour la prestation
+Déclaration
+Urssaf
+Calcul
+Prestation
+
+----- page 4 -----
+Prestation en mois M : Cours particulier ➔nature d’activité = « Prestation de service libérale »
+Montant de la prestation = 110 €, incluant de la TVA
+Plus 5 € de frais de déplacement, incluant de la TVA
+Commission prélevée au client par la plateforme sur la prestation réalisée = 15 €
+Chiffre d’affaires, incluant de la TVA = 115,00 €
+soit 110 (prestation) + 5 (frais déplacement)
+Taux de prélèvement communiqué par l’Urssaf = 25,800 %
+Montant des cotisations sociales à prélever = 115 € x 25,800 % = 29,67 €
+Montant du paiement à effectuer à l’auto-entrepreneur = 85,33 €
+soit 110 (prestation) + 5 (frais déplacement) - 29,67 (cotisations sociales)
+Déclaration à faire à l’Urssaf en M+1 :
+- Nature d’activité = Prestation de service libérale
+- Numéro de TVA = xx
+- Montant du chiffre d’affaires = 115,00 €
+- Indicateur TVA déduit du CA = 0 (Non)
+- Montant des cotisations prélevées = 29,67 €
+CALCUL DU MONTANT DES COTISATIONS SOCIALES À PRÉLEVER : EXEMPLES
+EXEMPLE N°2
+Auto-entrepreneur
+redevable de la TVA
+(numéro de TVA = xx)
+Montant de TVA appliqué
+non connu de la
+plateforme
+Commission plateforme
+appliquée au client
+Le client paye 130 €
+pour la prestation
+Déclaration
+Urssaf
+Calcul
+Prestation
+
+----- page 5 -----
+Première prestation en mois M : Cours particulier ➔nature d’activité = « Prestation de service libérale »
+Montant de la prestation = 120 € ➔Le client paye 120 € pour la prestation
+Dont commission prélevée à l’auto-entrepreneur par la plateforme sur la prestation réalisée = 10 €
+Chiffre d’affaires hors taxes = 120,00 €
+Taux de prélèvement communiqué par l’Urssaf = 25,800 %
+Montant des cotisations sociales à prélever = 120 € x 25,800 % = 30,96 €
+Montant du paiement à effectuer à l’auto-entrepreneur = 79,04 €
+soit 120 (prestation) - 10 (commission) - 30,96 (cotisations sociales)
+Deux déclarations à faire à l’Urssaf début M+1 :
+Déclaration 1 :
+Déclaration 2 :
+- Nature d’activité = Prestation de service libérale
+- Nature d’activité = Prestation de service artisanale ou commerciale
+- Montant du chiffre d’affaires = 120,00 €
+- Montant du chiffre d’affaires = 40,00 €
+- Montant des cotisations prélevées = 30,96 €
+- Montant des cotisations prélevées = 8,54 €
+- Numéro de TVA et Indicateur TVA déduit du CA →non renseigné - Numéro de TVA et Indicateur TVA déduit du CA →non renseigné
+CALCUL DU MONTANT DES COTISATIONS SOCIALES À PRÉLEVER : EXEMPLES
+EXEMPLE N°3
+Auto-entrepreneur non
+redevable de la TVA (pas
+de numéro de TVA
+déclaré)
+Il effectue deux types de
+prestation : cours
+particulier et babysitting
+Commission plateforme
+appliquée à l’auto-
+entrepreneur
+Deuxième prestation en mois M : Babysitting ➔nature d’activité = « Prestation de service artisanale ou commerciale »
+Montant de la prestation = 40 € ➔Le client paye 40 € pour la prestation
+Dont commission prélevée à l’auto-entrepreneur par la plateforme sur la prestation réalisée = 5 €
+Chiffre d’affaires hors taxes = 40,00 €
+Taux de prélèvement communiqué par l’Urssaf = 21,344 %
+Montant des cotisations sociales à prélever = 40 € x 21,344 % = 8,5376 arrondis à 8,54 €
+Montant du paiement à effectuer à l’auto-entrepreneur = 26,46 €
+soit 40 (prestation) - 5 (commission) - 8,54 (cotisations sociales)
+Prestation
+Déclaration
+Urssaf
+Calcul
+Prestation
+Calcul
+
+----- page 6 -----
+SIMULATION DU PRÉLÈVEMENT AU « FIL DE L’EAU »
+Transactions réalisées par l'utilisateur
+Calcul des cotisations sociales à prélever
+Date de la transaction
+Montant de la
+transaction
+[A]
+Transaction –
+Commission
+[B]
+Mois de
+paiement à
+l’utilisateur
+Base de calcul
+(chiffre d’affaires)
+[C]
+Taux à
+appliquer
+(1)
+[D]
+Montant à
+prélever
+[E] = [C] x [D]
+Montant du paiement à effectuer
+après prélèvement
+[F] = [B]- [E]
+Aucune transaction
+entre le 1er et le 20 avril
+- €
+- €
+avril
+Lun. 21 avril 2025
+10 €
+9 €
+avril
+Mar. 22 avril 2025
+- €
+- €
+avril
+Mer. 23 avril 2025
+30,00 €
+27,00 €
+avril
+Jeu. 24 avril 2025
+40,00 €
+36,00 €
+avril
+Ven. 25 avril 2025
+- €
+- €
+avril
+Sam. 26 avril 2025
+50,00 €
+45,00 €
+avril
+Dim. 27 avril 2025
+- €
+- €
+avril
+Lun. 28 avril 2025
+300,00 €
+270,00 €
+mai
+130,00 €
+10,900%
+13,08 €
+108,00 – 13,08 = 94,92 €
+Mar. 29 avril 2025
+400,00 €
+360,00 €
+mai
+Mer. 30 avril 2025
+500,00 €
+450,00 €
+mai
+Jeu. 01 mai 2025
+- €
+- €
+mai
+Ven. 02 mai 2025
+600,00 €
+540,00 €
+mai
+Sam. 03 mai 2025
+700,00 €
+630,00 €
+mai
+Dim. 04 mai 2025
+- €
+- €
+mai
+Lun. 05 mai 2025
+- €
+- €
+mai
+2 500,00 €
+21,544%
+538,60 €
+2 250,00 – 538,60 = 1 711,40 €
+Mar. 06 mai 2025
+- €
+- €
+mai
+Mer. 07 mai 2025
+- €
+- €
+mai
+Jeu. 08 mai 2025
+1 000,00 €
+990,00 €
+mai
+...
+...
+...
+...
+...
+...
+...
+...
+Taux à appliquer =
+celui d’avril
+(1) Pour un paiement
+réalisé en mois M, le
+taux à appliquer par
+la plateforme est
+celui transmis par
+l'Urssaf en M-1 au
+titre de ce mois M
+Jour du
+paiement
+Jour du
+paiement
+Avril
+Mai
+Taux à appliquer =
+celui de mai
+Illustration sur le cas d’un utilisateur (auto-entrepreneur) non redevable de la TVA travaillant avec une
+plateforme appliquant une commission de 10% et payant ses utilisateurs hebdomadairement le lundi
+29/04/2025 :
+Transmission par
+l’Urssaf d’un taux
+de 21,544 % pour
+le mois de mai
+28/03/2025 :
+Transmission par
+l’Urssaf d’un taux
+de 10,900 % pour
+le mois d’avril
+Paiement en
+avril ➔taux
+à appliquer =
+celui d’avril
+Paiement en
+mai ➔taux à
+appliquer =
+celui de mai

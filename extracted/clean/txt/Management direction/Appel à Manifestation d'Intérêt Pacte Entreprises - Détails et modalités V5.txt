@@ -1,0 +1,505 @@
+
+----- page 1 -----
+PROGRAMME CEE PACTE ENTREPRISES
+Appel à Manifestation d’Intérêt
+Structures relais
+TABLE DES MATIERES
+1.
+Contexte ............................................................................................................................. 1
+2.
+Le programme CEE PACTE Entreprises ........................................................................... 2
+3.
+Objet de l’Appel à Manifestation d’Intérêt .......................................................................... 3
+4.
+Critères d’éligibilité et de sélection..................................................................................... 6
+5.
+Financement et modalités d’aide ....................................................................................... 7
+6.
+Les modalités de réponses – Un appel à manifestation d’intérêt en deux phases........... 8
+7.
+Calendrier prévisionnel..................................................................................................... 10
+Annexes .................................................................................................................................... 10
+1. Contexte
+Le parc tertiaire et industriel représente 35% de la consommation d’énergie finale de la
+France1. Selon l’INSEE, les PME (dont les micro entreprises et TPE) représentent plus de
+90% des entreprises de ces secteurs et plus de 30% (industrie) et 50% (tertiaire) de leurs
+emplois. Les PME de ces deux secteurs constituent donc des cibles importantes pour la
+politique publique sur l’énergie et la réduction des émissions de GES.
+Les enquêtes2 et campagnes d’information auprès des PME sur la transition écologique
+montrent qu’elles :
+- perçoivent l’énergie comme le premier enjeu de leur transition écologique,
+- sont d’abord motivées par la réduction des coûts pour agir sur ce sujet,
+- ont besoin d’être informées et accompagnées pour agir,
+- trouvent les offres publiques de soutien sur la transition écologique peu lisibles et
+accessibles.
+L’ADEME soutient l’information et le conseil des PME sur la transition écologique
+principalement à travers des partenariats avec des structures proches des PME comme les
+1 https://www.statistiques.developpement-durable.gouv.fr
+2 https://librairie.ademe.fr/ged/7309/enquetepme_ademe_rapportfinal.pdf et https://www.ifop.com/wp-
+content/uploads/2024/03/Rapport.pdf
+
+----- page 2 -----
+organismes consulaires, les organisations professionnelles, Bpifrance et de nombreuses
+associations.
+Consciente de la multiplicité des offres, l’ADEME porte et soutient aussi les initiatives visant à
+rendre ces offres plus accessibles comme la plateforme « Mission transition écologique ».
+Les certificats d’économie d’énergie (CEE) sont un des leviers financiers de la transition
+écologique. Ils permettent de générer un soutien financier à la fois aux actions d’économie
+d’énergie et via des programmes qui les informent et les engagent dans ces actions. Parmi les
+programmes CEE à destination des entreprises, on peut citer :
+1) SARE3, un programme dont un volet est destiné à l’accompagnement à la rénovation
+énergétique des bâtiments du petit tertiaire privé (SARE - Service d’Accompagnement
+pour la Rénovation Energétique).
+2) Baisse les Watts4 qui accompagne les TPE/PME dans la maitrise de leur
+consommation d’énergie
+3) Pacte Industrie5 qui vise la transition énergétique et bas carbone des entreprises
+industrielles
+4) EVE6 qui vise la réduction des émissions de gaz à effet de serre dans le secteur du
+transport
+5) PGM territoriaux : SEIZE7, BUNGALOW8...
+Ces programmes confirment les besoins des PME mentionnés ci-dessus.
+Il est donc pertinent tant du point de vue des besoins des PME que des enjeux énergétiques
+de poursuivre les dynamiques construites. Le programme PACTE CEE Entreprises s’appuie
+sur ces expériences et ce terreau, pour poursuivre et amplifier ces actions et impacts.
+2. Le programme CEE PACTE Entreprises
+Le programme PACTE Entreprises vise à convaincre un grand nombre de PME d’engager des
+actions pour réduire leurs consommations d’énergie puis à les conseiller dans le choix et la
+réalisation de ces actions.
+Création du Programme : Arrêté publié9 au Journal Officiel le 31 décembre 2024
+Portage du programme : Le programme est porté au niveau national par l’ADEME.
+Cibles : Le programme est destiné aux PME au sens de la législation française10, et comprends
+les micro-entreprises (TPE). Les PME ciblées sont celles des secteurs du tertiaire privé et ou
+de l’industrie.
+Ambition : L’objectif du programme est de mobiliser et conseiller 40 000 entreprises et
+d’effectuer 10 000 diagnostics liés à l’efficacité énergétique
+Périmètre temporel : le programme se déploiera en 2025 jusqu’au 31 décembre 2028.
+3 https://www.ecologie.gouv.fr/politiques-publiques/sare-service-daccompagnement-renovation-
+energetique
+4 https://www.baisseleswatts.fr/
+5 https://pacte-industrie.ademe.fr/
+6 https://www.eve-transport-logistique.fr/
+7 https://seize-maitrise-energie.fr/
+8 https://www.cee-bungalow.fr/
+9 https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050872779
+10 https://www.insee.fr/fr/metadonnees/definition/c1962
+
+----- page 3 -----
+Périmètre technique : Les actions d’économies d’énergie visées concernent le bâtiment
+(isolation, chauffage et climatisation) et le process (procédés de transformation et utilités
+énergivores) de l’entreprise.
+Périmètre géographique : L’ensemble du territoire français sur lequel s’appliquent les
+Certificats d’Economie d’Energie.
+Le programme se déploie autour de deux axes :
+Axe 1 (objet du présent appel à manifestation d’intérêt) : mobiliser, informer, conseiller et
+accompagner à l’efficacité énergétique des entreprises
+-
+Mobiliser les entreprises sur le sujet de la transition énergétique
+-
+Informer et conseiller l’entreprise sur l’efficacité énergétique
+-
+Accompagner l’entreprise dans son projet d’économies d’énergie
+-
+Permettre à l’entreprise de suivre sa consommation énergétique
+Cet axe s’appuie notamment sur les résultats du programme CEE SARE, volet « Petit tertiaire
+Privé », expérimenté sur la période 2021 – 2024. Le service gratuit prodigué par un réseau de
+conseiller énergie présent sur les territoires consistait en une information de premier niveau
+en rénovation énergétique (B1) et à un conseil énergétique personnalisé avec visite in-situ
+(B2) pour les bâtiments d’une surface inférieure à 1000m2.
+Cet axe reprendra également les ressources numériques développées par le programme CEE
+Baisse les Watts : carnet de bord énergie et fiches actions.
+Axe 2 (ne fait pas l’objet de cet appel à manifestation d’intérêt) : proposer un catalogue de
+diagnostics de performance ou d’aides financières visant à élaborer un plan stratégique et
+opérationnel de transition énergétique :
+-
+Diagnostics opérés via BPI France : Perf’Immo ; Décarbon’action et Eco-Flux
+-
+Dispositifs opérés via l’ADEME : audit énergétique industriel, aide financière à la
+maîtrise d’œuvre pour des rénovations ambitieuses, méthode ACT pas à pas et ACT
+évaluation.
+3. Objet de l’Appel à Manifestation d’Intérêt
+Le présent Appel à Manifestation d’Intérêt concerne l’axe 1 du programme qui prévoit de
+mobiliser, informer, conseiller et accompagner les PME des secteurs privés tertiaire et
+industriel sur l’efficacité énergétique de leurs bâtiments et de leurs activités.
+L’objectif est de constituer un réseau de conseiller énergie territorial opéré par des structures
+relais de l’ADEME afin de proposer un guichet d’information, de conseil et d’accompagnement
+gratuit vers l’entreprise à toutes les étapes de son projet d’économies d’énergies.
+Même si une répartition des actions peut être réalisée par plusieurs structures en fonction des
+cibles d’entreprises (tertiaires, industrielles) et/ou des expertises techniques, la visée est
+d’avoir une porte d’entrée unique pour l’entreprise bénéficiaire.
+De ce fait en cas de dépôt de dossiers coordonnés, les structures sont invitées à détailler leur
+organisation et la coordination de leurs actions en phase de pré-dépôt de ce présent Appel à
+Manifestation d’Intérêt.
+Champs des missions attendues en réponse à cet Appel à Manifestation d’Intérêt
+Mission 1 : Mobiliser les entreprises
+
+----- page 4 -----
+Elle est le préalable à toute action d’information et de conseil.
+Elle vise à impulser une dynamique territoriale et/ou sectorielle qui aura pour vocation de
+renforcer l’information des entreprises et leur accompagnement dans un parcours de réduction
+de consommation d’énergie, en lien étroit avec les collectivités territoriales, les organisations
+professionnelles et les réseaux d’entreprises.
+Elle permet d’identifier le potentiel d’entreprises sur un territoire, leurs typologies et les moyens
+de les atteindre. Elle consiste à convaincre l'entreprise de l’opportunité d’agir sur ses
+consommations d’énergie à travers les offres proposées par le programme.
+Spécifiquement, la mission consiste à :
+-
+Identifier et mobiliser les relais entreprises privés, sectoriels et publics du territoire
+-
+Convaincre les entreprises cibles du territoire sur l’intérêt de s’engager dans un
+parcours d’économies d’énergies
+-
+Mettre en œuvre des actions territoriales pour faire connaître le service d’info/conseil
+à l’efficacité énergétique ainsi que les diagnostics du programme PACTE Entreprises
+-
+Participer aux événements territoriaux et professionnels pouvant mobiliser les
+entreprises cibles ou ses relais privés et publics
+-
+Utiliser divers canaux de communication et relayer la communication nationale ADEME
+Mission 2 : Réaliser des actions d’information individuelle auprès des PME cibles
+Il s’agit de répondre à la question que se pose l’entreprise tout en l’incitant à ouvrir une
+réflexion globale d’économie d’énergie par exemple en proposant un conseil personnalisé ou
+en l’orientant vers un diagnostic en fonction de son besoin.
+Spécifiquement, la mission consiste à :
+-
+Prodiguer une information, neutre, actualisée et gratuite, sur les thématiques
+techniques, financières et réglementaires liées à l’efficacité énergétique du bâti et des
+activités. Ceci afin de répondre aux interrogations des entreprises sur les solutions
+techniques, les aides financières, les réglementations existantes en les rendant
+accessibles et compréhensibles en fonction du niveau de connaissance et des besoins
+spécifiques des entreprises.
+-
+Qualifier le besoin de l’entreprise et l’orienter vers un conseil personnalisé, un
+diagnostic et/ou une aide financière du Programme Pacte Entreprises ou tout autre
+dispositif public ou dispositif financé par les CEE.
+La durée de cette action dépendra de la complexité de la demande d’information. A titre
+indicatif elle est estimée en moyenne à 30 minutes (pouvant aller de 5 à 60 minutes).
+Mission 3 : Réaliser un conseil personnalisé avec ou sans visite sur site et accompagner les
+entreprises aux différentes étapes de leur projet d'économies d’énergie
+-
+Apporter un conseil personnalisé sur RDV auprès des entreprises n’ayant pas besoin
+d’un état des lieux énergétique afin de soutenir l’entreprise dans la définition de son
+projet d’économies d’énergie et les solutions techniques et financières les plus
+adaptées. Par exemple il est attendu : appui à l’élaboration du plan de financement,
+appui technique aux principales actions d’économies d’énergie, analyse des devis en
+vue de l’obtention des CEE et identification de risques de fraudes.
+A titre indicatif le temps moyen cumulé est estimé à une 1⁄2 journée en moyenne.
+-
+Effectuer une visite énergétique in-situ visant à réaliser un premier état des lieux
+énergétique du bâti, des procédés, des équipements et des pratiques, à élaborer une
+
+----- page 5 -----
+liste de préconisations hiérarchisées de solutions d’efficacité & avec des ordres de
+grandeurs de gains et de coûts, à identifier les aides et/ou diagnostics appropriés. Un
+compte rendu ainsi qu’une restitution en physique ou par téléphone devront être
+réalisés.
+A titre indicatif le temps moyen estimé est de 1 à 2 jours en moyenne en fonction de
+la taille et de la complexité de l’entreprise (temps de transport, de rédaction du rapport
+de pré-diagnostic compris)
+-
+Le cas échéant effectuer un pré-diagnostic multi-flux (conforme au cahier des charges
+TPE gagnantes) visant à étendre la visite énergie aux autres flux (eau, déchets,
+matière) et à effectuer un suivi sur 12 mois. Seules les entreprises de moins de 20
+salariés pourront en bénéficier. Les structures relais ne possédant pas cette
+compétence pourront être accompagnées par l’ADEME via la formation en place
+(ECONRJ42).
+A titre indicatif le temps cumulé est estimé à 5 jours en moyenne.
+-
+Soutenir l’entreprise dans la réalisation de son projet d’économies d’énergies par la
+réalisation d’un conseil personnalisé, une information à la prise en main des
+équipements ou du local rénové, un suivi des consommations énergétiques (outil fourni
+par l’ADEME)
+La durée moyenne de cette action est variable et peut s’appuyer sur la durée moyenne
+d’un conseil personnalisé
+-
+Effectuer une relance des entreprises ayant réalisé une des actions citées
+précédemment mais n’ayant pas recontacté le conseiller énergie depuis plusieurs mois
+Mission support (indissociablement liée aux missions 1,2 et 3) : Reporting quantitatif et
+qualitatif
+-
+Assurer le reporting quantitatif des missions menées au sein de l’outil de reporting du
+Programme qui sera mis à disposition par l’ADEME. Les données à reporter seront
+précisées par l’ADEME et concerneront la typologie d’action, les informations du
+demandeur, bâtiment et projet)
+-
+Assurer un reporting qualitatif au sein d’un réseau local s’il existe ou au sein du réseau
+national qui sera piloté par l’ADEME dans le cadre du Programme
+-
+Être en lien avec le responsable régional de déploiement du Programme PACTE
+Entreprises de l’ADEME
+Il est estimé cette mission support à 20% du temps travaillé.
+Chaque mission peut être assurée par un acteur local spécifique selon son domaine
+d’intervention, sa zone géographique d’intervention, son domaine d’expertise et la typologie
+d’entreprises ciblées (en dehors des missions de reporting qui sont indissociables).
+L’intérêt manifesté par la structure peut reprendre la totalité des missions ou se décliner selon :
+-
+Le domaine d’intervention :
+-
+Mobiliser les entreprises (mission 1),
+-
+Réaliser des actions d’information individuelle auprès des PME cibles (mission 2)
+-
+Réaliser un conseil personnalisé avec ou sans visite sur site et accompagner les
+entreprises aux différentes étapes de leur projet d'économies d’énergie (mission3)
+-
+La zone géographique d’intervention
+-
+Locale (EPCI, Pays)
+-
+Départementale
+-
+Régionale
+
+----- page 6 -----
+-
+La typologie d’entreprises ciblées
+-
+Filière tertiaire
+-
+Filière industrielle
+-
+Domaine d’activité en particulier : artisanat, secteur industriel, commerce, médico-
+social...
+L’ADEME en sa qualité de porteur du Programme s’engage à assurer aux structures relais
+sélectionnées :
+-
+Un parcours de formation composé de modules liés à l’efficacité énergétique des
+bâtiments, des procédés et des flux, à connaître et convaincre la cible entreprise
+-
+Un outil numérique de reporting
+-
+Un outil numérique collaboratif
+-
+Un carnet de bord numérique énergie afin de permettre le suivi de la consommation
+énergétique des entreprises bénéficiaires
+4. Critères d’éligibilité et de sélection
+Cet AMI s’adresse à tout type de structures (personnes morales) en mesure de déployer une
+ou l’ensemble des missions exposées ci-avant.
+L’ADEME appréciera les dossiers coordonnés dans une logique de couverture régionale à
+départementale et d’efficience du service proposé. Ainsi, plusieurs structures peuvent se
+coordonner et présenter un projet commun en précisant l’articulation entre chacun des acteurs
+et la structure référente.
+En phase de pré-dépôt de réponse à l’Appel à Manifestation d’Intérêt, une attention particulière
+sera donnée à la présentation des structures, à la clarté du rôle et du périmètre d’intervention
+de chacune, et à la fluidité de l’information.
+Lors de cette phase, l’ADEME se réserve le droit d’être proactive sur la suggestion de
+rapprochement des acteurs lorsqu’elle en identifie la pertinence.
+Les résultats obtenus dans le cadre des missions de cet Appel à Manifestation d’Intérêt ne
+pourront en aucun cas être utilisés à des fins commerciales.
+4.1. Critères de sélection
+Les dossiers seront appréciés au regard de différents critères :
+-
+Cohérence du projet de mise en œuvre par rapport à la dynamique du territoire en
+matière d’efficacité énergétique et du tissu économique
+-
+Connaissances et expériences significatives :
+o Mission 1 : Mobilisation des entreprises TPE et PME
+-
+Confier la réalisation des missions à un ou des chargés de missions avec
+une expérience solide en animation et en relation entreprises et
+connaissance de la cible
+-
+Posséder un vivier de contacts d’entreprises ou un partenariat avec les
+relais locaux entreprises et des outils de communications opérationnels
+-
+Avoir la capacité d’identifier et d’adresser des cibles prioritaires en fonction
+de la spécificité du territoire
+-
+Justifier d’une bonne connaissance et intégration dans l’écosystème
+territoriale économique
+o Mission 2 et 3 : Information, conseil personnalisé et accompagnement au projet
+d’économies d’énergie
+-
+Confier la réalisation des missions à un ou des chargés de missions de
+niveau BAC+2 et pouvant justifier de compétences dans le domaine
+thermique, des flux et des process ainsi que dans le domaine des aides
+
+----- page 7 -----
+financières à la rénovation énergétique. Pour la cible tertiaire, les
+formations ADEME du Programme SARE Petit Tertiaire Privé et de TPE
+Gagnantes sont acceptées comme un prérequis. Pour la cible industrielle,
+il est demandé de préciser des expériences préalables en la matière.
+-
+La mobilisation des moyens humains dédiés, en cohérence avec les objectifs fixés
+-
+La mise en place d’une démarche de suivi des actions et d’évaluation des animations
+-
+La cohérence et la solidité du budget prévisionnel et du plan de financement
+-
+L’adéquation objectifs/moyens proposée par la/les structure(s)
+Pour les structures bénéficiant déjà d’une aide financière de l’ADEME via un contrat de
+financement, l’ADEME analysera la complémentarité de la candidature au présent AMI par
+rapport aux actions qui sont déjà financées via un contrat de financement préexistant.
+5. Financement et modalités d’aide
+5.1. Dépenses éligibles et modalités de l’aide financière
+L’aide de l’ADEME s’inscrit dans le cadre de son système d’aides au changement de
+comportement11 et de ses règles générales d’attribution des aides12 .
+Sont éligibles les dépenses relatives par dossier :
+1. Le forfait à l’ETPT couvre les charges salariales du chargé de mission, ainsi que les
+charges inhérentes au fonctionnement de la structure porteuse du ou des chargé(s)
+de mission :
+-
+Aide forfaitaire maximale de 40 000 € par an par ETPT. Ce forfait est constitué
+de la manière suivante :
+▪
+Une part fixe : 50 % x forfait à l’ETPT x nb d’ETP justifiés
+▪
+Une part variable dont le versement est conditionné à l'atteinte d’un
+taux moyen d’atteinte des objectifs x 50 % x forfait à l’ETPT x nb d’ETP
+justifiés. Cette part variable n’est versée que si le taux d’atteinte de
+chaque objectif de chacune des actions est >= à 50%. Le taux moyen
+d’atteinte des objectifs est la moyenne pondérée des taux d’atteinte
+d’objectif de chaque action du programme aidé. Ces objectifs seront
+fixés entre l’ADEME et la structure relais sélectionnée au regard des
+objectifs nationaux du programme à atteindre et du tissu économique
+local.
+-
+Chaque contrat doit dédier au minimum un poste complet (équivalent un ETPT)
+par an aux missions du Programme PACTE Entreprises. Il pourra être étudié de
+descendre en dessous de ce minimum à titre dérogatoire et exceptionnel après
+analyse et validation de la pertinence par l’ADEME.
+-
+Le forfait à l’ETPT sera bonifié au maximum de 15% pour les relais agissant
+dans les DROM en application de la bonification "vie chère" des salaires
+2. Une aide maximale de 100% des dépenses éligibles plafonnée à 1 500 euros par
+création de poste pourra être attribuée la 1ère année de mise en place du chargé de
+mission pour l’équipement nécessaire à l’exercice de son activité.
+3. Aux dépenses externes de communication, de formation et d’animation liées au
+programme d’action des relais, une aide maximale de 100% des dépenses éligibles
+plafonnée à 20 000€ par an.
+11 https://www.ademe.fr/wp-content/uploads/2025/04/2025-04-11-deliberation-changement-de-
+comportement.pdf
+12 https://www.ademe.fr/wp-content/uploads/2024/12/2025-regles-generales-attribution-aides-
+ademe.pdf
+
+----- page 8 -----
+Ne sont pas éligibles les dépenses suivantes :
+•
+Dépenses supportées par les structures morales qui ne rentrent pas dans le cadre de leurs
+activités d’intérêt général non économiques
+•
+Dépenses de personnel titulaire de la fonction publique de l’État ou des collectivités
+Durée de la contractualisation : la durée de la contractualisation entre la structure relais et
+l’ADEME sera de préférence de 3 ans. En cas de nécessité, l’ADEME pourra proposer des
+contrats d’une durée inférieure.
+5.2. Modalités de cofinancement
+Les candidats sont par ailleurs encouragés à rechercher d’autres financeurs publics potentiels
+afin de compléter les dépenses liées aux ETPT notamment sans pour autant pouvoir dépasser
+la dépense subventionnable.
+5.3. Modalités de révision
+En cas de modification organisationnelle de la structure candidate au cours de la durée de la
+convention de financement, les modalités de la convention pourraient être revue.
+La structure bénéficiaire a l’obligation de porter à la connaissance de l’ADEME ces
+modifications. Celle-ci se réserve le droit de prendre les décisions liées aux modifications
+comme indiqué dans les Règles générales d’attribution des aides précitées.
+6. Les modalités de réponses – Un appel à manifestation d’intérêt
+en deux phases
+L’AMI est organisé en 2 phases.
+Phase de pré-dépôt :
+La ou les structures soumettent à l’ADEME une note de projet de mise en œuvre décrite ci-
+dessous via la plateforme AGIR.
+L’ADEME instruit les dossiers reçus en phase de pré-dépôt au fil de l’eau et auditionne les
+porteurs d’intérêt retenus.
+Phase de dépôt :
+L’ADEME notifie les structures sélectionnées l’autorisation de déposer un dossier complet de
+demande d’aide financière.
+6.1. Phase de pré-dépôt - Présentation du projet de mise en œuvre
+La/les structure/s soumet/tent une note de projet de mise en œuvre d’un maximum de 5 pages
+pour les réponses individuelles et 10 pages pour les réponses coordonnées. La note sera
+composée des éléments listés ci-dessous et transmise via la plateforme AGIR. Une suggestion
+de trame est proposée en ANNEXE 1.
+Eléments à inclure dans la note :
+➢ Présentation de la structure ou des structures en cas de candidature coordonnée
+
+----- page 9 -----
+➢ Une note de compréhension du territoire en vue d’établir une stratégie d’intervention
+respectant le contexte et les spécificités du territoire et des PME ciblées. Ainsi seront
+présentés :
+o La dynamique territoriale sur la rénovation et l’efficacité énergétique à
+destination des entreprises cibles du territoire
+o Une analyse des forces et faiblesses du territoires et des entreprises ciblées
+o L’identification des enjeux et une proposition de cibles prioritaires à mobiliser
+(par exemple : domaine d’activité, filière et/ou géographique)
+ Pour la mission 1 :
+o Préciser le nombre d’entreprises déjà contenus en carnet d’adresse ou via une
+convention territoriale avec un EPCI par exemple), en indiquant leurs profils
+(activité, taille des effectifs) et le niveau de relation (à contacter, contact régulier,
+demandes entrantes, etc.)
+o Préciser les partenariats déjà actifs qui seraient utiles à la mobilisation des
+entreprises sur le territoire
+ Pour les missions 2 et 3 :
+o Préciser les actions déjà menées, les expertises mobilisées et les typologies
+d’entreprises ciblées
+ Une présentation des moyens humains envisagés :
+o L’identification précise des personnes qui seront positionnées sur les
+différentes missions si elles sont en poste (l’ADEME portera une attention
+particulière aux dépenses déjà aidées par l’ADEME)
+o Si les personnes ne sont pas encore recrutées, le candidat donnera la
+description la plus précise possible du type de profil pressenti et transmettra en
+temps voulu la fiche de poste en vue du recrutement (Cf 5.2)
+o Dans le cas de candidature coordonnée, une note d’organisation sur les rôles
+et les missions de chaque structure sera réalisée
+➢ Un budget prévisionnel
+➢ Des objectifs prévisionnels par mission
+6.2. Phase de dépôt – Dépôt d’un dossier complet de demande d’aide
+Les structures sélectionnées en phase de pré-dépôt seront invitées à déposer un dossier
+complet de demande d’aide.
+Ce dossier comportera un volet technique et financier en complément du formulaire de
+saisie des informations sur l’espace dédié :
+ Un Volet technique
+Un programme d’actions détaillé – une trame de volet technique sera fournie et
+téléchargeable sur Agir au moment du dépôt. Celui-ci se base sur le projet de mise en
+œuvre. Il définit des objectifs et des indicateurs de suivi pour chacune des missions
+définies en point 3.
+ Un Volet financier
+Tableau prévisionnel des dépenses et le plan de financement prévisionnel associé.
+Un modèle sera fourni par l’ADEME aux structures présélectionnées .
+ Un Volet administratif
+Une trame de volet administratif ainsi que la liste des documents administratifs à fournir
+sera fournie et téléchargeable sur Agir au moment du dépôt.
+
+----- page 10 -----
+7. Calendrier prévisionnel
+8. Dépôt du dossier de réponse à l’AMI et contact
+Les éléments de la phase de pré-dépôt et de dépôt sont à transmettre via la plateforme AGIR.
+www.agirpourlatransition.ademe.fr
+Pour toutes informations complémentaires vous pouvez contacter l’équipe projet à l’adresse :
+pacte.entreprises@ademe.fr
+Annexes
+ANNEXE 1 – Trame note de projet de mise en œuvre (Phase de pré-
+dépôt)
+Eléments clés
+Mai 2025
+Ouverture et sélection au fil de l'eau
+Jusqu'au 15 septembre 2025 (réouverture partielle jusqu'au 15 novembre)
+Phase de pré-dépôt - réception des projets de mise en oeuvre
+Sélection au fil de l'eau des solutions territorialement cohérentes
+Pour les structures sélectionnées et jusqu'au 15 novembre 2025
+Phase de dépôt - Dépôt d’un dossier complet de demande d’aide
+
+----- page 11 -----
+Raison(s) sociale(s)
+Zone(s) géographique(s) couverte(s) - niveau minimal : EPCI
+Blocs d’actions mobilisés
+Durée de contractualisation demandée
+1. Synthèse du projet de mise en œuvre
+Résumer le projet
+2. Description de la structure ou des structures
+Description sommaire de l’activité de la ou des structures
+Antériorité de la / des structures sur l’animation et/ou l’accompagnement des entreprises à
+l’efficacité énergétique
+3. Description de la vision stratégique territoriale
+Une brève description du contexte territorial et de la dynamique sur la rénovation et l’efficacité
+énergétique à destination des TPE/PME du territoire
+Une analyse des forces et faiblesses du territoires et des PME à cibler
+L’identification des enjeux et éventuellement de cibles prioritaires à mobiliser (par, par exemple
+: domaine d’activité, filière et/ou géographique)
+4. Présentation du projet de mise en œuvre (coordonné ou non)
+Décrire ici le projet de mise en œuvre en explicitant la zone géographie précise, le ou les blocs
+d’actions et les missions qui seraient réalisées. Si le projet adresse une cible ou une expertise
+en particulier, le préciser.
+Indiquer les objectifs prévisionnels.
+Indiquer les personnes qui réaliseraient les actions et leur profil.
+En cas de projet coordonné, indiquer les périmètres géographiques et techniques de chaque
+structure et préciser les articulations entre les structures.
+5. Budget prévisionnel sommaire
+Lister les principaux postes de dépenses éligibles

@@ -1,0 +1,1820 @@
+
+----- page 1 -----
+GUIDE
+DU DÉCLARANT
+DES COTISATIONS
+DE LA CRPCEN
+Connaître les cotisations
+Déclarer en DSN
+Version 14–Janvier 2026
+
+----- page 2 -----
+Contexte et enjeux
+Contexte et enjeux
+Cotisation maladie (dont apprentis ayant une
+rémunération supérieure à 79% du SMIC)
+Cotisations maladie et vieillesse (apprentis ayant une
+rémunération inférieure ou égale à 79% du Smic)
+L'assujettissement
+Le calcul des cotisations vieillesse et maladie
+L'assujettissement
+Le calcul de la contribution
+L'assujettissement
+Le calcul de la cotisation
+L’assujettissement
+Le calcul de la déduction
+Réduction Générale Dégressive Unique RGDU
+Complément maladie
+Contribution solidarité autonomie
+L'assujettissement
+Le calcul de la cotisation maladie
+L'assujettissement
+Le calcul de la cotisation vieillesse
+Cotisation vieillesse (dont apprentis ayant une
+rémunération supérieure à 79% du SMIC)
+
+----- page 3 -----
+En savoir plus...
+Synthèse
+Régularisations en DSN
+L'assujettissement
+Le calcul des cotisations vieillesse et maladie
+40 L'assujettissement
+Le calcul de la cotisation
+L'assujettissement
+Le calcul de la cotisation
+L'assujettissement
+32 Le calcul de la déduction
+Salariés non-résidents
+Stagiaires de la formation professionnelle
+Fonctionnaires détachés
+46 Les cotisations
+50 Rappel sur la déclaration de la CSG/CRDS
+50 Les modalités déclaratives et de versement
+59 Rôle de l’Urssaf
+60 Rôle de la CRPCEN
+61 Référentiels et annexes réglementaires
+62 Toutes les informations sur le transfert des cotisations CRPCEN
+63 Toutes les informations sur la déclaration en DSN
+64 Glossaire
+Les régularisations en DSN avant et après le 01/01/2023
+Déduction zone franche urbaine (ZFU)
+L'assujettissement
+Le calcul de la déduction et de l'exonération
+Déduction patronale et exonération salariale sur heures
+supplémentaires et rachat de jours de RTT
+
+----- page 4 -----
+Les employeurs du notariat participent
+au financement du régime géré par la
+Caisse de retraite et de prévoyance des
+clercs
+et
+employés
+de
+notaires
+(CRPCEN)
+par
+les
+cotisations
+suivantes :
+-
+Cotisations sur salaires pour les
+risques maladie, maternité,
+invalidité, décès et vieillesse ;
+-
+Cotisations sur émoluments et
+honoraires.
+La loi n° 2019-1446 du 24 décembre
+2019 de financement de la sécurité
+sociale pour 2020 a transféré le
+recouvrement
+et
+le
+contrôle
+des
+cotisations sur salaires aux Urssaf
+depuis le 1er janvier 2023.
+Les cotisations sur émoluments et
+honoraires
+restent
+recouvrées
+et
+contrôlées par la CRPCEN.
+Cette évolution comporte plusieurs
+avantages pour les employeurs et en
+particulier :
+- une plus grande simplicité et lisibilité
+dans le dépôt de la déclaration et le
+paiement de la cotisation ;
+- un
+interlocuteur
+unique
+pour
+le
+recouvrement des cotisations sur
+salaires
+et
+le
+traitement
+des
+demandes : l’Urssaf.
+Ce guide vous accompagne dans
+vos démarches auprès de l’Urssaf.
+Bonne lecture !
+
+----- page 5 -----
+CONTEXTE ET ENJEUX
+
+----- page 6 -----
+L’article 18 de la loi n°2019-1446 du 24 décembre 2019 de financement de la
+sécurité sociale pour 2020 a transféré au 1er janvier 2023 le recouvrement par les
+Urssaf des cotisations sur salaires de la CRPCEN.
+Les cotisations et contributions concernées par le transfert sont les suivantes :
+-
+Cotisations sur salaires maladie et vieillesse ;
+-
+Contribution de solidarité autonomie (CSA).
+La CRPCEN conserve les actes de gestion afférents au recouvrement de ses
+cotisations sur salaires pour les périodes antérieures à 2023.
+Elle conserve également le recouvrement et le contrôle des cotisations sur
+émoluments et honoraires instituée par l’article 3 § 2 de la loi du 12 juillet 1937.
+La CRPCEN est compétente uniquement pour les employeurs de France
+métropolitaine. Les employeurs des départements d’outre-mer ne sont pas affiliés
+à la CRPCEN.
+Ce transfert du recouvrement aux Urssaf s’accompagne des évolutions
+réglementaires suivantes :
+
+Alignement de l’assiette des cotisations CRPCEN sur celle du
+régime général
+L’article 3 de la loi du 12 juillet 1937 fait désormais référence à l’article L 242-1 du
+code de la Sécurité sociale pour définir l’assiette des cotisations.
+
+Alignement des dates d’exigibilité des cotisations (versement)
+Les dates de versement des cotisations et de dépôt DSN sont alignées sur celles
+du droit commun conformément à l’article R. 243-6 du code de la sécurité sociale.
+Cet alignement des dates d’exigibilité et dates de dépôt de la DSN permet de
+proposer le paiement des cotisations par prélèvement SEPA, qui n’était
+techniquement pas possible avant le transfert.
+Contexte et enjeux
+
+----- page 7 -----
+
+Alignement du système déclaratif dérogatoire d’Alsace et de
+Moselle
+L’article 125 alinéa 2 du décret du 20 décembre 1990 prévoit que les cotisations
+d’Alsace et de Moselle sont réglées le 5 de chaque trimestre. La formalité de dépôt
+de la DSN est quant à elle alignée sur les dates de dépôt de droit commun.
+À compter du 1er janvier 2023, la date d’exigibilité des cotisations est alignée sur
+l’article R.243-6 du code de la sécurité sociale, ce qui se traduit par un règlement
+chaque mois (le 5 ou le 15) et non chaque trimestre. De ce fait, il y aura alignement
+avec la date de dépôt des DSN.
+En outre, la loi n° 2023-270 du 14 avril 2023 de financement rectificative de
+la sécurité sociale pour 2023 procède à la fermeture du régime retraite
+CRPCEN pour les nouveaux embauchés au 1er septembre 2023.
+Le régime vieillesse de la CRPCEN est fermé à tous les clercs et employés de
+notaire embauchés, au sein d’un office notarial (ou un organisme assimilé), à partir
+du 1er septembre 2023, à l’exception des salariés affiliés à la CRPCEN avant cette
+date qui remplissent sans interruption à compter de cette date les conditions
+d’affiliation à la caisse (article 1er de la loi du 12 juillet 1937 modifié par la loi n°
+2023 -270 du 14 avril 2023).
+Les salariés qui ne peuvent ainsi pas ou plus bénéficier du régime de vieillesse de
+la CRPCEN sont affiliés aux régimes vieillesse de la Cnav pour la retraite de base
+du régime général et Agirc-Arrco pour la retraite complémentaire.
+Cette mesure de fermeture impose la création d’une nouvelle catégorie de salariés
+affiliés pour la vieillesse au régime général et à l’Agirc-Arrco tout en conservant
+l’ensemble des autres affiliations spécifiques des offices notariaux (maladie,
+maternité/paternité, invalidité et décès).
+
+----- page 8 -----
+.
+COTISATION
+MALADIE
+
+----- page 9 -----
+Quels établissements et entreprises sont redevables
+de la cotisation maladie ?
+Les offices notariaux et les organismes assimilés de France métropolitaine sont
+redevables de la cotisation maladie au titre des salariés qu’ils embauchent, ainsi
+que pour les apprentis pour lesquels la part de rémunération excède 79% du
+SMIC.
+Quels salariés sont concernés par la cotisation maladie?
+Selon l’art. 2 du décret n°90-1215 du 20 décembre 1990, sont affiliés à la CRPCEN
+les clercs et employés des études notariales et organismes mentionnés à l'article
+1er de la loi du 12 juillet 1937 qui exercent leurs fonctions à titre principal.
+Sont considérés comme exerçant leurs fonctions à titre principal les clercs et
+employés dont la durée hebdomadaire de travail est au moins égale à la moitié de
+la durée légale du travail et supérieure à celle de tout autre emploi exercé ; à
+égalité de durée, est considérée comme profession principale celle qui procure le
+revenu le plus élevé.
+L’assujettissement à la cotisation
+
+----- page 10 -----
+Comment l'assiette est-elle déterminée ?
+L’assiette
+de
+la
+cotisation
+est
+définie
+par
+l’article
+L. 242-1 du code de la sécurité sociale.
+L’alignement de l’assiette des cotisations CRPCEN sur l’assiette de droit commun
+fixée à l’article L 242-1 implique la suppression de la pratique d’inclusion des
+indemnités journalières qui était en vigueur avant le 1er janvier 2023.
+En effet, jusqu’ à cette date, il était donné à l’employeur du notariat un droit d’option
+qui permettait d’inclure dans l’assiette CRPCEN les indemnités journalières. Cette
+modalité bénéficiait au salarié pour améliorer le calcul de la pension vieillesse ou
+des prestations en espèces d’assurance maladie.
+Or l’article L 242-1 du CSS qui définit l’assiette des cotisations des revenus
+d’activité exclut de cette l’assiette les revenus de remplacement. Ces deniers sont
+régis par des dispositions propres qui les assujettissent à des prélèvements non
+contributifs.
+En vertu des nouvelles règles d’assiette, il n’est donc plus possible de soumettre
+à cotisations CRPCEN les revenus de remplacement que sont les indemnités
+journalières.
+Comment le taux est-il déterminé ?
+Le taux de la cotisation maladie est prévu par l’art. 4 du décret n°91-613 du 28 juin
+1991 fixant les taux des cotisations de divers régimes spéciaux de sécurité sociale.
+Ce texte fait un renvoi à l’art. D 242-3 du code de la Sécurité sociale.
+Pour l’Alsace Moselle, le montant à déclarer par les études et organismes
+assimilés est déterminé par un différentiel de cotisations. Ce différentiel est calculé
+entre les cotisations vieillesse CRPCEN devant être versées au titre du régime
+hors Alsace-Moselle et les cotisations vieillesse (assiettes plafonnée et
+déplafonnée) acquittées pour le régime général.
+La cotisation maladie ainsi que les réductions de cotisations n’entrent pas dans le
+calcul de la cotisation différentielle.
+Le calcul de la cotisation maladie
+
+----- page 11 -----
+.
+COTISATION
+VIEILLESSE
+
+----- page 12 -----
+Quels établissements et entreprises sont redevables
+de la cotisation vieillesse ?
+Les offices notariaux et les organismes assimilés de France métropolitaine sont
+redevables de la cotisation vieillesse au titre des salariés qu’ils embauchent ainsi
+que pour les apprentis pour lesquels la part de rémunération excède 79% du
+SMIC.
+Quels salariés sont concernés par la cotisation vieillesse ?
+Selon l’art. 2 du décret n°90-1215 du 20 décembre 1990, sont affiliés à la CRPCEN
+au titre du risque vieillesse, les assurés qui remplissent, sans aucune interruption
+à compter de cette date, les conditions d’affiliation à ce régime.
+Toutefois, conformément à la loi n° 2023-270 du 14 avril 2023 de financement
+rectificative de la sécurité sociale pour 2023, le régime de retraite de la CRPCEN
+est fermé pour les nouveaux embauchés au 1er septembre 2023.
+Les salariés qui ne peuvent ainsi pas ou plus bénéficier du régime de vieillesse de
+la CRPCEN sont affiliés aux régimes vieillesse de la Cnav pour la retraite de base
+du régime général et Agirc-Arrco pour la retraite complémentaire.
+A compter du 1er septembre 2023, les assurés de la CRPCEN peuvent bénéficier
+du dispositif de retraite progressive.
+Cette possibilité, qui est déjà prévue au sein du régime général, est étendue aux
+régimes spéciaux dont la CRPCEN (art. L161- 22-1-5 CSS issu de l’article 26 de
+la loi n° 2023-270 du 14 avril 2023 de financement rectificative de la sécurité
+sociale pour 2023).
+Ce mécanisme est ouvert aux personnes ayant atteint un âge minimal compris
+entre 60 et 62 ans, selon leur date de de naissance. Il leur permet de réduire leur
+activité et de bénéficier d’une fraction de leur retraite. Le salaire à temps partiel
+est soumis à cotisations vieillesse. L’employeur et le salarié peuvent alors faire le
+choix de cotiser sur un temps plein afin d’améliorer le calcul de la retraite définitive.
+Cette modalité déclarative sera ouverte en DSN à compter du 1er janvier 2024.
+L’assujettissement à la cotisation
+
+----- page 13 -----
+Comment l'assiette est-elle déterminée ?
+L’assiette est identique à celle de la cotisation maladie.
+Comment le taux est-il déterminé ?
+Les taux des parts patronale et salariale de la cotisation vieillesse sont définis à
+l’art. 4 du décret n°91-613 du 28 juin 1991 fixant les taux des cotisations de divers
+régimes spéciaux de sécurité sociale.
+Pour l’Alsace Moselle, le montant à déclarer par les études et organismes
+assimilés est déterminé par un différentiel de cotisations. Ce différentiel est calculé
+entre les cotisations vieillesse CRPCEN devant être versées au titre du régime
+hors Alsace-Moselle et les cotisations vieillesse (assiettes plafonnée et
+déplafonnée) acquittées pour le régime général.
+La cotisation maladie ainsi que les réductions de cotisations n’entrent pas dans le
+calcul de la cotisation différentielle.
+Ce calcul différentiel est applicable aux seuls salariés affiliés avant le 1er
+septembre 2023.
+Pour les salariés affiliés à compter du 1er septembre 2023, aucune cotisation
+vieillesse n’est à verser à la CRPCEN.
+Le calcul de la cotisation vieillesse
+
+----- page 14 -----
+COTISATIONS
+MALADIE ET
+VIEILLESSE
+(APPRENTIS
+AYANT UNE
+RÉMUNÉRATION
+INFÉRIEURE OU ÉGALE À
+79% DU SMIC)
+
+----- page 15 -----
+Quels établissements et entreprises sont redevables
+de la cotisation maladie et vieillesse ?
+Les offices notariaux ainsi que les organismes assimilés de France métropolitaine
+qui embauchent des apprentis dont le contrat a débuté avant le 1er septembre
+2023 sont redevables de cotisations maladie et vieillesse. Ces employeurs
+bénéficient d’une exonération de la part salariale des cotisations salariales
+vieillesse pour la partie de la rémunération inférieure ou égale à 79% du Smic
+selon les articles L. 6243-2 et D. 6243-5 du code du travail.
+Les offices notariaux ainsi que les organismes assimilés de France métropolitaine
+qui embauchent des apprentis dont le contrat débute à compter du 1er septembre
+2023, ne sont redevables que de la seule cotisation maladie CRPCEN. Le risque
+vieillesse est assuré par la Cnav pour le régime général et l’Agirc-Arrco pour le
+régime de retraite complémentaire.
+L’assujettissement aux cotisations vieillesse et
+maladie
+
+----- page 16 -----
+Comment l'assiette est-elle déterminée ?
+L’assiette des cotisations des apprentis est définie par l’article L. 242-1 du code
+de la sécurité sociale.
+Comment les taux sont-ils déterminés ?
+Le taux des parts patronales maladie et vieillesse est déterminé par l’article 4 du
+décret du 28 juin 1991 et sont consultables sur le site urssaf.fr et crpcen.fr
+Pour l’Alsace Moselle, le montant à déclarer par les études et organismes
+assimilés est déterminé par un différentiel de cotisations. Ce différentiel est calculé
+entre les cotisations vieillesse CRPCEN devant être versées au titre du régime
+hors Alsace-Moselle et les cotisations retraite (assiettes plafonnée et déplafonnée)
+acquittées pour le régime général.
+La cotisation maladie ainsi que les réductions de cotisations ne sont pas
+concernées par ce calcul.
+Ce calcul différentiel est applicable aux seuls apprentis affiliés avant le 1er
+septembre 2023.
+Pour les apprentis affiliés à compter du 1er septembre 2023, aucune cotisation
+vieillesse n’est à verser à la CRPCEN.
+Des fiches consignes sont à votre disposition sur www.net-entreprises.fr afin de
+détailler les consignes déclaratives pour le cas général et le cas des apprentis
+hors Alsace-Moselle et d’Alsace-Moselle.
+Bon à savoir
+Le calcul des cotisations vieillesse et maladie
+
+----- page 17 -----
+CONTRIBUTION
+SOLIDARITÉ AUTONOMIE
+
+----- page 18 -----
+Quels établissements et entreprises sont
+redevables de la contribution solidarité autonomie
+(CSA) ?
+La contribution solidarité autonomie (CSA) est due par l’ensemble des employeurs
+redevables d’une cotisation patronale d’assurance maladie destinée au
+financement d’un régime français de base de l’assurance maladie.
+Elle est destinée au financement de la Caisse nationale de solidarité pour
+l’autonomie, conformément à l’article L. 14-10-4 1° du code de l’action sociale et
+des
+familles
+ainsi
+que
+l’article
+L.
+3133-7
+du
+code
+du travail.
+Ainsi, les employeurs redevables de la cotisation maladie de la CRPCEN sont
+assujettis à cette contribution.
+L’assujettissement à la contribution
+
+----- page 19 -----
+Comment l'assiette est-elle déterminée ?
+Cette contribution est assise sur la même assiette que la cotisation d’assurance
+maladie.
+Comment le taux est-il déterminé ?
+Le taux de la CSA est déterminé par l’article L. 137-40 du code de la sécurité
+sociale.
+Le taux de la CSA est consultable sur le site urssaf.fr et crpcen.fr.
+Le calcul de la contribution
+
+----- page 20 -----
+COMPLÉMENT
+MALADIE
+
+----- page 21 -----
+Quels établissements et entreprises sont redevables du
+complément maladie ?
+Le complément de cotisation maladie est dû par tous les employeurs du notariat.
+Il est applicable à tous les salaires qui excédent le seuil de 2,25 Smic annuel à
+compter du 1er janvier 2025.
+L’éligibilité à la CRPCEN de la réduction générale dégressive unique (RGDU)
+prévue par l’’art. L 241-13 du code de la Sécurité social implique l’application du
+taux plein d’assurance maladie.
+Seuls les salariés bénéficiant d’exonération dégressives spécifiques telles que le
+dispositif ZFU continuent de bénéficier quant à eux du taux réduit de cotisation
+maladie.
+L’assujettissement au complément maladie
+
+----- page 22 -----
+Comment l'assiette est-elle déterminée ?
+Cette
+cotisation
+est
+assise
+sur
+l’assiette
+définie
+par
+l’article
+L. 242-1 du code de la sécurité sociale.
+Comment le taux est-il déterminé ?
+Le complément de cotisation maladie est à déclarer pour les rémunérations
+supérieures à 2,25 Smic annuel selon les dispositions combinées des articles
+L241-2-1 et D 243-3 du code de la Sécurité sociale à compter du 1er janvier 2025.
+Le taux du complément maladie est consultable sur le site urssaf.fr et crpcen.fr.
+Le calcul du complément
+
+----- page 23 -----
+RÉDUCTION
+GÉNÉRALE
+DEGRESSIVE
+UNIQUE (RGDU)
+
+----- page 24 -----
+Quels établissements et entreprises bénéficient de la
+réduction générale dégressive unique (RGDU) ?
+La RGDU est calculée sur une base annuelle et prend en compte les heures
+supplémentaires et complémentaires selon l’article L. 241-13 du code de la
+sécurité sociale :
+-
+La rémunération des heures supplémentaires et complémentaires
+(majorations incluses) est intégrée dans la rémunération à prendre en
+compte pour le calcul du coefficient de la réduction.
+-
+Le paramètre du Smic calculé pour un an sur la base de la durée légale
+du travail est augmenté, le cas échéant, du nombre d’heures
+complémentaires ou supplémentaires, sans prise en compte des
+majorations auxquelles elles donnent lieu.
+L’assujettissement à la réduction
+
+----- page 25 -----
+La RGDU s’applique aux revenus d’activité majorés, le cas échéant,
+des primes de partage de la valeur (PPV), qui sont inférieurs à
+3 Smic
+Le montant est déterminé par les articles D 241-7, D. 711-7, D. 711-9 et L. 241-13
+du code de la sécurité sociale ainsi que dans le BOSS.
+En 2026, la réduction générale dégressive (RGD) et les réductions des taux des
+cotisations d’assurance maladie et d’allocations familiales fusionnent au bénéfice
+d’une réduction générale dégressive unique (RGDU).
+La RGDU s’applique aux revenus d’activité majorés, le cas échéant, des primes
+de partage de la valeur (PPV), qui sont inférieurs à 3 Smic en vigueur au lieu de
+1,6 Smic auparavant.
+La formule de calcul est modifiée comme suit :
+Coefficient = T min + (T delta × [(1⁄2) × (3 × Smic calculé pour un an ÷
+rémunération annuelle brute - 1)] P)
+Les paramètres sont les suivants :
+Les valeurs de « T min » et « T delta » : la valeur maximale du coefficient est
+égale à la somme des valeurs T min et T delta.
+Employeurs de moins de
+50 salariés
+Employeurs de 50 salariés et
+plus
+T min
+0,0200
+0,0200
+T delta
+0,3781
+0,3821
+Coefficient maximum
+0,3981
+0,4021
+Le Smic à prendre en compte : la valeur du Smic à prendre en compte en
+2026 pour le calcul du coefficient de la réduction générale est la valeur du Smic
+en vigueur ; les éventuelles revalorisations sont prises en compte. Le Smic est
+majoré le cas échéant des heures supplémentaires et complémentaires.
+Le calcul de la réduction générale
+dégressive unique
+
+----- page 26 -----
+La rémunération brute annuelle : la rémunération prise en compte pour la
+détermination du coefficient reste celle définie à l'article L242-1 du CSS, majorée
+le cas échéant du montant de la prime de partage de la valeur.
+Exposant P : il est égal à 1,75 et s’applique à [(1⁄2) × (3 × Smic annuel ÷
+rémunération annuelle brute - 1)].
+Le calcul du taux de la réduction générale est consultable sur le site urssaf.fr
+A compter du 1er janvier 2023, il n’est plus nécessaire pour l’employeur
+d’effectuer 2 calculs distincts (CRPCEN et Urssaf) car l’Urssaf est le seul
+recouvreur. La totalité du montant de la réduction générale CRPCEN et Urssaf
+est ainsi imputé sur le CTP 085 pour les salariés embauchés avant le 1er
+septembre 2023 et sur le CTP 084 pour les nouveaux salariés entrants au 1er
+septembre 2023.
+Bon à savoir
+
+----- page 27 -----
+Comment appliquer le dispositif de réduction ?
+L’application de la réduction due au titre de chaque mois est calculée par
+anticipation. Le montant de la réduction appliquée chaque mois se calcule selon
+les formules figurant ci-dessus, le Smic et la rémunération étant pris en compte
+mensuellement.
+En fin d’année, les cotisations dues au titre du dernier mois devront être
+régularisées, soit :
+-
+Par une régularisation de fin d’année : soit le différentiel entre la réduction
+calculée annuellement et la somme des réductions calculées mensuellement
+par anticipation ;
+-
+Par une régularisation progressive des cotisations d’un versement de
+cotisations à l’autre.
+En cas de cessation du contrat en cours d’année, la régularisation sera réalisée
+sur les cotisations dues au titre du dernier mois d’emploi.
+Le CTP 085 pour déclarer la réduction générale notariat en DSN est à utiliser
+à compter de la période d’emploi de janvier 2023, pour les salariés affiliés
+avant le 1er septembre 2023.
+Le CTP 084 pour déclarer la réduction générale notariat en DSN est à utiliser
+à compter de la période d’emploi de septembre 2023, pour les salariés affiliés
+à compter du 1er septembre 2023.
+Bon à savoir
+
+----- page 28 -----
+DÉDUCTION PATRONALE ET
+EXONÉRATION SUR HEURES
+SUPPLÉMENTAIRES
+ET RACHAT DE JOURS DE RTT
+
+----- page 29 -----
+La loi de financement de la Sécurité sociale pour 2023 comporte des dispositions
+afin :
+-
+De codifier dans le code de la sécurité sociale le dispositif de déduction
+forfaitaire patronale applicable aux employeurs de 20 à moins de 250
+salariés ;
+-
+D’étendre le bénéfice de la déduction forfaitaire patronale au titre du rachat
+de RTT aux employeurs de 20 à moins de 250 salariés ;
+Quels établissements et entreprises bénéficient
+de la déduction et de l’exonération salariale sur heures
+supplémentaires ?
+-
+Employeurs de moins de 20 salariés
+Ils peuvent bénéficier d’une déduction forfaitaire des cotisations patronales au titre
+des heures supplémentaires.
+-
+Employeurs de 20 à moins de 250 salariés
+Ils peuvent bénéficier d’une déduction forfaitaire des cotisations patronales au titre
+des heures supplémentaires effectuées depuis le 1er octobre 2022.
+Quels
+établissements
+et
+entreprises
+bénéficient
+de la déduction et de l’exonération salariale rachat de jours
+de RTT
+-
+Employeurs de moins de 20 salariés
+Les employeurs de moins de 20 salariés bénéficient d’une déduction forfaitaire
+patronale au titre des jours de RTT acquis depuis le 1er janvier 2022 et rachetés
+à compter du 18 août 2022.
+-
+Employeurs de 20 à moins de 250 salariés
+La déduction forfaitaire de cotisations patronales sur les rachats de RTT
+s’applique au titre des jours de RTT acquis depuis le 1er janvier 2022 et
+rachetées à compter de l’entrée en vigueur de la LFRSS pour 2023.
+L’assujettissement
+
+----- page 30 -----
+Comment le montant est-il déterminé ?
+Le montant de la déduction forfaitaire par heure supplémentaire est égal à 1,50 €
+pour les entreprises de moins de 20 salariés.
+Le montant de la déduction par heure supplémentaire est fixé à 0,50 € pour les
+entreprises de 20 à moins de 250 salariés.
+Comment appliquer le dispositif de déduction ?
+L’employeur doit effectuer la déclaration du CTP 086 déduction part patronale
+heures supplémentaires notariat pour ses salariés affiliés avant le 1er septembre
+2023.
+L’employeur doit effectuer la déclaration du CTP 087 déduction part patronale
+heures supplémentaires notariat, pour ses salariés affiliés à compter du 1er
+septembre 2023.
+L’employeur doit effectuer la déclaration du CTP 077 déduction part patronale
+rachat RTT notariat pour ses salariés affiliés avant le 1er septembre 2023.
+L’employeur doit effectuer la déclaration du CTP 073 déduction part patronale
+rachat RTT notariat pour ses salariés affiliés à compter du 1er septembre 2023.
+Le calcul de la déduction part patronale
+
+----- page 31 -----
+Comment le montant est-il déterminé ?
+Les salariés qui réalisent des heures supplémentaires ou complémentaires
+peuvent bénéficier d’une exonération de cotisations salariales d’assurance
+vieillesse-veuvage sur les rémunérations versées au titre de ces heures.
+Le rachat des jours de RTT donne lieu à une réduction de cotisations salariales
+d’assurance vieillesse-veuvage sur les rémunérations versées au titre de ce
+rachat.
+Comment appliquer le dispositif de déduction ?
+L’employeur doit effectuer la déclaration du CTP 078 pour la déclaration de la
+déduction heures supplémentaires pour la part salariale pour ses salariés affiliés
+avant le 1er septembre 2023.
+L’employeur doit effectuer la déclaration du CTP 003 pour la déclaration de la
+déduction heures supplémentaires pour la part salariale pour ses salariés affiliés
+à compter du 1er septembre 2023.
+L’employeur doit effectuer la déclaration du CTP 076 pour la déclaration de la
+déduction rachat RTT pour la part salariale pour ses salariés affiliés avant le 1er
+septembre 2023.
+L’employeur doit effectuer la déclaration du CTP 096 pour la déclaration de la
+déduction rachat RTT pour la part salariale pour ses salariés affiliés à compter du
+1er septembre 2023.
+Le calcul de l’exonération part salariale
+
+----- page 32 -----
+DÉDUCTION
+ZONE FRANCHE URBAINE
+
+----- page 33 -----
+Quels établissements et entreprises bénéficient
+de la déduction zone franche urbaine (ZFU) ?
+Les études notariales et organismes assimilés situés en ZFU ayant un effectif
+inférieur ou égal à 50 salariés bénéficient de cette déduction dès lors que
+l’entreprise était présente en zone franche urbaine lors de la création de la zone
+ou que l’entreprise s’est créée ou implantée dans une ZFU au plus tard le
+31 décembre 2014.
+L’assujettissement à la déduction ZFU
+
+----- page 34 -----
+Comment le montant est-il déterminé ?
+L’exonération est totale lorsque la rémunération horaire est inférieure ou égale à
+1,4 Smic. Elle décroît de manière dégressive et s’annule lorsque la rémunération
+horaire est à 2 Smic.
+Elle est applicable à taux plein pendant 5 ans. Elle devient dégressive pendant
+3 ans ou 9 ans en fonction de l’effectif de l’entreprise.
+Comment appliquer le dispositif de déduction ?
+L’employeur doit effectuer la déclaration du CTP 673 pour la déclaration de la
+déduction ZFU pour ses salariés affiliés avant le 1er septembre 2023.
+Les salariés affiliés à compter du 1er septembre 2023 ne sont pas éligibles à cette
+déduction.
+Le calcul de la déduction
+
+----- page 35 -----
+SALARIÉS
+NON-RÉSIDENTS
+
+----- page 36 -----
+Quels établissements et entreprises sont redevables
+de la cotisation maladie des non-résidents ?
+Les études notariales et organismes assimilés embauchant des salariés non-
+résidents fiscalement en France sont assujettis au versement d’une cotisation
+salariale maladie spécifique.
+Ces salariés ne sont pas assujettis à la CSG et cette cotisation maladie leur est
+prélevée en contrepartie.
+L’assujettissement à la cotisation maladie des non-
+résidents
+
+----- page 37 -----
+Comment l'assiette est-elle déterminée ?
+Cette
+cotisation
+est
+déterminée
+sur
+l’assiette
+définie
+par
+l’article
+L. 242-1 du code de la sécurité sociale.
+Comment le taux est-il déterminé ?
+Le taux est déterminé par l’art. D242-3 alinéa 2 du code de la sécurité sociale.
+Le taux de la cotisation est consultable sur le site urssaf.fr et crpcen.fr.
+Le calcul de la cotisation
+
+----- page 38 -----
+STAGIAIRES DE LA
+FORMATION
+PROFESSIONNELLE
+CONTINUE
+
+----- page 39 -----
+L’assujettissement
+Quels établissements et entreprises sont redevables
+des cotisations maladie et vieillesse ?
+Ces cotisations sont versées par l'Etat, l'opérateur de compétences ou par la
+région.
+Les cotisations d'un stagiaire assujetti à la CRPCEN qui est rémunéré par l'Etat,
+l'opérateur de compétences ou par la région ont des taux spécifiques en
+application de l’article 42 du décret du 20 décembre 1990 et de l'article L. 6342-3
+du code du travail.
+L’assujettissement à la cotisation
+
+----- page 40 -----
+Comment l'assiette est-elle déterminée ?
+Ces cotisations sont déterminées sur une assiette forfaitaire fixée par arrêté
+ministériel (décret n° 80-102 du 24 janvier 1980), et revalorisée au 1er janvier de
+chaque année.
+Comment les taux sont-ils déterminés ?
+Les taux vieillesse et maladie sont identiques à ceux du régime général.
+Comment retrouver les taux ?
+Les taux des cotisations sont consultables sur le site urssaf.fr et crpcen.fr.
+Le calcul des cotisations vieillesse et maladie
+
+----- page 41 -----
+FONCTIONNAIRES
+DÉTACHÉS
+
+----- page 42 -----
+Quels établissements et entreprises sont redevables
+de la cotisation maladie ?
+Les rémunérations des fonctionnaires détachés dans une étude ou un organisme
+assimilé au notariat sont assujettis à la cotisation maladie.
+Pour la cotisation vieillesse, le fonctionnaire détaché reste affilié à son régime de
+retraite. (Art. L 513-4 du code général de la fonction publique).
+L’assujettissement
+L’assujettissement
+
+----- page 43 -----
+Comment l'assiette est-elle déterminée ?
+Cette
+cotisation
+est
+assise
+sur
+l’assiette
+définie
+par
+l’article
+L. 242-1 du code de la sécurité sociale.
+Comment le taux est-il déterminé ?
+Le taux de cotisation maladie est celui applicable à la CRPCEN
+Le taux de la cotisation maladie est consultable sur le site urssaf.fr et crpcen.fr.
+Quel est le taux de cotisation applicable ?
+Le taux de la cotisation maladie est celui qui est applicable aux salariés affiliés à
+la CRPCEN.
+Le calcul de la cotisation
+
+----- page 44 -----
+RÉGULARISATIONS EN DSN
+Lors d’une régularisation portant sur une période d’emploi antérieure au
+1er janvier 2023, celle-ci devra être destinée à la CRPCEN (le bloc 22
+portant sur la régularisation devra contenir le Siret de la CRPCEN).
+Le paiement d’une régularisation portant sur une période d’emploi antérieure
+au 1er janvier 2023 devra être destiné à la CRPCEN. Le montant ne devra
+pas être compensé avec le montant de la déclaration principale (période
+d’emploi de 2023), qui est à destination de l’Urssaf.
+Lors d’une régularisation portant sur une période d’emploi à compter du
+1er janvier 2023, celle-ci devra être destinée à l’Urssaf (le bloc 22 portant sur
+la régularisation devra contenir le Siret de l’Urssaf). Le paiement devra être
+adressé à l’Urssaf. Ce dernier sera globalisé avec le paiement de la
+déclaration principale.
+Bon à savoir
+
+----- page 45 -----
+Illustration en DSN :
+Régularisation en mars 2023 d'un trop versé
+en décembre 2022
+À maille agrégée :
+Mois M : Bloc « Versement organisme de protection sociale - S21.G00.20 » :
+période courante : mars 2023
+> Date de début de période de rattachement (S21.G00.20.006) : 01032023
+> Date de fin de période de rattachement (S21.G00.20.007) : 31032023
+Mois M : bloc « Bordereau de cotisation due - S21.G00.22 » : période courante :
+mars 2023
+> Identifiant Organisme de Protection Sociale (S21.G00.22.001) : Siret de
+l'Urssaf
+> Entité d'affectation des opérations (S21.G00.22.002) : Pseudo Siret dans le cas
+d’une population de salariés
+> Date de début de période de rattachement (S21.G00.22.003) : 01032023
+> Date de fin de période de rattachement (S21.G00.22.004) : 31032023
+> Montant total de cotisations (S21.G00.22.005) non renseigné
+Mois M : bloc « Cotisation agrégée - S21.G00.23 »
+> Code de cotisation (S21.G00.23.001) CTP 164
+> Qualifiant d'assiette (S21.G00.23.002) non renseigné
+> Taux de cotisation (S21.G00.23.003) non renseigné
+> Montant d'assiette (S21.G00.23.004) : XXX.XX
+> Montant de cotisation (S21.G00.23.005) non renseigné
+... à dupliquer pour les autres cotisations concernées.
+
+----- page 46 -----
+Mois M-3 : Bloc « Versement organisme de protection sociale - S21.G00.20 » :
+> Identifiant Organisme de Protection Sociale (S21.G00.20.001) : Siret de la
+CRPCEN
+> Entité d’affectation des opérations (S21.G00.20.002) : numéro d'étude
+CRPCEN (6 chiffres)
+> Montant du versement (S21.G00.20.005) : XXX.XX
+> Date de début de période de rattachement (S21.G00.20.006) : 01122022
+> Date de fin de période de rattachement (S21.G00.20.007) : 31122022
+Mois M-3 : bloc « Bordereau de cotisation due - S21.G00.22 » :
+régularisation M-3
+> Identifiant Organisme de Protection Sociale (S21.G00.22.001) : Siret CRPCEN
+> Entité d'affectation des opérations (S21.G00.22.002) : numéro d'étude
+CRPCEN (6 chiffres)
+> Date de début de période de rattachement (S21.G00.22.003) : 01122022
+> Date de fin de période de rattachement (S21.G00.22.004) : 31122022
+> Montant total de cotisations (S21.G00.22.005) : à déclarer en approche
+différentielle
+À maille nominative :
+Mois M : bloc « Base assujettie - S21.G00.78 » période courante : mars 2023
+> Code de base assujettie (S21.G00.78.001) : 03
+> Date de début de période de rattachement (S21.G00.78.002) : 01032023
+> Date de fin de période de rattachement (S21.G00.78.003) : 31032023
+> Montant de base assujettie (S21.G00.78.004) : À renseigner
+Mois M-3 : bloc « Base assujettie - S21.G00.78 » régularisation M-3
+> Code de base assujettie (S21.G00.78.001) : 03
+> Date de début de période de rattachement (S21.G00.78.002) : 01122022
+
+----- page 47 -----
+> Date de fin de période de rattachement (S21.G00.78.003) : 31122022
+> Montant de base assujettie : XXX.XX
+Selon les cas de régularisation, il peut s’avérer nécessaire de créer des blocs
+« Cotisation individuelle - S21.G00.81 »
+Mois M-3 : bloc « Cotisation individuelle – S21.G00.81 » régularisation M-3
+> Code de cotisation (S21.G00.81.001) : 065
+> Identifiant Organisme de Protection Sociale (S21.G00.81.002) : Siret de la
+CRPCEN
+> Montant d'assiette (S21.G00.81.003) : à renseigner
+> Montant de cotisation (S21.G00.81.004) : à renseigner
+
+----- page 48 -----
+Synthèse des cotisations
+Salariés affiliés avant le 1er septembre 2023
+Risques maladie et vieillesse CRPCEN
+Cotisations
+Assiette
+Redevables
+Taux /
+montant
+Périodicité
+DSN
+CTP
+Cotisation
+maladie et
+vieillesse (dont
+apprentis ayant
+une rémunération
+supérieure à 79%
+SMIC)
++
+Contribution
+solidarité
+autonomie
++
+Risque AF et AT
+Assiette
+régime
+général
+Clercs et employés
+de notaires CRPCEN
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+CTP 164
+Complément
+maladie
+CTP 861
+CTP
+497(annuali
+sé)
+Cotisation
+maladie vieillesse
+(apprentis ayant
+une rémunération
+inférieure ou
+égale à 79% du
+SMIC)
++
+Risque AF et AT
+Apprentis ayant une
+rémunération
+inférieure ou égale à
+79% du SMIC
+CTP 382
+Réduction
+générale
+Clercs et employés
+de notaires CRPCEN
+CTP 085
+Réduction
+générale,
+régularisation
+Clercs et employés
+de notaires CRPCEN
+CTP 384
+(Régularisat
+ion)
+Déduction heures
+supplémentaires
+PP
+Clercs et employés
+de notaires CRPCEN
+CTP 086
+Déduction heures
+supplémentaires
+PS
+Clercs et employés
+de notaires CRPCEN
+CTP 078
+Déduction rachat
+RTT PP
+Clercs et employés
+de notaires CRPCEN
+CTP 077
+Déduction rachat
+RTT PS
+Clercs et employés
+de notaires CRPCEN
+CTP 076
+
+----- page 49 -----
+Alsace-Moselle
+Assiette
+Redevables
+Taux/montant
+Périodicité
+DSN
+CTP
+Contribution
+vieillesse dont
+les apprentis
+ayant une
+rémunération
+supérieure à 79%
+du SMIC
+Assiette
+régime
+général
+Clercs et employés
+de notaires CRPCEN
+en Alsace-Moselle et
+apprentis ayant une
+rémunération
+supérieure à 79% du
+SMIC
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+CTP 376
+Apprentis ayant
+une rémunération
+inférieure ou
+égale à 79% du
+SMIC / cotisation
+vieillesse
+Apprentis ayant une
+rémunération
+inférieure ou égale à
+79% du SMIC
+CTP 383
+Frontaliers
+Assiette
+Redevables
+Taux/montant
+Périodicité
+DSN
+CTP
+Cotisation
+maladie
+Assiette
+régime
+général
+Frontaliers
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+CTP 869
+Fonctionnaires
+détachés
+Assiette
+Redevables
+Taux/montant
+Périodicité
+DSN
+CTP
+Cotisation
+maladie
++
+Contribution
+solidarité
+autonomie
++
+Risque AF et AT
+Assiette
+régime
+général
+Fonctionnaires
+détachés
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+Stagiaires de la
+formation
+professionnelle
+continue
+Assiette
+Redevables
+Taux/montant
+Périodicité
+DSN
+CTP
+Cotisation
+maladie
++
+Cotisation
+vieillesse
++
+Contribution
+solidarité
+autonomie
++
+Risque AF et AT
+Assiette
+régime
+général
+Stagiaires de la
+formation
+professionnelle
+continue
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+CTP 857
+Déduction ZFU
+Assiette
+Redevables
+Taux/montant
+Périodicité
+DSN
+CTP
+Déduction ZFU
+Assiette
+régime
+spécial
+Clercs et employés
+de notaires CRPCEN
+situés en ZFU
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+CTP 673
+
+----- page 50 -----
+Salariés affiliés à compter du 1er septembre 2023
+Risque maladie CRPCEN seul
+Cotisations
+Assiette
+Redevables
+Taux /
+montant
+Périodicité
+DSN
+CTP
+Cotisation
+maladie et
+vieillesse RG
+(dont apprentis
+ayant une
+rémunération
+supérieure à 79%
+SMIC)
++
+Contribution
+solidarité
+autonomie
++
+Risque AF et AT
+Assiette
+régime
+général
+Clercs et employés
+de notaires CRPCEN
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+CTP 127
+Complément
+maladie
+CTP 861
+CTP
+497(annuali
+sé)
+Cotisation
+maladie et
+vieillesse RG
+(apprentis ayant
+une rémunération
+inférieure ou
+égale à 79% du
+SMIC)
++
+Risque AF et AT
+Apprentis ayant une
+rémunération
+inférieure ou égale à
+79% du SMIC
+CTP 448
+Cas des retraites
+progressives
+Clercs et employés
+de notaires CRPCEN
+CTP 219
+Réduction
+générale
+Clercs et employés
+de notaires CRPCEN
+CTP 084
+Réduction
+générale,
+régularisation
+Clercs et employés
+de notaires CRPCEN
+CTP 388
+(Régularisat
+ion)
+Déduction heures
+supplémentaires
+PP
+Clercs et employés
+de notaires CRPCEN
+CTP 087
+Déduction heures
+supplémentaires
+PS
+Clercs et employés
+de notaires CRPCEN
+CTP 003
+Déduction rachat
+RTT PP
+Clercs et employés
+de notaires CRPCEN
+CTP 073
+Déduction rachat
+RTT PS
+Clercs et employés
+de notaires CRPCEN
+CTP 096
+
+----- page 51 -----
+Alsace-Moselle
+Assiette
+Redevables
+Taux/montant
+Périodicité
+DSN
+CTP
+Contribution
+vieillesse dont
+les apprentis
+ayant une
+rémunération
+supérieure à 79%
+du SMIC
+Assiette
+régime
+général
+Clercs et employés
+de notaires CRPCEN
+en Alsace-Moselle et
+apprentis ayant une
+rémunération
+supérieure à 79% du
+SMIC
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+Non
+redevables
+Apprentis ayant
+une rémunération
+inférieure ou
+égale à 79% du
+SMIC / cotisation
+vieillesse
+Apprentis ayant une
+rémunération
+inférieure ou égale à
+79% du SMIC
+Non
+redevables
+Frontaliers
+Assiette
+Redevables
+Taux/montant
+Périodicité
+DSN
+CTP
+Cotisation
+maladie
+Assiette
+régime
+général
+Frontaliers
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+CTP 869
+Fonctionnaires
+détachés
+Assiette
+Redevables
+Taux/montant
+Périodicité
+DSN
+CTP
+Cotisation
+maladie
++
+Contribution
+solidarité
+autonomie
++
+Risque AF et AT
+Assiette
+régime
+général
+Fonctionnaires
+détachés
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+Stagiaires de la
+formation
+professionnelle
+continue
+Assiette
+Redevables
+Taux/montant
+Périodicité
+DSN
+CTP
+Cotisation
+maladie
++
+Cotisation
+vieillesse RG
++
+Contribution
+solidarité
+autonomie
++
+Risque AF et AT
+Assiette
+régime
+général
+Stagiaires de la
+formation
+professionnelle
+continue
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+CTP 044
+Déduction ZFU
+Assiette
+Redevables
+Taux/montant
+Périodicité
+DSN
+CTP
+Déduction ZFU
+Assiette
+régime
+spécial
+Clercs et employés
+de notaires CRPCEN
+situés en ZFU
+Déterminé par
+le code de la
+Sécurité
+sociale et la
+CRPCEN
+Mensuelle
+Non
+éligibles
+
+----- page 52 -----
+Le transfert des cotisations CRPCEN ne change pas les modalités déclaratives
+de la CSG/CRDS pour le régime spécial CRPCEN. La CSG/CRDS doit être
+déclarée sur :
+-
+le CTP 274 pour les études hors Alsace-Moselle
+-
+le CTP 260 (régime général) pour les études d’Alsace-Moselle
+Les consignes déclaratives en DSN sont présentées dans le guide Urssaf.
+Les fiches consignes sont également disponibles. Elles portent sur le cas général,
+et le cas des apprentis pour les études situées en France métropolitaine hors
+Alsace et Moselle et les études situées en Alsace et Moselle :
+Fiche consigne 838 - Modalités déclaratives CRPCEN pour les études des
+départements du Bas-Rhin, du Haut-Rhin et de la Moselle
+Fiche consigne 839 - Cotisations CRPCEN hors Alsace Moselle
+Fiche consigne 1252 - Déclaration des cotisations CRPCEN en DSN pour les
+apprentis
+Fiche consigne 2642 - Modalités déclaratives des retraites de base et
+complémentaires pour les individus clercs et employés de notaires affiliés au
+régime général de retraites
+À noter : le CTP 673 est un CTP existant pour les déclarations ZFU du régime
+général et doit être déclaré de la même façon pour les redevables des cotisations
+de la CRPCEN pour les salariés affiliés avant le 01/09/2023.
+Les modalités déclaratives et de versement
+Rappel sur la déclaration de la CSG/CRDS
+
+----- page 53 -----
+La synthèse des données déclaratives
+avant (CRPCEN) / après (Urssaf)
+transfert au 01/01/2023
+Salariés affiliés avant le 1er septembre 2023
+Risques maladie et vieillesse CRPCEN
+Déclaration des cotisations agrégées :
+Rubrique
+Détail
+Déclaration CRPCEN
+jusqu'au 31 décembre
+Déclaration Urssaf
+à partir du 01 janvier 2023
+Bloc Versement Organisme de Protection Sociale S21.G00.20
+S21.G00.20.001
+Identifiant
+Organisme
+de Protection
+Sociale
+Siret de la CRPCEN
+Siret de l'Urssaf
+S21.G00.20.002
+Entité
+d'affectation
+des opérations
+Numéro d'étude
+CRPCEN (6 chiffres)
+Pseudo-Siret (dans le cas d'une
+population de salariés) ou Siret
+du compte employeur pour le
+versement en lieu unique
+S21.G00.20.005
+Montant du
+versement
+Montant du virement effectué.
+Le montant du virement doit être égal à la somme des
+cotisations de chacun des salariés de l’établissement (ou de
+la fraction).
+S21.G00.20.006
+Date de début
+de période de
+rattachement
+Date de début de la période d’emploi au titre de laquelle ont
+été établies les cotisations dont l'établissement s'acquitte
+(1er jour du mois civil).
+S21.G00.20.007
+Date de fin
+de période de
+rattachement
+Date de fin de la période d’emploi au titre de laquelle ont été
+établies les cotisations dont l'établissement s'acquitte
+(dernier jour du mois civil).
+S21.G00.20.010
+Mode de
+paiement
+« 02 : virement » ou « 06 :
+versement réalisé par un
+autre établissement »
+05 « mandat SEPA »
+S21.G00.20.011
+Date de
+paiement
+Le 5 du mois ou le 5 de
+chaque début de trimestre
+pour l’Alsace-Moselle
+Le 5 ou le 15 du mois
+S21.G00.20.012
+SIRET Payeur
+Siret de l’établissement payeur
+
+----- page 54 -----
+Bloc Bordereau de cotisation due S21.G00.22
+S21.G00.22.001
+Identifiant
+Organisme de
+Protection
+Sociale
+Siret de la CRPCEN
+Siret de l'Urssaf
+S21.G00.22.002
+Entité
+d'affectation
+des opérations
+numéro d’étude
+CRPCEN (6 chiffres)
+Pseudo-Siret (dans le cas d'une
+population de salariés)
+S21.G00.22.003
+Date de début
+de période de
+rattachement
+Date de début de la période au titre de laquelle ont été
+établies les cotisations dont l'établissement s'acquitte (1er
+jour du mois).
+S21.G00.22.004
+Date de fin de
+période de
+rattachement
+Date de fin de la période au titre de laquelle ont été établies
+les cotisations dont l'établissement s'acquitte (dernier jour
+du mois).
+S21.G00.22.005
+Montant total
+de cotisations
+À renseigner
+Le bloc Cotisation agrégée S21.G00.23
+S21.G00.23.001
+Code de
+cotisation
+15 CTP dédiés au recouvrement
+des cotisations :
+164 / 861 / 497 / 382 / 869 / 085 /
+384 / 086/ 078 / 076 / 077 / 857 /
+376 / 383 / 867
+S21.G00.23.002
+Qualifiant
+d’assiette
+920 / 921
+S21.G00.23.003
+Taux de
+cotisation
+Non renseigné
+S21.G00.23.004
+Montant
+d’assiette
+À renseigner
+S21.G00.23.005
+Montant de
+cotisation
+Non renseigné
+S21.G00.23.006
+Code INSEE
+commune
+Non renseigné
+
+----- page 55 -----
+Déclaration des cotisations nominatives :
+Rubrique
+Détail
+Déclaration CRPCEN
+jusqu'au 31 décembre
+Déclaration Urssaf
+à partir du 1er janvier 2023
+Bloc Base assujettie - S21.G00.78
+S21.G00.78.001
+Code de base
+assujettie
+S21.G00.78.002
+Date de début
+de période de
+rattachement
+À renseigner
+S21.G00.78.003
+Date de fin de
+période de
+rattachement
+À renseigner
+S21.G00.78.004
+Montant de
+base assujettie
+À renseigner
+Bloc Cotisation individuelle - S21.G00.81
+S21.G00.81.001
+Date de début
+Code de
+cotisation
+075 - Cotisation Assurance Maladie
+076 - Cotisation Assurance Vieillesse
+907 - Complément de cotisation Assurance Maladie
+065 - Cotisation CRPCEN
+068 - Contribution solidarité autonomie
+015 - Exonération de cotisations applicable aux entreprises
+en zones franches urbaines
+018 - Réduction générale des cotisations patronales de
+sécurité sociale et d'assurance chômage
+021 - Déduction patronale au titre des heures
+supplémentaires
+114 - Montant de réduction des heures
+supplémentaires/complémentaires
+001 - Exonération de cotisations au titre de l'emploi d'un
+apprenti (loi de 1979)
+002 - Exonération de cotisations au titre de l'emploi d'un
+apprenti (loi de 1987)
+003 - Exonération de cotisations au titre de l'emploi d'un
+apprenti (loi de 1992)
+
+----- page 56 -----
+S21.G00.81.002
+Identifiant
+organisme de
+protection
+sociale
+Siret de la CRPCEN
+Siret de l'Urssaf
+S21.G00.81.003
+Montant
+d’assiette
+À renseigner
+S21.G00.81.004
+Montant de
+cotisation
+À renseigner
+S21.G00.81.005
+Code INSEE
+commune
+Non renseigné
+S21.G00.81.007
+Taux de
+cotisation
+À renseigner
+Salariés affiliés à compter du 1er septembre 2023
+Risque maladie CRPCEN seul
+Déclaration des cotisations agrégées :
+Rubrique
+Détail
+Déclaration Urssaf
+à partir du 01 septembre 2023
+Bloc Versement Organisme de Protection Sociale S21.G00.20
+S21.G00.20.001
+Identifiant
+Organisme
+de Protection
+Sociale
+Siret de l'Urssaf
+S21.G00.20.002
+Entité
+d'affectation
+des opérations
+Pseudo-Siret (dans le cas d'une population de salariés)
+ou Siret du compte employeur pour le versement en lieu
+unique
+S21.G00.20.005
+Montant du
+versement
+Montant du virement effectué.
+Le montant du virement doit être égal à la somme des
+cotisations de chacun des salariés de l’établissement (ou
+de la fraction).
+S21.G00.20.006
+Date de début
+de période de
+rattachement
+Date de début de la période d’emploi au titre de laquelle
+ont été établies les cotisations dont l'établissement
+s'acquitte (1er jour du mois civil).
+
+----- page 57 -----
+S21.G00.20.007
+Date de fin
+de période de
+rattachement
+Date de fin de la période d’emploi au titre de laquelle ont
+été établies les cotisations dont l'établissement s'acquitte
+(dernier jour du mois civil).
+S21.G00.20.010
+Mode de
+paiement
+05 « mandat SEPA »
+S21.G00.20.011
+Date de
+paiement
+Le 5 ou le 15 du mois
+S21.G00.20.012
+SIRET Payeur
+Siret de l’établissement payeur
+Bloc Bordereau de cotisation due S21.G00.22
+S21.G00.22.001
+Identifiant
+Organisme de
+Protection
+Sociale
+Siret de l'Urssaf
+S21.G00.22.002
+Entité
+d'affectation
+des opérations
+Pseudo-Siret (dans le cas d'une population de salariés)
+S21.G00.22.003
+Date de début
+de période de
+rattachement
+Date de début de la période au titre de laquelle ont été
+établies les cotisations dont l'établissement s'acquitte (1er
+jour du mois).
+S21.G00.22.004
+Date de fin de
+période de
+rattachement
+Date de fin de la période au titre de laquelle ont été
+établies les cotisations dont l'établissement s'acquitte
+(dernier jour du mois).
+S21.G00.22.005
+Montant total
+de cotisations
+À renseigner
+Le bloc Cotisation agrégée S21.G00.23
+S21.G00.23.001
+Code de
+cotisation
+14 CTP dédiés au recouvrement des cotisations :
+127 / 861 / 497 / 448 / 219 / 869 / 084 / 388 / 087/ 003 /
+073 / 096 / 044 / 867
+S21.G00.23.002
+Qualifiant
+d’assiette
+920 / 921
+S21.G00.23.003
+Taux de
+cotisation
+Non renseigné
+S21.G00.23.004
+Montant
+d’assiette
+À renseigner
+S21.G00.23.005
+Montant de
+cotisation
+Non renseigné
+S21.G00.23.006
+Code INSEE
+commune
+Non renseigné
+
+----- page 58 -----
+Déclaration des cotisations nominatives :
+Rubrique
+Détail
+Déclaration Urssaf
+à partir du 1er septembre 2023
+Bloc Base assujettie - S21.G00.78
+S21.G00.78.001
+Code de base
+assujettie
+02/03
+S21.G00.78.002
+Date de début
+de période de
+rattachement
+À renseigner
+S21.G00.78.003
+Date de fin de
+période de
+rattachement
+À renseigner
+S21.G00.78.004
+Montant de
+base assujettie
+À renseigner
+Bloc Cotisation individuelle - S21.G00.81
+S21.G00.81.001
+Date de début
+Code de
+cotisation
+075 - Cotisation Assurance Maladie
+076 - Cotisation Assurance Vieillesse
+907 - Complément de cotisation Assurance Maladie
+065 - Cotisation CRPCEN
+068 - Contribution solidarité autonomie
+015 - Exonération de cotisations applicable aux
+entreprises en zones franches urbaines
+018 - Réduction générale des cotisations patronales de
+sécurité sociale et d'assurance chômage
+021 - Déduction patronale au titre des heures
+supplémentaires
+114 - Montant de réduction des heures
+supplémentaires/complémentaires
+001 - Exonération de cotisations au titre de l'emploi d'un
+apprenti (loi de 1979)
+002 - Exonération de cotisations au titre de l'emploi d'un
+apprenti (loi de 1987)
+003 - Exonération de cotisations au titre de l'emploi d'un
+apprenti (loi de 1992)
+
+----- page 59 -----
+S21.G00.81.002
+Identifiant
+organisme de
+protection
+sociale
+Siret de l'Urssaf
+S21.G00.81.003
+Montant
+d’assiette
+À renseigner
+S21.G00.81.004
+Montant de
+cotisation
+À renseigner
+S21.G00.81.005
+Code INSEE
+commune
+Non renseigné
+S21.G00.81.007
+Taux de
+cotisation
+À renseigner
+
+----- page 60 -----
+EN SAVOIR PLUS...
+
+----- page 61 -----
+Les cotisations CRPCEN sont recouvrées et contrôlées par l’Urssaf selon les
+règles et sous les garanties et sanctions applicables au recouvrement des
+cotisations du régime général de la sécurité sociale.
+L’Urssaf accompagne et conseille les employeurs dans la réalisation de leurs
+obligations déclaratives et contributives : questions générales relatives à
+l'assujettissement, à la déclaration, aux cotisations, contributions et aux
+déductions, assistance DSN, questions relatives au paiement...
+L’Urssaf est en charge des sujets suivants :
+> Assujettissement et redevabilité des employeurs ;
+> Enregistrement de la déclaration des cotisations et contributions ;
+> Enregistrement de la déclaration des déductions ;
+> Recouvrement des cotisations et contributions et affectation du paiement ;
+> Contrôle de l’application de la législation (contrôle sur pièces et sur place).
+Les services de l’Urssaf
+> www.urssaf.fr
+> Tél. 3957 du lundi au vendredi - de 9h00 à 17h00
+Rôle de l’Urssaf
+
+----- page 62 -----
+La Caisse de retraite et de prévoyance des clercs et employés de notaires
+(CRPCEN) gère le régime de sécurité sociale des salariés du notariat pour les
+risques maladie et vieillesse.
+En versant des cotisations assises sur les salaires et sur les émoluments, votre
+office notarial participe à la mission de service public assurée par la CRPCEN.
+La CRPCEN est en charge des sujets suivants :
+> Assujettissement et redevabilité des études notariales et organismes
+assimilés ;
+> Enregistrement de la déclaration des cotisations sur émoluments et
+honoraires ;
+> Recouvrement des cotisations sur émoluments et honoraires et affectation du
+paiement ;
+> Contrôle de l’application de la législation portant sur l’assiette de la cotisation
+sur émoluments et honoraires (contrôle sur place) ;
+> Assujettissement des salariés (déclarations d’affiliation).
+Les services de la CRPCEN
+> www.crpcen.fr
+> Tél. 01 44 90 20 62 du lundi au vendredi - de 9h00 à 12h30
+Rôle de la CRPCEN
+
+----- page 63 -----
+> Loi n°2019-1446 du 24 décembre 2019 de financement de la sécurité sociale
+pour 2020 transférant le recouvrement et le contrôle des cotisations aux
+organismes de recouvrement du régime général (Urssaf) à compter du 1er
+janvier 2023.
+> Loi du 12 juillet 1937 instituant une caisse de retraite pour les employés et
+clercs de notaires (art. 3).
+> Décret n°90-1215 du 20 décembre 1990 portant application de la loi du 12
+juillet 1937 instituant une caisse de retraite et de prévoyance des clercs et
+employés de notaires et modifiant certaines dispositions relatives à cette
+caisse, (article 69).
+> Décret n° 2023-689 du 28 juillet 2023 relatif au régime spécial de retraite des
+clercs et employés de notaires
+Référentiels et annexes règlementaires
+
+----- page 64 -----
+Sur internet
+> www.crpcen.fr
+Par téléphone
+>
+01 44 90 20 62 du lundi au vendredi - de 9h00 à 12h30
+Toutes les informations sur le
+transfert des cotisations CRPCEN
+
+----- page 65 -----
+Sur internet
+> Urssaf.fr
+> Fiches consignes DSN sur www.net-entreprises.fr
+Par téléphone
+> 3957 du lundi au vendredi - de 9h00 à 17h00
+Toutes les informations sur
+la déclaration en DSN
+
+----- page 66 -----
+CRPCEN : Caisse de retraite et de prévoyance des clercs et employés de notaires
+DSN : Déclaration sociale nominative
+URSSAF : Union pour le recouvrement des cotisations de sécurité sociale
+et d’allocations familiales - Organisme ayant pour mission principale le recouvrement et
+le reversement aux autres organismes de protection sociale des cotisations et
+contributions.
+Le glossaire

@@ -1,0 +1,243 @@
+
+----- page 1 -----
+Les solutions pour faire du cross-canal
+Web, magasin, mobile, les acheteurs ne veulent plus avoir à choisir entre ces différents canaux pour
+réaliser leurs achats.
+Le cross-canal est à la fois une demande forte des clients et une vraie opportunité pour les entreprises.
+Celles qui disposent seulement d’un magasin peuvent utiliser le web et le mobile pour faire venir de
+nouveaux visiteurs. Les e-commerçants peuvent également utiliser les autres canaux pour transformer
+plus facilement une visite en vente ou communiquer sur le site en dehors du web.
+Ces dernières années, de nombreuses solutions se sont développées pour jouer sur la complémentarité
+des canaux de vente ou de communication. Cette notice1 dresse un panorama de quelques-unes d’entre
+elles.
+Performance
+numérique
+Votre rendez-vous mensuel
+Le web-to-store
+Dans bien des domaines, le e-commerce est venu cannibaliser les ventes en magasin. Les produits manufacturés tels
+que l’électroménager par exemple sont principalement concernés par la concurrence entre web et boutique physique.
+De nombreux magasins essayent d’échapper au phénomène dit de « showrooming » où le client vient dans le point de
+vente uniquement pour voir ou essayer le produit avant de l’acheter en ligne.
+C’est pourquoi, la majorité des solutions de cross-canal ont été créées dans le but de faire venir l’internaute ou le mobi-
+naute en magasin. Il existe trois moyens pour faire du web to store :
+• Jouer sur la complémentarité des canaux
+• Offrir un service de proximité
+• Utiliser le webmarketing.
+> Jouer sur la complémentarité des canaux
+1 A lire, Performance Numérique « Qu’est-ce que le cross-canal ? » : http://goo.gl/d12goi
+Le « click and collect »
+Le « click and collect » consiste à proposer au client d’acheter un produit en ligne et de le récupérer ensuite en boutique.
+Le client achète en confiance en sachant que le site dispose d’un dépôt physique, il apprécie également de s’affranchir
+des frais de port. Enfin, ce service lui permet de gagner du temps.
+Le « click and collect » présente en outre deux avantages pour le commerçant : d’abord, il lui assure une présence sur
+Internet, ensuite il permet de réaliser des ventes additionnelles lorsque le client vient chercher sa commande : une pro-
+motion en cours, un article complémentaire, voire un produit consulté en ligne par le client si le site web dispose d’un
+système de tracking spécifique. (suite page suivante)
+
+----- page 2 -----
+Le « click and reserve »
+Le « click and reserve », aussi appelé e-réservation, consiste à mettre de côté un article pour le compte d’un client
+pendant un laps de temps. Le client a la possibilité de changer d’avis et d’annuler sa commande sans frais.
+Ce service permet de décider plus facilement les personnes inquiètes à l’idée de payer en ligne.
+à encore, la gestion des stocks et de la logistique devra être rigoureuse.
+Le drive
+Pour le client, le « drive » offre les mêmes bénéfices que le « click and collect » et lui permet en plus de gagner du temps
+en récupérant les produits sans entrer dans le magasin. Pour le commerçant en revanche, la vente additionnelle sera
+plus difficile car le stock est rarement à proximité immédiate du point de livraison. Par ailleurs, le client s’avère davantage
+pressé dans un drive.
+Même si la plupart des grandes surfaces proposent un drive, ce canal de distribution peut s’adresser également à un
+petit magasin à condition, bien sûr, qu’il dispose d’un parking suffisamment grand. Plusieurs boulangeries ou pharma-
+cies, par exemple, ont ainsi pu accroître leurs ventes par ce moyen.
+La consultation des stocks en ligne
+De plus en plus, une visite en magasin est précédée d’une recherche Internet. Connaître la disponibilité d’un produit en
+boutique peut-être un facteur déterminant dans la décision de l’acheteur de se rendre en magasin.
+L’état des stocks doit être tenu à jour afin de ne pas décevoir le client dans le cas où le produit ne serait plus disponible
+au moment de sa visite en magasin.
+Le « click and collect » (suite)
+Attention néanmoins, ce service nécessite une gestion des stocks en temps réel et une organisation logistique permet-
+tant de préparer les commandes dans un temps acceptable pour le client.
+
+----- page 3 -----
+> Offrir un service de proximité
+La géolocalisation de
+l’établissement
+Des applications de cartographie et
+d’annuaire d’entreprises permettent
+de géolocaliser un établissement. Un
+mobinaute peut ainsi visualiser une
+carte des magasins qui l’entourent et
+même, dans certains cas, être guidé
+jusqu’à eux.
+La géolocalisation de catalogue
+Ce service consiste à diffuser un cata-
+logue de produits vendus en maga-
+sin sur des places de marché en ligne
+visant à mettre en relation l’offre et la
+demande locales. Ce système existe
+depuis longtemps mais son effica-
+cité dépend fortement de la visibilité
+de la place de marché auprès des
+internautes.
+Depuis peu, des marketplaces gé-
+néralistes à forte notoriété com-
+mencent à ouvrir leur catalogue aux
+commerces de proximité. Elles pro-
+posent à leurs clients d’acheter en
+ligne des produits disponibles dans
+des magasins près de chez eux et de
+venir les récupérer en boutique.
+Ce service se limite pour l’heure à
+quelques grandes villes.
+Le Product locator
+Pour les réseaux de magasins, il peut
+être pertinent de créer sur le site
+Internet, un système permettant
+au client de géolocaliser, pour un
+produit, les stocks disponibles dans
+chaque boutique. Le « Product loca-
+tor » ajoute une dimension de proxi-
+mité à la consultation des stocks en
+ligne.
+> Utiliser le web-marketing
+Le webmarketing ne s’adresse pas
+qu’aux sites Internet. De nombreux
+outils peuvent être utilisés pour gé-
+nérer du trafic en magasin.
+L’emailing
+L’emailing offre un bon moyen de
+faire revenir une clientèle en propo-
+sant par exemple des promotions,
+des bons d’achat, des ventes privées
+ou en communiquant sur une ani-
+mation commerciale.
+Bien entendu, il faudra au préalable
+avoir collecté l’adresse email des
+clients et obtenu leur accord pour
+recevoir des emailings.
+Le deal
+Le « deal » permet à un commerçant
+de proposer une offre promotion-
+nelle sur un service ou un produit à
+prix réduit pendant un temps limité.
+Les « deals » sont diffusés par des pla-
+teformes auprès d’utilisateurs identi-
+fiés dans la zone de chalandise du
+commerçant.
+Ce système permet de s’offrir une
+publicité locale et de toucher une
+nouvelle clientèle.
+Le commerçant devra toutefois bien
+étudier son deal afin de pouvoir ho-
+norer toutes les demandes en conti-
+nuant à gagner de l’argent. Attention
+également à ne pas décevoir un
+client fidèle en proposant une offre
+promotionnelle plus avantageuse
+pour les nouveaux clients ayant
+acheté un deal.
+Enfin, il convient de trouver un
+moyen de fidéliser cette nouvelle
+clientèle afin que l’investissement
+initial pour le faire venir ne soit pas
+à perte.
+Le « store to web » est beaucoup
+plus marginal. Il répond davantage à
+un besoin pour le client de toucher
+ou tester le produit avant d’acheter
+en ligne.
+Les solutions de store to web
+consistent à faire du magasin un
+showroom d’avant-vente.
+Deux types de service originaux mé-
+ritent cependant d’être mentionnés :
+> Le corner éphémère
+Ce système ne s’adresse pas spécifi-
+quement aux e-commerçants mais
+offre une solution pour les clients fri-
+leux à l’idée d’acheter en ligne sans
+voir un produit. Plusieurs sites Inter-
+net proposent de mettre en relation
+des magasins ayant un espace de
+vente disponible et des sociétés à la
+recherche d’un corner éphémère.
+Le magasin peut rentabiliser son es-
+pace perdu et l’offreur bénéficie de
+la notoriété et de l’emplacement de
+la boutique. Pour un e-commerçant,
+ce système permet de faire la publi-
+cité du site, d’avoir des retours clients
+directs et de réaliser des ventes sup-
+plémentaires.
+> Le showroom chez le
+particulier
+Ce service permet de géolocaliser
+les clients d’un produit après que
+ceux-ci aient donné leur accord.
+Dans le cas d’un site marchand, un
+internaute peut ainsi repérer si une
+personne près de chez lui a acheté
+le produit qu’il convoite, se rendre à
+l’adresse indiquée et voir le produit
+physiquement. En contrepartie,
+le e-commerçant rémunère le
+client ayant accepté de recevoir
+l’internaute chez lui.
+Ce système permet à la fois de lever
+un frein fréquent à l’achat en ligne
+et de bénéficier, de surcroît, de l’avis
+d’un client satisfait qui pourra jouer
+un rôle de prescripteur.
+Le store to web
+
+----- page 4 -----
+Votre prochain rdv numérique :
+« Le e-commerce à l’export »
+VOTRE contact
+Samuel COSTE
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+En matière de cross-canal, les usages
+mobiles sont amenés à se diversifier
+dans l’avenir. Le mobile peut à la fois
+servir le web et le magasin.
+> Le SMS marketing
+Il s’agit de l’équivalent mobile de
+l’emailing. L’envoi de SMS est beau-
+coup utilisé pour diffuser des pro-
+motions, des bons d’achat ou codes
+de réduction.
+Une collecte préalable de numéro
+de téléphone et de l’accord des per-
+sonnes est là aussi nécessaire.
+> Les « pushs » sur application
+mobile
+Une application mobile permet
+d’envoyer des notifications appelées
+« pushs » sur tous les smartphones
+l’ayant téléchargée. Comme pour
+l’envoi de SMS, il convient de ne pas
+abuser de ce moyen pour ne pas las-
+ser le mobinaute et l’inciter à désins-
+taller l’application.
+> Le bon d’achat géolocalisé
+Pour mettre en place ce système,
+il existe deux prérequis : faire télé-
+charger une application au client et
+s’équiper d’un « beacon »2. Ce petit
+boîtier permet de détecter, dans
+son périmètre, la présence de smart-
+phones équipés de l’application et
+de leur envoyer une notification.
+Cette dernière peut être déclenchée
+lorsque le mobinaute passe à proxi-
+mité d’un magasin ou devant un
+produit particulier.
+Certains magasins ont mis en place un système
+de « drive-to-product » qui permet au client,
+grâce à une application sur son smartphone,
+d’avoir des informations sur les produits ou d’être
+guidé vers les promotions. Ce système fonctionne
+également avec des beacons.
+2 Beacon : petit boîtier capteur qui peut « dialoguer » sur un petit périmètre avec des smartphones ou tablettes par une connexion Bluetooth.
+Le mobile to store/to web

@@ -1,0 +1,188 @@
+
+----- page 1 -----
+Un cookie est un fichier texte dé-
+posé sur le disque dur des visiteurs
+par les sites qu’ils visitent. Il permet à
+l’internaute de faciliter sa navigation
+(mémorisation d’un identifiant de
+connexion ou du panier d’achat par
+exemple) et au responsable du site
+Internet de collecter des informa-
+tions sur les visiteurs.
+Le terme « cookie » recouvre plu-
+sieurs types de traceurs : cookie http,
+cookies flash, fingerprinting, pixel
+invisible... Seuls ceux qui collectent
+des données personnelles sont visés
+par la CNIL.
+Cookies : mettre son site en conformité
+Une simple clause dans les mentions légales d’un site Internet ne suffit plus pour utiliser des cookies. La
+CNIL encadre désormais le dépôt de ces fichiers installés sur le disque dur des visiteurs.
+Cette nouvelle règlementation provient d’une ordonnance du 24 août 2011 qui a transposé la directive
+européenne 2009/136/CE. La loi Informatique et Libertés du 6 janvier 1978, qui fait référence en matière
+de traitement des données à caractère personnel, a ainsi été révisée (article 32 II). La CNIL a publié le 5
+décembre 2013 une délibération expliquant comment mettre en application ces nouvelles dispositions.
+Peu de sites s’étant néanmoins mis en conformité, elle a annoncé effectuer des contrôles réguliers
+depuis le 1er octobre 2014.
+Les cookies déposés pour des raisons techniques sont exemptés de la règlementation. La loi s’intéresse
+aux cookies qui collectent des données personnelles en vue de mesurer le trafic d’un site Internet, de
+proposer des boutons de partage sur les réseaux sociaux ou d’afficher de la publicité comportementale.
+Cette notice explique en quoi consistent les obligations légales en matière de cookies et comment
+concrètement mettre son site en conformité.
+Performance
+numérique
+Votre rendez-vous mensuel
+Qu’est-ce qu’un cookie ?
+CCI DORDOGNE - Performance numérique - AVRIL 2015
+Les obligations légales
+Ces obligations s’appliquent à tous
+les sites Internet collectant des don-
+nées personnelles via le dépôt de
+cookies et plus particulièrement
+ceux utilisant un outil de mesure
+d’audience, affichant de la publicité
+comportementale ou des boutons
+de partage de contenu sur les ré-
+seaux sociaux.
+> Information préalable
+L’internaute doit être informé clai-
+rement du dépôt d’un cookie, de
+sa finalité et de la possibilité de s’y
+opposer. Cette information doit être
+rédigée avec des termes simples et
+être visible sur toutes les pages du
+site internet.
+Il est possible par exemple de faire
+apparaître un bandeau en haut des
+pages web ou un encart dans un
+des coins de la page. Quelle que soit
+la solution choisie, elle ne doit pas
+disparaître tant que l’internaute n’a
+pas exprimé son consentement au
+dépôt de cookies.
+Le bandeau ou l’encart peut informer
+l’internaute brièvement de l’exis-
+tence et de la finalité des cookies
+puis renvoyer vers une page plus
+
+----- page 2 -----
+CCI DORDOGNE - Performance numérique - AVRIL 2015
+complète via un bouton « En savoir
+plus ».
+> Expression du consentement
+Selon la CNIL, l’internaute doit mani-
+fester son consentement par une «
+action positive ». Autrement dit son
+accord ne doit pas être présumé
+s’il ne clique pas sur le bandeau ou
+l’encart. Une mention telle que « la
+poursuite
+de
+la
+navigation
+vaut accord de
+l’internaute
+»
+n’est pas légale.
+Il est préférable
+de faire appa-
+raître des bou-
+tons « oui, j’ac-
+cepte » ou « je donne mon accord ».
+Par ailleurs, la CNIL considère qu’un
+consentement est valable 13 mois.
+Passé ce délai, le bandeau ou l’encart
+devra réapparaître.
+> Opposition aux cookies
+Le site doit prévoir un système d’op-
+position aux cookies afin que les
+internautes refusant le dépôt de ces
+fichiers puissent faire disparaître le
+bandeau ou l’encart légal.
+Dans l’idéal, un utilisateur devrait
+pouvoir choisir d’accepter ou de refu-
+ser l’installation d’un cookie selon sa
+finalité (mesure d’audience, partage
+sur les réseaux sociaux, publicité).
+En outre, chaque visiteur doit avoir la
+possibilité de revenir sur son consen-
+tement.
+Par ailleurs, la CNIL considère qu’un
+consentement est valable 13 mois.
+> Affiner un bandeau ou un
+encart
+La plupart des prestataires sont en
+train de déployer ces éléments sur
+les sites de leurs clients. Il est néan-
+moins recommandé de se rensei-
+gner auprès de lui pour savoir quand
+cette mesure sera effective.
+Il est possible que cette prestation
+soit facturée.
+> Créer une page dédiée aux
+cookies
+La loi dit que l’information délivrée à
+l’internaute doit être complète. Une
+simple mention ne suffit pas pour
+expliquer en détail quelles données
+sont collectées via les cookies et
+comment elles seront utilisées.
+La CNIL encourage les sites Internet à
+créer une page spécifique qui traite
+des cookies. Une clause dans la page
+« mentions légales » rendrait moins
+visible l’information.
+> Bloquer le dépôt
+automatique de cookies
+Les statistiques d’audience
+Très peu de solutions de mesure
+d’audience satisfont les obligations
+légales. Google Analytics, l’un des
+outils les plus utilisés, n’est ainsi pas
+conforme aux normes de la CNIL.
+Pour continuer d’utiliser ce type de
+solution, un code doit être inséré sur
+les pages web du site afin de bloquer
+le dépôt de cookie en l’absence de
+consentement de l’internaute. La
+CNIL fournit gratuitement ce code
+sur son site Internet.
+Les boutons sociaux
+Les plug-in permettant aux inter-
+nautes de partager un contenu sur
+les réseaux sociaux sont également
+très peu à respecter la règlementa-
+tion. La CNIL recommande d’utiliser
+un outil qu’elle a validé ou d’insérer
+sur les pages concernées un code
+disponible sur son site.
+La publicité comportementale
+L’affichage d’une publicité séman-
+tique ou contextuelle est condition-
+né par certains mots-clés ou expres-
+sions présents dans la page visitée.
+Elle n’engendre aucun dépôt de
+cookies et n’est donc pas visée par la
+CNIL. La publicité comportementale
+en revanche s’appuie sur des don-
+nées collectées sur l’internaute et
+notamment l’historique de sa navi-
+gation.
+La CNIL n’interdit pas ce type de pu-
+blicité mais recommande là encore
+de bloquer l’installation automatique
+de cookie au moyen d’un script. Sur
+son site, elle fournit le code néces-
+saire à l’utilisation de la solution pu-
+blicitaire de Google, DoubleClick.
+Site de la CNIL : cliquez ici
+Les démarches concrètes
+VOTRE contact
+Samuel COSTE
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+CCI DORDOGNE
+Votre prochain rdv numérique :
+« Comment sécuriser
+vos terminaux mobiles »

@@ -1,0 +1,542 @@
+
+----- page 1 -----
+V2026-1
+Les données du présent document correspondent aux données des schémas XSD à utiliser par
+les plateformes dans le cadre de la phase d’Identification.
+Chaque annexe correspond aux données d’un document XSD précis, et chaque bloc peut être
+copié/collé dans un texte au format XSD pour reconstituer un document utilisable par les
+plateformes, tel que défini dans le Contrat d’interface Identification disponible sur urssaf.fr :
+https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
+Contrat d’interface
+Prélèvement à la source
+des cotisations sociales
+des auto-entrepreneurs par les
+plateformes numériques
+Phase « Identification »
+Annexes 1, 2, 3, 4
+Schémas XSD
+Version 2026-1 du 31 mars 2026
+
+----- page 2 -----
+V2026-1
+Version
+Crée
+ou
+modifié le
+Nature des mises à jour et commentaires
+2025-1
+23/09/2025
+Version initiale
+2026-1
+31/03/2026
+Le champ email est maintenant optionnel. Modification
+des annexes 1 ; 3 ; 4
+
+----- page 3 -----
+V2026-1
+ANNEXE 1 : SCHEMA XSD - FICHIER IDENTIFICATION
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:dpdi="urn:UCN:ties:dpid" xmlns:stf="urn:UCN:ties:dpidstf" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn:UCN:ties:dpid" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="DPID_UCN">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="MessageSpec" minOccurs="1" maxOccurs="1">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="MessageType" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:enumeration value="DPID"/>
+<xs:enumeration value="DPIDSB"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="PlatformId" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:pattern value="\d{7}"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="ReportingPeriod" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:pattern value="20\d{2}-(01|02|03|04|05|06|07|08|09|10|11|12)"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="MessageRefId" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:pattern value="[^;]*"/>
+<xs:minLength value="0"/>
+<xs:maxLength value="88"/>
+</xs:restriction>
+</xs:simpleType>
+
+----- page 4 -----
+V2026-1
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="DPIDBody" minOccurs="1" maxOccurs="1">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="EntityUserIdentification" minOccurs="1" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="IN" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:pattern value="\d{9}|\d{14}"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="LastName" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:pattern value="[a-zA-ZàáâãäåçèéêëìíîïòóôõöñùúûüýÿÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÑÙÚÛÜÝ\s'-]+"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="FirstName" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:pattern value="[a-zA-ZàáâãäåçèéêëìíîïòóôõöñùúûüýÿÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÑÙÚÛÜÝ\s'-]+"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="BirthDate" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:date">
+<xs:pattern value="\d{4}-\d{2}-\d{2}"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="PlaceOfBirth" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+
+----- page 5 -----
+V2026-1
+<xs:pattern value="[a-zA-ZàáâãäåçèéêëìíîïòóôõöñùúûüýÿÀÁÂÃÄÅÇÈÉÊËÌÍÎÏÒÓÔÕÖÑÙÚÛÜÝ\s'-]+"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="UserRefId" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:pattern value="[^;]*"/>
+<xs:minLength value="0"/>
+<xs:maxLength value="88"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="ContactDetails" minOccurs="1" maxOccurs="1">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="PostalAddress" minOccurs="0" maxOccurs="1">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="Street1" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string" />
+</xs:simpleType>
+</xs:element>
+<xs:element name="Street2" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string" />
+</xs:simpleType>
+</xs:element>
+<xs:element name="PostalCode" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string" />
+</xs:simpleType>
+</xs:element>
+<xs:element name="City" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string" />
+</xs:simpleType>
+</xs:element>
+<xs:element name="Country" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+
+----- page 6 -----
+V2026-1
+<xs:restriction base="xs:string" />
+</xs:simpleType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="EmailAddress" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:pattern value="\S+@\S+\.\S+"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="PhoneNumber" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:pattern value="\d{10}|\d{2}(\s\d{2}){4}"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+<xs:attribute name="version" use="required">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:minLength value="0"/>
+<xs:maxLength value="10"/>
+<xs:pattern value="\d+.\d+"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:attribute>
+
+----- page 7 -----
+V2026-1
+</xs:complexType>
+</xs:element>
+</xs:schema>
+
+----- page 8 -----
+V2026-1
+ANNEXE 2 : SCHEMA XSD - FICHIER RAPPORT GLOBAL
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:dpgr="urn:UCN:ties:dpgr" xmlns:stf="urn:UCN:ties:dpgrstf" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn:UCN:ties:dpgr" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="DPGR_UCN">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="MessageSpec" type="dpgr:MessageSpec_Type" minOccurs="1" maxOccurs="1"/>
+<xs:element name="DPGRBody" type="dpgr:DPGR_Type" minOccurs="1" maxOccurs="1"/>
+</xs:sequence>
+<xs:attribute name="version" use="required">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:minLength value="0"/>
+<xs:maxLength value="10"/>
+<xs:pattern value="\d+.\d+"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:attribute>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="MessageSpec_Type">
+<xs:sequence>
+<xs:element name="MessageType" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:enumeration value="DPGR"/>
+<xs:enumeration value="DPGRSB"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="PlatformId" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="ReportingPeriod" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="SequenceNumber" minOccurs="1" maxOccurs="1" />
+<xs:element name="MessageRefId" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="ReceptionDate" type="dpgr:timestamp" minOccurs="1" maxOccurs="1"/>
+<xs:element name="UrssafRef" type="dpgr:uuidType" minOccurs="1" maxOccurs="1"/>
+<xs:element name="Timestamp" type="dpgr:timestamp" minOccurs="1" maxOccurs="1"/>
+</xs:sequence>
+</xs:complexType>
+
+----- page 9 -----
+V2026-1
+<xs:complexType name="DPGR_Type">
+<xs:sequence>
+<xs:element name="FileStatus" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:enumeration value="processed"/>
+<xs:enumeration value="rejected"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="RejectionReason" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string"/>
+</xs:simpleType>
+</xs:element>
+<xs:element name="RejectionReasonDetail" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string"/>
+</xs:simpleType>
+</xs:element>
+<xs:element name="UserToIdentify" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:integer"/>
+</xs:simpleType>
+</xs:element>
+<xs:element name="UnidentifiableUsers" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:integer"/>
+</xs:simpleType>
+</xs:element>
+<xs:element name="IdentifiedUsersAE" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:integer"/>
+</xs:simpleType>
+</xs:element>
+<xs:element name="UnidentifiedUsersAE" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:integer"/>
+</xs:simpleType>
+</xs:element>
+
+----- page 10 -----
+V2026-1
+</xs:sequence>
+</xs:complexType>
+<xs:simpleType name="timestamp">
+<xs:restriction base="xs:string">
+<xs:pattern value="\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d{1,6}"/>
+</xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="uuidType">
+<xs:restriction base="xs:string">
+<xs:pattern value="[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:schema>
+
+----- page 11 -----
+V2026-1
+ANNEXE 3 : SCHEMA XSD - FICHIER RAPPORT DETAILLE
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:dpdr="urn:UCN:ties:dpdr" xmlns:stf="urn:UCN:ties:dpdrstf" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn:UCN:ties:dpdr" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="DPDR_UCN">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="MessageSpec" type="dpdr:MessageSpec_Type" minOccurs="1" maxOccurs="1"/>
+<xs:element name="DPDRBody" type="dpdr:DPDR_Type" minOccurs="1" maxOccurs="1"/>
+</xs:sequence>
+<xs:attribute name="version" use="required">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:minLength value="0"/>
+<xs:maxLength value="10"/>
+<xs:pattern value="\d+.\d+"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:attribute>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="MessageSpec_Type">
+<xs:sequence>
+<xs:element name="MessageType" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:enumeration value="DPDR"/>
+<xs:enumeration value="DPDRSB"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="PlatformId" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="ReportingPeriod" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="SequenceNumber" type="xs:string" minOccurs="1" maxOccurs="1" />
+<xs:element name="MessageRefId" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="ReceptionDate" type="dpdr:timestamp" minOccurs="1" maxOccurs="1"/>
+<xs:element name="UrssafRef" type="dpdr:uuidType" minOccurs="1" maxOccurs="1"/>
+<xs:element name="Timestamp" type="dpdr:timestamp" minOccurs="1" maxOccurs="1"/>
+</xs:sequence>
+</xs:complexType>
+
+----- page 12 -----
+V2026-1
+<xs:complexType name="DPDR_Type">
+<xs:sequence>
+<xs:element name="EntityUserResult" type="dpdr:EntityUserResult_Type" minOccurs="1" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="EntityUserResult_Type">
+<xs:sequence>
+<xs:element name="IN" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="LastName" type="dpdr:nameType" minOccurs="0" maxOccurs="1"/>
+<xs:element name="FirstName" type="dpdr:nameType" minOccurs="0" maxOccurs="1"/>
+<xs:element name="BirthDate" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="PlaceOfBirth" type="dpdr:nameType" minOccurs="0" maxOccurs="1"/>
+<xs:element name="UserRefId" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="ContactDetails" type="dpdr:ContactDetails_Type" minOccurs="0" maxOccurs="1"/>
+<xs:element name="ReconciliationStatus" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:integer">
+<xs:enumeration value="0"/>
+<xs:enumeration value="1"/>
+<xs:enumeration value="2"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="ReportStates" type="dpdr:ReportStates_Type" minOccurs="0" maxOccurs="1"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="ContactDetails_Type">
+<xs:sequence>
+<xs:element name="PostalAddress" type="dpdr:PostalAddress_Type" minOccurs="0" maxOccurs="1"/>
+<xs:element name="EmailAddress" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="PhoneNumber" type="xs:string" minOccurs="0" maxOccurs="1" />
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="PostalAddress_Type">
+<xs:sequence>
+<xs:element name="Street1" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="Street2" type="xs:string" minOccurs="0" maxOccurs="1" />
+
+----- page 13 -----
+V2026-1
+<xs:element name="PostalCode" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="City" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="Country" type="xs:string" minOccurs="0" maxOccurs="1"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="ReportStates_Type">
+<xs:sequence>
+<xs:element name="ReportState" minOccurs="0" maxOccurs="unbounded">
+<xs:simpleType>
+<xs:restriction base="xs:string"/>
+</xs:simpleType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+<xs:simpleType name="timestamp">
+<xs:restriction base="xs:string">
+<xs:pattern value="\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d{1,6}"/>
+</xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="uuidType">
+<xs:restriction base="xs:string">
+<xs:pattern value="[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}"/>
+</xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="nameType">
+<xs:restriction base="xs:string">
+</xs:restriction>
+</xs:simpleType>
+</xs:schema>
+
+----- page 14 -----
+V2026-1
+ANNEXE 4 : SCHEMA XSD - FICHIER DES UTILISATEURS
+A PRELEVER
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:dpra="urn:UCN:ties:dpra" xmlns:stf="urn:UCN:ties:dprastf" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="urn:UCN:ties:dpra" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="DPRA_UCN">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="MessageSpec" type="dpra:MessageSpec_Type" minOccurs="1" maxOccurs="1"/>
+<xs:element name="DPRABody" type="dpra:DPRA_Type" minOccurs="1" maxOccurs="1"/>
+</xs:sequence>
+<xs:attribute name="version" use="required">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:minLength value="0"/>
+<xs:maxLength value="10"/>
+<xs:pattern value="\d+.\d+"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:attribute>
+</xs:complexType>
+</xs:element>
+<xs:complexType name="MessageSpec_Type">
+<xs:sequence>
+<xs:element name="MessageType" minOccurs="1" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:enumeration value="DPRA"/>
+<xs:enumeration value="DPRASB"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="PlatformId" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="ReportingPeriod" type="xs:string" minOccurs="0" maxOccurs="1"/>
+<xs:element name="SequenceNumber" type="xs:string" minOccurs="0" maxOccurs="1"/>
+<xs:element name="MessageRefId" type="xs:string" minOccurs="0" maxOccurs="1"/>
+<xs:element name="ReceptionDate" type="dpra:timestamp" minOccurs="1" maxOccurs="1"/>
+<xs:element name="UrssafRef" type="dpra:uuidType" minOccurs="1" maxOccurs="1"/>
+
+----- page 15 -----
+V2026-1
+<xs:element name="Timestamp" type="dpra:timestamp" minOccurs="1" maxOccurs="1"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="DPRA_Type">
+<xs:sequence>
+<xs:element name="EntityUserRate" type="dpra:EntityUserRate_Type" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="EntityUserRate_Type">
+<xs:sequence>
+<xs:element name="IN" type="xs:string" minOccurs="0" maxOccurs="1"/>
+<xs:element name="LastName" type="dpra:nameType" minOccurs="0" maxOccurs="1"/>
+<xs:element name="FirstName" type="dpra:nameType" minOccurs="0" maxOccurs="1"/>
+<xs:element name="BirthDate" type="xs:string" minOccurs="0" maxOccurs="1"/>
+<xs:element name="PlaceOfBirth" type="dpra:nameType" minOccurs="0" maxOccurs="1"/>
+<xs:element name="UserRefId" type="xs:string" minOccurs="0" maxOccurs="1"/>
+<xs:element name="ContactDetails" type="dpra:ContactDetails_Type" minOccurs="0" maxOccurs="1"/>
+<xs:element name="Rate" type="dpra:Rate_Type" minOccurs="0" maxOccurs="unbounded">
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="ContactDetails_Type">
+<xs:sequence>
+<xs:element name="PostalAddress" type="dpra:PostalAddress_Type" minOccurs="0" maxOccurs="1"/>
+<xs:element name="EmailAddress" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="PhoneNumber" type="xs:string" minOccurs="0" maxOccurs="1" />
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="PostalAddress_Type">
+<xs:sequence>
+<xs:element name="Street1" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="Street2" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="PostalCode" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="City" type="xs:string" minOccurs="0" maxOccurs="1" />
+<xs:element name="Country" type="xs:string" minOccurs="0" maxOccurs="1" />
+</xs:sequence>
+</xs:complexType>
+
+----- page 16 -----
+V2026-1
+<xs:complexType name="Rate_Type">
+<xs:sequence>
+<xs:element name="Code" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:string">
+<xs:pattern value="[a-zA-Z0-9]{4}"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+<xs:element name="Value" minOccurs="0" maxOccurs="1">
+<xs:simpleType>
+<xs:restriction base="xs:decimal">
+<xs:pattern value="\d{1,2}\.\d{2,3}"/>
+</xs:restriction>
+</xs:simpleType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+<xs:simpleType name="timestamp">
+<xs:restriction base="xs:string">
+<xs:pattern value="\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d{1,6}"/>
+</xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="uuidType">
+<xs:restriction base="xs:string">
+<xs:pattern value="[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}"/>
+</xs:restriction>
+</xs:simpleType>
+<xs:simpleType name="nameType">
+<xs:restriction base="xs:string">
+</xs:restriction>
+</xs:simpleType>
+</xs:schema>

@@ -1,0 +1,60 @@
+
+----- page 1 -----
+Dispositif de prélèvement à la source des cotisations sociales
+des auto-entrepreneurs par les plateformes numériques
+Chiffre d’Affaires
+Fiche pratique n°03 / VFR-2026-1
+Le chiffre d’affaires correspond à la somme des ventes ou prestations dont le versement à l’utilisateur a été réalisé en [M].
+Les ventes ou prestations qui ont été réalisées en [M] mais qui ne seront versées à l’utilisateur que le mois suivant (ou plus tard) ne
+sont pas à prélever en [M].
+C’est le mois de versement à l’utilisateur, directement sur son compte bancaire ou sur son porte-monnaie électronique, qui est à
+prendre en compte pour le calcul et le prélèvement des cotisations sociales dues au titre de ce mois.
+Les pourboires reçus, ainsi que les frais engagés s’ils sont facturés avec la vente ou la prestation, sont inclus dans le chiffre
+d’affaires.
+Le chiffre d’affaires est hors taxes c’est à dire hors TVA
+Les plateformes qui ne sauraient pas identifier si le prix de la vente ou de la prestation incluait ou non de la TVA, et à quel montant,
+devront l’indiquer lors de la déclaration mensuelle à l’Urssaf du chiffre d’affaires réalisé par l’utilisateur. Voir aussi fiche pratique
+n°04 sur la TVA.
+LE CHIFFRE D’AFFAIRES : LA BASE DE CALCUL DU PRÉLÈVEMENT À LA SOURCE
+Les cotisations sociales d’un auto-entrepreneur se calculent sur la base du chiffre d’affaires encaissé le mois [M] par l’utilisateur (auto-entrepreneur),
+auquel il faut appliquer le taux de prélèvement communiqué par l’Urssaf au titre de ce même mois [M]. Le prélèvement à la source ne change pas le chiffre
+d'affaires soumis à cotisations sociales : c’est le même chiffre d’affaires qui doit aujourd’hui être déclaré par l’auto-entrepreneur directement à l’Urssaf.
+Cotisations sociales à prélever par la plateforme = Chiffre d’affaires réalisé par l’utilisateur x Taux de prélèvement communiqué par l’Urssaf
+COMPOSITION
+DU CHIFFRE
+D’AFFAIRES
+➔
+!
+Aucune charge ou dépense n'est déductible du chiffre d'affaires, à l’exception des débours(1). A titre d’exemple, les charges ou dépenses suivantes ne sont pas
+déductibles :
+•
+Les commissions facturées par la plateforme à l’utilisateur (auto-entrepreneur). Si la commission est facturée par la plateforme au client, elle n’a pas à être incluse dans le
+chiffre d’affaires de l’utilisateur
+•
+Les différents frais engagés, facturés ou non avec la vente ou la prestation, de matériel (achat ou location), d'emballage, d'expédition et de livraison, de montage ou
+installation, de téléphone, d'électricité, de péages, les indemnités kilométriques, les frais d'assurance, les prestations de ménage pour les locations, ou encore les frais
+de ménage éventuel lors d’une course VTC, ...
+(1)Les débours sont une avance de frais, au nom et pour le compte du client, qui doit être refacturée au client pour le montant exact engagé (pas de refacturation forfaitaire). La facture originelle
+doit être au nom du client. Si ces conditions sont respectées, les débours ne sont pas à inclure dans le chiffre d'affaires.
+
+----- page 2 -----
+Dispositif de prélèvement à la source des cotisations sociales
+des auto-entrepreneurs par les plateformes numériques
+Chiffre d’Affaires
+Fiche pratique n°03 / VFR-2026-1
+•
+Chiffre d'affaires ou recettes hors taxes (avant abattement forfaitaire pour frais et charges)
+o Article 50-0 - Code général des impôts - Légifrance
+o Article 102 ter - Code général des impôts – Légifrance
+•
+Instructions fiscales du Bofip sur la détermination du chiffre d'affaires ou des recettes à retenir (chiffre d'affaires ou recettes encaissées sur la
+période de référence)
+o Pour la constitution du chiffre d’affaires et la notion de débours BOI-BIC-DECLA-10-40-20 - BIC - Régimes d'imposition et obligations déclaratives - Versement
+forfaitaire libératoire de l'impôt sur le revenu dans le cadre du régime de l'auto-entrepreneur - Fonctionnement du dispositif | bofip.impots.gouv.fr § 90
+o Pour les BIC BOI-BIC-DECLA-10-10-20 - BIC - Régimes d'imposition et obligations déclaratives - Détermination des chiffres d'affaires annuels | bofip.impots.gouv.fr
+o Pour les BNC BOI-BNC-DECLA-20-10 - BNC - Régime déclaratif spécial - Champ d'application | bofip.impots.gouv.fr
+•
+Inclusion dans le chiffre d'affaires imposable des « frais accessoires aux livraisons de biens ou prestations de services tels que commissions,
+intérêts, frais d'emballage, de transport et d'assurance demandés aux clients »
+o Article 267 - Code général des impôts - Légifrance
+LE CHIFFRE D’AFFAIRES : CADRE JURIDIQUE

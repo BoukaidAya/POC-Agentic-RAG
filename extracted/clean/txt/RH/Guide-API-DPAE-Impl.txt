@@ -1,0 +1,205 @@
+
+----- page 1 -----
+Au service de notre protection sociale
+Guide d'implémentation de l'API
+L'API DPAE
+
+----- page 2 -----
+PUBLICATION
+VERSION
+OBJET(S) DE L’ÉVOLUTION
+17/07/2015
+V 1.0
+Version de référence et diffusion des éléments spécifiques à la DPAE.
+30/03/2017
+V 1.1
+Evolution relative à l’ajout de la balise « url » aux listes des retours.
+
+----- page 3 -----
+INTRODUCTION
+Objectif du document
+Documents en référence
+SERVICES DE L’API DPAE
+Service de dépôt d'une DPAE
+CONTRAINTES D’EXPLOITATION
+Période de rétention des retours
+ADRESSE DES SERVICES
+Table d'adressage des services
+SOMMAIRE
+
+----- page 4 -----
+OBJECTIF DU DOCUMENT
+Ce document est le guide d’implémentation à destination de tous les dispositifs de paie (logiciels, concentrateurs,
+solutions SaaS...) souhaitant s’interfacer automatiquement avec le SI DPAE. L’objectif est de spécifier les services de
+l’API afin de permettre aux éditeurs d’automatiser le dépôt des déclarations, la gestion des retours (suivi de
+l’avancement et téléchargement des retours).
+Ce document s’adresse :
+↘ aux éditeurs de logiciels (membres SDDS, pilotes, etc.) ;
+↘ aux concentrateurs et assimilés (portails déclaratifs, solutions SaaS).
+DOCUMENTS EN RÉFÉRENCE
+Ce paragraphe identifie les livrables qu’il est utile ou nécessaire d’avoir en référence pour l’implémentation des
+services de l’API DPAE.
+N°
+TITRE DU DOCUMENT
+DESCRIPTION DU DOCUMENT
+VERSION
+[1]
+Dessin d’enregistrement DPAE
+[2]
+DSN_Guide-implementation-API
+Documentation de l’API DSN disponible sur le site dsn-info.fr
+V3.5
+[3]
+dsn_bilans_v01r06.xsd
+Implémentation du format harmonisé
+[4]
+[5]
+[6]
+API DPAE
+Le mode API DPAE est entièrement compatible avec le mode API disponible pour la DSN. Ceci doit permettre à un
+éditeur pratiquant la DSN en mode API d’atteindre facilement la mise en œuvre d’un mode machine pour la DPAE.
+Les modifications par rapport au document édité par le GIP-MDS pour la DSN ne portent pas sur les interfaces du
+mode machine mais sur les particularités d’adressage et d’éléments échangés qui sont nécessairement adaptés à la
+DPAE.
+Ce document précise donc les particularités par rapport au document de référence API DSN dans le contexte
+propre à la téléprocédure de la DPAE.
+Il est important de noter que dans cette version, comme pour la DSN, la balise <url> est ajoutée aux listes des
+retours (cf document [2] §3.3.4).
+DISPONIBILITÉ DES RETOURS PAR ENVIRONNEMENTS
+TYPE DU RETOUR
+CODE
+ORIGINE
+TYPE "TEST"
+TYPE "RÉEL"
+AEE
+Avis de rejet
+AR
+SI DPAE
+X
+X
+Certificat de conformité
+Bilan d'anomalies
+CR
+X
+X
+Bilan d’Identification des Salariés
+~AR
+X
+Certificat de conformité des DPAE
+CR
+X
+INTRODUCTION
+
+----- page 5 -----
+SERVICE DE DÉPÔT D’UNE DPAE
+REQUÊTE
+SERVICES DE L’API DPAE
+Flux DPAE
+Contenu du flux DPAE tel qu’il est généré par le logiciel de paie.
+Les archives ne sont pas acceptées.
+Les formats DPAE XML et DPAE à plat sont acceptés
+O
+X Format DPAE à plat ou XML
+Exemple de requête minimale
+POST /deposer-dsn/1.0/ HTTP/1.1
+Host: depot.dpae-edi.urssaf.fr
+Authorization:
+Content-Type: text/plain
+Content-Encoding : gzip
+Content-Length: 4096
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<FR_DUE_Upload xmlns:cct="urn:oasis:names:tc:ubl:corecomponentTypes:1.0:0.70"
+xmlns:rxdt="http://www.repxml.org/DataTypes"
+xmlns:rxorg="http://www.repxml.org/Organization"
+xmlns:rxpadr="http://www.repxml.org/PostalAddress"
+xmlns:rxpers="http://www.repxml.org/Person_Identity"
+xmlns:rxphadr="http://www.repxml.org/PhoneAddress"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" >
+<FR_DUE_Upload.Test.Indicator>120</FR_DUE_Upload.Test.Indicator>
+<FR_DuesGroup>
+<FR_Employer>
+<FR_EmployerIdentity>
+<rxorg:FR_Organization.SIRET.Identifier>99999999999999</rxorg:FR_Organization.SIRE
+T.Identifier>
+<rxorg:FR_Organization.APE.Code>8110Z</rxorg:FR_Organization.APE.Code>
+</FR_EmployerIdentity>
+<FR_Employer.URSSAF.Code>257</FR_Employer.URSSAF.Code>
+<FR_EmployerAddress>
+<rxpadr:FR_PostalAddress.StreetDesignation.Text>44 rue DES
+TEST</rxpadr:FR_PostalAddress.StreetDesignation.Text>
+<rxpadr:FR_PostalAddress.Town.Text>CAEN</rxpadr:FR_PostalAddress.Town.Text>
+<rxpadr:FR_PostalAddress.Postal.Code>14000</rxpadr:FR_PostalAddress.Postal.Code>
+</FR_EmployerAddress>
+<FR_EmployerContact>
+
+----- page 6 -----
+<FR_PhoneNumber>
+<rxphadr:FR_PhoneAddress.PhoneNumber.Text>0000000000</rxphadr:FR_PhoneAddress.Phon
+eNumber.Text>
+</FR_PhoneNumber>
+</FR_EmployerContact>
+</FR_Employer>
+<FR_EmployeeGroup>
+<FR_Employee>
+<FR_EmployeeIdentity>
+<rxpers:FR_PersonIdentity.Surname.Text>TEST</rxpers:FR_PersonIdentity.Surname.Text
+>
+<rxpers:FR_PersonIdentity.ChristianName.Text>Alain</rxpers:FR_PersonIdentity.Chris
+tianName.Text>
+<rxpers:FR_PersonIdentity.Sex.Code>1</rxpers:FR_PersonIdentity.Sex.Code>
+<rxpers:FR_NNI>
+<rxpers:FR_NNI.NIR.Identifier>1000000000000</rxpers:FR_NNI.NIR.Identifier>
+<rxpers:FR_NNI.NIRKey.Text>99</rxpers:FR_NNI.NIRKey.Text>
+</rxpers:FR_NNI>
+<rxpers:FR_Birth>
+<rxpers:FR_Birth.Date>1970-01-01</rxpers:FR_Birth.Date>
+<rxpers:FR_Birth.Town.Text>PARIS</rxpers:FR_Birth.Town.Text>
+</rxpers:FR_Birth>
+</FR_EmployeeIdentity>
+<FR_EmployeeComplement>
+<FR_EmployeeComplement.Birth_Department.Code>75</FR_EmployeeComplement.Birth_Depar
+tment.Code>
+</FR_EmployeeComplement>
+</FR_Employee>
+<FR_Contract>
+<FR_Contract.StartContract.Date>2015-07-
+17</FR_Contract.StartContract.Date>
+<FR_Contract.StartContract.Time>12:30:00</FR_Contract.StartContract.Time>
+<FR_Contract.EndContract.Date>2015-09-
+15</FR_Contract.EndContract.Date>
+<FR_Contract.Nature.Code>CDI</FR_Contract.Nature.Code>
+<FR_Contract.HealthService.Text>387</FR_Contract.HealthService.Text>
+</FR_Contract>
+</FR_EmployeeGroup>
+</FR_DuesGroup>
+</FR_DUE_Upload>
+Le nom de la ressource est bien /deposer-dsn, même dans le contexte dpae.
+L’exemple ne tient pas compte des diverses transformations appliquées au message (gzip, chunk, ssl...).
+
+----- page 7 -----
+CONTRAINTES D’EXPLOITATION
+PÉRIODE DE RÉTENTION DES RETOURS
+Les données de suivi des retours sont disponibles via le service de consultation selon les mêmes règles d’historique
+que le tableau de bord (13 mois).
+Les retours disponibles au téléchargement ont une période de rétention de 3 mois par le SI DPAE.
+Au-delà, les retours sont purgés et ne sont pas archivés par le SI DPAE.
+ADRESSE DES SERVICES
+TABLE D’ADRESSAGE DES SERVICES
+Les concentrateurs doivent préciser le port 8443 dans l’url des services de dépôt,
+consultation et téléchargement (pas pour le service d’authentification).
+SERVICE
+URL
+Authentification
+https://mon.urssaf.fr/authentifier_dpae
+Dépôt
+https://depot.dpae-edi.urssaf.fr
+Retours – Consultation
+https://consultation.dpae-edi.urssaf.fr
+Retours – Téléchargement
+https://telechargement.dpae-edi.urssaf.fr
+
+----- page 8 -----
+↑ →
+PLUS D’INFORMATIONS
+www.urssaf.fr
+Acoss/Dicom : NAT/5492/oct. 2021/ API DPAE : Guide d'implémentation de l'API - Illustrations : ©Adobe Stock

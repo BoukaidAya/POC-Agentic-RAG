@@ -1,0 +1,1256 @@
+
+----- page 1 -----
+GUIDE DU DECLARANT
+DES COTISATIONS
+DE LA CNIEG
+Connaître les cotisations
+Déclarer en DSN
+Version 3.0 – juillet 2023
+
+----- page 2 -----
+Contexte et enjeux
+Contexte et enjeux
+L'assujettissement
+Le calcul de la cotisation
+RDC - Vieillesse
+L'assujettissement
+Le calcul de la cotisation
+Petit pool
+RS - Vieillesse spécifique
+L'assujettissement
+Le calcul de la cotisation
+PCI – Complémentaire invalidité
+L'assujettissement
+Le calcul de la cotisation
+Simplifications du process déclaratif
+Les mesures de simplification
+L'assujettissement
+Le calcul de la cotisation
+RS - Autres risques
+
+----- page 3 -----
+En savoir plus...
+47 Rôle de l’Urssaf
+48 Rôle de la CNIEG
+49 Référentiels et annexes réglementaires
+50 Toutes les informations sur le transfert des cotisations CNIEG
+51 Toutes les informations sur la déclaration en DSN
+52 Glossaire
+Synthèse
+38 Les cotisations
+38 Les modalités déclaratives et de versement
+39 Les données déclaratives avant et après le 01/01/2022
+44 La synthèse des données déclaratives après la réforme
+des retraites du 1er septembre 2023
+Régularisations en DSN
+Contribution DSPNR
+L'assujettissement
+Le calcul de la contribution
+Les régularisations en DSN avant et après le 01/01/2022
+
+----- page 4 -----
+Les
+employeurs
+concourent
+au
+financement du régime de sécurité
+sociale des industries électriques et
+gazières (IEG) par les cotisations
+suivantes :
+- Cotisation vieillesse régime de droit
+commun (RDC) ;
+- Cotisation
+spécifique
+vieillesse
+(Régime spécial RS)
+- Cotisation autres risques (Régime
+spécial RS) ;
+- Cotisation prestation complémentaire
+invalidité (PCI) ;
+- Cotisation Petit Pool ;
+- Contribution DSPNR.
+La loi n° 2019-1446 du 24 décembre
+2019 de financement de la sécurité
+sociale
+pour
+transfère
+le
+recouvrement et le contrôle de ces
+cotisations IEG aux organismes de
+recouvrement
+du
+régime
+général
+(Urssaf) à compter du 1er janvier 2022.
+Cette évolution comporte dès 2022
+plusieurs
+avantages
+pour
+les
+entreprises et en particulier :
+- une plus grande simplicité et lisibilité
+dans le dépôt de la déclaration et le
+paiement
+de
+la
+cotisation
+par
+l’utilisation d’un vecteur déclaratif
+unique : la DSN ;
+- un
+interlocuteur
+unique
+pour
+le
+recouvrement de vos cotisations et le
+traitement
+de
+vos
+demandes :
+l’Urssaf.
+Ce guide vous accompagne dans
+vos démarches auprès de l’Urssaf.
+Bonne lecture !
+
+----- page 5 -----
+CONTEXTE ET ENJEUX
+
+----- page 6 -----
+L’article 18 de la loi n°2019-1446 du 24 décembre 2019 de financement de la
+sécurité sociale pour 2020 organise le transfert du recouvrement des cotisations
+de sécurité sociale des régimes salariés vers la branche recouvrement du régime
+général. Le calendrier fixé par le législateur prévoit pour la CNIEG un transfert du
+recouvrement des cotisations et contributions dues au titre des périodes d’activité
+courant à compter du 1er janvier 2022.
+Les cotisations et contributions concernées par le transfert sont les cotisations et
+contributions légales :
+-
+Cotisation vieillesse régime de droit commun (RDC) ;
+-
+Cotisation spécifique vieillesse et autres risques (Régime spécial RS) ;
+-
+Contribution DSPNR.
+La CNIEG, par voie conventionnelle, délègue également le recouvrement des
+cotisations extralégales :
+-
+Cotisation prestation complémentaire invalidité (PCI) ;
+-
+Cotisation et déduction Petit Pool ;
+La Contribution Tarifaire d’Acheminement (CTA) n’est pas transférée aux Urssaf ;
+son recouvrement reste de la responsabilité de la CNIEG.
+Il n’y a pas de reprise de l'antériorité des créances. La CNIEG conserve les actes
+de gestion afférents au recouvrement de ses cotisations pour les périodes
+antérieures au transfert de recouvrement aux Urssaf.
+Le décret n° 2021-1877 du 29 décembre 2021 relatif au transfert du recouvrement
+des cotisations de la Caisse nationale des industries électriques et gazières est
+paru au JO du 30 décembre 2021.
+Les évolutions suite à l’application de la réforme des retraites pour les agents IEG
+à compter du 1er septembre 2023 :
+Les salariés statutaires IEG sont désormais scindés en deux populations :
+- « statutaires RS » embauchés avant le 1/9/23 (redevables du risque vieillesse
+au régime spécial IEG)
+- « statutaires RG » embauchés à partir du 1/9/23 (hors mutation intra-régime IEG)
+(redevables du risque vieillesse au régime général).
+La cotisation RS est séparée en 2 taux, l’un pour le risque spécifique « Vieillesse
+», et l’autre pour les « autres risques » que sont l’invalidité, l’ATMP et le décès. A
+Contexte et enjeux
+
+----- page 7 -----
+appliquer à compter de la paie de septembre 2023 (DSN exigible le 5 ou 15
+octobre 2023)
+
+----- page 8 -----
+.
+COTISATION VIEILLESSE
+RÉGIME DE
+DROIT COMMUN
+
+----- page 9 -----
+Quels établissements et entreprises sont redevables
+de la cotisation vieillesse
+(régime de droit commun - RDC) ?
+Les entreprises employant des salariés statutaires, tels que définis à l’article
+1er du statut national du personnel des IEG (cf. décret n° 46-1541 du 22 juin
+1946) et embauchés avant le 1er septembre 2023 (salariés statutaires RS
+(régime spécial) sont redevables de cette cotisation
+Les salariés « statutaires RS » faisant l’objet d’une mutation intra-régime
+IEG à compter du 1er septembre 2023 restent des « statutaires RS ». Ils
+restent également redevables de cette cotisation.
+Les embauchés à compter 1er septembre 2023, appelés « statutaires RG
+» (Régime Général) ne sont pas redevables de cette cotisation
+spécifique au régime spécial ; ils sont redevables de la cotisation
+vieillesse du régime général.
+La cotisation vieillesse RDC correspond à la cotisation à laquelle serait assujettie
+l’entreprise dans les conditions de droit commun. Son taux est établi en appliquant
+les taux de droit commun sur l’assiette définie à l’article L. 242-1 du code de la
+sécurité sociale et en faisant le rapport entre le montant des cotisations ainsi
+obtenu et l’assiette du régime spécial (RS) visée à l’article 2 du décret n° 2005-
+278 du 24 mars 2005.
+L’assiette RS se compose uniquement de la rémunération principale de branche
+alors que l’assiette L. 242-1 inclut diverses rémunérations accessoires telles que
+les primes.
+L’assujettissement
+
+----- page 10 -----
+Comment l'assiette est-elle déterminée ?
+Cette cotisation est déterminée sur la base de l’assiette du régime spécial telle
+que définie à l’article 2 du décret n° 2005-278 du 24 mars 2005, à savoir la
+rémunération principale (13ème mois inclus) hors primes et avantages statutaires.
+Comment le taux est-il déterminé ?
+Le taux employeur de la cotisation vieillesse RDC est déterminé par la CNIEG et
+fixé par délibération du conseil d’administration de la CNIEG, chaque année, à la
+fin du premier trimestre civil.
+Le taux salarial est fixé par décret et ne relève pas de la compétence de la CNIEG
+(décret n° 2006-110 du 31 janvier 2006).
+Des mesures de simplification sont adoptées afin de permettre la suppression des
+régularisations annuelle et infra annuelle. Cela conduit à une modification des
+règles de calcul du taux applicable. Les nouvelles règles de calcul du taux
+applicable intègrent désormais les éléments qui faisaient l’objet de la double
+régularisation. Ainsi, il n’y a plus de taux provisionnel.
+Comment retrouver le taux ?
+Le taux paraît :
+-
+par décret pour la part salariale (Décret applicable au 1er janvier 2022 :
+décret n° 2006-110 du 31 janvier 2006, dans sa version modifiée par le
+décret n° 2014-1531 du 17 décembre 2014)
+-
+par délibération pour la part patronale (publié à la fin du printemps).
+Le taux de la cotisation vieillesse RDC est consultable sur le site urssaf.fr dans
+l’espace dédié aux IEG.
+Le taux de la cotisation vieillesse RDC est également consultable sur le site
+cnieg.fr
+Le calcul de la cotisation
+Il n’y aura pas de notification du taux de la cotisation vieillesse de droit
+commun (RDC) de la part de l’Urssaf aux entreprises IEG.
+
+----- page 11 -----
+Quelle est la période de validité du taux applicable ?
+À compter de 2022, le taux est applicable sur les rémunérations versées au titre
+d’une activité se rapportant à la période comprise du 01/05/N au 30/04/N+1.
+
+----- page 12 -----
+COTISATION
+SPÉCIFIQUE
+VIEILLESSE
+
+----- page 13 -----
+Quels établissements et entreprises sont redevables
+de la cotisation spécifique vieillesse (régime spécifique –
+RS) ?
+Les entreprises employant des salariés statutaires, tels que définis à l’article 1er
+du statut national du personnel des IEG (cf. décret n° 46-1541 du 22 juin 1946) et
+embauchés avant le 1er septembre 2023 (salariés statutaires
+RS (régime spécial) sont redevables de cette cotisation.
+Les salariés « statutaires RS » faisant l’objet d’une mutation intra-régime
+IEG à compter du 1er septembre 2023 restent des « statutaires RS ». Ils
+restent également redevables de cette cotisation.
+Les embauchés à compter 1er septembre 2023, appelés « statutaires RG
+» (Régime Général) ne sont pas redevables de cette cotisation
+spécifique au régime spécial ; ils sont redevables uniquement de la
+cotisation vieillesse du régime général.
+Cette cotisation patronale finance les droits vieillesse constitués depuis le
+1er janvier 2005,
+L’assujettissement
+
+----- page 14 -----
+Comment l'assiette est-elle déterminée ?
+Cette cotisation est déterminée sur la base de l’assiette du régime spécial (cf art.
+2 du décret n° 2005-278 du 24 mars 2005).
+L’assiette RS se compose uniquement de la rémunération principale de branche
+alors que l’assiette L. 242-1 inclut diverses rémunérations accessoires telles que
+les primes.
+Comment le taux est-il déterminé ?
+Le taux de la cotisation spécifique vieillesse (RS) est déterminé par la CNIEG et
+fixé par délibération du conseil d’administration de la CNIEG, chaque année, à la
+fin du premier trimestre civil.
+Des mesures de simplification sont adoptées afin de permettre la suppression des
+régularisations annuelle et infra annuelle. Cela conduit à une modification des
+règles de calcul du taux applicable. Les nouvelles règles de calcul du taux
+applicable intègrent désormais les éléments qui faisaient l’objet de la double
+régularisation. Ainsi, il n’y a plus de taux provisionnel.
+Comment retrouver le taux ?
+Le taux de la cotisation spécifique vieillesse (RS) est consultable sur le site
+urssaf.fr dans l’espace dédié aux IEG.
+Le taux de la cotisation spécifique vieillesse (RS) est également consultable sur le
+site cnieg.fr.
+Le calcul de la cotisation
+Il n’y aura pas de notification du taux de la cotisation spécifique vieillesse
+(RS) de la part de l’Urssaf aux entreprises IEG.
+
+----- page 15 -----
+Quelle est la période de validité du taux applicable ?
+À compter de 2022, le taux est applicable sur les rémunérations versées au titre
+d’une activité se rapportant à la période comprise du 01/05/N au 30/04/N+1.
+> Il existe un cas particulier pour cette cotisation, qui concerne des situations
+où le salarié peut cotiser dans le régime IEG, mais où ce versement de
+cotisations n'est pas possible si ce salarié était au régime général.
+Les cas que l'on peut rencontrer sont des salariés en situation :
+- Congés sans solde exceptionnel, congés sans solde sabbatique et congé
+pour fonction politique ou syndicale, sur lequel le salarié peut cotiser s'il le
+souhaite.
+- Des congés spécifiques de la branche des IEG : (Mi-temps attractif : le salarié
+travaille à 50% et il est payé à 80 % et cotise à 80 % ; le CEJR, etc.).
+Le calcul du taux de cotisation pour ce cas particulier cumule le taux de la
+cotisation vieillesse du régime de droit commun et le taux standard de la
+cotisation spécifique vieillesse et autres risques et doit être déclarée en DSN
+avec les CTP 210 et CTP 215
+x
+Cas particuliers
+
+----- page 16 -----
+COTISATION
+SPECIFIQUE
+AUTRES RISQUES
+
+----- page 17 -----
+Quels établissements et entreprises sont redevables
+de la cotisation autres risques (régime spécifique – RS) ?
+Les entreprises employant des salariés statutaires, tels que
+définis à l’article 1er du statut national du personnel des IEG (cf.
+décret n° 46-1541 du 22 juin 1946) sont redevables de cette
+cotisation.
+Les embauchés avant le 1er septembre 2023 ou les embauchés à
+compter 1er septembre 2023 sont redevables de cette cotisation.
+Cette cotisation patronale finance les autres risques pour lesquels
+la CNIEG verse des prestations en espèces (AT/MP, invalidité,
+décès) et les coûts de gestion administrative de la CNIEG.
+L’assujettissement
+
+----- page 18 -----
+Comment l'assiette est-elle déterminée ?
+Cette cotisation est déterminée sur la base de l’assiette du régime
+spécial (cf art. 2 du décret n° 2005-278 du 24 mars 2005).
+L’assiette RS se compose uniquement de la rémunération
+principale de branche alors que l’assiette L. 242-1 inclut diverses
+rémunérations accessoires telles que les primes.
+Comment le taux est-il déterminé ?
+Le taux de la cotisation autres risques (RS) est déterminé par la
+CNIEG et fixé par délibération du conseil d’administration de la
+CNIEG, chaque année, à la fin du premier trimestre civil.
+Des mesures de simplification sont adoptées afin de permettre la
+suppression des régularisations annuelle et infra annuelle. Cela
+conduit à une modification des règles de calcul du taux applicable.
+Les nouvelles règles de calcul du taux applicable intègrent
+désormais les éléments qui faisaient l’objet de la double
+régularisation. Ainsi, il n’y a plus de taux provisionnel.
+Comment retrouver le taux ?
+Le taux de la cotisation autres risques (RS) est consultable sur le
+site urssaf.fr dans l’espace dédié aux IEG.
+Le taux de la cotisation autres risques (RS) est également
+consultable sur le site cnieg.fr.
+Le calcul de la cotisation
+Il n’y aura pas de notification du taux de la cotisation autres risques (RS) de
+la part de l’Urssaf aux entreprises IEG.
+
+----- page 19 -----
+Quelle est la période de validité du taux applicable ?
+À compter de 2022, le taux est applicable sur les rémunérations
+versées au titre d’une activité se rapportant à la période comprise
+du 01/05/N au 30/04/N+1.
+
+----- page 20 -----
+COTISATION
+PRESTATION
+COMPLÉMENT
+INVALIDITÉ
+
+----- page 21 -----
+Quels établissements et entreprises sont redevables
+de la cotisation prestation complément invalidité (PCI) ?
+Les entreprises employant des salariés statutaires, tels que définis à l’article 1er
+du statut national du personnel des IEG (cf. décret n° 46-1541 du 22 juin 1946),
+sont redevables de cette cotisation.
+Cette cotisation patronale finance un dispositif de branche instauré par l’accord
+collectif de la branche des IEG du 24 avril 2008 : financement de la prestation
+complémentaire d’invalidité.
+Le recouvrement de la cotisation a été initialement confié à la CNIEG par
+convention, signée le 21 août 2008, conclue entre la CNIEG et les groupements
+d’employeurs des IEG.
+L’assujettissement
+
+----- page 22 -----
+Comment l'assiette est-elle déterminée ?
+Cette cotisation est déterminée sur la base de l’assiette du régime spécial (cf art.
+2 du décret n° 2005-278 du 24 mars 2005).
+L’assiette RS se compose uniquement de la rémunération principale de branche
+alors que l’assiette L.242-1 inclut diverses rémunérations accessoires telles que
+les primes.
+Comment le taux est-il déterminé ?
+Le taux de la cotisation prestation complémentaire d’invalidité (PCI) est déterminé
+par la CNIEG et fixé par délibération du conseil d’administration de la CNIEG,
+chaque année, à la fin du premier trimestre civil.
+Des mesures de simplification sont adoptées afin de permettre la suppression des
+régularisations annuelle et infra annuelle. Cela conduit à une modification des
+règles de calcul du taux applicable. À compter de 2022, les nouvelles règles de
+calcul du taux applicable intègrent désormais les éléments qui faisaient l’objet de
+la double régularisation. Ainsi, il n’y a plus de taux provisionnel.
+Comment retrouver le taux ?
+Le taux de la cotisation prestation complémentaire d’invalidité (PCI) est
+consultable sur le site urssaf.fr dans l’espace dédié aux IEG.
+Le taux de la cotisation prestation complémentaire d’invalidité (PCI) est également
+consultable sur le site cnieg.fr.
+Le calcul de la cotisation
+Il n’y aura pas de notification du taux de la cotisation prestation
+complémentaire d’invalidité (PCI) de la part de l’Urssaf aux entreprises IEG.
+
+----- page 23 -----
+Quelle est la période de validité du taux applicable ?
+À compter de 2022, le taux est applicable sur les rémunérations versées au titre
+d’une activité se rapportant à la période comprise du 01/05/N au 30/04/N+1.
+
+----- page 24 -----
+COTISATION
+PETIT POOL
+
+----- page 25 -----
+Quels établissements et entreprises sont redevables
+de la cotisation Petit pool ?
+Les entreprises adhérentes au Petit Pool, conformément aux dispositions prévues
+par l’article 2 bis du décret n° 2004-1354 du 10 décembre 2004, sont redevables
+de la cotisation petit pool.
+Ce mécanisme de solidarité intraprofessionnelle est financé par une cotisation
+spécifique dont sont redevables les seules entreprises adhérentes.
+Le Petit Pool concerne une partie des employeurs des IEG employant au
+maximum 2 000 salariés statutaires et n’ayant pas renoncé au bénéfice du
+dispositif.
+Cette cotisation est uniquement patronale.
+L’assujettissement
+
+----- page 26 -----
+Comment l'assiette est-elle déterminée ?
+Cette cotisation est déterminée sur la base de l’assiette du régime spécial (cf art.
+2 du décret n° 2005-278 du 24 mars 2005).
+L’assiette RS se compose uniquement de la rémunération principale de branche
+alors que l’assiette L.242-1 inclut diverses rémunérations accessoires telles que
+les primes.
+Comment le taux est-il déterminé ?
+Le taux de la cotisation Petit Pool est déterminé par la CNIEG dans le cadre de de
+l’arrêté des comptes chaque année, à la fin du premier trimestre civil, après avis
+du comité de suivi du Petit Pool.
+Le taux de la cotisation Petit Pool peut être modifié en cours d’année.
+Des mesures de simplification sont adoptées afin de permettre la suppression des
+régularisations annuelle et infra annuelle. Cela conduit à une modification des
+règles de calcul du taux applicable. À compter de 2022, les nouvelles règles de
+calcul du taux applicable intègrent désormais les éléments qui faisaient l’objet de
+la double régularisation. Ainsi il n’y a plus de taux provisionnel.
+Comment retrouver le taux ?
+Le taux de la cotisation Petit Pool est consultable sur le site urssaf.fr dans l’espace
+dédié aux IEG.
+Le taux de la cotisation Petit Pool est également consultable sur le site cnieg.fr.
+Il n’y aura pas de notification du taux de la cotisation Petit Pool de la part
+de l’Urssaf aux entreprises IEG.
+Le calcul de la cotisation
+
+----- page 27 -----
+Quelle est la période de validité du taux applicable ?
+À compter de 2022, le taux est applicable sur les rémunérations versées au titre
+d’une activité se rapportant à la période comprise du 01/05/N au 30/04/N+1.
+Comment appliquer le dispositif de réduction ?
+La réduction consiste pour le cotisant à déduire du montant de la cotisation due,
+les sommes dont il a assumé l’avance et qui sont à la charge du Petit Pool sur la
+période concernée (compensation).
+Ainsi l’employeur doit directement effectuer la déclaration des deux types de
+sommes dans le cadre des modalités déclaratives de la cotisation (application du
+CTP 955 pour la déclaration de la cotisation Petit Pool et du CTP 201 pour la
+déclaration de la réduction liée à la cotisation Petit Pool).
+
+----- page 28 -----
+Les mesures de simplification apportées
+avec le transfert au régime général pour les
+cotisations RDC, RS, PCI, Petit Pool
+Modification
+des
+modalités
+de
+recouvrement
+du
+différentiel entre le taux provisoire et le taux définitif
+La simplification du processus de recouvrement permet la suppression de la
+double régularisation en faveur d’un report du différentiel entre le taux provisoire
+et le taux définitif sur le taux de l’année en cours. La notion de taux provisoire et
+de taux définitif disparaît au profit d’un seul taux qui englobe les régularisations de
+l’année précédente.
+Modification de la date de validité du taux du 01/05/N au
+30/04/N+1
+La simplification du processus de recouvrement permet la modification de la
+période de validité des taux pour être au plus proche de la date de la publication
+de l’arrêté des comptes de la CNIEG. La période de validité des taux ne court plus
+en année civile mais à compter du 01/05/N au 30/04/N+1.
+
+----- page 29 -----
+Rappel du processus déclaratif des cotisations CNIEG
+antérieur au 01/01/2022
+Processus déclaratif des cotisations CNIEG postérieur
+au 01/01/2022
+
+----- page 30 -----
+Régularisations en DSN
+des cotisations RDC, RS, PCI, Petit Pool :
+périodes avant et après le 1er janvier 2022
+Le principe de la régularisation reste inchangé. L’information devra être portée et
+adossée à la déclaration principale, à la prochaine date d’exigibilité. Cependant
+deux périodes sont à distinguer car le destinataire pourra être différent.
+> Pour effectuer une régularisation portant sur une période antérieure à 2022,
+l’information de la régularisation devra être destinée à la CNIEG (le bloc 22
+portant sur la régularisation devra contenir le Siret de la CNIEG)
+> Pour effectuer une régularisation portant sur une période courante à partir de
+2022, l’information de la régularisation devra être destinée à l’Urssaf (le bloc 22
+portant sur la régularisation devra contenir le Siret de l’Urssaf).
+De même le paiement devra être effectué en cohérence :
+> Un paiement concernant une régularisation portant sur une période antérieure à
+2022 devra être adressé à la CNIEG.
+> Un paiement concernant une régularisation portant sur une période courante à
+partir de 2022 devra être adressé à l’Urssaf. Ce dernier sera globalisé avec le
+paiement de la déclaration principale.
+Le paiement d’une régularisation portant sur une période antérieure à 2022
+devra être à destination de la CNIEG ; le montant ne devra pas être
+compensé avec le montant de la déclaration principale de la période, qui lui
+est à destination de l’Urssaf.
+x
+Bon à savoir
+
+----- page 31 -----
+Illustration en DSN :
+régularisation en mars 2022 d'un trop versé
+à un salarié en décembre 2021
+À maille agrégée :
+Mois M : Bloc « Versement organisme de protection sociale - S21.G00.20 » :
+période courante : mars 2022
+> Date de début de période de rattachement (S21.G00.20.006) : 01032022
+> Date de fin de période de rattachement (S21.G00.20.007) : 31032022
+Mois M : bloc « Bordereau de cotisation due - S21.G00.22 » : période courante :
+mars 2022
+> Identifiant Organisme de Protection Sociale (S21.G00.22.001) : Siret de
+l'Urssaf
+> Entité d'affectation des opérations (S21.G00.22.002) : Pseudo Siret dans le cas
+d’une population de salariés
+> Date de début de période de rattachement (S21.G00.22.003) : 01032022
+> Date de fin de période de rattachement (S21.G00.22.004) : 31032022
+> Montant total de cotisations (S21.G00.22.005) non renseigné
+Mois M : bloc « Cotisation agrégée - S21.G00.23 »
+> Code de cotisation (S21.G00.23.001) CTP 912
+> Qualifiant d'assiette (S21.G00.23.002) non renseigné
+> Taux de cotisation (S21.G00.23.003) non renseigné
+> Montant d'assiette (S21.G00.23.004) : XXX.XX
+> Montant de cotisation (S21.G00.23.005) non renseigné
+Mois M : bloc « Cotisation agrégée - S21.G00.23 »
+> Code de cotisation (S21.G00.23.001) CTP 913
+> Qualifiant d'assiette (S21.G00.23.002) non renseigné
+> Taux de cotisation (S21.G00.23.003) non renseigné
+> Montant d'assiette (S21.G00.23.004) : XXX.XX
+
+----- page 32 -----
+> Montant de cotisation (S21.G00.23.005)
+... à dupliquer pour les autres cotisations impactées.
+Mois M-3 : Bloc « Versement organisme de protection sociale - S21.G00.20 » :
+> Identifiant Organisme de Protection Sociale (S21.G00.20.001) : Siret de la
+CNIEG
+> Entité d’affectation des opérations (S21.G00.20.002) : CNIEG_COT_RDC
+> Montant du versement (S21.G00.20.005) : XXX.XX
+> Date de début de période de rattachement (S21.G00.20.006) : 01122021
+> Date de fin de période de rattachement (S21.G00.20.007) : 31122021
+Mois M-3 : bloc « Bordereau de cotisation due - S21.G00.22 » :
+régularisation M-3
+> Identifiant Organisme de Protection Sociale (S21.G00.22.001) : Siret CNIEG
+> Entité d'affectation des opérations (S21.G00.22.002) : CNIEG_COT_RDC
+> Date de début de période de rattachement (S21.G00.22.003) : 01122021
+> Date de fin de période de rattachement (S21.G00.22.004) : 31122021
+> Montant total de cotisations (S21.G00.22.005) : à déclarer en approche
+différentielle
+À maille nominative :
+Mois M : bloc « Base assujettie - S21.G00.78 » période courante : mars 2022
+> Code de base assujettie (S21.G00.78.001) : 02 / 03 / 15
+> Date de début de période de rattachement (S21.G00.78.002) : 01032022
+> Date de fin de période de rattachement (S21.G00.78.003) : 31032022
+> Montant de base assujettie (S21.G00.78.004) : À renseigner
+Mois M-3 : bloc « Base assujettie - S21.G00.78 » régularisation M-3
+> Code de base assujettie (S21.G00.78.001) : 02 / 03 / 15
+> Date de début de période de rattachement (S21.G00.78.002) : 01122021
+
+----- page 33 -----
+> Date de fin de période de rattachement (S21.G00.78.003) : 31122021
+> Montant de base assujettie : XXX.XX
+Selon les cas de régularisation, il peut s’avérer nécessaire de créer des blocs
+« Cotisation individuelle - S21.G00.81 »
+Mois M-3 : bloc « Cotisation individuelle – S21.G00.81 » régularisation M-3
+> Code de cotisation (S21.G00.81.001) : 034 / 035
+> Identifiant Organisme de Protection Sociale (S21.G00.81.002) : Siret de la
+CNIEG
+> Montant d'assiette (S21.G00.81.003) : à renseigner
+> Montant de cotisation (S21.G00.81.004) : à renseigner
+Déclaration des données individuelles :
+Les périodes de rattachement antérieures à la période d’emploi de janvier 2022 :
+la rubrique S21.G00.81.002 « Identifiant Organisme de protection Sociale » reste
+valorisée avec le SIRET CNIEG.
+Les périodes de rattachement à compter de la période d’emploi de janvier 2022 :
+la rubrique S21.G00.81.002 « Identifiant Organisme de protection Sociale » doit
+être valorisée avec le SIRET de l’Urssaf de gestion.
+NB : se référer à la fiche consigne CNIEG pour leurs attendus sur les données
+individuelles à compter de janvier 2022.
+
+----- page 34 -----
+CONTRIBUTION
+DSPNR
+
+----- page 35 -----
+Quelles sont les entreprises redevables
+de la contribution DSPNR ?
+> Les entreprises IEG listées dans le décret n° 2005-322 du 5 avril 2005
+Cette contribution a pour objet le financement, jusqu’à leur extinction, des droits
+spécifiques du régime de IEG constitués jusqu’au 31 décembre 2004 dans les
+entreprises IEG relevant à cette époque du secteur non régulé (ouvert à la
+concurrence).
+Une clé de répartition entre les entreprises concernées est établie sur la base
+de la masse salariale représentée par les salariés statutaires des IEG employés
+par ces entreprises à la date du 31 décembre 2004.
+L’assujettissement
+
+----- page 36 -----
+Comment l’assiette est-elle déterminée ?
+Cette contribution ne comporte pas d’assiette : répartition d’un montant,
+représentatif des droits retraite à financer par la CNIEG sur la période à échoir, à
+recouvrer selon les règles du décret de répartition.
+Comment le montant de la contribution est-il déterminé ?
+Le montant de la contribution DSPNR est déterminé annuellement par la CNIEG
+selon les règles du décret de répartition.
+Dans le cadre des mesures de simplifications qui permettent la suppression de la
+régularisation annuelle ; les montants trimestriels seront exigibles aux dates
+d’exigibilité des DSN du 5 et 15/07/N, 5 et 15/10/N, 5 et 15/01/N+1, 5 et 15/04/N+1
+La régularisation de la période de référence précédente sera imputée sur
+l’échéance des 5 et 15 juillet N (DSN au titre du mois de juin).
+Quelles sont les modalités de son recouvrement ?
+À compter du 1er janvier 2022, la contribution DSPNR doit être déclarée en DSN.
+Le recouvrement de la contribution DSPNR reste trimestriel.
+Le montant de la contribution DSPNR est notifié par l’Urssaf à l’entreprise IEG au
+niveau de son établissement siège, sur la base des données transmises par la
+CNIEG.
+La contribution DSPNR est recouvrée à la maille entreprise. Ainsi, si ce n’est pas
+l’établissement siège qui est le déclarant / payeur de cette contribution, l’entreprise
+IEG doit déclarer la contribution sur un autre établissement de son choix. Cette
+notification comprend les montants des échéances trimestrielles à déclarer dans
+la DSN ainsi que leurs dates d’exigibilité.
+Pour la période transitoire de la première année du transfert, les montants
+provisionnels des DSPNR au titre des 1er trimestre et 2ème trimestre 2022 seront
+notifiés par la CNIEG et à déclarer avec la DSN de décembre 2021 (exigible le 5
+et 15 janvier 2022), et la DSN de mars 2022 (exigible le 5 et 15 avril 2022).
+Le calcul de la contribution
+
+----- page 37 -----
+Comment retrouver le montant de la contribution ?
+Le montant de la DSPNR est notifié par l’Urssaf à l’établissement siège de
+l’entreprise IEG.
+Le montant de la DSPNR est également consultable sur le compte cotisant en
+ligne.
+Le montant de la DSPNR est notifié à l’établissement siège. Il est consultable sur
+le compte en ligne. Le montant de la DSPNR doit être déclaré trimestriellement
+dans la DSN mensuelle.
+Des mesures de simplification sont adoptées afin de permettre la suppression de
+la régularisation annuelle rétroactive. Cela conduit à un report du montant de la
+régularisation annuelle rétroactive. À compter de 2022, ce montant est imputé sur
+l’échéance du 3ème trimestre civil de l’exercice.
+Quelle est la période de validité de la notification ?
+Dans le cadre des mesures de simplification qui permettent la suppression de la
+régularisation annuelle, la notification annuelle portant les montants trimestriels de
+la DSPNR est émise en avril et indique les montants des trimestres 3 et 4 de
+l’année en cours (l’échéance du trimestre 3 intègre la régularisation de l’exercice
+précédent), ainsi que les trimestres 1 et 2 de l’année suivante.
+
+----- page 38 -----
+Synthèse des cotisations
+Cotisations
+Assiette
+Redevables
+Taux /
+montant
+Périodicité
+DSN
+CTP
+Cotisation
+vieillesse
+RDC
+Assiette
+Régime
+Spécial
+Ensemble des IEG
+Calculé tous
+les ans par
+la CNIEG
+Mensuelle
+CTP
+Cotisation
+vieillesse
+Mensuelle
+CTP
+CTP
+(cas
+particu
+lier)
+Cotisation
+autres
+risques (RS)
+CTP
+Cotisation
+complément
+invalidité
+(PCI)
+Mensuelle
+CTP
+Cotisation
+Petit Pool
+IEG adhérentes au
+Petit Pool
+Mensuelle
+CTP
+Déduction
+Petit Pool
+Population
+Petit Pool
+CTP 201 porteur
+du signe négatif
+Contribution
+DSPNR
+Répartition
+d’un
+montant
+selon les
+règles du
+décret de
+répartition
+Entreprises listées
+dans le décret
+de répartition
+Déterminé
+tous les ans
+par la
+CNIEG
+Trimestrielle
+CTP
+Les cotisations RDC, RS, PCI et Petit Pool doivent être déclarées et versées par
+tous les établissements de l’entreprise. Le versement des VLU, GE, TGE se fait à
+la maille entreprise (SIREN).
+La contribution DSPNR doit être déclarée et versée par un établissement unique ;
+l’établissement siège de préférence.
+Les modalités déclaratives et de versement
+
+----- page 39 -----
+Les consignes déclaratives en DSN sont données dans le guide Urssaf.
+La synthèse des données déclaratives
+avant (CNIEG) / après (Urssaf)
+transfert au 01/01/2022
+Déclaration des cotisations agrégées :
+Rubrique
+Détail
+Déclaration CNIEG
+jusqu'au 05-15 janvier
+2022 (hors DSPNR)
+Déclaration Urssaf
+à partir du 05-15 janvier 2022
+DSPNR
+Déclaration Urssaf
+à partir du 05-15 février 2022
+RDC, RS, PCI, POOL
+Bloc Versement Organisme de Protection Sociale S21.G00.20
+S21.G00.20.001
+Identifiant
+Organisme
+de Protection
+Sociale
+Siret de la CNIEG
+Siret de l'Urssaf
+S21.G00.20.002
+Entité
+d'affectation
+des opérations
+3 groupes de
+cotisations sont à verser
+à la CNIEG : -
+CNIEG_COT_RDC
+(équivalent D131) -
+CNIEG_COT_RS
+(équivalent D131 et
+D131b) -
+CNIEG_COT_POOL
+(équivalent C131)
+PSEUDO-SIRET (dans le cas
+d'une population de salariés) ou
+SIRET du compte employeur
+pour le versement en lieu unique
+S21.G00.20.005
+Montant du
+versement
+Montant du virement effectué.
+Le montant du virement doit être égal à la somme des
+cotisations de chacun des salariés de l’établissement (ou de
+la fraction)
+S21.G00.20.006
+Date de début
+de période de
+rattachement
+Date de début de la période d’emploi au titre de laquelle ont
+été établies les cotisations dont l'établissement s'acquitte
+(1er jour du mois civil).
+S21.G00.20.007
+Date de fin
+de période de
+rattachement
+Date de fin de la période d’emploi au titre de laquelle ont été
+établies les cotisations dont l'établissement s'acquitte
+(dernier jour du mois civil).
+S21.G00.20.010
+Mode de
+paiement
+« 02 : virement » ou « 06 :
+versement réalisé par un
+autre établissement »
+05 « mandat SEPA »
+
+----- page 40 -----
+S21.G00.20.011
+Date de
+paiement
+Date de paiement
+S21.G00.20.012
+SIRET Payeur
+SIRET de l’établissement payeur
+Bloc Bordereau de cotisation due S21.G00.22
+S21.G00.22.001
+Identifiant
+Organisme de
+Protection
+Sociale
+Siret de la CNIEG
+Siret de l'Urssaf
+S21.G00.22.002
+Entité
+d'affectation
+des opérations
+.3 groupes de
+cotisations sont à verser
+à la CNIEG : -
+CNIEG_COT_RDC
+(équivalent D131) -
+CNIEG_COT_RS
+(équivalent D131 et
+D131b) -
+CNIEG_COT_POOL
+(équivalent C131)
+PSEUDO-SIRET (dans le cas
+d'une population de salariés)
+S21.G00.22.003
+Date de début
+de période de
+rattachement
+Date de début de la période au titre de laquelle ont été
+établies les cotisations dont l'établissement s'acquitte (1er
+jour du mois).
+S21.G00.22.004
+Date de fin de
+période de
+rattachement
+Date de fin de la période au titre de laquelle ont été établies
+les cotisations dont l'établissement s'acquitte (dernier jour
+du mois).
+S21.G00.22.005
+Montant total
+de cotisations
+Pour chaque période
+de rattachement
+Si S21.G00.22.002
+= 'CNIEG_COT_RDC'
+alors S21.G00.22.005
+= la somme des
+cotisations de chacun
+des salariés de
+l'établissement
+(ou de la fraction)
+S21.G00.81.004
+(avec S21.G00.81.001
+= '034', '037'), Si
+S21.G00.22.002
+= 'CNIEG_COT_RS'
+alors S21.G00.22.005
+= la somme des
+cotisations de chacun
+des salariés de
+l'établissement
+(ou de la fraction)
+S21.G00.81.004 (avec
+S21.G00.81.001
+= '033', '035', '036',
+'038') Si
+S21.G00.22.002
+Modalité inchangée – idem
+CNIEG
+
+----- page 41 -----
+= 'CNIEG_COT_POOL'
+alors S21.G00.22.005
+= la somme des
+cotisations de chacun
+des salariés de
+l'établissement
+(ou de la fraction)
+S21.G00.81.004
+(avec S21.G00.81.001
+= '039').
+Le bloc Cotisation agrégée S21.G00.23
+S21.G00.23.001
+Code de
+cotisation
+7 CTP dédiés au recouvrement
+des cotisations :
+RDC (CTP 912), Vieillesse RS
+(CTP 913, CTP 210), Autres
+risques RS (CTP215) PCI (CTP
+936), POOL (CTP955), DSPNR
+(CTP 940).
+S21.G00.23.002
+Qualifiant
+d’assiette
+S21.G00.23.003
+Taux de
+cotisation
+Non renseigné
+S21.G00.23.004
+Montant
+d’assiette
+Montant d’assiette renseigné
+S21.G00.23.005
+Montant de
+cotisation
+Non renseigné
+S21.G00.23.006
+Code INSEE
+commune
+Non renseigné
+Le bloc Cotisation agrégée S21.G00.23 cas particulier de la déduction liée au Petit Pool
+S21.G00.23.001
+Code de
+cotisation
+CTP 201
+S21.G00.23.002
+Qualifiant
+d’assiette
+S21.G00.23.003
+Taux de
+cotisation
+Non renseigné
+S21.G00.23.004
+Montant
+d’assiette
+Non renseigné
+S21.G00.23.005
+Montant de
+cotisation
+Montant de la déduction.
+Ce montant doit figurer sans
+signe négatif alors même qu’il va
+se déduire du montant total de
+cotisations du déclarant : c’est en
+effet le CTP qui porte en lui-
+même le signe négatif
+S21.G00.23.006
+Code INSEE
+commune
+Non renseigné
+
+----- page 42 -----
+Déclaration des cotisations nominatives :
+Rubrique
+Détail
+Déclaration CNIEG
+jusqu'au 05-15 janvier
+Déclaration Urssaf
+à partir du 05-15 janvier 2022
+DSPNR
+Déclaration Urssaf
+à partir du 05-15 février 2022
+RDC, RS, PCI, POOL
+Bloc Base assujettie - S21.G00.78
+S21.G00.78.001
+Code de base
+assujettie
+S21.G00.78.002
+Date de début
+de période de
+rattachement
+À renseigner
+S21.G00.78.003
+Date de fin de
+période de
+rattachement
+À renseigner
+S21.G00.78.004
+Montant de
+base assujettie
+À renseigner
+Bloc Cotisation individuelle - S21.G00.81
+S21.G00.81.001
+Date de début
+Code de
+cotisation
+034 - CNIEG - Cotisation employeurs régime de droit
+commun (population adossée)
+035 - CNIEG - Cotisation employeurs régime spécial
+(population adossée)
+036 - CNIEG - Cotisation employeurs régime spécial
+(population non adossée)
+037 - CNIEG - Cotisation salariés régime de droit commun
+(population adossée)
+038 - CNIEG - Cotisation salariés régime spécial (population
+non adossée)
+039 - CNIEG - Cotisations employeurs petit pool
+029 - CNIEG - Réduction employeurs petit pool
+033 - CNIEG - Cotisation employeurs complément
+d'invalidité
+S21.G00.81.002
+Identifiant
+organisme de
+protection
+sociale
+Siret de la CNIEG
+Siret de l'Urssaf
+
+----- page 43 -----
+S21.G00.81.003
+Montant
+d’assiette
+À renseigner
+S21.G00.81.004
+Montant de
+cotisation
+À renseigner
+S21.G00.81.005
+Code INSEE
+commune
+Non renseigné
+S21.G00.81.007
+Taux de
+cotisation
+À renseigner
+Bloc « Cotisation établissement - S21.G00.82
+S21.G00.82.001
+Valeur
+À renseigner
+S21.G00.82.002
+Code de
+cotisation
+S21.G00.82.003
+Date de début
+de période de
+rattachement
+Idem qu’en S21.G00.22.003
+S21.G00.82.004
+Date de fin de
+période de
+rattachement
+Idem qu’en S21.G00.22.004
+S21.G00.82.005
+Référence
+réglementaire
+ou contractuelle
+Siret de la CNIEG
+Siret de l'Urssaf
+
+----- page 44 -----
+La synthèse des données déclaratives après la réforme des retraites du 1er
+septembre 2023
+Cotisations
+Données
+Agrégées/indi
+viduelles
+Avant réforme retraites
+Après réforme retraites
+Statutaire
+Statutaire
+Néo statutaire
+DSN
+Risques
+DSN
+Risques
+DSN
+Risques
+RDC
+DA
+912 Vieillesse
+912 Vieillesse RS
+170 Vieillesse RG
+DI - Bloc 81
+034/037
+034/037
+RS
+DA
+Vieillesse+Autres
+risques
+913 Vieillesse RS
+DI - Bloc 81
+DA
+Autres
+Risques
+Autres
+Risques
+DI - Bloc 81
+RS Cas
+particulier
+DA
+Vieillesse+Autres
+risques
+210+215
+(Vieillesse)+(
+Autres
+risques)
+DI - Bloc 81
+036/038
+036/038+
+PCI
+DA
+936 Invalidité
+936 Invalidité
+936 Invalidité
+
+----- page 45 -----
+DI - Bloc 81
+Petit Pool
+DA
+955 Petit Pool
+955 Petit Pool
+955 Petit Pool
+DI - Bloc 81
+Déduction
+Petit Pool
+DA
+déduction Petit
+Pool
+déduction
+Petit Pool
+déduction
+Petit Pool
+DI - Bloc 81
+Contribution
+DSPNR
+DA
+940 DSPNR
+940 DSPNR
+940 DSPNR
+Bloc 82
+
+----- page 46 -----
+EN SAVOIR PLUS...
+
+----- page 47 -----
+Une mission d’accompagnement dans les obligations
+déclaratives
+Les cotisations CNIEG sont recouvrées et contrôlées par l’Urssaf selon les règles
+et sous les garanties et sanctions applicables au recouvrement des cotisations du
+régime général de la sécurité sociale.
+Le réseau de l’Urssaf accompagne et conseille les entreprises dans la réalisation
+de leurs obligations déclaratives et contributives : questions générales relatives à
+l'assujettissement, à la déclaration, aux cotisations, contributions et aux
+déductions, assistance DSN, questions relatives au paiement...
+L’Urssaf est en charge des sujets suivants :
+> Assujettissement et redevabilité des entreprises ;
+> Enregistrement de la déclaration des cotisations et contributions ;
+> Enregistrement de la déclaration des déductions ;
+> Recouvrement des cotisations et contributions et affectation du paiement ;
+> Contrôle de l’application de la législation (contrôle sur pièces et sur place).
+Les services de l’Urssaf
+> www.urssaf.fr
+> Tél. 3957 du lundi au vendredi - de 9h00 à 17h00
+Rôle de l’Urssaf
+
+----- page 48 -----
+La CNIEG est une caisse de retraite chargée de la gestion du régime spécial
+d’assurance vieillesse, invalidité, décès, accidents du travail et maladies
+professionnelles des industries électriques et gazières (IEG).
+Elle suit la carrière des affiliés au régime de retraite des IEG, depuis leur
+embauche (affiliation) jusqu’à la liquidation de leur pension.
+Elle liquide et verse les pensions dues aux ouvrants droits et les retraites de
+réversion, ainsi que les avantages familiaux statutaires des pensionnés prévus par
+le statut du personnel des IEG.
+Elle évalue les engagements de retraite des entreprises de la branche
+professionnelle et en suit la couverture financière.
+La CNIEG veille à l’équilibre financier du régime en gérant les recettes destinées
+au financement des prestations : cotisations sociales, contribution tarifaire
+d’acheminement (CTA), contributions des employeurs, flux financiers avec les
+régimes de droit commun (l’Assurance retraite et l'Agirc-Arrco).
+Dans le cadre du transfert du recouvrement, la CNIEG, conserve son rôle de
+conseil et d‘accompagnement des entreprises sur les sujets suivants :
+-
+Les évolutions à la suite de ce transfert aux Urssaf ;
+-
+Le calcul des taux ;
+-
+Le calcul des montants DSPNR ;
+-
+Toutes évolutions concernant le périmètre IEG de l’entreprise ;
+-
+Les spécificités IEG et données individuelles nécessaires à
+l’adossement et à la gestion du compte retraite de l’affilié.
+Rôle de la CNIEG
+
+----- page 49 -----
+> Loi N° 2004-803 du 9 août 2004 relative au service public de l'électricité
+et du gaz et aux entreprises électriques et gazières.
+> Décret
+n°2005-278
+du
+mars
+relatif
+aux
+ressources
+de la Caisse nationale des industries électriques et gazières.
+> Décret n°2004-1354 du 10 décembre 2004 relatif à la Caisse nationale
+des industries électriques et gazières.
+> Décret n° 2005-322 du 5 avril 2005 relatif à l'évaluation et aux modalités
+de
+répartition
+des
+droits
+spécifiques
+pris
+en
+application
+des articles 17 et 19 de la loi du 9 août 2004.
+> Accord du 24 avril 2008 relatif aux pensions versées en cas d’invalidité
+aux
+agents
+des
+industries
+électriques
+et
+gazières
++ convention du 21 août 2008 relative à la gestion du complément invalidité
+par la CNIEG.
+> Décret n°2006-110 du 31 janvier 2006 modifié fixant le taux de la cotisation
+à la charge des salariés à la Caisse nationale des industries électriques et
+gazières
+Référentiels et annexes règlementaires
+
+----- page 50 -----
+Sur internet
+> www.cnieg.fr
+Par courriel
+> recouvrement@cnieg.fr
+Par téléphone
+> 02 40 84 01 84
+Toutes les informations sur le
+transfert des cotisations CNIEG
+
+----- page 51 -----
+Sur internet
+> Urssaf.fr
+> Fiches consignes DSN sur www.net-entreprises.fr
+Par téléphone
+> 3957 du lundi au vendredi - de 9h00 à 17h00
+Toutes les informations sur
+la déclaration en DSN
+
+----- page 52 -----
+CNIEG : Caisse nationale des industries électriques et gazières
+DSN : Déclaration sociale nominative
+URSSAF : Union pour le recouvrement des cotisations de sécurité sociale
+et d’allocations familiales - Organisme ayant pour mission principale la collecte
+et le recouvrement et la redistribution aux autres organismes de protection sociale
+des cotisations et contributions.
+Urssaf CN - NAT 5988 / sept. 2021 / Guide contributions vieillesse CNIEG
+Le glossaire

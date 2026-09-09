@@ -1,0 +1,1547 @@
+
+----- page 1 -----
+GUIDE
+DU DÉCLARANT
+BONUS-MALUS
+D’ASSURANCE CHÔMAGE
+Connaître les contributions
+Déclarer en DSN
+Version 10 – février 2026
+
+----- page 2 -----
+Calcul du taux modulé
+L’objectif
+Le fonctionnement
+Contexte et enjeux
+Les entreprises concernées
+Les entreprises de plus de 11 salariés
+Les secteurs d’activités concernés
+Assujettissement
+Les notifications
+28 Les périodes de référence
+Calendrier
+Calcul du taux modulé
+Le calcul du taux de contribution modulé
+Le taux de séparation de l'entreprise
+Le taux de séparation médian du secteur
+Le taux de contribution modulé
+En savoir plus
+La déclaration en DSN
+Les modalités déclaratives en DSN
+Le rôle de l’Urssaf
+Référentiels et annexes réglementaires
+Toutes les informations sur le dispositif bonus-malus
+Toutes les informations sur les modalités déclaratives en DSN
+Glossaire
+Annexe 1
+Détermination du nombre de séparations : les natures de
+contrats et les motifs visés ou non par le dispositif bonus-malus
+Application de la réduction générale
+Les modalités d'application
+
+----- page 3 -----
+AVANT PROPOS
+L’article 52 de la loi n° 2018-771 du
+5 septembre 2018 pour la liberté de
+choisir son avenir professionnel a
+modifié l’article L. 5422-12 du code du
+travail, et dispose que le taux de
+contribution de chaque employeur peut
+être minoré ou majoré en fonction :
+- du nombre de fins de contrats de
+travail et de contrats de mise à
+disposition mentionnés au 1° de
+l’article L. 1251-1, à l’exclusion des
+démissions et des contrats de mission
+mentionnés au 2° du même article
+L.
+1251-1,
+et
+sous
+réserve
+de
+l’inscription
+des
+personnes
+concernées par ces fins de contrat sur
+la liste des demandeurs d’emploi
+mentionnée à l’article L. 5411-1 ;
+- de la nature du contrat de travail, de
+sa durée ou du motif de recours à un
+contrat d’une telle nature ;
+- de la taille de l’entreprise ;
+- du secteur d’activité de l’entreprise.
+Le décret N°2021 – 346 du 30 mars
+2021, paru au JO du 31 mars 2021,
+portant diverses mesures relatives au
+régime d'assurance chômage prévoit
+la mise en œuvre en septembre 2022
+du taux de contribution d’assurance
+chômage modulé.
+Le taux de contribution d’assurance
+chômage modulé est calculé en
+fonction du taux de séparation de
+l’employeur rapporté avec le taux de
+séparation médian de son secteur
+d’activité. Les entreprises seront ainsi
+incitées à proposer davantage de CDI
+et à rallonger la durée des CDD plutôt
+que de recourir à des missions
+d’intérim ou des CDD courts.
+Ce
+dispositif,
+dit
+bonus-malus,
+concerne les entreprises d’au moins
+11 salariés et plus relevant de
+7 secteurs d’activité comportant un
+taux de séparation supérieur au seuil
+de 150 %. Les taux de contributions
+d’assurance chômage varieront entre
+2,95 et 5% à partir de mai 2025 (3 et
+5,05 % auparavant) appliqués à la
+masse
+salariale.
+La
+première
+modulation exclue les entreprises du
+secteur S1, celles-ci sont identifiées
+par leur code APE et IDCC. La liste des
+secteurs exclus figure dans l’arrêté du
+28 juin 2021.
+Ce guide vous accompagne dans
+vos démarches auprès de l’Urssaf.
+Bonne lecture !
+
+----- page 4 -----
+CONTEXTE ET ENJEUX
+
+----- page 5 -----
+L’objectif du dispositif bonus-malus est de lutter contre le recours abusif aux
+contrats courts en incitant les entreprises à proposer des contrats de travail plus
+longs en privilégiant les embauches en CDI.
+Il s’agit de responsabiliser les employeurs en les incitant à intégrer dans leurs
+décisions de recruter, de former et de se séparer de salariés, les conséquences
+que celles-ci induisent sur le coût financier et social du chômage.
+Le bonus-malus devait être initialement mis en en œuvre en 2021. Il a été reporté
+pour tenir compte de la crise sanitaire et de la décision du Conseil d’État du
+25 novembre 2020 qui avait annulé des dispositions du décret n° 2019-797 du
+26 juillet 2019.
+Ainsi le règlement d’assurance chômage (RAC), annexé au décret n° 2019-797
+du 26 juillet 2019 modifié par le décret n° 2021-346 du 30 mars 2021 portant
+diverses mesures relatives au régime d'assurance chômage, détermine les
+conditions d'application du dispositif.
+L’objectif
+
+----- page 6 -----
+Fonctionnement
+Le bonus-malus consiste à moduler le taux de contribution patronale d’assurance
+chômage qui est actuellement de 4 %, à la hausse (malus 5 %) ou à la baisse
+(bonus 2,95 %), en fonction du taux de séparation.
+Ce taux de séparation correspond au nombre de fins de contrat de travail ou de
+missions d’intérim, suivies d’une inscription à France Travail des anciens salariés,
+rapporté à l’effectif de l’entreprise.
+Le montant du bonus ou du malus est ensuite calculé en fonction de la
+comparaison entre le taux de séparation de l’entreprise et le taux de séparation
+médian de l’ensemble des entreprises du même secteur d’activité :
+>
+Si le taux de séparation de l’entreprise est inférieur au taux de séparation
+médian de son secteur, l’entreprise sera en bonus ;
+>
+Si le taux de séparation de l’entreprise est supérieur au taux de
+séparation médian de son secteur, l’entreprise sera en malus ;
+>
+Si le taux de séparation de l’entreprise est égal au taux de séparation
+médian de son secteur, l’entreprise appliquera le taux de contribution de
+référence (4 %).
+Application du taux sur les rémunérations
+Conformément à l’article 51 de l’annexe A au décret n° 2019-797 du 26 juillet 2019
+relatif au régime d’assurance chômage, le taux minoré ou majoré mentionné à
+l’article 50-2 est applicable aux rémunérations dues au titre des périodes d’emploi
+courant du 1er mars d’une année civile au 28 février ou au 29 février de l’année
+civile suivante.
+Le décret n°2021-341 apporte une dérogation pour la première modulation. Celle-
+ci est due au titre des périodes d’emploi courant du 1er septembre 2022 au 31 août
+2023.
+Le Décret n° 2023-33 du 26 janvier 2023 relatif au régime d'assurance chômage
+prolonge le dispositif. La deuxième modulation est due au titre des périodes
+d’emploi courant du 1er septembre 2023 au 31 août 2024.
+Le fonctionnement
+
+----- page 7 -----
+Le Décret n° 2024-853 du 30 juillet 2024 relatif au régime d'assurance chômage
+prolonge le dispositif. La troisième modulation est due au titre des périodes
+d’emploi courant du 1er septembre 2024 au 31 octobre 2024.
+Le règlement général (Art. 50-2 à 51) annexé à la convention du 15 novembre
+2024 relative à l’Assurance chômage, ainsi que l’accord d’application n° 1,
+prolongent le dispositif : la troisième modulation est prolongée jusqu’au 31 août
+2025. La quatrième modulation est due au titre des périodes d’emploi courant du
+1er septembre 2025 au 28 février 2026.
+Recouvrement
+Les contributions d’assurance chômage modulées par le bonus-malus seront
+recouvrées par les Urssaf dans les mêmes conditions qu’aujourd’hui, seul variera
+le taux de contribution modulé déclaré en DSN par l’entreprise.
+
+----- page 8 -----
+ASSUJETTISSEMENT
+
+----- page 9 -----
+Quels établissements et entreprises sont concernées par le
+bonus-malus ?
+Conformément à l’article 50-3 de l’annexe A au décret n° 2019-797 du 26 juillet
+2019 relatif au régime d’assurance chômage (modifié par le décret n° 2021-346
+du 30 mars 2021), les dispositions du bonus-malus des cotisations d’assurance
+chômage sont applicables :
+>
+Aux entreprises de 11 salariés et plus ;
+>
+Au sein des secteurs d’activité dans lesquels le taux de séparation moyen
+défini au second alinéa de l’article 50-3 est supérieur au seuil de 150%.
+Un arrêté du ministre chargé de l’emploi précise pour une période de trois
+ans les secteurs d’activité concernés parmi les secteurs listés dans le
+décret et basés sur la nomenclature des activités françaises.
+>
+Les entreprises du secteur S1 sont exclues du dispositif pour la 1ère
+modulation.
+Le dispositif du bonus-malus s’applique à l’ensemble des établissements de
+l’entreprise (SIREN).
+Le dispositif du bonus-malus ne s’applique pas aux employeurs
+publics en auto-assurance. Cependant, il s’applique aux employeurs
+publics qui ont adhéré au régime d’assurance chômage.
+Bon à savoir
+
+----- page 10 -----
+Conformément au décret n°2021-246 du 30 mars 2021, les caisses de congés
+payés s’acquittent d’une cotisation d’assurance chômage de droit commun de
+4,05 % pour leurs entreprises adhérentes.
+En revanche, les entreprises adhérentes voient leur calcul de Bonus-
+Malus adapté pour leurs salariés affiliés à une caisse de congés payés, avec
+des bonus et malus différenciés.
+Pour les salariés affiliés à une caisse de congés payés, en dehors des
+périodes de prise en charge par la caisse de congés payés, le taux sera calculé
+selon la formule suivante, en intégrant un coefficient de majoration :
+Taux = ratio de l’entreprise × 1,62 + 2,43
+Le taux de contribution spécifique aux salariés affiliés à une caisse de congés
+payés sera communiqué aux entreprises.
+La déclaration de contribution des salariés
+affiliés à une caisse de congés payés
+
+----- page 11 -----
+Pour l’application des dispositions de l’article 50-3 de l’annexe A au décret
+n° 2019-797 du 26 juillet 2019 relatif au régime d’assurance chômage, le calcul de
+l’effectif de l’entreprise est effectué et le franchissement du seuil de onze salariés
+mentionnés au premier alinéa est déterminé dans les conditions fixées à l’article
+L. 130-1 du code de la sécurité sociale.
+A compter du 1er janvier 2020, le dispositif de neutralisation du franchissement de
+seuil d’effectif, établi dans le cadre de la loi PACTE, promulguée le 22 mai 2019,
+s’applique au bonus-malus.
+En 2022, l’effectif pris en compte pour déterminer si une entreprise est concernée
+par le bonus-malus et pour calculer son taux de séparation sera l’effectif moyen
+constaté entre le 1er juillet 2021 et le 30 juin 2022, correspondant à la moyenne du
+nombre de personnes employées au cours de chacun des mois de cette période.
+Toutefois, conformément à la loi PACTE, l’effectif d’une entreprise en 2019, 2020
+et 2021 sera également vérifié pour déterminer si cette entreprise est concernée
+par le bonus-malus. Ainsi, le bonus-malus s’appliquera en septembre 2022 à cette
+Les entreprises de plus de onze salariés
+Conformément à l’article L. 130-1 du code de la sécurité sociale, le
+franchissement à la hausse d’un seuil d’effectif salarié est pris en compte
+lorsque ce seuil a été atteint ou dépassé pendant cinq années civiles
+consécutives.
+Le franchissement à la baisse d’un seuil d’effectif sur une année civile a pour
+effet de faire à nouveau courir la règle énoncée (déclenchement d’un nouveau
+délai de 5 ans).
+Le seuil d’effectif pour le dispositif bonus-malus est de 11 salariés.
+La loi PACTE et franchissement du seuil de
+11 salariés
+
+----- page 12 -----
+entreprise si son effectif moyen annuel est supérieur ou égal à 11 salariés en 2019,
+2020, 2021 et du 1er juillet 2021 au 30 juin 2022.
+Pour la modulation 2023 et 2024 les effectifs pris en compte sont respectivement
+du 1er juillet 2022 au 30 juin 2023 et du 1er juillet 2023 au 30 juin 2024.
+Pour la modulation 2025 les effectifs pris en compte sont du 1er juillet 2024 au 30
+juin 2025.
+Toute entreprise nouvellement créée (nouveau SIREN), issue ou non d’une
+fusion, est exclue du bonus-malus jusqu’à la cinquième année suivant l’année
+de sa création. Elle applique donc le taux de référence (4 %) pendant cette
+période et entre dans le bonus-malus la cinquième année suivant l’année de
+création si son effectif moyen annuel est égal ou supérieur à 11 salariés
+pendant les 5 années précédentes (art. 50-11 du RAC).
+Bon à savoir
+
+----- page 13 -----
+Secteurs d’activité concernés
+L’affectation d’une entreprise dans l’un des secteurs d’activité mentionnés au
+premier alinéa de l’article 50-3 de l’annexe A au décret n° 2019-797 du 26 juillet
+2019 relatif au régime d’assurance chômage est effectuée en fonction de l’activité
+économique principale qu’elle exerce ou, le cas échéant, de son objet social, et
+de la convention collective (IDCC) à laquelle elle est rattachée, selon des
+modalités fixées par arrêté du ministre chargé de l’emploi.
+Le bonus-malus s’applique à sept secteurs d’activité dont le taux de séparation
+moyen est supérieur à 150 %.
+Cela signifie que, dans ces secteurs, les entreprises génèrent en moyenne au
+moins 1,5 fois plus d'inscriptions à France Travail qu'elles n'ont d'employés, soit
+par exemple 150 inscriptions à France Travail pour un effectif moyen annuel de
+100 personnes.
+Ainsi, le dispositif bonus-malus s’applique aux sept secteurs suivants :
+>
+Fabrication de denrées alimentaires, de boissons et de produits à base
+de tabac (code NAF : CA) ;
+>
+Transports et entreposage (code NAF : HZ) ;
+>
+Hébergement et restauration (code NAF : IZ) ;
+>
+Travail du bois, industries du papier et imprimerie (code NAF : CC) ;
+>
+Fabrication de produits en caoutchouc et en plastique ainsi que d'autres
+produits minéraux non métalliques (code NAF : CG) ;
+>
+Production et distribution d'eau ; assainissement, gestion des déchets et
+dépollution (code NAF : EZ) ;
+>
+Autres activités spécialisées, scientifiques et techniques (code NAF :
+MC).
+Les secteurs d’activités concernés par le bonus-malus ont vocation à demeurer
+les mêmes pour 2022, 2023, 2024 et 2025.
+Les secteurs d’activité concernés
+
+----- page 14 -----
+Définition du secteur d’activité de l’entreprise
+L’arrêté du 28 juin 2021 relatif aux secteurs d’activité et aux employeurs entrant
+dans le champ d’application du bonus-malus liste les codes IDCC et APE
+concernés par le dispositif bonus-malus.
+Ainsi, une entreprise sera considérée comme affectée dans un secteur relevant
+du champ d’application du bonus-malus si son code IDCC majoritaire constaté en
+2020 et son code APE constaté en 2021 figurent dans l’arrêté du 28 juin 2021.
+Le code IDCC d’une entreprise est le code identifiant de la convention
+collective. Il s’agit du code de la convention collective appliquée par
+l’entreprise concernée et renseigné en DSN pour chaque contrat de travail.
+Pour le bonus-malus, c’est le code IDCC majoritaire de l’année 2020 qui est
+pris en compte.
+L’IDCC de chaque entreprise de 11 salariés et plus est reconstitué au niveau
+du SIREN, à partir des données IDCC contrats renseignées en DSN,
+pondérées par la durée des contrats, au titre de la période comprise entre le
+1er janvier 2020 et le 31 décembre 2020.
+Lorsqu’un employeur adhère à plusieurs conventions collectives ou est
+compris dans le champ d’application de plusieurs conventions, le code IDCC
+qui lui est associé correspond à la convention collective associée au plus
+grand nombre de contrats de travail au sein de l’entreprise.
+Sont pris en compte les contrats de travail en cours d’exécution du 1er janvier
+au 31 décembre 2020. Le nombre de contrats de travail associés à chaque
+convention collective est pondéré par la durée des contrats.
+Le Code IDCC majoritaire
+
+----- page 15 -----
+Dans le cas où une entreprise n’a pas de code IDCC ou si la majorité des
+contrats de travail dans cette entreprise n’est associée à aucune convention
+collective, cette entreprise est affectée dans un secteur en fonction du code
+APE (constaté à la date de publication de l’arrêté du 28 juin 2021, à savoir le
+30 juin 2021) de l’entreprise.
+Dans le cas où une entreprise adhère à plusieurs conventions collectives ou
+est compris dans le champ d’application de plusieurs conventions, le code
+IDCC qui lui est associé correspond à la convention collective associée au
+plus grand nombre de contrats de travail au sein de l’entreprise.
+Dans le cas où le code IDCC et le code APE affectent une entreprise dans le
+champ d’application du bonus-malus, mais dans deux secteurs différents,
+c’est le code IDCC qui détermine le secteur de rattachement.
+Bon à savoir
+Le code APE d’une entreprise correspond à son activité principale déclarée.
+Il est attribué à l’entreprise par l’Insee au moment de sa création ou lors
+d’un changement d’activité.
+Pour le bonus-malus, c’est le code APE constaté à la publication de l’arrêté
+du 28 juin 2021 (concernant les secteurs d’activité et employeurs entrant
+dans le champ d’application du bonus-malus) qui est retenu.
+Le Code APE
+
+----- page 16 -----
+Exclusions pour la première modulation
+Compte tenu de la situation sanitaire induite par la pandémie de la Covid-19, la
+première modulation (à partir de septembre 2022) ne concernera pas les
+entreprises les plus touchées par la crise sanitaire (S1). Ainsi, le dispositif bonus-
+malus ne s’appliquera pas à une partie des entreprises des secteurs
+« hébergement et restauration », « transports et entreposage », « fabrication de
+denrées alimentaires, de boissons et de produits à base de tabac » et « autres
+activités spécialisées, scientifiques et techniques ».
+L’arrêté définissant les secteurs concernés par le bonus-malus est publié
+tous les 3 ans. Les secteurs détaillés par l’arrêté du 28 juin 2021 sont donc
+concernés sont pour une durée de 3 années : 2022, 2023 et 2024.Cette
+1ere sectorisation a été prolongée jusqu’à la modulation de 2025.
+Cependant, l’exclusion des entreprises relevant du secteur S1 prendra fin
+en 2023.
+Cela veut dire que le bonus-malus s’appliquera à compter de 2023 aux
+entreprises du secteur « hébergement et restauration », ainsi qu’à
+l’ensemble des entreprises des secteurs « transports et entreposage », «
+fabrication de denrées alimentaires, de boissons et de produits à base de
+tabac » et « autres activités spécialisées, scientifiques et techniques ».
+Bon à savoir
+
+----- page 17 -----
+CALCUL DU TAUX DE
+CONTRIBUTION MODULÉ
+
+----- page 18 -----
+Calcul du taux de contribution modulé
+Conformément à l’article 50-4 de l’annexe A au décret n° 2019-797 du 26 juillet 2019
+modifié par le décret n° 2021-346 du 30 mars 2021 portant diverses mesures
+relatives au régime d'assurance chômage, la minoration ou la majoration mentionnée
+à l’article 50-2 est déterminée par employeur en fonction de la comparaison entre :
+>
+Le taux de séparation de l’entreprise ;
+>
+Le taux de séparation médian calculé dans le secteur d’activité de
+l’entreprise dans les conditions prévues à l’article 50-9.
+Conformément à l’article 50-10 de l’annexe A au décret n° 2019-797 du 26 juillet 2019
+modifié par le décret n° 2021-346 du 30 mars 2021 portant diverses mesures
+relatives au régime d'assurance chômage, le taux de contribution de l’entreprise
+modulé par la minoration ou la majoration mentionnée à l’article 50-2 est déterminé,
+dans la limite d’un plafond et d’un plancher déterminés par secteur d’activité et fixés
+par arrêté du ministre chargé de l’emploi, de la manière suivante :
+Taux = ratio de l’entreprise × 1,46 + 2,59
+Le ratio de l'entreprise correspond au quotient du taux de séparation de l'entreprise
+sur le taux de séparation médian du secteur.
+
+----- page 19 -----
+L’EMA d’une entreprise correspond à son effectif moyen annuel.
+Pour la première application du dispositif bonus-malus, c’est l’EMA constaté
+entre le 1er juillet 2021 et le 30 juin 2022 qui est retenu pour le calcul du taux
+de séparation de l’entreprise.
+L’EMA
+Le nombre de séparation d’une entreprise sont les ruptures de contrats prises
+en compte dans le calcul du taux de contribution modulé. Il correspond aux
+fins de contrats de travail et de missions d’intérim suivies dans les trois mois
+d’une inscription à France Travail de l’ancien salarié ou intérimaire, ou
+intervenues alors qu’il y était déjà inscrit
+Pour la première application du dispositif bonus-malus, le nombre de
+séparation (fins de contrats de travail et de missions d’intérim ou inscriptions à
+France Travail précédées d’une fin de contrat de travail et de mission d’intérim
+dans les 3 mois) porte sur la période entre le 1er juillet 2021 et le 30 juin 2022.
+Le nombre de séparations de l’entreprise
+AA
+Le taux de séparation
+Le taux de séparation d’une entreprise correspond au ratio entre :
+>
+Le nombre de fins de contrats de travail et de missions d’intérim (hors
+exceptions cf. infra), suivies dans les trois mois d’une inscription à France
+Travail de l’ancien salarié ou intérimaire, ou intervenues alors qu’il y était
+déjà inscrit ;
+>
+L’effectif moyen annuel de l’entreprise (EMA).
+Pour la première application du bonus-malus à compter de septembre 2022, ce
+taux de séparation est calculé en fonction des séparations constatées entre le 1er
+juillet 2021 et le 30 juin 2022.
+Pour la modulation 2023 et 2024 les séparations prises en compte sont
+respectivement du 1er juillet 2022 au 30 juin 2023 et du 1er juillet 2023 au 30 juin
+2024.
+Pour la modulation 2025 les séparations prises en compte sont du 1er juillet 2024
+au 30 juin 2025.
+Le taux de séparation de l’entreprise
+
+----- page 20 -----
+Les types de contrats exclus dans le calcul du taux
+Conformément à l’article 50-6 à l’annexe A au décret n° 2019-797 du 26 juillet
+2019 modifié par le décret N°2021-346 relatif au régime d’assurance chômage,
+pour l’application de l’article 50-5, toutes les fins de contrats de travail sont prises
+en compte, à l’exception des cas suivants :
+>
+Des démissions ;
+>
+Des fins de contrat de mission mentionné au 2° de l’article L. 1251-1 du
+code du travail ;
+>
+Des fins de contrat d’apprentissage mentionné à l’article L. 6221-1 du
+même code ;
+>
+Des fins de contrat de professionnalisation mentionné à l’article L. 6325-
+1 du même code ;
+>
+Des fins de contrat de travail à durée déterminée mentionné au 1° de
+l’article L. 1242-3 du même code (contrat d’insertion) ou des fins de
+contrats de mise à disposition liés à un contrat de mission mentionné à
+l’article L. 5132-6 du même code ou à l’article 79 de la loi no 2018-771
+du 5 septembre 2018 pour la liberté de choisir son avenir professionnel
+ou au VI de l’article 67 de cette même loi (fins de mission d’intérim
+concernant des travailleurs intérimaires employés par une entreprise de
+travail temporaire d’insertion ou concernant des travailleurs intérimaires
+bénéficiaires de l’obligation d’emploi des travailleurs handicapés (OETH)
+ou concernant des travailleurs intérimaires employés par une entreprise
+adaptée de travail temporaire) ;
+>
+Des fins de contrat unique d’insertion mentionnés à l’article L. 5134-19-1
+du même code (les fins contrats uniques d’insertion) ;
+>
+Des fins de contrat de travail ou des fins de contrat de mise à disposition
+conclus avec une structure d'insertion par l'activité économique
+mentionnée à l'article L. 5132-4 du même code.
+Un taux de séparation de 150 % dans une entreprise de 100 salariés signifie
+qu’il y eu 150 fins de contrat de travail qui ont donné lieu à inscription à
+France Travail.
+Bon à savoir
+
+----- page 21 -----
+Vous trouverez la liste détaillée des natures de contrats et les
+motifs visés ou non par le dispositif Bonus-Malus dans l’annexe 1.
+Cas des entreprises nouvellement créées ou résultant d’une
+fusion de plusieurs entreprises
+Conformément à l’article 50-11 de l’annexe A au décret n° 2019-797 du 26 juillet
+2019 relatif au régime d’assurance chômage, pour les entreprises nouvellement
+créées, le taux de contribution de référence mentionné à l'article 50-1 s'applique
+jusqu'au 28 ou 29 février de la cinquième année suivant l'année où est intervenue
+la création de l'entreprise. La majoration ou la minoration mentionnée à l'article
+50-2 intervient au lendemain de la date précitée.
+Les fins de missions d’intérim sont prises en compte dans le calcul du taux de
+séparation de l’entreprise utilisatrice et non dans celui de l’entreprise de travail
+temporaire.
+Ainsi, les fins de contrat de mise à disposition sont imputées à l’entreprise
+utilisatrice.
+Toutefois, les fins de contrat de mise à disposition suivantes ne seront pas
+imputées à l’entreprise utilisatrice :
+Les fins de contrat de mise à disposition de travailleurs en contrat à
+durée indéterminée intérimaire ;
+Les fins de contrat de mise à disposition de travailleurs intérimaires
+employés par une entreprise de travail temporaire d’insertion ;
+Les fins de contrat de mise à disposition de travailleurs intérimaires
+bénéficiaires de l’OETH ;
+Les fins de contrat de mise à disposition de travailleurs intérimaires
+employés par une entreprise adaptée de travail temporaire.
+Par ailleurs, les fins de mise à disposition de travailleurs par un groupement
+d’employeurs au bénéfice d’une entreprise adhérente ne seront pas imputées
+à l’entreprise utilisatrice, de même que les fins de contrat de prestation de
+portage salarial au bénéfice d’une entreprise cliente et les fins de contrat de
+mise à disposition d’un salarié en contrat de travail à temps partagé.
+Prise en compte de l’intérim dans
+le dispositif bonus-malus
+
+----- page 22 -----
+Toute entreprise nouvellement créée (nouveau SIREN), issue ou non d’une fusion,
+est exclue du bonus-malus jusqu’à la cinquième année suivant l’année de sa
+création. Elle applique donc le taux de référence (4 %) pendant cette période et
+entre dans le bonus-malus la cinquième année suivant l’année de création si son
+effectif moyen annuel est égal ou supérieur à 11 salariés pendant les 5 années
+précédentes.
+Une entreprise (SIREN) incluse dans le bonus-malus qui absorbe une autre
+entreprise incluse dans le bonus-malus ou hors bonus-malus, reste incluse dans
+le champ du bonus-malus si elle continue à remplir les conditions de la
+sectorisation (IDCC et APE). Elle conserve le taux modulé qui lui a été notifié pour
+l’année N. Les séparations de l’entreprise absorbée intervenues avant la fusion ne
+lui sont pas imputées. Elle déclare à compter de la date de la fusion un effectif et
+des séparations dont le périmètre s’élargit. Ces données seront prises en compte
+lors du calcul du taux modulé de l’entreprise en N+1.
+Une entreprise (SIREN) incluse dans le bonus-malus qui cesse son activité en
+raison d’une fusion, car elle est absorbée par une entreprise existante incluse dans
+le bonus-malus ou hors bonus-malus ou par une entreprise nouvellement créée,
+est exclue de fait du bonus-malus. L’entreprise est exclue de la liste des
+entreprises concernées par le bonus-malus lors de la sectorisation et du calcul du
+taux de séparation individuel et médian l’année suivant sa cessation d’activité.
+Dans tous les cas, le taux de séparation médian sectoriel de l’année N ou des
+années précédentes n’est pas modifié par une création ou une fusion qui intervient
+en N. Celle-ci ne produira des effets (prise en compte ou non prise en compte du
+taux de séparation l’entreprise dans le calcul du taux médian) que sur le taux
+médian sectoriel N+1.
+
+----- page 23 -----
+Le taux de séparation médian du secteur
+Le taux de séparation médian d’un secteur d’activité correspond à la médiane des
+taux de séparation de l’ensemble des entreprises de ce secteur pondérés par leur
+masse salariale.
+Bonus et malus
+Le bonus ou le malus est calculé en fonction de la comparaison entre le taux de
+séparation de l’entreprise et le taux de séparation médian de son secteur d’activité.
+Le bonus-malus fonctionne ainsi par grand secteur économique. En effet, une
+entreprise n’est comparée qu’aux autres entreprises de son secteur, de façon à
+tenir compte de la spécificité des secteurs et des entreprises :
+>
+Si le taux de séparation d’une entreprise est inférieur au taux de
+séparation médian de son secteur, cette entreprise sera en bonus ;
+>
+Si le taux de séparation d’une entreprise est supérieur au taux de
+séparation médian de son secteur, cette entreprise sera en malus ;
+>
+Si le taux de séparation d’une entreprise est égal au taux de séparation
+médian de son secteur, cette entreprise appliquera le taux de contribution
+de référence (4 %).
+Publication du taux de séparation médian de chaque secteur
+Pour la première application du bonus-malus en septembre 2022, le taux de
+séparation médian de chaque secteur d’activité concerné par le bonus-malus est
+publié par arrêté en août 2022 et communiqué aux entreprises.
+Le taux de séparation médian du secteur
+
+----- page 24 -----
+Calcul du taux de contribution modulé
+Le taux de contribution modulé est calculé en fonction du taux de séparation
+de l’entreprise et du taux de séparation médian du secteur de l’entreprise en
+suivant la formule suivante :
+Taux de contribution en % = (taux de séparation de l’entreprise/taux de
+séparation médian du secteur) × 1,46 + 2,59
+A partir de mai 2025 :
+Taux de contribution en % = (taux de séparation de l’entreprise/taux de
+séparation médian du secteur) × 1,46 + 2,54
+Variation du taux de référence
+Le taux de contribution ne pourra varier du taux de contribution d’assurance
+chômage de référence (4 %) que de 1 point à la hausse ou 1,05 point à la
+baisse.
+-
+Le taux de contribution maximum « malus » sera donc de 5 %.
+-
+Le taux de contribution minimum « bonus » sera donc de 2,95 %.
+Plus le taux de séparation d’une entreprise sera élevé, plus le taux de
+contribution modulé de cette entreprise sera proche du taux de contribution
+maximum.
+Plus le taux de séparation d’une entreprise sera bas, plus le taux de
+contribution de cette entreprise sera proche du taux de contribution minimum.
+Le taux de contribution modulé
+
+----- page 25 -----
+Un simulateur est disponible pour anticiper le taux de contribution d’assurance
+chômage modulé par le dispositif bonus-malus.
+Il suffit de renseigner :
+-
+Le secteur d’activité
+-
+L’EMA prévisionnel de la période de référence
+-
+Le nombre de fins de contrats susceptibles d’arriver sur la période de
+référence
+Ce simulateur est un outil indicatif dont le résultat ne garantit pas du taux de
+contribution modulé réel. Il est disponible sur votre espace Net.entreprises.fr
+Bon à savoir
+
+----- page 26 -----
+CALENDRIER
+
+----- page 27 -----
+Les notifications du taux de contribution
+Conformément à l’article 50-15 de l’annexe A au décret n° 2019-797 du 26 juillet
+2019 modifié par le décret n° 2021-346 du 30 mars 2021 portant diverses mesures
+relatives au régime d'assurance chômage, le taux de séparation et le taux de
+contribution afférent sont notifiés à chaque employeur dans des conditions fixées
+par arrêté du ministre chargé de l’emploi.
+Un arrêté sur le taux du secteur médian doit paraître tous les ans au mois d’août.
+Les notifications
+
+----- page 28 -----
+Tant que la notification n’a pas été effectuée, l’employeur verse les
+contributions sur la base du taux antérieurement applicable. À compter de la
+notification du taux, une régularisation intervient.
+Toutefois, si la notification adressée par l’Urssaf intervient après le début des
+périodes d’emploi au titre desquelles sont dues les rémunérations auxquelles
+s’applique le taux modulé, l’employeur est invité à appliquer le taux mis à
+disposition par Net-CRM dès le début de ces périodes d’emploi afin d’éviter
+autant que possible une régularisation ultérieure.
+Contribution avant notification
+du taux de contribution
+Conformément à la loi PACTE de mai 2019, si une entreprise est passée sous
+le seuil des 11 salariés après le 30 juin 2021, elle ne recevra pas de
+notification de son taux de contribution.
+En effet, en passant sous le seuil des 11 salariés, cette entreprise devient
+inéligible au bonus-malus et sort du dispositif.
+Bon à savoir
+
+----- page 29 -----
+J F MA MJ J A S O N D J F MA MJ J A S O N D J F MA MJ J A S O N D J F MA MJ J A S O N D J F MA MJ J A S O N D
+AN 1
+Données de base du taux de
+séparation de l'entreprise
+Application du taux modulé
+par les employeurs
+Données de base du taux de
+séparation médian secteur
+Application du taux modulé
+par les employeurs
+AN 2
+Données de base du taux de
+séparation de l'entreprise
+Données de base du taux de
+séparation médian secteur
+AN 3
+Application du taux modulé
+par les employeurs
+Données de base du taux de
+séparation de l'entreprise
+Données de base du taux de
+séparation médian secteur
+Les périodes de référence
+L’article 50-9 de l’annexe A au décret n°2021-346 du 30 mars 2021 modifiant le
+décret n° 2019-797 du 26 juillet 2019 relatif au régime d’assurance chômage
+définit les périodes de référence du taux de séparation médian. Elles sont
+identiques aux périodes de référence du taux de séparation de l’entreprise.
+Chaque exercice de référence correspond à une année civile, à l’exception des
+deux premières modulations qui sont en année glissante (du 01/07/N au
+30/06/N+1).
+Les périodes de références prises en compte pour le calcul des taux de
+contribution sont les suivantes :
+Contribution
+modulée en
+Années de référence
+Période de validité du taux
+de contribution
+entreprise et secteur médian
+sept-22
+01/07/2021 au 30/06/2022
+01/09/2022 au 31/08/2023
+sept-23
+01/07/2022 au 30/06/2023
+01/09/2023 au 31/08/2024
+sept-24
+01/07/2023 au 30/06/2024
+01/09/2024 au 31/08/2025
+sept-25
+01/07/2024 au 30/06/2025
+01/07/2024 au 30/06/2025
+Les périodes de référence
+
+----- page 30 -----
+APPLICATION DE LA
+REDUCTION GENERALE
+
+----- page 31 -----
+Conformément au décret n° 2023-801 du 21 août 2023, le montant de la
+réduction générale est, au niveau du salarié, limité aux cotisations et
+contributions patronales éligibles à la réduction : assurances sociales,
+allocations familiales, AT-MP dans la limite du taux mutualisé, FNAL, CSA,
+retraite complémentaire Agirc-Arrco et chômage.
+Lorsque l’employeur bénéficie d’un bonus de la contribution d’assurance
+chômage, le montant de la réduction générale applicable au titre du salarié
+peut être supérieur aux cotisations éligibles à la réduction, dans la limite des
+cotisations et contributions patronales dues au titre du salarié.
+Cette règle s’applique à tous les employeurs éligibles à la réduction générale
+qui bénéficient d’un bonus de leur contribution chômage, qu’ils bénéficient ou
+non en plus d’une majoration de la réduction (chauffeurs routiers en
+équivalence, affiliation obligatoire à une CCP, intérimaire en mission).
+Exemple :
+L’employeur bénéficiant d’un bonus doit 900 € de cotisations et contributions
+patronales totales, dont 800 € éligibles à la réduction générale.
+L’employeur a calculé un montant de réduction de 900 € au titre de ce salarié.
+Il pourra bénéficier de la totalité de la réduction au titre de ce salarié. S’il
+calculait un montant de réduction de 930 €, il ne pourrait en bénéficier que
+dans la limite de 900 €.
+Application de la réduction générale de
+cotisations
+Ces dispositions ne s’appliquent qu’au titre des cotisations et
+contributions portant sur les rémunérations des périodes courant à
+compter du 1er septembre 2022.
+Bon à savoir
+
+----- page 32 -----
+La RGCP déclarée à l’Agirc-Arrco n’est pas impactée par l’effet taux bonus.
+Il n’est pas donc prévu de modifier les modalités de répartition de la RGCP
+entre les organismes Urssaf / Agirc Arrco suite à la parution du décret n°
+2023-801 du 21 août 2023.
+Exemple :
+Nous avons la situation suivante pour un salarié au smic bénéficiant du taux
+bonus à 3% :
+RGCP calculée avec le taux de référence de 4,05% = 545.44 € (124,78 €
+maladie-maternité-CSA ; 146,15 € retraite plafonnée ; 32,48 € retraite
+déplafonnée. ; 102,73 € retraite complémentaire. ; 58,97 € AF ; 69,23 €
+chômage au taux de droit commun ; 9,40 € AT/MP pris en compte pour 0,55
+% ; 1,71 € Fnal à 0,10 %).
+La répartition de la RGCP entre les organismes Urssaf / Agirc Arrco, avec les
+coefficients 0.2590/0.3191 pour l’Urssaf et 0.0601/0.3191 pour l’Agirc-Arrco.
+Le montant de RGCP Urssaf est de 442,71 € et le montant de RGCP Agirc-
+Arrco est de 102,73 €.
+Le montant de RGCP Agirc-Arrco est égal au montant des cotisations dues
+indiqué dans l’exemple, ce montant est donc déclaré à l’Agirc-Arrco.
+Le montant de RGCP Urssaf est supérieur au montant des cotisations Urssaf
+éligibles. Pour les périodes jusqu’à août 2022, il faut écrêter le montant de la
+RGCP au montant des cotisations éligibles, soit 424,77 € selon le total des
+montants indiqués dans l’exemple (contribution chômage de 51,28 € avec e
+taux bonus à 3% au lieu de 69,23 € au taux de droit commun).
+Pour les périodes postérieures au décret, il est possible de retenir un montant
+de RGCP jusqu’à 442,71 €, sans excéder toutefois du montant des
+cotisations et contributions patronales « Urssaf » dues à titre individuel.
+Bon à savoir
+
+----- page 33 -----
+LA DÉCLARATION EN DSN
+
+----- page 34 -----
+Déclaration
+Il est nécessaire de déclarer en DSN le taux de contribution modulé sur la base
+du taux transmis par l’Urssaf.
+Le taux de contribution modulé par le bonus-malus doit être appliqué à l’ensemble
+des salariés de l’entreprise, quel que soit leur statut. Toutefois, le taux de
+contribution de référence de 4 % doit continuer à être appliqué à l’ensemble des
+natures de contrats de travail exclues du calcul du taux de séparation (cf. partie
+« Le taux de séparation de l’entreprise » et l’annexe 1, point « Natures de contrat
+de travail exclues »).
+Modalités déclaratives en DSN
+Si une entreprise est concernée par la réduction générale de cotisations, son
+calcul doit s’opérer avec le taux de référence (4 %) qui doit être déclaré (et
+non le taux modulé au titre du bonus-malus).
+Bon à savoir
+
+----- page 35 -----
+Déclaration à la maille agrégée :
+CTP 725 BONUS MALUS ASSURANCE CHOMAGE U2
+Bloc « Bordereau de cotisation due - S21.G00.22 »
+Bloc « Cotisation agrégée - S21.G00.23 »
+Rubrique « Code de cotisation » (S21.G00.23.001) : 725
+Rubrique « Qualifiant d’assiette » (S21.G00.23.002) : 920
+Rubrique « Taux de cotisation » (S21.G00.23.003) : Taux modulé propre à
+l’entreprise
+Rubrique « Montant d’assiette » (S21.G00.23.004) : XXXX.XX €
+Rubrique « Montant de cotisation » (S21.G00.23.005) : non renseigné
+Rubrique « Code INSEE commune » (S21.G00.23.006) : non renseigné
+Déclaration à la maille nominative :
+Les valeurs pour les blocs « Base assujettie - S21.G00.78 » et « Cotisation
+individuelle - S21.G00.81 » sont identiques à celles déjà utilisées dans le
+cadre de l’assurance chômage classique.
+Bloc « Base assujettie - S21.G00.78 »
+Rubrique « Code de base assujettie » (S21.G00.78.001) : 07 - Assiette des
+contributions d’Assurance Chômage
+Rubrique « Date de début de période de rattachement » (S21.G00.78.002) : À
+renseigner
+Rubrique « Date de fin de période de rattachement » (S21.G00.78.003) : À
+renseigner
+Rubrique « Montant de base assujettie » (S21.G00.78.004) : XXXX.XX €
+Bloc « Cotisation individuelle - S21.G00.81 »
+• Code de cotisation (S21.G00.81.001) : 040
+• Identifiant organisme de protection sociale (S21.G00.81.002) : Siret Urssaf
+• Montant d’assiette (S21.G00.81.003) : XXXX.XX €
+• Montant de cotisation (S21.G00.81.004) : XXXX.XX €
+• Code INSEE commune (S21.G00.81.005) : non renseigné
+• Taux de cotisation (S21.G00.81.007) : XX.XX
+
+----- page 36 -----
+Déclaration à la maille agrégée :
+Il est nécessaire de déclarer en DSN le taux de contribution modulé spécifique
+aux salariés affiliés à une caisse de congés payés qui figure dans la notification
+du taux de contribution modulé transmis par l’Urssaf.
+Déclaration à la maille agrégée :
+CTP 769 BONUS MALUS CCP ASSURANCE CHOMAGE U2
+Bloc « Bordereau de cotisation due - S21.G00.22 »
+Bloc « Cotisation agrégée - S21.G00.23 »
+•
+Rubrique « Code de cotisation » (S21.G00.23.001) : 769
+•
+Rubrique « Qualifiant d’assiette » (S21.G00.23.002) : 920
+•
+Rubrique « Taux de cotisation » (S21.G00.23.003) : non renseigné
+•
+Rubrique « Montant d’assiette » (S21.G00.23.004) : XXXX.XX €
+(Montant de la contribution d’assurance chômage à renseigner).
+•
+Rubrique « Montant de cotisation » (S21.G00.23.005) : non renseigné
+•
+Rubrique « Code INSEE commune » (S21.G00.23.006) : non renseigné
+À noter que ce CTP a un taux à 100% ; c’est le montant qui est retenu pour le
+recouvrement de la contribution qui est reporté dans le montant total des
+cotisations dues auprès de l’Urssaf.
+Déclaration à la maille nominative :
+Elle est identique au cas nominal.
+Pour plus d’informations sur les déclarations en DSN, consultez le guide Urssaf :
+comment déclarer et régulariser les cotisations Urssaf en DSN.
+Modalités déclaratives en DSN – Cas spécifique des
+salariés affiliés à une caisse de congés payés
+
+----- page 37 -----
+Synthèse des codes type de personnel à utiliser
+Cotisations
+Assiettes
+Redevables
+Taux
+CTP
+Contribution
+assurance
+chômage
+Assiette
+régime
+général
+Entreprises et
+contrats exclus
+du dispositif
+bonus-malus
+4 %
+CTP 772
+Contribution
+assurance
+chômage
+Apprentis (loi
+1987)
+Contrats
+d’apprentissage
+4 %
+CTP 423
+Contribution
+d’assurance
+chômage bonus-
+malus
+Entreprises
+éligibles au
+dispositif bonus-
+malus (hors
+contrats exclus)
+Entre 2,95 %
+et 5 %
+CTP 725
+Contribution
+d’assurance
+chômage bonus-
+malus salariés
+adhérents à des
+caisses de
+congés payés
+Salariés
+adhérents à des
+caisses de
+congés payés
+des entreprises
+éligibles au
+dispositif Bonus-
+malus
+Montant
+contribution
+CTP 769
+Contribution
+d’assurance
+chômage bonus-
+malus ouvriers
+dockers
+Ouvriers
+dockers avec un
+CDD inférieur ou
+égale à 3 mois
+Complément
+de 0,5 % au
+taux de
+contribution
+CTP 293
+
+----- page 38 -----
+Synthèse des données déclaratives
+Déclaration des cotisations à la maille agrégée
+Rubrique
+Détail
+Déclaration Urssaf à partir de la période d’emploi de
+septembre 2022
+Bloc Bordereau de cotisation due S21.G00.22
+S21.G00.22.001
+Identifiant
+Organisme de
+Protection
+Sociale
+Siret de l'Urssaf
+S21.G00.22.002
+Entité
+d'affectation
+des opérations
+. PSEUDO-SIRET (dans le cas d'une population de salariés)
+S21.G00.22.003
+Date de début
+de période de
+rattachement
+Date de début de la période au titre de laquelle ont été
+établies les cotisations dont l'établissement s'acquitte (1er
+jour du mois).
+S21.G00.22.004
+Date de fin de
+période de
+rattachement
+Date de fin de la période au titre de laquelle ont été établies
+les cotisations dont l'établissement s'acquitte (dernier jour
+du mois).
+S21.G00.22.005
+Montant total
+de cotisations
+Montant total des cotisations
+Le bloc Cotisation agrégée S21.G00.23
+S21.G00.23.001
+Code de
+cotisation
+CTP 725
+S21.G00.23.002
+Qualifiant
+d’assiette
+S21.G00.23.003
+Taux de
+cotisation
+Taux modulé propre à l’entreprise
+S21.G00.23.004
+Montant
+d’assiette
+Montant d’assiette renseigné
+S21.G00.23.005
+Montant de
+cotisation
+Non renseigné
+S21.G00.23.006
+Code INSEE
+commune
+Non renseigné
+
+----- page 39 -----
+Déclaration des cotisations à la maille nominative
+Rubrique
+Détail
+Déclaration Urssaf à partir de la période d’emploi de
+septembre 2022
+Bloc Base assujettie - S21.G00.78
+S21.G00.78.001
+Code de base
+assujettie
+S21.G00.78.002
+Date de début
+de période de
+rattachement
+À renseigner
+S21.G00.78.003
+Date de fin de
+période de
+rattachement
+À renseigner
+S21.G00.78.004
+Montant de
+base assujettie
+À renseigner
+Bloc Cotisation individuelle - S21.G00.81
+S21.G00.81.001
+Date de début
+Code de
+cotisation
+S21.G00.81.002
+Identifiant
+organisme de
+protection
+sociale
+Siret de l'Urssaf
+S21.G00.81.003
+Montant
+d’assiette
+À renseigner
+S21.G00.81.004
+Montant de
+cotisation
+À renseigner
+S21.G00.81.005
+Code INSEE
+commune
+Non renseigné
+S21.G00.81.007
+Taux de
+cotisation
+À renseigner
+
+----- page 40 -----
+Les cas de régularisation du taux bonus-malus
+Les régularisations en DSN du taux bonus-malus interviennent principalement à
+la suite d’une correction du taux ou dans le cadre d’une demande d’entrée / sortie
+du dispositif de la part de l’employeur.
+Pour la maille nominative, une régularisation concernant la correction d’une erreur
+de taux devra être effectuée, soit en mode annule et remplace complet (assiette,
+taux de cotisation et montant de cotisation), soit en mode différentiel pour le
+montant d’assiette et la cotisation avec déclaration du taux applicable à la période
+correspondante. L’Urssaf préconise le mode « annule et remplace » pour faciliter
+la prise en compte des régularisations.
+Pour la maille agrégée, une régularisation d’erreur de taux consiste à annuler le
+montant initialement déclaré et à effectuer une nouvelle déclaration avec le
+nouveau montant.
+À noter que pour le cas spécifique des salariés adhérents à une caisse de congés
+payés, la régularisation pourra être effectuée en mode différentiel.
+Il convient de réaliser cette régularisation en tenant compte du principe
+d’équivalence entre la maille agrégée et nominative.
+Le cas d’une correction du taux bonus-malus
+Le nouveau taux bonus-malus est applicable :
+- rétroactivement jusqu’à la date de début de validité du taux ;
+- jusqu’à la date de fin de validité du taux.
+Par exemple le taux bonus-malus initial est de 4,80 % pour la modulation 2022.
+En mars 2023, le taux est modifié à 4,25 %.
+L’employeur devra effectuer des DSN de régularisation en mode annule et
+remplace sur toutes les périodes d’emploi précédentes jusqu’à la période d’emploi
+de septembre 2022. Il devra appliquer le nouveau taux jusqu’à la période d’emploi
+d’août 2023.
+
+----- page 41 -----
+Illustration en DSN : régularisation en mars 2023
+du taux bonus-malus
+À maille agrégée :
+Mois M : Bloc « Versement organisme de protection sociale - S21.G00.20 » :
+période courante : mars 2023
+> Date de début de période de rattachement (S21.G00.20.006) : 01032023
+> Date de fin de période de rattachement (S21.G00.20.007) : 31032023
+Mois M : bloc « Bordereau de cotisation due - S21.G00.22 » : période courante :
+mars 2023
+> Identifiant Organisme de Protection Sociale (S21.G00.22.001) : Siret de
+l'Urssaf
+> Entité d'affectation des opérations (S21.G00.22.002) : Pseudo Siret dans le cas
+d’une population de salariés
+> Date de début de période de rattachement (S21.G00.22.003) : 01032023
+> Date de fin de période de rattachement (S21.G00.22.004) : 31032023
+> Montant total de cotisations (S21.G00.22.005) non renseigné
+Mois M : bloc « Cotisation agrégée - S21.G00.23 »
+> Code de cotisation (S21.G00.23.001) CTP 725
+> Qualifiant d'assiette (S21.G00.23.002) 920
+> Taux de cotisation (S21.G00.23.003) 4,25%
+> Montant d'assiette (S21.G00.23.004) : XXX
+> Montant de cotisation (S21.G00.23.005) non renseigné
+Mois M-1 : Bloc « Versement organisme de protection sociale - S21.G00.20 » :
+> Date de début de période de rattachement (S21.G00.20.006) : 01022023
+> Date de fin de période de rattachement (S21.G00.20.007) : 28022023
+
+----- page 42 -----
+Mois M-1 : bloc « Bordereau de cotisation due - S21.G00.22 » :
+régularisation M-1
+> Date de début de période de rattachement (S21.G00.22.003) : 01022023
+> Date de fin de période de rattachement (S21.G00.22.004) : 01022023
+> Montant total de cotisations (S21.G00.22.005) : à déclarer en approche
+annule et remplace
+Mois M-1 : bloc « Cotisation agrégée - S21.G00.23 » (annulation de la saisie de
+la période 01022023-28022023)
+> Code de cotisation (S21.G00.23.001) CTP 725
+> Qualifiant d'assiette (S21.G00.23.002) 920
+> Taux de cotisation (S21.G00.23.003) 4,80%
+> Montant d'assiette (S21.G00.23.004) : - 1000
+> Montant de cotisation (S21.G00.23.005) non renseigné
+Mois M-1 : bloc « Cotisation agrégée - S21.G00.23 » (nouvelle saisie pour la
+période 01022023-28022023)
+> Code de cotisation (S21.G00.23.001) CTP 725
+> Qualifiant d'assiette (S21.G00.23.002) 920
+> Taux de cotisation (S21.G00.23.003) 4,25%
+> Montant d'assiette (S21.G00.23.004) : 1000
+> Montant de cotisation (S21.G00.23.005) non renseigné
+Effectuer les blocs de régularisation jusqu’à la période d’emploi de septembre
+2022.
+ANNEXE 1
+
+----- page 43 -----
+EN SAVOIR PLUS...
+
+----- page 44 -----
+Une mission de conseil dans les obligations déclaratives
+La contribution d’assurance chômage est recouvrée et contrôlée par l’Urssaf
+selon les règles et sous les garanties et sanctions applicables au recouvrement
+des cotisations du régime général de la Sécurité sociale.
+Le réseau des Urssaf accompagne et conseille les entreprises dans la réalisation
+de leurs obligations déclaratives et contributives : questions générales relatives à
+l'assujettissement, à la déclaration, aux contributions, assistance DSN, questions
+relatives au paiement...
+Les Urssaf en charge des sujets suivants :
+>
+Assujettissement et redevabilité des entreprises ;
+>
+Enregistrement de la déclaration des contributions ;
+>
+Recouvrement des contributions et affectation du paiement ;
+>
+Contrôle de l’application de la législation (contrôle sur pièces et sur
+place).
+Les services de l’Urssaf :
+>
+www.urssaf.fr
+>
+Tél. 39 57, du lundi au vendredi, de 9h à 17h
+Le rôle de l'Urssaf
+
+----- page 45 -----
+Réglementation
+•
+Loi n° 2018-771 pour la liberté de choisir son avenir professionnel (JO
+du 6 septembre 2018) ;
+•
+Annexe A au décret n° 2019-797 du 26 juillet 2019 relatif au régime
+d’assurance chômage (JO du 28 juillet 2019) ;
+•
+Décret n° 2019-1106 du 30 octobre 2019 portant modification du décret
+n°2019-797 du 26 juillet 2019 relatif au régime d’assurance chômage (JO
+du 31 octobre 2019) ;
+•
+Décret n°2020-361 du 27 mars 2020 portant modification du décret
+n°2019-797 du 26 juillet 2019 modifié relatif au régime d’assurance
+chômage (JO du 29 mars 2020) ;
+•
+Décret n° 2021-346 du 30 mars 2021 portant diverses mesures relatives
+au régime d'assurance chômage ;
+•
+Arrêté du 28 juin 2021 relatif aux secteurs d’activité et aux employeurs
+entrant dans le champ d’application du bonus-malus (JO du 30 juin
+2021) ;
+•
+Arrêté du 21 juin 2022 relatif aux modalités d'établissement et de
+notification du taux de contribution à l'assurance-chômage modulé par le
+bonus-malus - Légifrance (legifrance.gouv.fr) ;
+•
+Arrêté du 18 août 2022 portant publication des taux de séparation
+médians par secteur pris en compte pour le calcul du bonus-malus -
+Légifrance (legifrance.gouv.fr) ;
+•
+Décret n° 2023-33 du 26 janvier 2023 relatif au régime d'assurance
+chômage - Légifrance (legifrance.gouv.fr) ;
+•
+Décret n° 2023-635 du 20 juillet 2023 relatif à la transmission aux
+employeurs des informations relatives à la détermination de leur taux
+modulé
+de
+contribution
+à
+l'assurance-chômage
+-
+Légifrance
+(legifrance.gouv.fr) ;
+•
+Décret n° 2023-801 du 21 août 2023 relatif aux modalités d'application
+de la réduction générale des cotisations et contributions sociales
+Référentiels et annexes règlementaires
+
+----- page 46 -----
+•
+Décret n° 2023-1230 du 21 décembre 2023 prorogeant temporairement
+les règles du régime d'assurance chômage
+•
+Décret n° 2024-853 du 30 juillet 2024 relatif au régime d'assurance
+chômage
+•
+Décrét n° 2024-963 du 29 octobre 2024 relatif au régime
+d'assurance chômage ).
+•
+Arrêté du 19 décembre 2024 portant agrément de la convention du
+15 novembre 2024 relative à l'assurance chômage, de la
+convention du 15 novembre 2024 relative à l'assurance chômage à
+Mayotte et de leurs textes associés
+
+----- page 47 -----
+Sur internet
+>
+https://travail-emploi.gouv.fr/emploi-et-insertion/bonus-malus/
+>
+www.urssaf.fr
+Toutes les informations sur le dispositif
+bonus-malus
+
+----- page 48 -----
+Sur internet
+>
+www.urssaf.fr
+>
+Fiches consignes DSN sur www.net-entreprises.fr
+o
+Fiche consigne 2570 : Particularités du dispositif Bonus-Malus
+pour un individu affilié à une caisse de congés payés.
+o
+Fiche consigne 2572 : Modalités déclaratives du taux de
+contribution d'Assurance chômage dans le cadre du bonus-
+malus - Fonctionnement général.
+o
+Fiche consigne 2573 : Modalités déclaratives d'une correction
+de taux modulé de contribution chômage dans le cadre du
+dispositif Bonus-Malus.
+o
+Fiche consigne 2574 : Modalités déclaratives du taux de
+contribution à l'Assurance chômage pour un expatrié dans le
+cadre du bonus-malus.
+Par téléphone
+>
+39 57, du lundi au vendredi, de 9 h à 17 h
+Toutes les informations
+sur la déclaration en DSN
+
+----- page 49 -----
+GL
+APE : Activité principale déclarée
+DSN : Déclaration sociale nominative.
+EMA : Effectif moyen annuel
+IDCC : Identifiant de convention collective.
+URSSAF : Union pour le recouvrement des cotisations de sécurité sociale et
+d’allocations familiales - Organisme ayant pour mission principale la collecte et le
+recouvrement et la redistribution aux autres organismes de protection sociale des
+cotisations et contributions.
+Glossaire
+
+----- page 50 -----
+ANNEXE 1
+
+----- page 51 -----
+Détermination du nombre de séparations : les natures de contrats et les
+motifs visés ou non par le dispositif bonus-malus.
+Natures de contrat de travail visées
+Principe
+Toutes les natures de contrat sont visées par le bonus-malus sauf les natures de
+contrat exclues explicitement. Tant qu’une nature de contrat n’est pas
+explicitement exclue du bonus-malus, elle est réputée être visée par le bonus-
+malus.
+Sont concernées les natures de contrats de travail suivantes (liste non
+exhaustive) :
+•
+Contrats à durée indéterminée (CDI) – L.1221-2 CT
+Y compris les types de CDI suivants :
+-
+Contrat à durée indéterminée intérimaire (CDI intérimaire) - L.1251-58-1
+CT
+-
+Contrat à durée indéterminée intermittent (CDI intermittent) - L.3123-33
+à 37 CT
+-
+Contrat à durée indéterminée de chantier ou d’opération - L.1223-8 à 9
+CT
+-
+Contrat d'engagement maritime à durée indéterminée - L.5542-1 et
+L.5542-3 C. Transports
+-
+Contrat à durée indéterminée de garde d’enfant (assistants(es)
+maternels(les))
+-
+Contrat à durée indéterminée de droit public conclu par un employeur
+public adhérent au RAC (à titre révocable ou irrévocable) - L.5424-1 à
+L5424-5-1 CT
+•
+Contrats à durée déterminée (CDD)
+Y compris les types de CDD suivants :
+Annexe 1
+
+----- page 52 -----
+-
+Contrat d’intérim (L.1251 2 CT) sauf lorsqu’il est conclu par une
+entreprise de travail temporaire d’insertion (ETTI) ou par une entreprise
+adaptée de travail temporaire (EATT).
+-
+CDD saisonnier - L.1242-2 3 CT
+-
+CDD vendanges - L.718-4 à L718-6 CRPM
+-
+CDD d’usage (D.1242-1 CT)
+-
+CDD à objet défini
+-
+Contrat d'engagement maritime à durée déterminée (dont contrat au
+voyage) - L.5542-1 et L.5542-3 Code des transports.
+-
+Contrat à durée déterminée de type emploi-formation agricole - D.718-7
+CRPM, D.1242-3 CT, L.1242-3 2° CT
+-
+Contrat à durée déterminée de droit public conclu par un employeur
+public adhérent au RAC (à titre révocable ou irrévocable) - L.5424-1 à
+L5424-5-1 CT
+•
+Contrats au voyage - L.5542-7 Code des transports
+•
+Contrat d'engagement éducatif - L.432-1 du CASF.
+•
+Contrat d’apprentissage en CDI dès lors que la fin de contrat de travail
+intervient postérieurement à la fin de la période d’apprentissage - L.6221-
+1 et L.6222-7 CT
+Le contrat d’apprentissage peut être conclu pour une durée déterminée ou
+indéterminée. Lorsqu’il est conclu pour une durée indéterminée, il s’agit d’un CDI
+comportant une période d’apprentissage. À l’issue de la période d’apprentissage,
+le contrat est régi par les règles de droit commun du CDI (hormis la période
+d’essai).
+Le contrat d’apprentissage de nature CDI n’est pas éligible tant que la fin de
+contrat de travail intervient en cours de période d’apprentissage. Dès lors que la
+fin de contrat de travail intervient postérieurement à la fin de la période
+d’apprentissage, le contrat de travail est éligible au bonus-malus.
+•
+Contrat de professionnalisation dès lors que la fin de contrat de travail
+intervient postérieurement à la fin de la période de professionnalisation
+- L.6325-1et L.6325-8 CT
+Le contrat de professionnalisation peut être conclu pour une durée déterminée ou
+indéterminée. Lorsqu’il est conclu pour une durée indéterminée, il s’agit d’un CDI
+comportant une période de professionnalisation. À l’issue de cette période, le
+contrat est régi par les règles de droit commun du CDI (hormis la période d’essai).
+
+----- page 53 -----
+Le contrat de professionnalisation de nature CDI n’est pas éligible tant que la fin
+de contrat de travail intervient en cours de période de professionnalisation. Dès
+lors que la fin de contrat de travail intervient postérieurement à la fin de la période
+de professionnalisation, le contrat de travail est éligible au bonus-malus.
+Natures de contrat de travail exclues
+Sont exclues les natures de contrat de travail suivantes (liste fermée) :
+-
+Contrat d’apprentissage - L.6221-1 et L.6222-7 CT
+-
+Contrat de professionnalisation - L.6325-1et L.6325-8 CT
+-
+Contrat unique d’insertion (CUI) - L.5134-19-1 CT
+-
+Contrat à durée déterminée Senior (CDD Senior) - D.1242-2 et
+L.1242-3 1° CT
+-
+Contrat à durée déterminée ou indéterminée d’adultes relais -
+L.5134-103 et L.1242-3 1° CT
+-
+Contrat à déterminée tremplin (CDD tremplin) - Article 78 de la loi
+2018-771 et L.1242-3 1° CT
+-
+Contrat à durée déterminée de travailleurs occasionnels agricoles
+dont le motif de recours est l’insertion - L741-16 CRPM et L.1242-3
+1° CT
+-
+Contrat d’intérim conclu par une entreprise adaptée de travail
+temporaire (EATT) - Article 79 de la loi 2018-771
+-
+Contrat à durée déterminée pour le demandeur d’emploi proche de
+la retraite - D.718-4 CRPM
+-
+Contrat à durée déterminée d’insertion (CDDI) conclu par une
+structure d’insertion - L.5132-5, L.5132-11-1, L.5132-15-1 et L.1242-3
+1° CT
+-
+Contrat à durée déterminée des intermittents du spectacle - L7121-
+2 à L7121-7-1 CT
+-
+Contrat d’intérim conclu par une entreprise de travail temporaire
+d’insertion (ETTI) - L.5132-6 CT
+
+----- page 54 -----
+-
+Contrat à durée déterminée d’accès à l’entreprise conclu par une
+collectivité territoriale - Article 88 de la loi 2018-771.
+Exceptions :
+Certains contrats de travail sont exclus bien qu’ils soient caractérisés par une
+nature visée par le bonus-malus. Il en est ainsi du contrat de travail suivant :
+-
+Contrat d’intérim d’un bénéficiaire de l’obligation d’emploi des
+travailleurs handicapés - L. 5212-13 CT
+Focus sur la prise en compte de l’intérim
+Dans le cadre du dispositif bonus-malus, la fin d’un contrat d’intérim n’est pas
+décomptée comme une séparation entre l’entreprise intérimaire et le salarié
+intérimaire mais est décomptée comme une séparation entre l’entreprise
+utilisatrice et le salarié intérimaire.
+Pour rappel :
+- Un contrat d’intérim (synonyme : contrat de mission) est un contrat de travail
+temporaire proposé par une entreprise de travail temporaire (ETT) à un salarié
+intérimaire pour exécuter une mission auprès d’une entreprise utilisatrice par le
+biais d’un contrat de mise à disposition.
+- Un contrat de mise à disposition est un contrat commercial (ce n’est pas un
+contrat de travail) établi entre l’entreprise de travail temporaire (ETT) et l’entreprise
+utilisatrice (ETU). Ce contrat est conclu à chaque fois qu’un intérimaire (en contrat
+de mission ou en CDI intérimaire) est missionné auprès d’une entreprise
+utilisatrice.
+En application du 1° de l’article L. 5422-12 CT, qui régit le dispositif bonus-malus,
+les fins de contrat de mission ne sont pas imputables à l’ETT, mais les fins de
+contrat de mise à disposition sont imputables à l’ETU, ce qui revient à imputer les
+fins de contrat de mission à l’ETU puisque chaque contrat de mise à disposition
+donne lieu à un contrat de mission.
+À noter que c’est l’ETT qui déclare les fins de contrat de mission imputables à
+l’ETU.
+À noter également qu’il n’existe pas de séparation entre l’entreprise utilisatrice et
+le salarié intérimaire lors de la fin d’un contrat de mise à disposition lorsque ce
+salarié est titulaire d’un CDI intérimaire. En effet, ce salarié a juste exécuté une
+lettre de mission (ordre de l’ETT) à distinguer du contrat d’intérim (ou contrat de
+mission).
+
+----- page 55 -----
+Par conséquent, dans le cadre du dispositif bonus-malus, les fins de contrat de
+mise à disposition de salariés en contrat à durée indéterminée intérimaire ne sont
+pas imputées à l’entreprise utilisatrice. En revanche, les fins de CDI intérimaire
+seraient imputables à l’ETT dès lors que les ETT entreraient dans le champ
+d’application du dispositif (ce n’est pas le cas actuellement en application de
+l’arrêté du 28 juin 2021 relatif aux secteurs d'activité et aux employeurs entrant
+dans le champ d'application du bonus-malus).
+Motifs de rupture de contrat de travail visés
+Principe
+Toutes les fins de contrat de travail sont visées par le Bonus-malus sauf les fins
+de contrat exclus explicitement en fonction du motif de rupture de contrat. Tant
+qu’une fin de contrat (motif de rupture) n’est pas explicitement exclue du Bonus-
+malus, elle est réputée être visée par le Bonus- malus.
+Sont visés les motifs de rupture de contrats de travail suivants (liste non
+exhaustive) :
+•
+Licenciement, notamment :
+-
+Licenciement pour faute grave
+-
+Licenciement pour faute lourde
+-
+Licenciement pour force majeure
+-
+Licenciement pour inaptitude physique d'origine non professionnelle
+-
+Licenciement pour inaptitude physique d'origine professionnelle
+-
+Licenciement suite à décision d'une autorité administrative
+-
+Licenciement au titre d’une convention de cessation d’activité des
+travailleurs salariés
+-
+Licenciement pour motif économique
+-
+Licenciement pour fin de chantier ou d’opération
+-
+Licenciement suite à redressement judiciaire
+-
+Licenciement suite à liquidation judiciaire
+-
+Licenciement suite à fermeture définitive de l'établissement
+
+----- page 56 -----
+-
+Licenciement collaborateur parlementaire
+•
+Rupture dans le cadre d'un accord de performance collective - L.2254-2
+CT
+•
+Rupture amiable dans le cadre d’un congé de mobilité
+•
+Rupture pour motif économique d’un contrat à durée indéterminée dans
+le cadre d’un contrat de sécurisation professionnelle (CSP)
+•
+Rupture pour motif économique d’un contrat à durée indéterminée dans
+le cadre d’un parcours d’accompagnement personnalisé (PAP)
+•
+Rupture anticipée d’un contrat à durée déterminée ou d’un contrat
+d’intérim en cas d’inaptitude physique constatée par le médecin du
+travail
+•
+Fins de contrats à durée déterminée (CDD) sauf ceux exclus
+explicitement
+•
+Fins de contrat d’intérim (ces FCT sont imputées à l’entreprise utilisatrice
+et pas à l’entreprise intérimaire).
+•
+Rupture à l’initiative de l’employeur du contrat à durée déterminée ou
+d’un contrat d’intérim
+•
+Rupture à l’initiative du salarié du contrat à durée déterminée ou d’un
+contrat d’intérim
+•
+Rupture anticipée d’un contrat à durée déterminée ou d’un contrat
+d’intérim suite à fermeture de l'établissement
+•
+Rupture anticipée du contrat à durée déterminée ou d’un contrat
+d’intérim pour faute lourde
+•
+Rupture anticipée du contrat à durée déterminée ou d’un contrat
+d’intérim pour faute grave
+•
+Rupture anticipée du contrat à durée déterminée pour arrêt de tournage
+•
+Rupture d'un commun accord du contrat à durée déterminée, du contrat
+d'apprentissage ou d’un contrat d’intérim
+•
+Rupture d’un contrat de travail ou d’un contrat d’intérim pour force
+majeure
+
+----- page 57 -----
+•
+Rupture d’un contrat de travail ou d’un contrat d’intérim pour fait du
+prince
+•
+Fin de période d’essai à l’initiative de l’employeur
+•
+Fin de période d’essai à l’initiative du salarié
+•
+Mise à la retraite par l’employeur
+•
+Départ à la retraite à l'initiative du salarié
+•
+Rupture conventionnelle
+•
+Rupture conventionnelle collective
+•
+Prise d'acte de la rupture de contrat de travail
+•
+Fin de ligne de service du contrat d'engagement maritime à durée
+déterminée (dont contrat au voyage).
+•
+Rupture du contrat de travail au motif « Retrait d’enfant » (Assistants
+maternels)
+•
+Résiliation judiciaire du contrat de travail
+•
+Décès de l’employeur
+Motifs de rupture de contrat de travail exclus
+Sont exclus les motifs de rupture de contrats de travail suivants (liste exhaustive) :
+•
+Démission volontaire du salarié en contrat à durée indéterminée
+•
+Décès du salarié
+• Quel que soit le motif de rupture dès lors que la nature du contrat de
+travail est exclue du bonus-malus (voir liste des contrats de travail
+exclus).

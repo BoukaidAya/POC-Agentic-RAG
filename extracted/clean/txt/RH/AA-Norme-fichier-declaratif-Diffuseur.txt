@@ -1,0 +1,1179 @@
+
+----- page 1 -----
+Norme du
+fichier déclaratif
+pour les diffuseurs
+d’œuvres,
+tiers habilités
+conventionnés et
+commerçants d’art
+
+----- page 2 -----
+08/10/2018 - version 1 - initiale des DOE
+08/10/2018 - version 2 - compléments FG
+15/10/2018 - version 3 - corrections mineures
+17/10/2018 - version 4 - intégration des DCA
+11/12/2018 - version 5 - intégration distinction annuelle/trimestrielle + séquencement
+09/07/2019 - version 6 - précisions et compléments d’information
+05/07/2021 - version 7 - ajout des types d’annexe pour les OVV
+11/01/2022 - version 8 - mise en forme du document et informations complémentaires
+01/07/2022 – version 9 – Evolutions majeures : simplification, formatage des adresses,
+nomenclature des revenus, gestion plafonds CGS/CRDS et vieillesse plafonnée, NNI obligatoires
+pour précomptés
+
+----- page 3 -----
+TABLE DES MATIERES
+Généralités .......................................................................... 4
+Séquencement des lignes et codes enregistrements ..... 6
+Séquencement et règles particulières liées au fichier pour les déclarations
+trimestrielles ............................................................................................................... 6
+Séquencement et règles particulières liées au fichier pour les déclarations annuelles7
+Séquencement et règles particulières liées au fichier pour les déclarations à néant .. 8
+Structure des enregistrements .......................................... 9
+Format des adresses ........................................................ 10
+Nouvelle nomenclature des revenus .............................. 13
+Structure et format d’un enregistrement diffuseur ..................................................... 15
+Structure et format d’enregistrement Auteur ............................................................. 16
+Structure et format de l’enregistrement de fin de fichier ........................................... 19
+
+----- page 4 -----
+Le format d’échange est un format dit « à plat » avec les caractéristiques suivantes :
+•
+délimiteur d’enregistrement : saut de ligne (LF ou CRLF). Le délimiteur doit être l’un
+ou l’autre de façon exclusive ;
+•
+délimiteur de rubriques : aucun ;
+•
+Une donnée non servie doit être laissée à blanc (caractères espaces).
+•
+encodage : ISO-8859-1 ou ISO-8859-15, Windows-1252 accepté. L’encodage UTF-
+8 est interdit ;
+•
+ci-après sur fond blanc l’ensemble des caractères autorisés :
+ISO-8859-1
+x0
+x1
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+xA
+xB
+xC
+xD
+xE
+xF
+0x
+Caractères interdits
+1x
+2x
+!
+"
+#
+$
+%
+&
+'
+(
+)
+*
++
+,
+-
+.
+/
+3x
+:
+;
+<
+=
+>
+?
+4x
+@
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+5x
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+[
+\
+]
+^
+_
+6x
+`
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+7x
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+{
+|
+}
+~
+8x
+Caractères interdits
+9x
+Ax
+¡
+¢
+£
+¤
+¥
+¦
+§
+̈
+©
+a
+«
+¬
+®
+̄
+Bx
+°
+±
+́
+μ
+¶
+·
+̧
+o
+»
+1⁄4
+1⁄2
+3⁄4
+¿
+Cx
+À
+Á
+Â
+Ã
+Ä
+Å
+Æ
+Ç
+È
+É
+Ê
+Ë
+Ì
+Í
+Î
+Ï
+Dx
+Ð
+Ñ
+Ò
+Ó
+Ô
+Õ
+Ö
+×
+Ø
+Ù
+Ú
+Û
+Ü
+Ý
+Þ
+ß
+Ex
+à
+á
+â
+Ã
+ä
+å
+æ
+ç
+è
+é
+ê
+ë
+ì
+í
+î
+ï
+Fx
+ð
+ñ
+ò
+O
+ô
+õ
+ö
+÷
+ø
+ù
+ú
+û
+ü
+ý
+þ
+ÿ
+Généralités
+Les caractères interdits sont donnés à titre d’exemple. La liste des
+caractères autorisés est quant à elle exhaustive. Tout caractère non
+présent dans la liste des caractères autorisés est donc à considérer
+comme interdit.
+Bon à savoir
+
+----- page 5 -----
+LISTE DES TYPES DE COTISANTS
+(TYPES D'ANNEXES)
+Personne
+Physique
+(PP) /
+Personne
+Morale (PM)
+Type de
+rémunération
+Cotisations Sociales AA
+Contributions Diffuseurs
+Vieillesse
+déplaf.
+Vieillesse
+plaf.
+CSG
+CRDS
+Formation
+Pro
+Maladie
+Contrib.
+diffuseur
+Formation
+Pro
+diffuseur
+Diffuseurs d’œuvres (DOE)
+1 Artistes-Auteurs Assujettis aux précomptes
+PP
+Précompte
+X
+X
+X
+X
+X
+X
+X
+X
+2 Artistes-Auteurs Dispensés de précomptes
+PP
+BNC
+X
+X
+3 Artistes-Auteurs résidents fiscaux étrangers
+(Prise en compte de la résidence fiscale de l'Artiste Auteur)
+PP
+BNC
+X
+X
+4 Artistes-Auteurs Décédés
+PP
+BNC
+X
+X
+5 Diffuseur Facturation des Contributions 1,10%
+PM
+BNC
+X
+X
+6 Diffuseur Facturation du Droit d’utilisation
+PM
+BNC
+X
+X
+7 Artistes-Auteurs Rémunération du Droit d’exploitation
+PP
+Précompte
+X
+X
+X
+X
+X
+X
+8 Artistes-Auteurs Rémunération du Droit de prêt
+PP
+Précompte
+X
+X
+X
+X
+X
+X
+9 Artistes-Auteurs Rémunération du droit de reprographie
+PP
+Précompte
+X
+X
+X
+X
+X
+X
+L Artistes-Auteurs Revenus précomptés non soumis à
+contribution diffuseur
+PP
+Précompte
+X
+X
+X
+X
+X
+X
+Tiers Habilités Conventionnés (THC)
+5 Diffuseur Facturation des Contributions 1,10%
+PM
+BNC
+X
+X
+A THC Artistes Auteurs Assujettis aux précomptes
+PP
+Précompte
+X
+X
+X
+X
+X
+X
+B THC Artistes Auteurs Dispensés de Précomptes
+PP
+BNC
+Diffuseurs Commerçants d’Art (DCA)
+C DCA Artistes Auteurs Dispensés de Précomptes
+CA TTC /
+Commissions TTC
+X
+X
+D DCA Artistes Auteurs Décédés, ou Non résidents fiscaux, ou
+anonyme ou Œuvre tombée dans le domaine public
+CA TTC /
+Commissions TTC
+X
+X
+H OVV Artistes Auteurs Dispensés de Précomptes
+Commissions TTC
+X
+X
+I OVV Artistes Auteurs Décédés, ou Non résidents fiscaux,
+ou anonyme ou Œuvre tombée dans le domaine public
+Commissions TTC
+X
+X
+Description des besoins « type de cotisant »
+
+----- page 6 -----
+Séquencement et règles particulières liées au fichier pour les déclarations
+trimestrielles
+•
+1 seule ligne d’enregistrement diffuseur est attendue dans le fichier pour une
+déclaration trimestrielle. Le fichier déposé pour une déclaration trimestrielle ne peut
+pas contenir plusieurs trimestres différents (1 fichier = 1 déclaration trimestrielle).
+•
+Le code enregistrement diffuseur est égal à 1 pour une déclaration trimestrielle.
+•
+Le code enregistrement artiste-auteur est égal à 2 pour une déclaration trimestrielle.
+•
+Le code enregistrement fin de fichier commence par « F » et est suivi du nombre
+d’enregistrements artiste-auteur présents dans le fichier.
+Un fichier est composé de lignes d’enregistrements.
+3 types de lignes d’enregistrements :
+-
+enregistrements diffuseur ;
+-
+enregistrements artiste-auteur ;
+-
+enregistrements de fin de fichier.
+Les codes enregistrements (1er caractère de chaque ligne) permettent d’identifier si le
+fichier déposé correspond à une déclaration trimestrielle ou annuelle.
+Une ligne enregistrement diffuseur est suivie de 0 à n lignes enregistrements artiste-
+auteur.
+Le fichier ne peut contenir qu’une seule ligne de fin de fichier et un seul code fin de
+fichier (F-......).
+Séquencement des lignes et codes enregistrements
+1 puis Enregistrement diffuseur
+2 puis Enregistrement auteur
+2 puis Enregistrement auteur
+2 puis Enregistrement auteur
+F 3
+Exemple
+Le code enregistrement de fin de fichier est sur 7 caractères (F + 6 positions).
+Donc une déclaration avec 100 lignes auteur devra contenir un code
+enregistrement sous la forme « F 100 » et non pas « F100 »
+Bon à savoir
+
+----- page 7 -----
+Séquencement et règles particulières liées au fichier pour les déclarations
+annuelles
+•
+La déclaration annuelle reprend l’ensemble des déclarations trimestrielles. Elle doit
+donc être composée de 4 enregistrements diffuseurs et les enregistrements artiste-
+auteurs qui les accompagnent.
+•
+Le code enregistrement diffuseur est égal à 3 pour une déclaration annuelle. Pour
+les diffuseurs commerçants d’art et opérateurs de ventes volontaires, le code
+enregistrement est obligatoirement 3 car seule une déclaration annuelle est
+attendue.
+•
+Le code enregistrement auteur est égal à 4
+•
+Le code enregistrement fin de fichier conserve le même format. Attention, il ne doit
+comptabiliser que les lignes enregistrements artiste-auteur pour la totalité du fichier.
+Un fichier déposé pour une déclaration annuelle ne comporte qu’un seul et unique
+code enregistrement de fin de fichier.
+3 puis Enregistrement diffuseur pour le premier
+trimestre
+4 puis Enregistrement auteur
+4 puis Enregistrement auteur
+3 puis Enregistrement diffuseur pour le deuxième
+trimestre
+4 puis Enregistrement auteur
+4 puis Enregistrement auteur
+3 puis Enregistrement diffuseur pour le troisième
+trimestre
+4 puis Enregistrement auteur
+4 puis Enregistrement auteur
+3 puis Enregistrement diffuseur pour le quatrième
+trimestre
+4 puis Enregistrement auteur
+4 puis Enregistrement auteur
+F 8
+Exemple
+Votre déclaration annuelle doit être composée de 4 trimestres, même si vous n’avez rien à
+déclarer sur un ou plusieurs trimestres.
+Elle devra donc présenter quoiqu’il arrive 4 lignes d’enregistrements diffuseur
+(commençant par le chiffre 3).
+Le code enregistrement de fin de fichier devra être unique et indiquer le nombre total
+d’enregistrements auteurs.
+Bon à savoir
+
+----- page 8 -----
+Séquencement et règles particulières liées au fichier pour les déclarations à
+néant
+Lors de vos déclarations trimestrielles ou annuelles, vous avez la possibilité de réaliser des
+déclarations à néant. Vous répondez ainsi à votre obligation déclarative en qualité de
+diffuseur.
+Pour réaliser une déclaration à néant :
+• Pour une déclaration trimestrielle : prévoyez un seul et unique enregistrement diffuseur,
+ne renseignez aucun enregistrement auteur et insérez le code enregistrement de fin de
+fichier « F 0 »
+• Pour une déclaration annuelle : prévoyez 4 enregistrements diffuseur (1 par trimestre) et
+ne renseignez aucun enregistrement auteur. Pensez également à inclure un unique
+code enregistrement de fin de fichier « F 0 »
+1 puis Enregistrement diffuseur pour le trimestre
+F 0
+Exemple de déclaration trimestrielle à néant
+3 puis Enregistrement diffuseur pour le premier
+trimestre
+3 puis Enregistrement diffuseur pour le deuxième
+trimestre
+3 puis Enregistrement diffuseur pour le troisième
+trimestre
+3 puis Enregistrement diffuseur pour le quatrième
+trimestre
+F 0
+Exemple de déclaration annuelle à néant
+Attention, votre déclaration annuelle n’est considérée à néant que si l’ensemble de vos
+trimestres sont également déclarés à néant.
+Vous ne pouvez pas faire une déclaration annuelle à néant si vous avez réalisé au moins
+une déclaration trimestrielle qui n’était pas à néant.
+Bon à savoir
+
+----- page 9 -----
+Informations et légendes
+•
+Types de diffuseurs :
+o Diffuseurs d’œuvres (DOE)
+o Tiers Habilités Conventionnés (THC)
+o Diffuseurs Commerçants d’Art (DCA)
+•
+Position : correspond à la position du premier caractère de la rubrique
+•
+Longueur : correspond au nombre de caractères de la rubrique. Pour les rubriques
+accueillant des valeurs numériques, il conviendra d’inscrire les nombres en fin de
+rubrique. Par exemple « ______100.55 » et non pas « 100.55______ »
+•
+Formats
+Format
+Abréviation
+Information
+Alphanumérique
+AN
+Cf la liste des caractères autorisés.
+Alphabétique
+A
+Ne peut contenir que les lettres prévues par la
+liste des caractères autorisés
+Numérique
+N
+Le séparateur décimal à favoriser est le point (.).
+La virgule reste tolérée.
+Date
+D
+Le format attendu est JJMMAAAA (jour, mois,
+année).
+•
+Caractère de la rubrique
+Caractère de la
+rubrique
+Abréviation
+Information
+Obligatoire
+O
+La rubrique doit être obligatoirement valorisée.
+Une valeur vide n’est pas tolérée.
+Facultatif
+F
+La rubrique peut être valorisée ou pas. La
+longueur de la rubrique devra cependant être
+respectée avec des espaces vides.
+Dépendant
+D
+Le caractère obligatoire de la rubrique dépend de
+certains critères décrits dans la colonne
+« Commentaire ».
+Structure des enregistrements
+
+----- page 10 -----
+La version de norme 23-1 accueille des évolutions sur le formatage des adresses des
+Artistes Auteurs. Ainsi, les adresses devront être formatées comme suit :
+•
+Numéro : Facultatif, au format numérique si renseigné
+•
+Indice de répétition : Facultatif. Si renseigné, il doit être codifié selon le référentiel
+suivant :
+Code
+Libellé
+B
+bis
+T
+ter
+Q
+quater
+C
+quinquies
+A
+A
+D
+D
+E
+E
+F
+F
+G
+G
+H
+H
+I
+I
+J
+J
+K
+K
+L
+L
+M
+M
+N
+N
+O
+O
+P
+P
+R
+R
+S
+S
+U
+U
+V
+V
+W
+W
+X
+X
+Y
+Y
+Z
+Z
+Format des adresses
+
+----- page 11 -----
+•
+Type de voie : Facultatif. Si renseigné, il doit être codifié selon le référentiel suivant :
+Code voie
+Correspondance
+RUE
+RUE
+AV
+AVENUE
+CHEM
+CHEMIN
+BD
+BOULEVARD
+RTE
+ROUTE
+ALL
+ALLEE
+IMP
+IMPASSE
+PL
+PLACE
+LD
+LIEU DIT
+QUAI
+QUAI
+VLA
+VILLA
+SQ
+SQUARE
+CRS
+COURS
+PAS
+PASSAGE
+RES
+RESIDENCE
+TRN
+TERRAIN
+LOT
+LOTISSEMENT
+HAME
+HAMEAU
+CITE
+CITE
+QUAR
+QUARTIER
+DOM
+DOMAINE
+TRA
+TRAVERSE
+DSC
+DESCENTE
+MAIS
+MAISON
+MTE
+MONTEE
+MAS
+MAS
+PROM
+PROMENADE
+ILE
+ILE
+ESCA
+ESCALIER
+JARD
+JARDIN
+•
+Nom de la voie : Obligatoire, accueille une saisie libre
+•
+Complément d’adresse : Facultatif, accueille une saisie libre
+•
+Code postal : Obligatoire, Le code postal doit être sur 5 caractères numériques.
+Concernant les adresses à l'étranger, la branche recouvrement utilise la norme
+administrative Française issu de l'INSEE pour les "codes de pays étranger". Ce code
+pays est enregistré dans le champ "Code postal" (norme :
+https://www.insee.fr/fr/information/2028273). Vous avez également la possibilité de
+renseigner un code postal générique « 99999 » pour toute adresse à l’étranger.
+
+----- page 12 -----
+Les codes postaux étrangers contenant éventuellement une lettre, sont quant à eux
+facultatifs et peuvent être stockés dans le champ "complément d'adresse".
+•
+Ville : Obligatoire, la ville ne peut pas contenir de chiffres. Exemple, « PARIS
+18eme » sera rejeté.
+•
+Pays : Facultatif
+
+----- page 13 -----
+Une nouvelle nomenclature des revenus artistiques a été établie par le Ministère de la
+Culture et doit faire l’objet d’une mise en place sur les déclarations diffuseurs à partir du
+premier trimestre 2023.
+Dans ce contexte, 2 rubriques sont prévues dans la structure du fichier déposé :
+•
+Nature du revenu artistique : elle fait l’objet d’une codification qui doit être reprise
+dans la rubrique correspondante dans votre fichier. Si la nature du revenu renseignée
+est de type « Revenus principaux », vous devrez obligatoirement lui associer une
+nature d’œuvre dans la rubrique correspondante.
+Code
+Type
+Nature du revenu artistique
+Règle particulière
+Revenus principaux
+Vente et location d'œuvres
+Obligation d'associer la nature
+de l'œuvre
+Revenus principaux
+Droits d'auteurs hors droits versés par un
+organisme de gestion collective
+Obligation d'associer la nature
+de l'œuvre
+Revenus principaux
+Droits d'auteurs versés par un organisme
+de gestion collective
+Obligation d'associer la nature
+de l'œuvre
+Revenus principaux
+Aides à la création et rémunérations pour
+la conception ou la réalisation d'œuvres
+hors droits de diffusion et d'exploitation
+Obligation d'associer la nature
+de l'œuvre
+Revenus principaux
+Bourses de résidences
+Obligation d'associer la nature
+de l'œuvre
+Revenus principaux
+Lecture publique, présentation de son
+œuvre et/ou de son processus de création
+ou dédicaces
+Obligation d'associer la nature
+de l'œuvre
+Revenus principaux
+Prix ou récompense pour une œuvre
+Obligation d'associer la nature
+de l'œuvre
+Revenus principaux
+Travail de sélection en vue de l'attribution
+d'un prix ou d'une récompense à un
+artiste-auteur
+Obligation d'associer la nature
+de l'œuvre
+Revenus principaux
+Financement participatif pour la
+rémunération de la création
+Obligation d'associer la nature
+de l'œuvre
+Revenus principaux
+Auto-édition, auto-diffusion
+Obligation d'associer la nature
+de l'œuvre
+Revenus principaux
+Conception et animation d'une collection
+éditoriale originale
+Obligation d'associer la nature
+de l'œuvre
+Revenus principaux
+Rétrocessions d’honoraires perçus entre
+artistes-auteurs
+Obligation d'associer la nature
+de l'œuvre
+Revenus accessoires
+Cours et ateliers artistiques
+Interdiction de renseigner une
+nature d’œuvre
+Revenus accessoires
+Participation à des rencontres publiques et
+débats (hors présentation de son œuvre et
+lecture publique)
+Interdiction de renseigner une
+nature d’œuvre
+Revenus accessoires
+Participation/développement/mise en
+forme de l'œuvre d'un autre artiste-auteur
+sans acte de création originale
+Interdiction de renseigner une
+nature d’œuvre
+Revenus accessoires
+Représentation par l'artiste-auteur de son
+champ professionnel dans les instances de
+gouvernance sociales
+Interdiction de renseigner une
+nature d’œuvre
+Nouvelle nomenclature des revenus
+
+----- page 14 -----
+•
+Nature de l’œuvre : elle fait l’objet d’une codification qui doit être reprise dans la
+rubrique correspondante dans votre fichier. La nature de l’œuvre ne doit être
+valorisée que si la nature du revenu est de type « Revenus principaux ».
+Code
+Nature de l’oeuvre
+Livre publié à compte d'éditeur
+Œuvre des arts graphiques et plastiques, sculpture, design et conception d'exposition -
+hors livre publié à compte d'éditeur et hors photographie
+Photographie - hors livre publié à compte d'éditeur
+Œuvre dramatique et textes non publiés sous forme de livre à compte d'éditeur
+Scénario et dialogues (cinéma, audiovisuel, sonore et web) - hors livre publié à compte
+d'éditeur
+Réalisation (cinéma, audiovisuel, sonore et web)
+Traduction, adaptation, voice over (cinéma, audiovisuel, sonore et web) - hors livre publié
+à compte d'éditeur
+Mise en scène, pantomimes
+Œuvre musicale et textes liés non publiés sous forme de livre à compte d'éditeur
+Œuvre chorégraphique dont partitions chorégraphiques
+Œuvre scénographique
+Jeux de société, jeux vidéo ou jeux de rôle - hors livre publié à compte d'éditeur
+Production de presse - hors livre publié à compte d'éditeur
+Autres
+
+----- page 15 -----
+Structure et format d’un enregistrement diffuseur
+Description de la rubrique
+Position
+Longueur
+Format
+Caractère
+de la
+rubrique
+Commentaire
+Code enregistrement
+N
+O
+Valeur « 1 » pour une déclaration trimestrielle
+Valeur « 3 » pour une déclaration de
+régularisation annuelle. Un fichier de déclaration
+annuelle contient plusieurs lignes
+d’enregistrements Diffuseurs commençant par
+« 3 » qui correspondent à chacun des trimestres
+Pour les DCA valeur « 3 » obligatoire (pas de
+déclaration trimestrielle pour les DCA)
+Raison sociale du
+diffuseur
+AN
+O
+Siret
+N
+D
+SIRET 14 chiffres
+Obligatoire si RNA vide
+RNA
+AN
+D
+RNA : W+ 9 chiffres
+Obligatoire si SIRET vide
+Type de Diffuseur
+N
+O
+Valeurs :
+1 : DOE
+2 : DOE THC
+3 : DCA Commerçant d’Art et/ou DCA OVV
+Exercice financier
+N
+O
+Format AAAA
+Trimestre
+N
+O
+{1, 2, 3, 4}
+Obligatoire pour les Type de Diffuseur 1 et 2
+(DOE / DOE THC)
+Interdit pour le type de Diffuseur 3 (DCA)
+Version de norme
+AN
+O
+Valeur « DIF-23.1»
+Si vous cumulez deux activités (ex : DOE et DCA, DOE et THC) pour un même
+numéro SIRET, vous devez déposer 1 fichier par activité. Chaque fichier ne devra donc
+contenir que des enregistrements auteurs correspondant à l’activité concernée.
+Par exemple, la présence d’un enregistrement auteur de type DCA pour un fichier relatif à
+une activité DOE entrainera un rejet intégral du fichier déposé.
+Bon à savoir
+
+----- page 16 -----
+Structure et format d’enregistrement Auteur
+Description de la
+rubrique
+Position
+Longueur
+Format
+Caractère
+de la
+rubrique
+Commentaire
+Code enregistrement
+AN
+O
+Valeur « 2 » pour une déclaration trimestrielle
+Valeur « 4 » pour une déclaration de
+régularisation annuelle
+Type de cotisant
+AN
+O
+Valeur
+1 = DOE AA Assujetti
+2 = DOE AA Dispensé
+3 = DOE Non-résidents fiscaux
+4 = DOE Ayant-droit
+5 = DOE/THC Contribution diffuseur seule
+6 = DOE Droits d’utilisation photo
+7 = DOE AA Droits d’exploitation photo
+8 = DOE AA Droit de prêt livre
+9 = DOE AA Droit de reprographie livre
+L (à partir de 2023) = DOE AA Revenus
+précomptés non soumis à contribution
+diffuseur
+A = THC AA Mandat Assujetti
+B = THC AA Mandat Dispensé
+C = DCA AA Dispensé
+D = DCA Non-résidents fiscaux, Ayant droit ou
+Œuvres du domaine Public
+H = OVV AA Dispensé
+I = OVV Non-résidents fiscaux, Ayant droit ou
+Œuvres du domaine Public
+Numéro de sécurité
+Sociale
+AN
+D
+Obligatoire pour les types 1, 2, 7, 8, 9, L, A, B
+Interdit pour les types 5 et 6
+Clé de contrôle du
+numéro de sécurité
+sociale
+N
+D
+Obligatoire pour les types 1, 2, 7, 8, 9, L, A, B
+Interdit pour les types 5 et 6
+Nom ou Dénomination
+AN
+D
+Obligatoire pour les types 1, 2, 6, 7, 8, 9, L, A,
+B, C, H
+Facultatif pour les types 3, 4, 5, D, I
+Prénom
+A
+D
+Obligatoire pour les types 1, 2, 7, 8, 9, L, A, B,
+C, H
+Facultatif pour les types 3, 4, 6, 5, D, I
+Nom d'usage
+A
+F
+Facultatif
+Pseudonyme
+AN
+F
+Facultatif
+Email Artiste
+AN
+F
+Facultatif. Doit respecter le format email
+Référence interne
+AN
+F
+Facultatif. Cette rubrique permet de stocker
+une référence interne diffuseur (matricule...)
+Adresse – Numéro
+N
+F
+Facultatif
+Adresse – Indice
+A
+F
+Vide ou code Indice de répétition (référentiel
+ici)
+Adresse – Type de voie
+A
+F
+Vide ou Code Type de voie prévu au référentiel
+(référentiel ici).
+Adresse – Nom de la
+voie
+AN
+D
+Obligatoire pour les types 1, 2, 6, 7, 8, 9, L, A,
+B, C, H
+Facultatif pour les types 3, 4, 5, D, I
+Adresse – Complément
+d’adresse
+AN
+F
+Code postal
+N
+D
+Obligatoire pour les types 1, 2, 6, 7, 8, 9, L, A,
+B, C, H
+Facultatif pour les types 3, 4, 5, D, I
+Ne doit contenir que 5 chiffres. Pour les codes
+postaux étrangers, utiliser la classification pays
+INSEE ou renseigner un code unique « 99999 »
+
+----- page 17 -----
+Ville
+A
+D
+Obligatoire pour les types 1, 2, 6, 7, 8, 9, L, A,
+B, C, H
+Facultatif pour les types 3, 4, 5, D, I
+Pays
+A
+F
+Facultatif
+Date de naissance
+D
+F
+Format JJMMAAAA
+Nature du revenu
+artistique
+N
+D
+Obligatoire pour les types 1, 2, 3, 7, 8, 9, L, A,
+B, C, H.
+Facultatif pour les autres types de cotisant (4,
+5, 6, D, I)
+Pour les déclarations à partir de 2023 : la
+valeur doit correspondre au code figurant dans
+le référentiel de la nouvelle nomenclature des
+revenus artistiques.
+Saisie libre de la nature de revenu artistique
+pour les déclarations antérieures à 2023.
+Nature de l’œuvre
+N
+D
+Obligatoire si la nature du revenu artistique est
+de type « Revenus principaux »
+Interdit si la nature du revenu artistique est de
+type « Revenus accessoires » ou si la nature du
+revenu artistique n’est pas renseignée car
+facultative au regard du type cotisant.
+Date de versement
+D
+D
+Obligatoire pour les types 1, 2, 7, 8, 9, L, A, B,
+C, H
+Doit être comprise entre le 01/01/2019 et la
+date du jour.
+Format JJMMAAAA
+N° Siret (ou RNA) de
+l’individu
+AN
+F
+Facultatif
+(Siret sur 14 positions ou RNA sur 10 : W + 9
+caractères)
+Rémunération brute
+ou montant versé
+N
+O
+Obligatoire pour tous les types
+DCA – Chiffres
+d’affaires TTC
+N
+D
+Obligatoire pour les types cotisants C, D
+Interdit pour les types cotisants 1, 2, 3, 4, 5, 6,
+7, 8, 9, L, A, B, H, I
+DCA / OVV –
+Commissions TTC
+N
+D
+Obligatoire pour les types cotisants C, D, H, I
+Interdit pour les types cotisants 1, 2, 3, 4, 5, 6,
+7, 8, 9, L, A, B
+Montant de la
+rémunération soumis à
+cotisation vieillesse
+plafonnée
+(Assiette vieillesse
+plafonnée à prendre
+en compte)
+N
+D
+Si l’Artiste Auteur dépasse le plafond de revenus
+pour la cotisation vieillesse plafonnée :
+Indiquez le montant de la rémunération brute à
+prendre en compte en tant qu’assiette pour le calcul
+de la cotisation vieillesse plafonnée.
+Ex : 10000 euros de rémunération brute. Si 7000
+excèdent le plafond (1 PASS), ne renseignez que
+3000 dans cette rubrique.
+Interdit pour les types 2, 3, 4, 5, 6, B, C, D, E, F, H, I,
+J, K
+Part de la
+rémunération
+dépassant le plafond 4
+PASS CSG CRDS
+N
+F
+Si l’Artiste Auteur dépasse le plafond de revenus
+pour la réduction de l’assiette de calcul CSG/CRDS :
+Indiquez le montant de la rémunération brute
+excédant le plafond (4 PASS) à prendre en compte à
+100% dans l’assiette pour le calcul des cotisations
+CSG / CRDS.
+Ex : 10000 euros de rémunération brute. Si 6000
+excèdent le plafond (4 PASS), renseignez 6000 dans
+cette rubrique.
+Interdit pour les types 2, 3, 4, 5, 6, B, C, D, E, F, H, I,
+J, K
+
+----- page 19 -----
+Structure et format de l’enregistrement de fin de fichier
+Description de la
+rubrique
+Position
+Longueur
+Format
+Caractère
+de la
+rubrique
+Commentaire
+Code
+enregistrement
+A
+O
+Indiquez la valeur « F » unique dans
+chaque fichier
+Compteur
+d’enregistrements
+Auteurs
+N
+O
+Indiquez le nombre de lignes
+Auteurs.
+Les rapports d’anomalies de vos fichiers déposés ont été revus pour vous apporter de plus
+amples informations sur les anomalies détectées.
+Certaines anomalies structurantes génèrent un rejet complet de votre fichier et donc de votre
+déclaration.
+D’autres anomalies peuvent quant à elles générer uniquement un rejet d’un enregistrement
+Artiste Auteur (annexe).
+Enfin, certains éléments du rapport d’analyse ne seront que des signalements et n’auront
+généré aucun rejet.
+Gestion des anomalies de dépôt

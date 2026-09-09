@@ -1,0 +1,735 @@
+
+----- page 1 -----
+GUIDE
+DES CONTRIBUTIONS
+CONVENTIONNELLES
+DE DIALOGUE SOCIAL
+ET DE FORMATION
+PROFESSIONNELLE
+Connaître les contributions
+Déclarer en DSN
+Version 0.1 – Septembre 2025
+
+----- page 2 -----
+Contribution conventionnelle de formation professionnelle
+L'assujettissement
+Le calcul de la contribution
+Modalités déclaratives
+La loi de financement de la Sécurité sociale 2024
+La contribution conventionnelle de dialogue social (CCDS)
+La contribution conventionnelle de formation professionnelle (CCFP)
+L'assujettissement
+Le calcul de la contribution
+Modalités déclaratives
+Contexte et enjeux
+Contribution conventionnelle de dialogue social
+Contribution conventionnelle de formation professionnelle
+Annexes : IDCC et taux de contribution applicables
+La contribution conventionnelle de dialogue social
+
+----- page 3 -----
+Conformément à la loi n° 2023-1250
+du 26 décembre 2023 de financement
+de la sécurité sociale pour 2024, les
+organisations
+représentatives
+des
+branches
+professionnelles
+ont
+la
+possibilité de confier à l’Urssaf le
+recouvrement
+des
+contributions
+conventionnelles de dialogue social
+et de formation professionnelle.
+Désormais, peut être donné mandat
+aux représentants de la branche de
+conclure une convention avec l'Urssaf
+afin
+d’assurer
+la
+collecte
+des
+contributions mentionnées aux articles
+4° du I du L2135-10 et 5° du I de
+l'article L. 6131-1 du code du travail.
+Dès le 1er janvier 2026, cette évolution
+offre
+aux
+employeurs
+dont
+les
+branches professionnelles ont choisi
+de
+désigner
+l’Urssaf
+comme
+organisme de recouvrement de ces
+contributions :
+- Une plus grande simplicité et lisibilité
+dans le dépôt de la déclaration par
+l’utilisation d’un vecteur déclaratif
+unique, la DSN ;
+- Un interlocuteur unique pour le
+recouvrement des contributions et le
+traitement des demandes : l’Urssaf.
+Ce guide vous accompagne dans
+vos démarches auprès de l’Urssaf1
+Bonne lecture !
+1 Ce guide n’est pas destiné à accompagner
+les travailleurs indépendants.
+
+----- page 4 -----
+CONTEXTE ET ENJEUX
+
+----- page 5 -----
+La loi de financement de la Sécurité sociale pour 2024
+L’article 13 de la loi n° 2023-1250 du 26 décembre 2023 de financement de la
+sécurité sociale pour 2024 ouvre de nouvelles possibilités déclaratives aux
+employeurs des branches professionnelles qui souhaiteraient confier aux
+organismes du recouvrement la collecte de leurs contributions conventionnelles de
+dialogue social et de formation professionnelle.
+Les représentants de la branche ont désormais la possibilité de conclure une
+convention avec l'Urssaf afin que celle-ci assure le recouvrement des contributions
+mentionnées au 4° du I de l’article L. 2135-10 (contribution conventionnelle de
+dialogue social) et au 5° du I de l’article L. 6131-1 du code du travail (contribution
+conventionnelle de formation professionnelle).
+Pour être effective, la convention doit respecter les éléments ci-dessous :
+-
+Le montant minimal de collecte de la contribution, fixé par arrêté2 ;
+-
+Une durée de mise en œuvre, qui ne peut être inférieure à huit ans ;
+-
+Par dérogation aux trois derniers alinéas du 5° de l'article L. 225-1-1 du
+code de la sécurité sociale, un niveau de frais prélevés sur le rendement
+de la contribution correspondant aux coûts réels de mise en œuvre et de
+gestion de la contribution ; ces frais sont majorés lorsque la convention
+est dénoncée avant que la durée prévue au b du présent 1° ne soit échue ;
+-
+Un délai de préavis lorsque l'une des parties envisage de dénoncer la
+convention. Ce délai ne peut être inférieur ni à la moitié de la durée
+restante de la convention ni à douze mois.
+Les contributions faisant l'objet d’une convention de transfert de recouvrement à
+l’Urssaf se voient appliquer les dispositions suivantes :
+-
+Une assiette assise sur les revenus d'activité calculée selon un taux
+proportionnel, qui ne peut être modulé qu'en fonction de seuils d'effectifs
+2 Arrêté du 27 juin 2025 fixant le montant minimal de collecte des contributions conventionnelles de dialogue social
+et de formation professionnelle ainsi que les modèles de convention mentionnés au III de l'article L. 2135-10 et au II de
+l'article L. 6131-3 du code du travail
+Contexte et enjeux
+
+----- page 6 -----
+définis par arrêté conjoint des ministres chargés de la sécurité sociale et
+du travail ou des éléments d'identification de la branche déclarés par
+l'employeur ;
+-
+Des contributions dues pour les périodes au titre desquelles les revenus
+sont attribués et déclarés mensuellement ;
+-
+Des contributions recouvrées selon les règles et sous les garanties et les
+sanctions applicables en matière de cotisations et de contributions de
+sécurité sociale ;
+-
+Des contributions recouvrées à compter du début de l'année civile suivant
+une période d'au moins six mois à compter de la signature de la
+convention, sans que ce recouvrement puisse intervenir avant le 1er
+janvier 2026.
+Ainsi, le recouvrement des contributions conventionnelles de formation
+professionnelle et de dialogue social peut être transféré à compter du 1er janvier
+2026 aux Urssaf, sur option des branches professionnelles concernées.
+Ce transfert a pour conséquence :
+-
+La mensualisation des contributions conventionnelles de dialogue social
+et de formation professionnelle ; la première collecte par les Urssaf
+interviendra au titre du mois de janvier 2026 (exigible le 5 ou 15 février
+2026) ;
+-
+L’intégration de la déclaration des contributions en DSN.
+Les exercices portant jusqu’au 31 décembre 2025 (pour les branches ayant
+confié le recouvrement au 1er janvier 2026 aux Urssaf) sont gérés par les
+anciens collecteurs en charge du recouvrement des contributions
+conventionnelles de dialogue social et de formation professionnelle.
+Les exercices postérieurs au 1er janvier 2026 (pour les branches ayant
+confié le recouvrement au 1er janvier 2026 aux Urssaf) sont gérés par les
+Urssaf. Les contributions conventionnelles de dialogue social et de formation
+professionnelle seront collectées mensuellement par les Urssaf : la première
+collecte interviendra au titre de la période d’emploi de janvier 2026, exigible les
+5 ou 15 février 2026.
+Les modalités de collecte ...
+
+----- page 7 -----
+La contribution conventionnelle de dialogue social (CCDS)
+Une branche professionnelle peut instaurer via un accord de branche étendu
+une contribution dite « conventionnelle » ayant pour objet de développer le
+dialogue social au sein de la branche.
+Elle peut, par exemple, être mobilisée pour :
+-
+Financer l’organisation et l’animation des instances paritaires ;
+-
+Financer des formations spécifiques pour les représentants syndicaux
+et patronaux ;
+-
+Commander des études sectorielles, des analyses économiques ou des
+expertises juridiques pour préparer les négociations ;
+-
+Informer et conseiller les salariés et les entreprises sur leurs droits et
+obligations et les accompagner dans l'application des conventions
+collectives, ...
+Cette contribution sera recouvrée par l’Urssaf et reversée à l’Association de
+gestion du fonds paritaire national (AGFPN) créée le 7 mars 2015 pour gérer le
+fonds pour le financement du dialogue social, institué par la loi du 5 mars 2014
+relative à la formation professionnelle, à l’emploi et la démocratie sociale.
+L’AGFPN répartira ensuite les fonds entre les associations de gestion des
+différentes branches identifiées par leurs identifiants de convention collective et
+ayant instauré cette nature de contribution conventionnelle.
+
+----- page 8 -----
+La contribution conventionnelle de formation professionnelle
+(CCFP)
+Une branche professionnelle peut instaurer via un accord de branche étendu
+une contribution dite « conventionnelle » ayant pour objet de développer la
+formation professionnelle au sein de la branche.
+Elle peut, par exemple, être mobilisée pour :
+-
+Financer des formations spécifiques dans des domaines spécifiques de
+la branche ;
+-
+Développer les compétences et parcours professionnels des salariés à
+travers le développement de VAE, de bilan de compétences ;
+-
+Financer le tutorat et la formation des formateurs, des actions pour des
+publics spécifiques, ...
+Cette contribution sera recouvrée par l’Urssaf et reversée à France compétences,
+créée le 1er janvier 2019, par la loi pour la liberté de choisir son avenir
+professionnel du 5 septembre 2018, chargée de la régulation et du financement
+de la formation professionnelle et de l’apprentissage.
+France compétences reversera ensuite les fonds aux OPCO des différentes
+branches identifiées par leurs identifiants de convention collective et ayant
+instauré cette nature de contribution conventionnelle.
+
+----- page 9 -----
+Les entreprises doivent renseigner pour chacun de leurs établissements
+l’identifiant
+de
+convention
+collective
+(IDCC)
+dans
+la
+rubrique
+S21.G00.11.022 « Code convention collective principale ».
+Le rattachement d’une entreprise à une convention collective s’opère en
+fonction de l’activité principale de l’entreprise.
+En cas d’activités multiples, pour déterminer la convention collective applicable
+à une entreprise, il convient de déterminer quelle est l’activité principale en
+fonction notamment de l’affectation réelle des salariés :
+-
+En cas de pluralité d’activités industrielles, l’activité principale est celle
+qui compte le plus de salariés,
+-
+En cas d’activités commerciales, l’activité principale sera celle à
+laquelle correspond le chiffre d’affaires le plus élevé,
+-
+En cas d’activités mixtes, industrielles ou commerciales, l’activité est
+principalement industrielle si le chiffre d’affaires relatif à la partie
+industrielle est supérieur ou égal à 25% du chiffre d’affaires total.
+La répartition du temps de travail selon les activités peut également déterminer
+l’activité principale.
+Si l’entreprise a plusieurs activités séparées et non complémentaires, exercées
+dans des établissements distincts et autonomes, des conventions collectives
+différentes peuvent s’appliquer aux différents établissements.
+L’IDCC applicable déclaré au niveau de l’établissement pourra être différent de
+l’IDCC appliqué et déclaré en DSN au niveau des contrats de travail, qui
+demeure inchangé.
+Le fractionnement des déclarations en DSN :
+Un seul IDCC étant possible pour un SIRET au regard de l’activité principale de
+l’entreprise (ou de l’établissement autonome), les éléments déclarés en
+rubrique « S21.G00.11.022 » doivent être identiques pour toutes les fractions
+de DSN d’un établissement.
+Rappels sur la saisie de l’IDCC en DSN ...
+
+----- page 10 -----
+.
+CONTRIBUTION
+CONVENTIONNELLE DE
+DIALOGUE SOCIAL
+
+----- page 11 -----
+Comment savoir si un établissement est assujetti à la
+contribution conventionnelle de dialogue social ?
+Les contributions conventionnelles sont prévues par des accords de
+branche, négociés et signés par les partenaires sociaux représentatifs
+(organisations syndicales de salariés et d'employeurs) dans la branche
+concernée.
+Pour savoir si un établissement appartenant à une branche professionnelle est
+assujetti à une contribution conventionnelle de dialogue social, il convient :
+-
+D’identifier la convention collective applicable à l’établissement (IDCC)
+-
+De consulter les accords qui régissent la branche professionnelle à
+laquelle appartient l’établissement pour vérifier si une contribution
+conventionnelle s’applique.
+L’assujettissement
+Dès lors qu’une contribution conventionnelle est mise en place par accord
+de
+branche
+étendu,
+elle
+devient
+obligatoire
+pour
+tous
+les
+établissements dont l’identifiant de convention collective (IDCC)
+relève de la branche.
+Vous pourrez trouver sur www.urssaf.fr et en annexe de ce guide la liste
+des IDCC des branches professionnelles ayant confié la collecte des
+contributions conventionnelles à l’Urssaf.
+Seuls les établissements dont les accords de branche étendus désignent
+l’Urssaf en tant que collecteur de la contribution conventionnelle doivent lui
+déclarer cette contribution en DSN.
+Bon à savoir
+
+----- page 12 -----
+Comment l'assiette de la contribution est calculée et quel est
+le taux à appliquer ?
+L’assiette retenue est identique à celle de la contribution légale de dialogue social
+(déclaré à l’Urssaf au travers du CTP 027 au taux de 0,016%) correspondant au
+revenu d'activité retenu pour le calcul des cotisations sociales mentionnées à
+l'article L. 242-1 du code de la sécurité sociale et à l'article L. 741-10 du code rural
+et de la pêche maritime.
+Le taux applicable à l’établissement est indiqué dans l’accord de branche dont
+l’établissement relève. Ce taux peut être modulé en fonction des seuils d'effectifs.
+Pour les employeurs dont les branches ont confié la collecte de la contribution
+conventionnelle de dialogue social aux Urssaf, à compter de la période d’emploi
+de janvier 2026 (déclarée en DSN les 5 et 15 février 2026), la contribution est
+déclarée mensuellement.
+La cotisation individuelle est portée en rubrique « 140 - Contribution
+conventionnelle de dialogue social » au bloc S21.G00.81.001 « Cotisation
+individuelle ».
+La masse salariale assujettie à la contribution conventionnelle de dialogue
+social est déclarée au bloc « Cotisation agrégée – S21.G00.23 », par le CTP
+844 avec un taux de contribution renseigné par l’employeur
+Le calcul de la contribution
+Modalités déclaratives de la contribution en DSN
+
+----- page 13 -----
+Tableau de synthèse DSN
+Fiches consignes N°3326 :
+Modalités déclaratives de la contribution conventionnelle de dialogue social
+S21.G000.78 – Base assujettie
+Code
+Rubrique
+Valorisation
+S21.G00.78.001
+Code de base assujettie
+03 - Assiette brute
+déplafonnée
+S21.G00.78.002
+Date de début de période
+de rattachement
+À renseigner
+Exemple : 01012026
+S21.G00.78.003
+Date de fin de période de
+rattachement
+À renseigner
+Exemple : 31012026
+S21.G00.78.004
+Montant de base assujettie
+À renseigner en euros
+S21.G00.81 – Cotisation individuelle
+Code
+Rubrique
+Valorisation
+S21.G00.81.001
+Code de cotisation
+S21.G00.81.002
+Identifiant organisme de
+protection
+Siret Urssaf
+S21.G00.81.003
+Montant d'assiette
+À renseigner en euros
+S21.G00.81.004
+Montant de cotisation
+À renseigner en euros
+S21.G00.81.005
+Code INSEE commune
+Non renseigné
+S21.G00.81.007
+Taux de cotisation
+À renseigner
+
+----- page 14 -----
+S21.G00.23 – Cotisation agrégée
+Code
+Rubrique
+Valorisation
+S21.G00.23.001
+Code de cotisation
+CTP 844
+S21.G00.23.002
+Qualifiant d’assiette
+S21.G00.23.003
+Taux de cotisation
+Taux de contribution
+à saisir par le
+déclarant en fonction
+de son IDCC
+(cf taux tableau en
+annexe)
+S21.G00.23.004
+Montant d’assiette
+XXXX.XX en €
+S21.G00.23.005
+Montant de cotisation
+Non renseigné
+S21.G00.23.006
+Code INSEE commune
+Non renseigné
+
+----- page 15 -----
+CONTRIBUTION
+CONVENTIONNELLE DE
+FORMATION
+PROFESSIONNELLE
+
+----- page 16 -----
+Comment savoir si un établissement est assujetti à la
+contribution conventionnelle de formation professionnelle ?
+Les contributions conventionnelles sont prévues par des accords de
+branche, négociés et signés par les partenaires sociaux représentatifs
+(organisations syndicales de salariés et d'employeurs) dans la branche
+concernée.
+Pour savoir si un établissement appartenant à une branche professionnelle est
+assujetti à une contribution conventionnelle de formation professionnelle, il
+convient :
+-
+D’identifier la convention collective applicable à l’établissement (IDCC),
+-
+De consulter les accords qui régissent la branche professionnelle à
+laquelle appartient l’établissement pour vérifier si une contribution
+conventionnelle s’applique.
+L’assujettissement
+Dès lors qu’une contribution conventionnelle est mise en place par accord
+de
+branche
+étendu,
+elle
+devient
+obligatoire
+pour
+tous
+les
+établissements dont l’identifiant de convention collective (IDCC)
+relève de la branche.
+Vous pourrez trouver sur www.urssaf.fr et en annexe de ce guide la liste
+des IDCC des branches professionnelles ayant confié la collecte des
+contributions conventionnelles à l’Urssaf.
+Seuls les établissements dont les accords de branche étendus désignent
+l’Urssaf en tant que collecteur de la contribution conventionnelle doivent lui
+déclarer cette contribution en DSN.
+Bon à savoir
+
+----- page 17 -----
+Comment l'assiette de la contribution est calculée et quel est
+le taux à appliquer ?
+L’assiette retenue est identique à celles des contributions légales de formation
+professionnelle (déclaré à l’Urssaf à travers les CTP 959 ; 971 ; 983 au taux
+respectifs 0,55% / 1% / 2%). Un employeur devra notamment inclure la masse
+salariale du personnel intermittent du spectacle dans la déclaration de la
+contribution conventionnelle de formation professionnelle.
+L’assiette de la contribution conventionnelle de formation professionnelle est
+assise sur les revenus d’activité pris en compte pour la détermination de l’assiette
+de la CFP légale, définie aux articles L. 6331-1 et L. 6331-3 du code du travail.
+Le taux applicable à l’établissement est indiqué dans l’accord de branche dont
+l’établissement relève. Ce taux peut être modulé en fonction des seuils d'effectifs.
+Pour les employeurs dont les branches ont confié la collecte de la contribution
+conventionnelle de formation professionnelle aux Urssaf, à compter de la période
+d’emploi de janvier 2026 (déclarée en DSN les 5 et 15 février 2026), la contribution
+est déclarée mensuellement.
+La cotisation individuelle est portée en rubrique « 141 - Contribution
+conventionnelle de formation professionnelle » au bloc S21.G00.81.001 «
+Cotisation individuelle ».
+La masse salariale assujettie à la contribution conventionnelle à la formation
+professionnelle est déclarée au bloc « Cotisation agrégée – S21.G00.23 »,
+par le CTP 845 avec un taux de contribution renseigné par l’employeur
+Le calcul de la contribution
+Modalités déclaratives de la contribution en DSN
+
+----- page 18 -----
+Tableau de synthèse DSN
+Fiches consignes N°3326 :
+Modalités déclaratives de la contribution conventionnelle de formation
+professionnelle
+S21.G000.78 – Base assujettie
+Code
+Rubrique
+Valorisation
+S21.G00.78.001
+Code de base assujettie
+03 - Assiette brute
+déplafonnée
+S21.G00.78.002
+Date de début de période
+de rattachement
+À renseigner
+Exemple : 01012026
+S21.G00.78.003
+Date de fin de période de
+rattachement
+À renseigner
+Exemple : 31012026
+S21.G00.78.004
+Montant de base assujettie
+À renseigner en euros
+S21.G00.81 – Cotisation individuelle
+Code
+Rubrique
+Valorisation
+S21.G00.81.001
+Code de cotisation
+S21.G00.81.002
+Identifiant organisme de
+protection
+Siret Urssaf
+S21.G00.81.003
+Montant d'assiette
+À renseigner en euros
+S21.G00.81.004
+Montant de cotisation
+À renseigner en euros
+S21.G00.81.005
+Code INSEE commune
+Non renseigné
+S21.G00.81.007
+Taux de cotisation
+À renseigner
+
+----- page 19 -----
+S21.G00.23 – Cotisation agrégée
+Code
+Rubrique
+Valorisation
+S21.G00.23.001
+Code de cotisation
+CTP 845
+S21.G00.23.002
+Qualifiant d’assiette
+S21.G00.23.003
+Taux de cotisation
+Taux de contribution
+à saisir par le
+déclarant en fonction
+de son IDCC
+(cf taux tableau en
+annexe)
+S21.G00.23.004
+Montant d’assiette
+XXXX.XX en €
+S21.G00.23.005
+Montant de cotisation
+Non renseigné
+S21.G00.23.006
+Code INSEE commune
+Non renseigné
+
+----- page 20 -----
+Annexe - IDCC redevables et taux applicables
+Contribution conventionnelle de dialogue social
+IDCC
+Nom de la
+branche
+Taux de
+contribution
+Champ d’application en
+Outre-Mer
+Arrêté d’extension
+Avenants - Bulletins
+officiels des
+conventions collectives
+Industries du
+cartonnage
+0,02 %
+Martinique
+Guadeloupe
+Guyane
+La Réunion
+Mayotte
+Arrêté du 26 mai 2025
+Avenant n° 167 du 11
+mars 2025 relatif au
+financement du
+dialogue social
+Boulangerie
+pâtisserie
+artisanale
+0,25 %
+La Réunion
+Arrêté du 15 mai 2025
+Avenant n° 4 du 26
+février 2025 à l'accord
+du 13 juillet 2000 relatif
+au financement du
+paritarisme
+
+----- page 21 -----
+Boulangerie
+pâtisserie
+artisanale
+Bouches-du-
+Rhône (13)
+Bouches-du-
+Rhône (13) :
+une
+contribution
+supplémentaire
+de 0,40%, soit
+un taux global à
+déclarer de
+0,65 %
+-
+Arrêté du 15 mai 2025
+Avenant n° 1 du 20
+février 2025 à l'accord
+du 20 juin 2012 relatif à
+la gestion des appels de
+cotisations du
+paritarisme
+départemental
+(Bouches-du-Rhône)
+Charcuterie
+de détail
+0,45 %
+Martinique
+Guadeloupe
+Guyane
+La Réunion
+Arrêté du 27 mai 2025
+Avenant n° 60 du 12
+mars 2025 relatif au
+financement du
+paritarisme et du
+dialogue social
+
+----- page 22 -----
+Pâtisserie
+0,28 %
+Martinique
+Guadeloupe
+Saint-Martin
+Guyane
+La Réunion
+Arrêté du 11 février
+Article 1er - Avenant n°
+108 du 10 septembre
+2024 relatif au
+financement du
+dialogue social et la
+collecte des fonds du
+paritarisme
+Avenant n° 111 du 26
+novembre 2024 à
+l'avenant n° 108 du 10
+septembre 2024 relatif
+au financement du
+dialogue social et à la
+collecte des fonds du
+paritarisme
+Détaillants,
+détaillants-
+fabricants et
+artisans de la
+confiserie,
+chocolaterie,
+biscuiterie
+0,15 %
+Martinique
+Guadeloupe
+Guyane
+La Réunion
+Arrêté du 27 juin 2025
+Avenant n° 1 du 10 avril
+2025 à l'avenant n° 9 du
+8 juin 2004 relatif à la
+constitution d'un fonds
+d'aide au paritarisme
+
+----- page 23 -----
+Optique-
+lunetterie de
+détail
+0,08 %
+Martinique
+Guadeloupe
+Saint-Martin
+Guyane
+La Réunion
+Mayotte
+Arrêté du 26 mai 2025
+Avenant du 17 avril
+2025 à l'accord du 8
+décembre 2004 relatif
+au financement du
+paritarisme
+Hôtels Cafés
+Restaurants
+0,05 %
+Martinique
+Guadeloupe
+Saint-Martin
+Guyane
+La Réunion
+Arrêté du 3 octobre
+Arrêté du 30 juin 2025
+Article 1er - Avenant n°
+1 du 13 décembre 2023
+à l'accord collectif du 22
+janvier 2019 relatif à la
+mise en place de la
+CPPNI
+Avenant n° 2 du 27
+février 2025 à l'accord
+du 22 janvier 2019
+relatif à la mise en place
+de la CPPNI
+
+----- page 24 -----
+Annexe - IDCC redevables et taux applicables
+Contribution conventionnelle de formation professionnelle
+IDCC
+Nom de la
+branche
+Taux de
+contribution
+Champ d’application
+en Outre-Mer
+Arrêté d’extension
+Avenants - Bulletins officiels
+des conventions collectives
+Hôtels Cafés
+Restaurants
+2026 : 0,20 %
+2027 : 0,35 %
+et années
+suivantes :
+0,50 %
+Martinique
+Guadeloupe
+Saint-Martin
+Guyane
+La Réunion
+Arrêté du 30 avril 2025
+Convention collective
+nationale des hôtels, cafés
+restaurants (HCR) du 30 avril
+1997 - Textes Attachés -
+Accord du 19 juin 2024 relatif à
+la contribution
+conventionnelle pour le
+développement de la
+formation professionnelle

@@ -1,0 +1,650 @@
+
+----- page 1 -----
+L'API DPAE
+régime général
+principes de fonctionnement
+Au service de notre protection sociale
+
+----- page 2 -----
+CONTEXTE ET ENJEUX
+L’offre DPAE EDI se modernise et s’aligne sur l’état de l’art des modes de transmis­
+sion de données.
+La DPAE EDI Régime général évolue pour converger vers les fonctionnalités propo­
+sées par le dispositif de la Déclaration Sociale Nominative (DSN) :
+→Un service de dépôt qui permet le suivi des flux, l’obtention d’un certificat de
+conformité et de bilans métier de façon unitaire et en masse,
+→Une fonction de contrôle DPAE qui reprend la typologie des contrôles de la DSN :
+les pré-contrôles, les contrôles de norme (syntaxe, référentiel externe...), les
+contrôles métier.
+→Le mode de transmission nommé API (Application Programming Interface) s’ap­
+puyant à l’identique sur les éléments de l’API DSN pour faciliter sa mise en œuvre
+par le déclarant et par l’éditeur de logiciel.
+Le déclarant bénéficie d’un service de réception des déclarations homogène et cohé­
+rent associé à des fonctionnalités identiques quelle que soit la déclaration transmise
+(DPAE ou DSN).
+La convergence vers la DSN facilite la mise en œuvre dans la solution productrice de
+DPAE. Seules les données d’authentification et les adresses web services changent
+pour transmettre une DPAE.(cf. Guide DPAE Api).
+Les formats de fichier de la DPAE (Déclaration, accusé de réception métier et bis)
+n’évoluent pas.
+Afin de s’approprier ces évolutions, cette note décrit les principes de fonctionnement
+et les nouvelles modalités de transmission. La cinématique du traitement des flux et
+un focus sur les contrôles appliqués à la DPAE EDI permettent d’appréhender l’en­
+semble du dispositif.
+
+----- page 3 -----
+PRINCIPES DE FONCTIONNEMENT
+Généralités
+Modalités de transmission
+Cinématique de traitement d’un flux
+LES CONTRÔLES
+Principes
+Les pré-contrôles
+Le contrôle des Sirets employeur déclarant des embauches
+Les contrôles de norme dans la brique « contrôle » bloc 1
+Les contrôles métier
+Annexe 1 : Schéma du dispositif
+Annexe 2 : Fiche de synthèse des changements
+sommaire
+
+----- page 4 -----
+GÉNÉRALITÉS
+Le format du fichier DPAE Régime général (RG) et
+de l’accusé de réception des DPAE reste inchan­
+gé.
+Le service de dépôt de la DPAE RG est distinct de
+celui de la Dsn.
+Un flux DPAE EDI peut être transmis :
+→en mode dépôt (Net-DPAE de Net-entreprises
+et d’Urssaf en ligne). Le déploiement de cette
+offre est prévue à la fin du mois de septembre
+2019.
+→en mode machine to machine API avec les
+identifiants de l’abonné au service en ligne de
+l’Urssaf (Siret, nom, prénom et mot passe). Le
+prénom et le nom de l’abonné sont consul­
+tables sur Urssaf en ligne dans la rubrique
+« Mon profil » puis « gérer mes coordonnées ».
+Le flux est réceptionné par un service de dépôt
+DPAE (Bloc 1).
+Dans ce bloc, le ou les fichiers DPAE font l’objet :
+de pré-contrôles qui vérifient l’exploitabilité du
+fichier (au minimum les contrôles de surface
+DPAE). Si les contrôles sont satisfaits, il est
+délivré un accusé d’enregistrement électro­
+nique (AEE) sinon un avis de rejet (ARE).
+de contrôles communs (Contrôles de norme,
+de syntaxe liés à la rubrique, de référentiel ex­
+terne). Ce type de contrôle permet de vérifier
+l’exploitabilité des données. Selon le résultat
+de ces contrôles, un bilan d’anomalie ou un
+certificat de conformité est mis à disposition
+de l’émetteur. Ce retour est intégrable dans le
+SI de l’émetteur.
+Le bloc 1 adresse le flux au service Embauche
+(bloc 2) qui assure le traitement métier (Contrôles
+métier: vérification de l’exactitude du contenu) et
+le stockage des données. Le résultat de ce traite­
+ment (l’Accusé de Réception DPAE : AR) est trans­
+mis au bloc 1 pour restitution à l’émetteur en
+fonction du canal d’envoi. Quel que soit le canal,
+cet AR est consultable sur le tableau de bord du
+bloc 1 qui est accessible dans les offres de ser­
+vices actuelles (Urssaf en ligne et NetDpae de
+Net-entreprises).
+L’AR est aussi délivré sous un format structuré
+permettant son intégration dans le système d’in­
+formation de l’émetteur. Rappel : Le format de
+l’AR n’évolue pas par rapport à celui proposé an­
+térieurement à la nouvelle offre EDI.
+Recommandations : afin de faciliter le suivi des
+dépôts, il est recommandé d’ordonnancer de ma­
+nière successive les DPAE d’un même employeur
+dans un fichier DPAE multi-employeurs.
+Il est à préciser que la fonction « annule et rem­
+place » n’est pas nécessaire pour la gestion d’un
+flux DPAE EDI.
+Les autres fonctionnalités des services « plus »
+de la DPAE sont maintenues à l’identique : DPAE
+en saisie en ligne, service de réédition d’AR, réa­
+lisation en saisie d’une DPAE à partir d’une DPAE
+enregistrée.
+MODALITÉS DE TRANSMISSION
+Le déclarant a la possibilité d’utiliser 2 modes
+transmissions :
+→Le dépôt de fichier sur le service DPAE de
+Net-entreprises ou d’Urssaf en ligne.
+→Le mode API : L’API DPAE est l’interface qui
+permet au logiciel de paie du déclarant (ou au
+concentrateur) de s’authentifier directement
+sur le point de dépôt des DPAE sans avoir à
+naviguer sur Net-entreprises ou sur Urssaf en
+ligne pour y déposer ses déclarations.
+Ce système permet la gestion d’un très grand
+nombre de dépôts de déclarations avec, en re­
+tour, des accusés d’enregistrement électronique,
+des certificats de conformité, mais aussi des bi­
+lans de traitement par l’Urssaf.
+Un guide d’implémentation spécifique DPAE API
+accompagne la mise en place de ce mode de
+transmission.
+Point d’attention : il convient d’utiliser
+pour l’authentification les identifiants
+utilisés pour l’accès au service Urssaf en
+ligne
+en ajoutant le nom et le prénom de
+l’abonné tels que saisis lors de l’inscription.
+Ces éléments sont consultables dans la
+rubrique « Mon profil » puis « gérer mes
+coordonnées » du service en ligne de
+l’Urssaf.
+PRINCIPES DE FONCTIONNEMENT
+
+----- page 5 -----
+CINÉMATIQUE DE
+TRAITEMENT D’UN FLUX
+Réception des fichiers
+Le service de réception des DPAE (bloc 1) reçoit
+un flux qui peut être multi-volumes (archives). Les
+pré-contrôles sont pratiqués au niveau du flux.
+Un accusé réception électronique (AEE) est déli­
+vré à l’émetteur. En cas de multi-volumes, les fi­
+chiers sont extraits.
+Le flux et les fichiers constituants ce flux sont
+consultables dans le tableau de bord du décla­
+rant.
+Chaque fichier (potentiellement multi-établisse­
+ments/multi-salariés) est ensuite décomposé en
+autant de fichier qu’il y a de sirets différents.
+En fonction du résultat du traitement, un certifi­
+cat de conformité et/ou un bilan d’anomalie est
+restitué à l’émetteur. Les certificats de conformi­
+té et/ou les bilans d’anomalie sont regroupés
+dans un même fichier et correspondent au fichier
+initial : les comptes rendus de traitement sont re­
+groupés par établissement et donc structurés
+hiérarchiquement au niveau établissement (un bi­
+lan par siret d’affectation). L’émetteur consulte
+sur son tableau de bord la journalisation de son
+fichier, il pourra visualiser le détail des bilans de
+traitement par siret d’affectation.
+Transmission au service Embauche
+→Le bloc 1 transmet les fichiers (granularité
+établissement) au service Embauche (bloc 2).
+→Le bloc 2 traite le volet métier des déclara­
+tions au niveau établissement d’affectation :
+application des contrôles métiers et stockage
+des données.
+Les comptes rendus métier
+Les comptes rendus métier se composent de
+l’accusé de réception (AR) de la DPAE, du bilan
+d’anomalie et du bilan d’identification du salarié
+(BIS). Le traitement métier relatif à la déclaration
+et aux données d’identification du salarié est pra­
+tiqué de manière distincte et les retours sont
+donc adressés séparément (AR et BIS). Le format
+de fichier des CR reste inchangé par rapport au
+service qui existait précédemment.
+Focus sur le Bis
+Le Bis est mis à disposition à J+1 de la date d’em­
+bauche du salarié.
+Ce bilan est issu du traitement des DPAE pour
+lesquelles il a relevé des anomalies d’identifica­
+tion : S’il n’y a pas d’anomalie relevée, aucun BIS
+n’est produit.
+Afin d’actualiser les informations contenues dans
+le logiciel du déclarant, deux types de retour sont
+transmis :
+→ les salariés déclarés et non identifiés par le
+Système National de Gestion des identifiants
+(SNGI).
+L’employeur doit inviter le salarié non identifié
+à se rendre à la Cpam de son lieu de résidence
+pour obtenir son numéro de sécurité sociale
+(NIR)
+→le cas échéant les éléments d’identification
+connus dans le Système National de Gestion
+des Identifiants qui doivent être utilisés doré­
+navant dans les déclarations sociales.
+Pour toute assistance sur le Bis, il convient de
+contacter la Carsat, Cnav ou CGSS.
+Important : ce document n’est pas un
+accusé de réception de DPAE et, en aucun
+cas, vous ne devez effectuer une nouvelle
+DPAE pour ces salariés pour corriger les
+DPAE déjà enregistrées.
+
+----- page 6 -----
+PRINCIPES
+En application de la convergence vers la DSN, les
+types de contrôles pratiqués sur le nouveau dis­
+positif de réception des flux DPAE EDI sont de
+mêmes types que ceux pratiqués en DSN en te­
+nant compte des particularités de la DPAE.
+→Les pré-contrôles ;
+→Les contrôles de norme (syntaxe, référentiel
+externe...) ;
+→Les contrôles métier.
+Les contrôles de cinématique ne sont pas justi­
+fiés pour la DPAE. Absence de période déclarée
+donc inutilité à la contrôler, absence de fonction
+annule et remplace. Le cas des doublons de DPAE
+est traité dans le bloc 2.
+LES PRÉ-CONTRÔLES
+→Le flux contient un fichier non vide
+et d’une taille maximale autorisée ;
+→L’extension du fichier transmis dans le flux est
+correcte ;
+→Contrôles relatifs aux archives ;
+→Contrôle élémentaire de structure.
+Les 4 types de pré-contrôles sont détaillés :
+Le flux contient un fichier non vide
+et d’une taille maximale autorisée
+Un flux DPAE est constitué d’un fichier unique et
+de taille supérieure à zéro.
+Afin de garantir l’exploitabilité du flux reçu, la
+taille du fichier qui peut être reçue est limitée à
+une valeur définie. Cette taille est paramétrable.
+L’extension du fichier transmis
+dans le flux est correcte
+Un flux DPAE est constitué d’un fichier unique qui
+doit être au format texte ou xml mais dont l’exten­
+sion est libre (voir sans extension). Si le fichier
+n’est pas au format texte ou xml, alors il doit s’agir
+d’une archive et son extension fait partie de la
+liste finie des types compressés acceptés : gz,
+tar, zip et gzip.
+Contrôles relatifs aux archives
+Si un flux DPAE est de type archive, alors il est
+décompressé pour s’assurer de son intégrité. Si
+l’archive n’est pas intègre, le flux DPAE est rejeté
+(c'est-à-dire l’ensemble des fichiers contenus
+dans l’archive).
+Si l’archive a pu être décompressée, chaque fi­
+chier obtenu doit avoir une taille supérieure à
+zéro.
+Tous les fichiers obtenus après décompression
+de l’archive doivent respecter le besoin de vérifi­
+cation de l’extension. Cela implique qu’il peut y
+avoir une archive dans une archive. Dans ce cas,
+le niveau de récursivité est limité à un (il est im­
+possible d’avoir une archive dans une archive qui
+soit elle-même dans une archive).
+Pour une archive multi-fichiers, les fichiers cor­
+rectes au niveau des pré-contrôles sont accep­
+tés, les fichiers incorrectes au niveau des
+pré-contrôles sont rejetés : il n’y a pas de rejet
+global d’une archive si au moins un des fichiers
+qui la compose est incorrecte.
+Les pré-contrôles suivants sont appliqués sur les
+fichiers issus de l’archive et non pas sur l’archive.
+Contrôle élémentaire de structure
+Les flux DPAE reçus doivent être conformes au
+dessin d’enregistrement de DPAE en vigueur. Il
+est vérifié les points suivants :
+Numéro de version de la norme utilisée : champ
+C_VERSION : la zone doit contenir la (ou les)
+version(s) de la norme applicable(s) au mo­
+ment du dépôt : 120 ou TST pour test, échec
+sinon.
+Pour les fichiers txt : la longueur des DPAE est
+de 990.
+À l’issue de ces pré-contrôles, un accusé d’enre­
+gistrement électronique (AEE) atteste au décla­
+rant :
+que le flux a bien été réceptionné,
+que ce flux a passé avec succès les pré-
+contrôles et va pouvoir être exploité par le sys­
+tème DPAE,
+permet d’identifier de manière unique un flux
+DPAE par un identifiant IdFluxDPAE posé par le
+système d’information DPAE bloc 1 lors des
+pré-contrôles.
+L’accusé d’enregistrement électronique
+est
+rendu accessible au déclarant selon les modali­
+tés de transmission du flux DPAE.
+Dans tous les cas, l’accusé d’enregistrement
+électronique est aussi disponible via le tableau
+LES CONTRÔLES
+
+----- page 7 -----
+de bord du déclarant.
+Si un envoi était constitué d’une archive conte­
+nant plusieurs flux, il faut que l’intégralité des flux
+composant l’archive ait satisfait à l’ensemble des
+pré-contrôles. Si c’est le cas, chaque flux dispose
+de son accusé d’enregistrement électronique.
+Si un flux est rejeté, il est émis un avis de rejet.
+Par principe, il n’est pas possible d’avoir à la fois
+l’accusé d’enregistrement électronique et l’avis
+de rejet pour un flux. Les modalités de mise à dis­
+position, et de notification de mise à disposition
+sur le tableau de bord, sont identiques entre l’avis
+de rejet ou l’accusé d’enregistrement électro­
+nique.
+L’accusé d’enregistrement électronique
+contient au minimum les informations sui­
+vantes :
+- identifiant du flux (IdFluxDPAE),
+- nom du flux,
+- si le flux fait partie d’une archive, nom de cette
+archive,
+- référence du déclarant identifié (la référence
+de l’inscrit avec son triplet nom, prénom, siret),
+- la date de génération de l’accusé d’enregistre­
+ment électronique.
+L’avis de rejet contient au minimum les informa­
+tions suivantes :
+- identifiant du flux (IdFluxDPAE),
+- nom du flux,
+- si le flux fait partie d’une archive, nom de cette
+archive,
+- référence du déclarant identifié (la référence
+de l’inscrit avec son triplet nom, prénom, siret),
+- motif(s) de rejet.
+Les flux DPAE (il peut y en avoir de un à n par ar­
+chive dans le cas de la transmission d’un archive)
+sont enregistrés dans l’espace de stockage tem­
+poraire.
+Les fichiers suivants sont stockés eux dans l’es­
+pace de consolidation des bilans :
+- le compte-rendu d’avis de dépôt du fichier
+DPAE,
+- le compte-rendu d’avis de rejet du fichier
+DPAE.
+Le système d’information est mis à jour pour ren­
+seigner les informations relatives aux flux sur le
+lieu d'archivage temporaire et sur le lieu de stoc­
+kage pour la consolidation des bilans.
+Il ne peut pas y avoir de doublon sur des identi­
+fiants de flux car cet identifiant est fixé par le ser­
+vice de dépôt des DPAE.
+L’avis de rejet ou l’accusé d’enregistrement élec­
+tronique sont mis à disposition sur le tableau de
+bord du déclarant. En Machine to Machine, il est
+transmis au déclarant en mode API. En upload, un
+mail est envoyé au déclarant à l’adresse mail
+connue dans l’inscription (ou à l’adresse mail sur­
+chargée lors du dépôt si renseignée) pour lui no­
+tifier la mise à disposition sur son tableau de
+bord.
+Le mail de notification peut concerner un en­
+semble de dépôt différent selon qu’ils ont eu lieu
+dans une même période paramétrable afin de li­
+miter les mails tant pour l’utilisateur que pour le
+point de dépôt. Pour le démarrage, il est préconi­
+sé de ne pas restreindre le délai de notification
+(période paramétrée à zéro).
+Liste des contrôles pratiqués (codifications et li­
+bellés) :
+B1-104-02 La transmission comporte une archive XXXXXX
+trop volumineuse
+B1-104-03 La transmission comporte une archive XXXXXX
+de taille nulle
+B1-104-04 La transmission comporte une archive XXXXXX
+inexploitable
+B1-104-05 La transmission comporte plus d’un niveau
+d’imbrication d’archives
+B1-104-06 La transmission comporte un fichier XXXXXX
+de taille nulle
+B1-104-07 La transmission comporte un fichier XXXXXX
+trop volumineux
+B1-105-10 Le format du fichier XXXXXXX n'est pas
+reconnu
+B1-105-11 Le format du fichier XXXXXXX n'est pas
+reconnu
+B1-105-12 Le format du fichier XXXXXXX n'est pas
+reconnu
+B1-105-13 Le format du fichier XXXXXXX n'est pas
+reconnu
+B1-105-14 Le format du fichier XXXXXXX n'est pas
+reconnu
+B1-105-15 Le format du fichier XXXXXXX n'est pas
+reconnu
+Le libellé des retours B1-105-10 à B1-105-15 est
+identique. La codification distincte est opportune
+pour traiter ces cas en interne afin d’apporter le
+traitement adéquat.
+
+----- page 8 -----
+LE CONTRÔLE DES SIRETS EMPLOYEUR
+DÉCLARANT DES EMBAUCHES
+Le nouveau dispositif s’appuie sur un référentiel d’entreprises et d’établissements contenant les
+données nécessaires au contrôle de la validité des sirets déclarés dans les messages DPAE (les
+sirets déclarants ayant été contrôlés via les données d’inscription et lors de l’authentification).
+Les sirets Employeurs présents dans le flux DPAE doivent exister dans ce référentiel avec une date
+de cessation d’activité non renseignée. Le siret employeur rattaché à un compte Urssaf radié ou
+suspendu est susceptible de transmettre des DPAE.
+Liste des contrôles pratiqués (codifications et libellés) :
+B1-201-01 Siret XXXXXX inconnu
+B1-208-01 Siret XXXXXX radié au JJ/MM/AAAA
+LES CONTRÔLES DE NORME DANS
+LA BRIQUE « CONTRÔLE » BLOC 1
+Ces contrôles appliqués sur les données liées à l’employeur et au salarié dans le dispositif DPAE
+actuel sont repris à l’identique et en totalité dans la brique « contrôle » du bloc 1.
+Les contrôles de norme liés aux données « employeurs »
+Donnée
+Description
+Code erreur
+Siret de l'employeur
+Le siret est obligatoire
+Code Urssaf
+Le code Urssaf est obligatoire
+Le code Urssaf a une longueur < 4
+Le code Urssaf doit être référence dans la table Urssaf
+Code Naf
+Le code Naf est obligatoire
+La longueur du code Naf est 4 ou 5
+Le code NAF doit être référencé dans le SI DPAE
+Raison sociale 1
+La raison sociale est obligatoire
+La longueur de la raison sociale doit être inférieure
+ou égale à 32 caractères
+Les caractères autorisés dans la raison sociale sont :
+a-zA-Z0-9éèêë âàä öô ûü îï ç°2 !#$%&'()*+,-./:;<=>?@
+Code postal
+Etablissement
+Le code postal établissement est obligatoire
+Le code postal établissement ne doit être composé que de
+chiffres
+La taille du code postal est égale à 5
+Le code postal ‘00000’ n’existe pas
+Commune
+établissement
+La commune est obligatoire
+La taille de la commune doit être inférieure ou égale à 32
+caractères
+Les caractères autorisés dans la commune sont :
+a-zA-Z0-9éèêë âàä öô ûü îï ç°2 !#$%&'()*+,-./:;<=>?@
+
+----- page 9 -----
+Adresse établissement 1
+L’adresse de l’établissement 1 est obligatoire
+La taille de l’adresse 1 de l’établissement doit être inférieure
+ou égale à 32 caractères
+Les caractères autorisés dans l'adresse 1 sont :
+a-zA-Z0-9éèêë âàä öô ûüù îï ç°2 !#$%&'()*+,-./:;<=>?@
+Raison sociale 2
+La taille de la raison sociale 2 doit être inférieure ou égale à
+32 caractères
+Les caractères autorisés dans la raison sociale 2 sont :
+a-zA-Z0-9éèêë âàä öô ûüù îï ç°2 !#$%&'()*+,-./:;<=>?@
+Adresse établissement 2
+La taille de l’adresse de l’établissement 2 doit être inférieure
+ou égale à 32 caractères
+Les caractères autorisés dans l'adresse 2 sont :
+a-zA-Z0-9éèêë âàä öô ûüù îï ç°2 !#$%&'()*+,-./:;<=>?@
+Téléphone
+La taille du numéro de téléphone est égale à 10
+Le numéro de téléphone est composé de chiffre de 0 à 9
+Les contrôles de norme liés aux données du salarié
+Donnée
+Description
+Code erreur
+Nom du salarié
+Le nom du salarié est obligatoire
+La taille du nom du salarié doit être inférieure ou égale à 32
+caractères
+Les caractères autorisés dans le nom du salarié sont :
+A-Z' .&-
+Prénom du salarié
+Le prénom du salarié est obligatoire
+La taille du prénom du salarié doit être inférieure ou égale à 32
+caractères
+Les caractères autorisés dans le prénom du salarié sont :
+A-Z' .&-
+Date de naissance
+La date de naissance doit être valide et est obligatoire
+La date de naissance du salarié doit être inférieure à la date
+du jour
+Lieu de naissance
+du salarié
+Le lieu de naissance est obligatoire
+La taille du lieu de naissance doit être inférieure ou égale à 32
+caractères
+Les caractères autorisés dans le lieu de naissance sont :
+A-Z0-9 .'-
+NIR
+La taille du NIR doit être égale à 13 ou 15 caractères ( le
+champ NIR accepte les lettres dans le cas particulier de la
+Haute-Corse et Corse-du-Sud – 2A et 2B )
+Le NIR doit être valide en fonction des éléments suivants :
+- sexe
+- date de naissance
+Si le NIR est sur 15 caractères, la clé doit être valide.
+Le champ NIR accepte les lettres dans le cas particulier
+de la Corse (2A et 2B)
+Département
+de naissance
+Le département de naissance est obligatoire
+
+----- page 10 -----
+Les contrôles de norme liés aux données Contrat
+Donnée
+Description
+Code erreur
+Date d’embauche
+La date d’embauche est obligatoire
+La date d’embauche doit être une date valide
+La date d’embauche ne doit ni excéder un an dans le passé, ni
+un an dans le futur
+L’heure et les minutes d’embauche doivent être valide :
+0 <= heure<=23 et 0<=minute<=59
+Service de santé
+au travail
+Le service de santé au travail est obligatoire à part pour le
+type contrat CTT
+Le service de santé au travail doit être référence dans le SI
+DPAE
+ou correspondre à une médecine interne (MT01 ou MT999)
+Période d’essai
+La taille de la période d’essai doit être inférieure ou égale à 3
+La période d’essai doit être composée de chiffres
+Type de contrat
+Le type de contrat est obligatoire
+Le type de contrat peut être égale à 1 (CDD), 2 (CDI) ou 3
+(CTT)
+Cohérence type contrat
+et code NAF
+Si le contrat est CTT, le code NAF doit être égal à ‘7820Z’
+Date de fin de CDD
+L’heure de la fin de CDD est initialisée à 23 :59 :59
+La date de fin de CDD doit être une date valide
+La date de fin de CDD doit être supérieure ou égale à la date
+d’embauche
+LES CONTRÔLES MÉTIER
+Après la certification de conformité, les contrôles métier sont appliqués à partir d’in­
+formations stockées dans le service embauche de l’Urssaf (Bloc 2).
+À ce jour, seule la vérification de l’absence de doublon est contrôlée d’un point de
+vue métiers. Si un doublon de DPAE est détecté, le message code 98 est produit et
+la DPAE est rejetée : si les éléments fournis dans la DPAE initiale conviennent, au­
+cune action n’est à opérer.
+Code erreur 99 : ce code d'erreur signifie que la DPAE a été prise en compte mais
+qu'elle contenait des erreurs sur un ou plusieurs champs facultatifs. Une référence
+dossier est donc renseignée.
+Code 00 signifie que le traitement du message est correct.
+Une DPAE correctement enregistrée renvoie obligatoirement une référence dossier
+dans le champ R_DOSSIER
+
+----- page 11 -----
+ANNEXE 1 : Schéma du dispositif
+Émetteurs de flux
+DPAE EDI
+BLOC 1 :
+Dépôt des DPAE EDI
+BLOC 2 : SI Embauche
+Traitement et stockage des données
+Flux DPAE
+Pré-contrôles
+Certificat de conformité
+ou bilan d’anomalie
+Contrôle de la validité
+des siret déclarés
+Réf. des entreprises
+et des établissements
+Contrôles de norme,
+de syntaxe...
+Comptes Rendus
+Métiers (AR et BIS)
+Comptes Rendus Métiers
+(AR et BIS)
+AEE ou
+Avis de rejet
+
+----- page 12 -----
+ANNEXE 2 : Fiche de synthèse des changements
+AVANT
+APRÈS
+Format du fichier
+de la DPAE, de l’accusé
+de réception
+et du BIS
+Le format reste inchangé :
+- Format 120 pour la DPAE et l’AR. (format TXT ou XML)
+- Doc v 1.3 pour le BIS
+Mode de transmission
+- Dépôt de fichier
+- Transmission par CFT
+- Transmission par courriel
+- Dépôt de fichier
+- Mode API (Application Programming
+Interface)
+Service de dépôt
+- Point de dépôt sur Urssaf en
+ligne
+et net-entreprises sans suivi
+des flux
+- Transmission par CFT et Email
+- Point de dépôt sur Urssaf en ligne
+et net-entreprises avec suivi des flux
+edi
++ un module de recherche par critères
+- Transmission en mode API
+Fonction Contrôle
+Contrôle métier (norme, syntaxe
+et doublon de DPAE)
+- Contrôle d’exploitabilité
+- Contrôle de validité du Siret déclaré
+- Contrôle de Norme et de syntaxe
+- Contrôle Métier
+Certification
+Certification métier
+- Certification de conformité
+- Certification métier
+Format des retours
+Sans objet
+- AEE /Avis de rejet
+- Certificat de conformité
+Bilan d’anomalies
+Accusé de réception de la DPAE et BIS : format 120 et v1.3 pour le BIS.
+Service plus de la DPAE
+- Saisie en ligne d’une DPAE
+- Saisie en ligne d’une DPAE à partir d’une DPAE enregistrée.
+- Réédition des AR
+: éléments convergents vers la DSN.
+
+----- page 13 -----
+Plus d’informations
+WWW.URSSAF.FR
+Urssaf CN - NAT/6804/sept 2025/ API DPAE RG Principes de fonctionnement ©AdobeStock

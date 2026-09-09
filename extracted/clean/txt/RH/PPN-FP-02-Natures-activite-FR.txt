@@ -1,0 +1,75 @@
+
+----- page 1 -----
+NATURES D’ACTIVITÉ
+Exemples d’activités professionnelles correspondantes
+VTC – Chauffeur
+Chauffeur privé
+Livraison
+Livreur de repas, livreur de courses, livreur de colis, livraison express de documents/plis urgents...
+Location de logement meublé cas général
+Location d’un appartement ou maison meublé(e) à usage d'habitation (bail d'une durée d'au moins un an ou bail mobilité),
+location studio étudiant
+Location de logement meublé de tourisme classé
+Location gite rural classé, appartement en ville ou en campagne ou chalet de montagne avec classement officiel
+Location de biens
+Location de matériel de jardinage, d'outillage, d'articles de sport et loisir, de voiture, d'appareils électroménagers...
+Vente de biens
+Vente de matériel, appareils, objets, vêtements, denrées alimentaires (épiceries) ...
+Prestation de service artisanale ou commerciale
+Ménage, coiffeur à domicile, plombier, serveur, barman, manutentionnaire, réceptionniste, garde d'enfant...
+Prestation de service libérale
+Cours particuliers, développement informatique, prestation de conseil...
+Restaurateur
+Exploitant restaurant traditionnel, gérant de foodtruck, traiteur avec salle...
+Chambres d'hôtes
+Chambres d’hôtes
+Les utilisateurs peuvent exercer via les plateformes différentes natures d’activité. Selon l’activité exercée, la nature fiscale du chiffre d’affaires (BIC ventes, BIC
+prestations, BNC, ...) n’est pas toujours la même et le taux de prélèvement à appliquer au chiffre d'affaires peut varier.
+Dans le cadre de la procédure initiale d’inscription et de référencement, la plateforme doit indiquer à l’Urssaf les différentes activités, par nature, qui peuvent
+être exercées par ses utilisateurs. Toute évolution des activités que la plateforme propose via son site doit également être signalée à l’Urssaf.
+Cela permet à l’Urssaf de transmettre à la plateforme, pour chaque utilisateur, les taux de prélèvement à appliquer pour chaque activité possible via la plateforme.
+La plateforme devra appliquer le taux de prélèvement qui correspond à la nature d'activité de la transaction ou prestation réalisée par l’utilisateur.
+A compléter par la plateforme lors du référencement
+
+----- page 2 -----
+FOCUS SUR CERTAINES NATURES D’ACTIVITÉ
+Location de logement meublé de tourisme classé
+Un meublé de "tourisme" est une location de courte durée (par opposition aux locations effectuées à titre de résidence habituelle).
+Il est considéré comme étant « meublé de tourisme classé » s’il a fait l’objet d’une décision de classement par un organisme agréé ou accrédité. Leurs
+listes sont disponibles sur le site Atout France : Le classement des meublés de tourisme - Atout France
+Le classement comporte 5 catégories allant de 1 à 5 étoiles, établi selon différents critères répartis en trois catégories : équipements, service au client,
+développement durable. La décision de classement a une durée de validité de 5 ans.
+Prestation de service artisanale ou commerciale
+Cette nature d'activité relève fiscalement des bénéfices industriels et commerciaux (BIC).
+Les prestations de service « artisanales » correspondent aux prestations nécessitant la mise en œuvre d’un savoir-faire manuel particulier et exigeant
+une certaine qualification. Le critère est une notion de travail "manuel" avec une certaine qualification. Exemples : plombier, électricien, coiffeur,
+garagiste ...
+Les prestations de service « commerciales », correspondent aux services constituant un acte de commerce ou d'intermédiation : intermédiaire,
+transport, hébergement etc ...
+Références juridiques : BOI-BIC-CHAMP - BIC - Champ d'application | bofip.impots.gouv.fr
+BOI-BIC-DECLA-10-10-10 - BIC - Régimes d'imposition et obligations déclaratives - Chiffres d'affaires limites | bofip.impots.gouv.fr § 1
+Prestation de service libérale
+Cette nature d'activité correspond aux prestations où l'activité intellectuelle joue un rôle principal et qui consistent dans la pratique personnelle d'une
+science ou d'un art : médecin, avocat, conseil aux entreprises, enseignant, traducteur, graphiste... Le critère est une notion de travail "intellectuel".
+Références juridiques : BOI-BNC-CHAMP-10-10 - BNC - Champ d'application - Activités et revenus imposables - Généralités | bofip.impots.gouv.fr § 1
+
+----- page 3 -----
+EXEMPLE D’UNE PLATEFORME PROPOSANT DIFFÉRENTES PRESTATIONS À DOMICILE
+Activités proposées par la plateforme
+VTC – Chauffeur
+Livraison
+Location de logement meublé cas général
+Location de logement meublé de tourisme classé
+Location de biens
+Vente de biens
+Prestation de service artisanale ou commerciale
+Baby-sitting
+Prestation de service libérale
+Cours particuliers à domicile
+Restaurateur
+Chambres d'hôtes
+Formulaire complété par la plateforme lors du référencement
+Le formulaire complété par la plateforme fait l’objet d’une validation par l’Urssaf avant d’être pris en compte, afin de vérifier que les activités déclarées ont été
+classées dans la bonne nature d’activité.
+Dans l’exemple, compte-tenu des activités possibles sur la plateforme, l’Urssaf communiquera à la plateforme deux taux de prélèvement pour chaque
+utilisateur : celui applicable aux prestations de service artisanales ou commerciales et celui applicable aux prestations de service libérales.

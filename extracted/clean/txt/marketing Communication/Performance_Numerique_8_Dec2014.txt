@@ -1,0 +1,335 @@
+
+----- page 1 -----
+> Un matériel de plus ?
+Acquérir une tablette tactile de-
+mande de mieux cerner les fonc-
+tionnalités apportées par ce support.
+Voici donc ses principaux atouts :
+Confort
+La taille de l’écran de la tablette offre
+un meilleur confort de navigation et
+une ergonomie plus conviviale que
+sur smartphone. Plus légère et moins
+encombrante qu’un ordinateur, elle
+s’avérera plus facile à utiliser en dépla-
+cement (par exemple dans les trans-
+ports ou sur un salon).
+Un modèle hybride entre la tablette et le smart-
+phone a été popularisé avec le Galaxy Note de
+Samsung. Il s’agit d’un smartphone dont la taille
+de l’écran est à mi-chemin entre celle d’un smart-
+phone et d’une tablette.
+Cette nouvelle catégorie de terminal mobile est
+appelé « phablette » en français et provient du
+mot anglais « phablet », contraction de « phone
+» et « tablet ».
+Les nouveautés 2014 :
+Samsung lance le Galaxy Note 4 et l’iPhone 6 Plus
+marque l’entrée d’Apple dans ce domaine.
+Convivialité
+La tablette représente par ailleurs
+un support adapté aux échanges
+en petit groupe. Les interlocuteurs
+peuvent travailler de concert sans
+être gênés par la barrière de l’écran.
+Il est aussi assez aisé de la passer de
+main en main.
+Modernité
+L’attrait de la nouveauté ainsi que
+l’image de modernité et de dyna-
+misme qu’elle véhicule contribue
+également à rendre la tablette plus
+séduisante qu’un autre terminal mo-
+bile.
+Polyvalence
+Plus développé que sur smartphone,
+l’éventail des fonctions offertes per-
+met à la tablette d’être assez polyva-
+lente:
+• Applications
+bureautiques
+(même si ces fonctionnalités
+restent plus limitées que sur un
+ordinateur)
+• Utilisation de logiciels métiers
+• Webconférence
+• Support de communication lors
+d’une vente
+Mobilité
+Le recours à la tablette s’avère d’au-
+tant plus pertinent en situation de
+Choix et usages d’une tablette
+en entreprise
+La tablette tactile, ce terminal mobile à mi-chemin entre un ordinateur et un smartphone a d’abord
+séduit le grand public avant d’être adopté par les entreprises.
+Plusieurs constructeurs ont testé le marché des supports tactiles dès la fin des années 1980.
+C’est néanmoins avec l’iPad d’Apple que le concept est véritablement lancé en 2010. La tablette
+tactile est alors en grande partie amalgamée à un smartphone d’autant qu’elle utilise des systèmes
+d’exploitation et des applications similaires même si elle ne permet pas de téléphoner. Elle emprunte à
+l’ordinateur la taille de son écran ainsi que le confort de navigation.
+L’apparition de tablettes avec clavier détachables ou compatibles parachève le caractère hybride de la
+tablette.
+Dans les entreprises où l’achat d’équipement informatique obéit à des règles de rentabilité et de
+sécurité, l’achat de tablette pose question : quelle valeur ajoutée par rapport à un smartphone ou un
+ordinateur ? Son intégration ne va-t-elle pas rendre la gestion du parc informatique plus complexe ?
+Quel modèle choisir face à l’offre pléthorique du marché ?
+Cette notice présente les différents usages et les critères de choix d’une tablette tactile.
+Performance
+numérique
+Votre rendez-vous mensuel
+Place des tablettes dans le SI
+
+----- page 2 -----
+mobilité. Sa connectivité en wifi, 3G,
+voire 4G permet d’utiliser Internet
+en permanence. L’accès au système
+d’information de l’entreprise est ren-
+du possible grâce à des solutions hé-
+bergées comme une CRM en SaaS1
+ou un CMS de site, ou via des appli-
+cations métiers standards (dévelop-
+pées par des éditeurs comme SAP
+par exemple) ou spécifiques (déve-
+loppées pour les besoins de l’entre-
+prise, pour faire des relevés de terrain
+par exemple).
+Par ailleurs, à la différence d’un ordi-
+nateur, la tablette s’allume instanta-
+nément ce qui en fait un outil très
+réactif, appréciable en situation de
+mobilité.
+> Limites des tablettes
+Il convient de nuancer la polyvalence
+des tablettes. Celle-ci ne remplacent
+pas complètement un smartphone
+et encore moins un ordinateur.
+Les applications disponibles sont
+souvent mono-tâches et n’offrent
+pas autant de fonctionnalités que
+les logiciels développés pour les or-
+dinateurs. Elles sont par ailleurs très
+nombreuses. Il faut parfois téléchar-
+ger plusieurs applications offrant la
+même fonction (traitement de texte
+par exemple) avant de trouver celle
+qui répond à son besoin.
+Malgré ce foisonnement, les logiciels
+développés pour une utilisation sur
+ordinateur n’ont pas tous leur équi-
+valent sur les plateformes d’applica-
+tions.
+Enfin, un grand nombre d’applica-
+tions fonctionnent uniquement si
+la tablette est connectée à Internet.
+Le terminal perd tout intérêt si la
+connexion est mauvaise ou indispo-
+nible.
+> Intégration dans la gestion
+du parc informatique
+L’acquisition de tablettes tactiles rend
+le parc matériel plus hétérogène.
+Leur maintenance diffère néanmoins
+assez peu de celle des smartphones.
+La gestion sera d’autant plus facili-
+tée que les deux flottes utilisent le
+même système d’exploitation2.
+Par ailleurs, les entreprises disposant
+d’un parc de terminaux mobiles im-
+portant peuvent avoir recours à des
+solutions de gestion dédiées appe-
+lées MDM (Mobile Device Manage-
+ment).
+Comme tout terminal mobile, la ta-
+blette doit être utilisée de manière
+sécurisée afin de prévenir le vol ou
+la perte d’informations : charte infor-
+matique, compte utilisateur, VPN3
+pour le transfert sécurisé de don-
+nées, etc.
+1 SaaS : Software As A Service : logiciel en mode locatif
+2 Les terminaux mobiles fonctionnent avec des systèmes d’exploitation différents de ceux utilisés pour les ordinateurs : iOS (Apple), Android (Google), RIM OS (Blackberry),
+Windows phone (Microsoft).
+3 VPN : cryptage des données échangées.
+Les usages de la tablette en
+entreprise sont multiples. En voici
+quelques exemples :
+> Outil de présentation en
+clientèle
+Des vendeurs équipés de tablettes
+pourront présenter une vidéo de
+démonstration, accéder à l’histo-
+rique des clients ou encore encaisser
+un produit directement depuis la
+tablette pour désengorger une file
+d’attente.
+Une tablette permet également
+d’économiser l’impression et le trans-
+port de plaquettes pour les commer-
+ciaux.
+> Travail en situation de
+mobilité
+Tout comme un ordinateur por-
+table, la tablette offre la possibilité
+de travailler à distance grâce à une
+connexion internet et des applica-
+tions métiers.
+Elle permet, en outre, de réaliser un
+devis en ligne ou de passer une com-
+mande directement chez le client.-
+> Relevé de terrain
+La tablette se prête également assez
+bien aux relevés d’informations sur
+site : mesures, photos, géolocalisation
+(grâce au GPS). En règle générale, les
+collaborateurs préposés à ces tâches
+disposent de terminaux spécifiques
+coûteux.
+Une application pour tablette déve-
+loppée spécifiquement pour les
+besoins de l’entreprise remplit les
+mêmes fonctions mais sur un ter-
+minal polyvalent. Par ailleurs, en
+l’absence de connexion Internet,
+ce type d’application peut quand
+même fonctionner et transmettre
+les données relevées au serveur de
+l’entreprise dès que la connexion est
+rétablie.
+> Animation d’un point de
+vente
+Moins coûteux qu’une borne auto-
+matique et plus interactif qu’une
+simple vidéo, la tablette peut animer
+un point de vente de différentes ma-
+nières :
+• Catalogue des produits : le client
+pourra obtenir plus d’informa-
+Usages professionnels d’une tablette
+a. Exemple - Source : www.arsenal.fr
+
+----- page 3 -----
+Comme
+tout
+équipement
+informatique, une tablette doit être
+choisie pour répondre à des besoins.
+Voici plusieurs critères à prendre en
+compte :
+> Ergonomie
+Qui va utiliser la tablette tactile ? Un
+technicien, un commercial en ren-
+dez-vous, des clients...Selon le profil
+de l’utilisateur final, la taille de l’écran,
+le poids du modèle ou la possibilité
+de « clipser » un clavier vont s’avérer
+déterminants.
+> Système d’exploitation
+iOs et Android sont les deux systèmes
+d’exploitation les plus répandus et
+pour lesquels le plus d’applications
+ont été développées. Mais le premier
+ne permet pas de lire des animations
+en flash, la mise à jour du deuxième
+est très dépendante du constructeur
+de la tablette.
+D’autres systèmes d’exploitation tels
+Windows 8 proposent des fonction-
+nalités et une ergonomie compa-
+rables. Néanmoins, leur plateforme
+d’applications est moins riche et les
+compétences pour développer une
+application spécifique plus difficiles
+à trouver.
+Il convient de rester vigilant sur l’accès que l’on
+donne aux applications sur sa tablette. A chaque
+téléchargement, l’utilisateur doit valider un cer-
+tain nombre d’autorisations (géolocalisation du
+terminal, stockage de fichiers...).
+> Connectivité
+Certains modèles sont uniquement
+connectables à Internet via le wifi.
+D’autres, un peu plus chers, per-
+mettent aussi d’être connecté via
+les réseaux mobiles. Dans ce cas, il
+conviendra de souscrire un forfait té-
+léphonique ou de demander à l’opé-
+rateur de son téléphone un partage
+de connexion.
+Par ailleurs, les derniers modèles sont
+compatibles avec le réseau 4G dispo-
+nible en France depuis fin 2012.
+> Connectique
+La connectique est un critère impor-
+tant. Si elle s’avère peu développée
+pour le modèle choisi, l’achat d’adap-
+tateurs engendrera des frais sup-
+plémentaires. Certains modèles dis-
+posent ainsi uniquement d’une prise
+casque et d’un port USB. Pour les
+connecter à un téléviseur, un adap-
+tateur HDMI branché sur le port USB
+sera donc nécessaire.
+Par ailleurs, certains constructeurs
+utilisent une connectique proprié-
+taire souvent plus coûteuse que ses
+équivalents standards.
+> Autonomie
+L’autonomie des tablettes annoncée
+par les constructeurs varie entre 4 et
+10h. Il est néanmoins recommandé
+de consulter les mesures réalisées
+par des testeurs indépendants.
+Les modèles de tablettes incluant un
+clavier équipé de batterie disposent,
+quant à eux, d’une autonomie de 15h
+à 18h.
+> Mémoire
+La majorité des tablettes ne dis-
+posent pas de disque dur, trop fragile
+en cas de chute. Les données sont
+stockées sous forme de mémoire
+flash ou SSD.
+La capacité de stockage de 16 à 128
+Go SSD peut être augmentée sur
+les tablettes disposant d’un port SD
+ou micro SD. Il peut parfois être plus
+avantageux financièrement d’ache-
+ter une carte SD pour une tablette
+16 Go SSD que d’acquérir le même
+modèle à 64 Go SSD.
+Attention !
+Pour plus de sécurité, une tablette ne doit conte-
+nir aucune donnée confidentielle.
+Il est plus sûr de stocker ces informations sur un
+serveur distant accessible de manière sécurisée.
+Comment choisir une tablette
+tions sur un produit et consul-
+ter les articles indisponibles en
+magasin
+• Commande et/ou paiement : les
+caisses seront désengorgées et
+le client satisfait plus rapidement
+• Livre d’or : les clients laisseront
+leur avis ou leurs suggestions sur
+la tablette, plus attractive qu’un
+cahier
+• Jeu concours : un bon moyen de
+collecter des adresses emails
+• Démonstration d’un produit : via
+une vidéo, un diaporama interac-
+tif ou des images en réalité aug-
+mentée4.
+De nombreux spécialistes de la PLV
+vendent maintenant des supports
+sécurisés et personnalisables pour
+les tablettes tactiles.
+4 Superposition d’images virtuelles sur une situation réelle filmée.
+VOTRE contact
+Samuel COSTE
+05 53 35 80 31 - 06 20 42 97 58
+s.coste@dordogne.cci.fr
+www.dordogne.cci.fr
+CCI DORDOGNE
+Votre prochain rdv numérique :
+« Comment lire un devis
+de création de site web »

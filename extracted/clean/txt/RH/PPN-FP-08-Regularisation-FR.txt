@@ -1,0 +1,387 @@
+
+----- page 1 -----
+Rappel des obligations de déclaration mensuelle par les plateformes
+Chaque début de mois M+1, la plateforme doit au titre des prélèvements réalisés en M :
+•
+Transmettre à l’Urssaf pour chaque utilisateur, par nature d’activité, le chiffre d’affaires réalisé et le montant des cotisations prélevées en M ➔fichier
+de déclaration « principal »
+•
+Reverser à l’Urssaf le montant total des cotisations prélevées au cours du mois M par virement bancaire ➔virement « principal »
+La procédure de régularisation vise à permettre :
+•
+d’apporter des corrections à des omissions ou erreurs déclaratives de la part des plateformes
+•
+et également de couvrir des cas d’usage liés à une évolution de la situation postérieure à la déclaration de la plateforme (annulation d’une vente par
+exemple)
+Quand déclencher la procédure de régularisation ?
+Dès lors que le fichier de déclaration « principal » concernant les chiffres d’affaires et cotisations prélevées au titre du mois M a été déposé et pris en
+compte par l’Urssaf, toute modification ou complément de déclaration au titre du mois M ou d’un mois antérieur doit passer par la procédure de
+régularisation.
+Le déclenchement de la procédure peut être soit à l’initiative de la plateforme soit, plus ponctuellement, à la demande de l’Urssaf (demande
+relayée à la plateforme par la Cellule d’Interlocution Plateforme de l’Urssaf).
+OBJECTIF DE LA PROCEDURE DE RÉGULARISATION
+
+----- page 2 -----
+FONCTIONNEMENT DE LA PROCEDURE DE RÉGULARISATION
+Principes de fonctionnement de la procédure de régularisation :
+Pour un mois de prélèvement donné (mois M), il n’est autorisé qu’un seul fichier de déclaration « principal » par plateforme à déposer en M+1.
+En cas de rejet du fichier de déclaration « principal » par l’Urssaf, la plateforme pourra transmettre, en annule et remplace, un nouveau fichier de déclaration
+« principal ». En revanche, dès lors que le fichier de déclaration « principal » a été accepté par l’Urssaf, la plateforme devra transmettre un fichier de
+« régularisation » si elle souhaite compléter ou rectifier sa déclaration au titre du mois M.
+Il est autorisé plusieurs fichiers de régularisation (pas de limitation) :
+•
+Le fichier de « régularisation » adressé en M+1 peut concerner différents mois de prélèvement (forcément ≤ M). Une régularisation au titre du mois M ne
+sera acceptée que si le fichier de déclaration « principal » du mois M a été reçu et accepté par l’Urssaf.
+•
+Pour un même mois de prélèvement, la plateforme peut transmettre à l’Urssaf plusieurs fichiers de « régularisation ».
+•
+Pour une même déclaration initiale, il est possible d’effectuer plusieurs régularisations successives
+•
+Le fichier de « régularisation » peut contenir des utilisateurs et/ou déclarations absents du fichier de déclaration « principal ».
+Le fichier de régularisation ne s’accompagne pas nécessairement d’un reversement complémentaire à l’Urssaf. En effet, si la régularisation ne porte
+pas sur les cotisations prélevées, il n’ y a pas de paiement à réaliser par la plateforme.
+A réception du fichier de régularisation, s’il est techniquement exploitable, l’Urssaf génère automatiquement les liens pour réaliser le virement bancaire dès
+lors qu’elle identifie qu’un reversement est attendu : ces liens sont accessibles depuis l’espace connecté du portail Plateforme Numérique.
+Se reporter à la fiche pratique n°7 concernant la déclaration et le reversement pour plus de détails sur les modalités de reversement à l’Urssaf des sommes
+prélevées par la plateforme.
+
+----- page 3 -----
+Dans quelles situations la plateforme peut-elle être amenée à rectifier une déclaration déjà transmise à l’Urssaf ?
+Les informations communiquées à l’Urssaf par la plateforme (chiffre d’affaires et/ou cotisations prélevées par nature d’activité) au titre d’un mois M peuvent
+devoir être rectifiées dans les cas suivants :
+•
+Annulation de vente ou de prestation ou plus globalement modification, a posteriori, du chiffre d’affaires de l’utilisateur
+•
+Utilisateur non transmis dans le fichier de déclaration « principal ». La situation visée est un utilisateur ayant fait l’objet d’un prélèvement à la source et
+que la plateforme a « oublié » de transmettre. Il ne s’agit pas du cas d'un utilisateur qui se serait inscrit sur la plateforme en cours de mois et qui n’a pas
+été prélevé
+•
+Déclaration pour une nature d’activité non transmise dans fichier de déclaration « principal » (l’utilisateur réalise plusieurs natures activités via la
+plateforme et l’une d’elle n’a pas été déclarée, il manque donc une partie du chiffre d’affaires réalisé via la plateforme)
+•
+En cas d’erreur ou de divergence entre les informations déjà transmises à l’Urssaf dans le fichier de déclaration et ce qui a effectivement été prélevé par
+la plateforme ou aurait dû être prélevé (cf. tableau détaillé en page suivante)
+Le fichier de « régularisation » précise par utilisateur concerné (cf. contrat d’interface « Déclaration ») :
+•
+La période (mois) concernée par la régularisation
+•
+La nature d’activité concernée par la régularisation
+•
+Le chiffre d’affaires rectifié pour cette nature d’activité :
+•
+S’il s’agit d’une déclaration non réalisée dans le fichier principal, le chiffre d’affaires « rectifié » correspond au chiffre d’affaires réalisé pour la période
+•
+S’il s’agit d’une modification par rapport au chiffre d’affaires précédemment déclaré, le chiffre d’affaires « rectifié » correspond au chiffre d’affaires corrigé
+en annule et remplace (et non en différentiel par rapport à la déclaration initiale)
+•
+Les cotisations prélevées (complément) : renseignées uniquement si un versement « complémentaire » est à réaliser à l’Urssaf
+•
+Les informations concernant la TVA : Numéro de TVA et indicateur « TVA déduite du CA »
+FONCTIONNEMENT DE LA PROCEDURE DE RÉGULARISATION
+
+----- page 4 -----
+EN CAS D’ERREUR DE LA PLATEFORME DANS LE FICHIER DE DÉCLARATION
+L’Urssaf ne peut pas détecter une erreur dans les informations déclarées par la plateforme, à l’exception d’une incohérence entre d’une part le montant
+des cotisations sociales prélevées déclaré par la plateforme et d’autre part le chiffre d’affaires et la nature d’activité déclarés par la plateforme.
+L’Urssaf réalise le contrôle de cohérence avec le taux qu’elle a communiqué à la plateforme (même si depuis il a évolué pour l’auto-entrepreneur concerné). En
+cas d’incohérence, un signalement PNDE_SD004 « Incohérence montant CA / montant précompte » est présent dans le rapport détaillé émis par l’Urssaf.
+Type d’erreur dans la déclaration faite à
+l’Urssaf
+Régularisation à prévoir par la plateforme
+Erreur sur le montant du chiffre d’affaires
+Appliquer la procédure spécifique de régularisation
+Erreur sur la nature d’activité associée au chiffre
+d’affaires
+Appliquer la procédure spécifique de régularisation
+Ce cas ne concerne que les plateformes pour lesquelles plusieurs natures d’activité peuvent être exercées
+Erreur sur le montant prélevé - Suite à un
+mauvais calcul de la part de la plateforme, une
+erreur sur le taux appliqué, un calcul correct
+mais une erreur dans la déclaration Urssaf, etc
+Rappel : Le fichier de déclaration d’une
+plateforme n’est accepté que si la somme des
+montants prélevés indiqués dans le fichier est
+égale au montant du virement réalisé par la
+plateforme. La plateforme peut donc s’être
+trompée sur le montant prélevé déclaré dans le
+fichier mais le paiement fait à l’Urssaf est
+forcément égal à ce montant.
+•
+Si le chiffre d’affaires, la nature d’activité associée et les informations de TVA sont corrects, pas de régularisation à faire auprès de l’Urssaf car
+l’Urssaf recalcule automatiquement le bon montant de cotisations sociales (cf. explications ci-après)
+•
+Sinon, appliquer la procédure spécifique de régularisation
+A réception d’une déclaration plateforme, l’Urssaf recalcule systématiquement les cotisations sociales de l’auto-entrepreneur à partir du
+chiffre d’affaires déclaré par la plateforme et du taux actualisé correspondant à la nature d’activité déclarée :
+•
+Si le montant des cotisations sociales recalculé par l’Urssaf est < à celui déclaré par la plateforme (par exemple, la plateforme a déclaré à
+l’Urssaf 100 € de cotisations prélevées mais les cotisations sociales recalculées par l’Urssaf sont de 80 €), l’Urssaf rembourse
+automatiquement le surplus de prélèvement à l’auto-entrepreneur (soit 20€ dans l’exemple).
+Si la plateforme a fait une erreur dans la déclaration à l’Urssaf mais qu’elle a bien prélevé le bon montant à son utilisateur, la plateforme devra se
+retourner vers l’utilisateur pour récupérer le différentiel entre ce qu’elle a déclaré à l’Urssaf et ce qu’elle réellement prélevé à l’utilisateur.
+•
+Si le montant des cotisations sociales recalculé par l’Urssaf est > à celui déclaré par la plateforme (par exemple, la plateforme a déclaré à
+l’Urssaf 120 € de cotisations prélevées mais les cotisations sociales recalculées par l’Urssaf sont de 150 €), l’Urssaf réclame le différentiel
+directement à l’auto-entrepreneur (soit 30 € dans l’exemple).
+Si la plateforme a fait une erreur dans la déclaration à l’Urssaf mais qu’elle a bien prélevé le bon montant à son utilisateur, la plateforme devra
+reverser le complément de prélèvement directement à son utilisateur.
+Erreur sur les informations de TVA
+•
+Si erreur uniquement sur le numéro de TVA : pas de régularisation
+•
+Sinon, appliquer la procédure spécifique de régularisation
+
+----- page 5 -----
+Prestation en M : Cours particulier ➔nature d’activité = « Prestation de service libérale »
+Montant des prestations = 100 €, utilisateur non redevable de la TVA
+Dont commission prélevée à l’auto-entrepreneur par la plateforme sur la prestation réalisée = 10 €
+Chiffre d’affaires hors taxes = 100,00€
+Taux de prélèvement communiqué par l’Urssaf = 25,800 %
+Montant des cotisations sociales à prélever = 100€ x 25,800 % = 25,800 arrondis à 25,80 €
+Montant du paiement à effectuer à l’auto-entrepreneur = 64,20 €, soit 100 (prestation) - 10 (commission) - 25,80 (cotisations)
+En M+1, déclaration à l’Urssaf (fichier de déclaration « principal » du mois M)
+- Nature d’activité = Prestation de service libérale
+- Montant du chiffre d’affaires = 100,00 €
+- Numéro de TVA →non renseigné
+- Montant des cotisations prélevées = 25,80 €
+- Indicateur TVA déduit du CA →non renseigné
+Annulation en M+2 de la prestation réalisée en M
+Annulation de la prestation de 100 €,
+La plateforme récupère 90 € (100 – 10 de commission) auprès de l’utilisateur. L’Urssaf remboursera les cotisations prélevées
+par la plateforme à l’utilisateur, après la réception du fichier de régularisation.
+En M+2, transmission par fichier de « régularisation » à l’Urssaf (sans reversement)
+- Mois concerné : M
+- Nature d’activité = Prestation de service libérale
+- Montant du chiffre d’affaires = 0 €
+- Numéro de TVA →non renseigné
+- Cotisations prélevées (complément) →non renseigné
+- Indicateur TVA déduit du CA →non renseigné
+L’Urssaf prend en compte le nouveau montant de CA (0 €), recalcule les cotisations sur cette base (les cotisations passent
+de 25,80 € à 0 €) et rembourse 25,80 € à l’auto-entrepreneur si sa situation le permet (pas d’autres dette à l’Urssaf, ...).
+RÉGULARISATION : EXEMPLES
+EXEMPLE N°1
+Annulation d'une
+prestation
+➔Transmission
+d’une régularisation
+de CA sans
+prélèvement
+complémentaire
+Déclaration
+Urssaf
+Calcul
+prélèvement
+Prestation
+réalisée
+Paiement
+Urssaf
+Annulation de la
+prestation
+
+----- page 6 -----
+Prestations en M : Cours particulier ➔nature d’activité = « Prestation de service libérale »
+Montant des prestations = 100 €, utilisateur non redevable de la TVA
+Dont commission prélevée à l’auto-entrepreneur par la plateforme sur la prestation réalisée = 10 €
+Chiffre d’affaires hors taxes = 100,00€
+Taux de prélèvement communiqué par l’Urssaf = 25,800 %
+Montant des cotisations sociales à prélever = 100€ x 25,800 % = 25,800 arrondis à 25,80 €
+Montant du paiement à effectuer à l’auto-entrepreneur = 64,20 €, soit 100 (prestation) - 10 (commission) - 25,80 (cotisations)
+En M+1, déclaration à l’Urssaf (fichier de déclaration « principal » du mois M)
+- Nature d’activité = Prestation de service libérale
+- Montant du chiffre d’affaires = 100,00 €
+- Numéro de TVA →non renseigné
+- Montant des cotisations prélevées = 25,80 €
+- Indicateur TVA déduit du CA →non renseigné
+En M+2, révision des prestations réalisées en M qui passent de 100 € à 75 €
+Révision du montant des prestations à 75 € au lieu des 100 € initiaux.
+La plateforme récupère 22,50 € (100 – 75 – 2,5 de commission) auprès de l’utilisateur.
+En M+2, transmission par fichier de « régularisation » à l’Urssaf (sans reversement)
+- Mois concerné : M
+- Nature d’activité = Prestation de service libérale
+- Montant du chiffre d’affaires = 75 €
+- Numéro de TVA →non renseigné
+- Cotisations prélevées (complément) →non renseigné
+- Indicateur TVA déduit du CA →non renseigné
+L’Urssaf prend en compte le nouveau montant de CA de 75 € et elle recalcule les cotisations sur cette base :
+-
+Les cotisations passent de 25,80 € à 19,35 €
+-
+Un crédit de 6,45 € (25,80 – 19,35) correspondant au trop prélevé est dégagé au bénéfice de l’auto-entrepreneur
+-
+Ce crédit est remboursé directement à l’auto-entrepreneur si sa situation le permet (pas d’autres dettes à l’Urssaf, ...)
+RÉGULARISATION : EXEMPLES
+EXEMPLE N°2
+Révision à la baisse
+des prestations
+➔Transmission
+d’une régularisation
+de CA sans
+prélèvement
+complémentaire
+Calcul
+prélèvement
+Prestations
+réalisées
+Paiement
+Révision de la
+prestation
+Déclaration
+Urssaf
+Urssaf
+
+----- page 7 -----
+Prestations en M : Cours particulier ➔nature d’activité = « Prestation de service libérale »
+Montant des prestations = 100 €, utilisateur non redevable de la TVA
+Dont commission prélevée à l’auto-entrepreneur par la plateforme sur la prestation réalisée = 10 €
+Chiffre d’affaires hors taxes = 100,00€
+Taux de prélèvement communiqué par l’Urssaf = 25,800 %
+Montant des cotisations sociales à prélever = 100€ x 25,800 % = 25,800 arrondis à 25,80 €
+Montant du paiement à effectuer à l’auto-entrepreneur = 64,20 €, soit 100 (prestation) - 10 (commission) - 25,80 (cotisations)
+En M+1, déclaration à l’Urssaf (fichier de déclaration « principal » du mois M)
+- Nature d’activité = Prestation de service libérale
+- Montant du chiffre d’affaires = 60,00 €
+- Numéro de TVA →non renseigné
+- Montant des cotisations prélevées = 15,48 €
+- Indicateur TVA déduit du CA →non renseigné
+En M+2, constat par la plateforme d’une erreur dans la déclaration faite à l’Urssaf en M+1
+Ce que la plateforme a déclaré à l’Urssaf en M+1 n’est pas le reflet :
+-
+du chiffre d’affaires réellement réalisé par l’auto-entrepreneur en M
+-
+des cotisations réellement prélevées par la plateforme
+-
+du paiement qu’il a reçu de la part de la plateforme
+En M+2, transmission par fichier de « régularisation » à l’Urssaf (avec reversement)
+- Mois concerné : M
+- Nature d’activité = Prestation de service libérale
+- Montant du chiffre d’affaires = 100 €
+- Numéro de TVA →non renseigné
+- Cotisations prélevées (complément) = 10,32 € (25,80 – 15,48)
+- Indicateur TVA déduit du CA →non renseigné
+La plateforme effectue un virement à l’Urssaf de 10,32 € au titre du reversement du complément de cotisations prélevées.
+L’Urssaf prend en compte le nouveau montant de CA de 100 € et elle recalcule les cotisations sur cette base :
+-
+les cotisations passent de 15,48 € à 25,80 €
+-
+le complément de versement de la plateforme de 10,32 € est affecté aux cotisations revues à la hausse
+RÉGULARISATION : EXEMPLES
+EXEMPLE N°3
+Erreur / Incohérence
+entre d’une part ce
+qui a été réalisé par
+la plateforme et
+d’autre part le
+chiffre d’affaires /
+montant prélevé
+déclaré à l’Urssaf
+➔Transmission
+d’une régularisation
+de CA avec
+prélèvement
+complémentaire
+Calcul
+prélèvement
+Prestations
+réalisées
+Paiement
+Déclaration
+Urssaf
+Constat
+erreur
+Urssaf
+
+----- page 8 -----
+Prestations en M : Cours particulier ➔nature d’activité = « Prestation de service libérale »
+Montant des prestations = 100 €, utilisateur non redevable de la TVA
+Dont commission prélevée à l’auto-entrepreneur par la plateforme sur la prestation réalisée = 10 €
+Chiffre d’affaires hors taxes = 100,00€
+Taux de prélèvement communiqué par l’Urssaf = 25,800 %
+Montant des cotisations sociales à prélever = 100€ x 25,800 % = 25,800 arrondis à 25,80 €
+Montant du paiement à effectuer à l’auto-entrepreneur = 64,20 €, soit 100 (prestation) - 10 (commission) - 25,80 (cotisations)
+En M+1, déclaration de cette prestation absente du fichier de déclaration « principal » du mois M
+En M+2, constat par la plateforme de l’oubli dans la déclaration faite à l’Urssaf en M+1
+En M+2, transmission de cette déclaration par fichier de « régularisation » à l’Urssaf (avec reversement)
+- Mois concerné : M
+- Nature d’activité = Prestation de service libérale
+- Montant du chiffre d’affaires = 100 €
+- Numéro de TVA →non renseigné
+- Cotisations prélevées (complément) = 25,80 €
+- Indicateur TVA déduit du CA →non renseigné
+La plateforme effectue un virement à l’Urssaf de 25,80 € au titre du reversement du complément de cotisations prélevées.
+L’Urssaf prend en compte la déclaration faite par la plateforme.
+RÉGULARISATION : EXEMPLES
+EXEMPLE N°4
+Utilisateur ou
+déclaration pour
+une nature
+d’activité absent(e)
+non effectué
+➔Transmission
+d’une régularisation
+de CA avec
+prélèvement
+complémentaire
+Constat
+« oubli »
+Calcul
+prélèvement
+Prestations
+réalisées
+Paiement
+Déclaration
+Urssaf
+Urssaf
+
+----- page 9 -----
+Prestations en M : Cours particulier ➔nature d’activité = « Prestation de service libérale »
+Montant de la prestation = 110 €, incluant 18,33€ de TVA
+Plus 5 € de frais de déplacement, incluant 0,83 € de TVA
+Dont commission prélevée à l’auto-entrepreneur par la plateforme sur la prestation réalisée = 15 €
+Chiffre d’affaires hors taxes = 95,84 €
+soit 110 (prestation) - 18,33 (part TVA) + 5 (frais déplacement) - 0,83 (part TVA)
+Taux de prélèvement communiqué par l’Urssaf = 25,800 %
+Montant des cotisations sociales à prélever = 95,84 € x 25,800 % = 24,726 arrondis à 24,73 €
+Montant du paiement à effectuer à l’auto-entrepreneur = 75,27 €
+soit 110 (prestation) + 5 (frais déplacement) - 15 (commission) - 24,73 (cotisations sociales)
+En M+1, déclaration à l’Urssaf (fichier de déclaration « principal » du mois M)
+- Nature d’activité = Prestation de service libérale
+- Montant du chiffre d’affaires = 95,84 €
+- Numéro de TVA →non renseigné
+- Montant des cotisations prélevées = 24,73 €
+- Indicateur TVA déduit du CA →non renseigné
+En M+2, constat par la plateforme de l’erreur sur les informations de TVA transmises dans la déclaration faite
+à l’Urssaf en M+1
+En M+2, transmission de cette déclaration par fichier de « régularisation » à l’Urssaf (sans reversement)
+- Mois concerné : M
+- Nature d’activité = Prestation de service libérale
+- Montant du chiffre d’affaires = 95,84 €
+- Numéro de TVA = xx
+- Cotisations prélevées (complément) →non renseigné
+- Indicateur TVA déduit du CA = 1 (Oui)
+L’Urssaf enregistre la modification des informations de TVA. Elle informe l’auto-entrepreneur qu’il doit préciser le montant de
+TVA inclus dans ce chiffre d’affaires afin de réviser les cotisations en conséquence et de procéder au remboursement du trop
+prélevé.
+RÉGULARISATION : EXEMPLES
+EXEMPLE N°5
+Erreur dans les
+informations de TVA
+transmises à
+l’Urssaf
+➔Transmission des
+informations TVA
+correctes (numéro
+de TVA = xx)
+Calcul
+prélèvement
+Prestations
+réalisées
+Paiement
+Identification
+erreur
+Urssaf
+Déclaration
+Urssaf
+Le client paye 115 € pour la prestation
+Le montant de CA doit être
+renseigné (à la valeur d’origine
+puisqu'il était correct)
