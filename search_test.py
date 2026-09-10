@@ -81,7 +81,8 @@ def main():
     for hit in reponse["hits"]["hits"]:
         s = hit["_source"]
         ref = f"[{s['article']}]" if s.get("article") else f"p.{s['page_debut']}-{s['page_fin']}"
-        print(f"score={hit['_score']:.3f}  {s['doc_path']} {ref}")
+        titre = s.get("titre_document") or s["filename"]
+        print(f"score={hit['_score']:.3f}  {titre} {ref}  ({s['doc_path']})")
         print(f"  {s['texte'][:200]}...\n")
 
 

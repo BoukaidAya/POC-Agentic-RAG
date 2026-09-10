@@ -17,6 +17,7 @@
       "doc_path":     { "type": "keyword" },
       "folder":       { "type": "keyword" },
       "filename":     { "type": "keyword" },
+      "titre_document": { "type": "text", "analyzer": "francais" },
       "doc_type":     { "type": "keyword" },
       "type":         { "type": "keyword" },
       "article":      { "type": "keyword" },

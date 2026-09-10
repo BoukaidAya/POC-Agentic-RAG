@@ -247,6 +247,7 @@ def main():
                 c["doc_path"] = rec["path"]
                 c["folder"] = rec["folder"]
                 c["filename"] = rec["filename"]
+                c["titre_document"] = rec.get("title", "")
                 c["doc_type"] = type_doc
                 stat["chars_moy"].append(c["n_chars"])
                 sortie.write(json.dumps(c, ensure_ascii=False) + "\n")

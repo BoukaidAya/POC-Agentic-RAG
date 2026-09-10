@@ -10,6 +10,7 @@ Sortie:
 """
 import csv
 import json
+import re
 import sys
 from pathlib import Path
 from urllib.parse import urlparse
@@ -20,6 +21,35 @@ ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "extracted"
 TXT_DIR = OUT / "txt"
 MIN_CHARS_PER_PAGE = 20  # en dessous -> page probablement scannée (image)
+
+
+RE_FICHE_TITRE = re.compile(r"Fiche\s+\d+\s*:\s*(.*)$", re.M)
+
+
+def detecter_titre_reel(pages: list[dict]) -> str | None:
+    """Certaines series de PDF (ex: 'Referentiel des financements des
+    entreprises' de la Banque de France) ont un nom de fichier qui ne
+    correspond pas a leur contenu reel (fichiers renommes/decales a la
+    source). Le vrai titre est cite dans le corps du document lui-meme
+    ("... | Fiche 325 : <titre>") -- on le prefere au nom de fichier.
+
+    Un titre coupe par un retour a la ligne automatique de mise en page
+    laisse un espace residuel juste avant le saut de ligne (contrairement
+    a une fin de ligne "naturelle") -- c'est le signal utilise ici pour
+    recoller la suite du titre sur la ligne physique suivante."""
+    for page in pages:
+        lignes = page["text"].split("\n")
+        for i, ligne in enumerate(lignes):
+            m = RE_FICHE_TITRE.search(ligne)
+            if not m:
+                continue
+            titre = m.group(1)
+            if titre.endswith(" ") and i + 1 < len(lignes):
+                titre = titre.rstrip(" ") + " " + lignes[i + 1].strip()
+            titre = titre.strip()
+            if titre:
+                return titre
+    return None
 
 
 def extraire_liens(page) -> list[dict]:
@@ -57,7 +87,7 @@ def extract_one(pdf_path: Path):
         "path": str(rel).replace("\\", "/"),
         "folder": str(rel.parent).replace("\\", "/"),
         "filename": pdf_path.name,
-        "title": meta.get("title") or "",
+        "title": detecter_titre_reel(pages) or meta.get("title") or "",
         "num_pages": len(pages),
         "total_chars": total_chars,
         "empty_pages": empty_pages,

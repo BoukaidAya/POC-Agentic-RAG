@@ -39,6 +39,7 @@ def vers_document(chunk: dict) -> dict:
             "doc_path": chunk["doc_path"],
             "folder": chunk["folder"],
             "filename": chunk["filename"],
+            "titre_document": chunk.get("titre_document", ""),
             "doc_type": chunk["doc_type"],
             "type": chunk["type"],
             "article": chunk.get("article"),
