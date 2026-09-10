@@ -1,0 +1,161 @@
+
+----- page 1 -----
+05/2021
+—
+Chapitre 4 : Les financements intermédiés | Fiche 415 : Le crédit-bail
+et les autres techniques de financement apparentées
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Le crédit-bail
+et les autres techniques
+de financement apparentées
+MOTS CLÉS
+crédit-bail,
+location financière,
+location financement,
+lease-back,
+location-vente,
+crédit-bail adossé
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+2. AVANTAGES PROCURÉS PAR LE RECOURS AU CRÉDIT-BAIL
+3. LES INTERVENANTS
+4. AUTRES OPÉRATIONS DE FINANCEMENT
+APPARENTÉES AU CRÉDIT-BAIL
+
+----- page 2 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 415 : Le crédit-bail
+et les autres techniques de financement apparentées
+1. PRÉSENTATION GÉNÉRALE
+Le crédit-bail est un contrat de location d’un bien pour une durée déterminée et irrévocable,
+souscrit entre une entreprise (crédit-preneur) et une banque ou un établissement spécialisé
+(crédit‐bailleur), assorti d’une promesse unilatérale de vente (option d’achat) à son échéance.
+En effet, à l’issue de la période de location, le crédit-preneur peut opter pour l’acquisition du bien
+loué. Il peut également renouveler le crédit-bail ou restituer le bien au crédit‐bailleur (dans ce cas le
+contrat de crédit-bail prend fin).
+Deux types principaux de crédit-bail peuvent être distingués.
+— Le crédit-bail immobilier concerne la location par un établissement financier de biens immobiliers
+à usage professionnel à une entreprise, qui peut devenir à terme propriétaire de tout ou partie de
+ces biens loués, et au plus tard à l’expiration du bail. Liée à la durée d’amortissement de l’actif
+loué, la durée du contrat de crédit-bail immobilier s’étale généralement entre 10 et 20 ans.
+— Le crédit-bail mobilier concerne la location de biens d’équipement, de matériels et d’outillage.
+L’entreprise concernée choisit généralement son matériel auprès d’un fournisseur. Elle s’adresse
+ensuite à une société de crédit-bail qui achète au fournisseur le bien en lieu et place de l’entreprise
+et le loue à cette dernière sur une période déterminée. Au terme de cette période, l’entreprise a
+la faculté de renoncer à la location, de renouveler le contrat, ou d’acquérir le matériel à un prix
+qui tient compte des versements effectués durant la location.
+Il est à noter que l’art. L. 313-7 du Code monétaire et financier, qui définit les opérations de crédit‐bail,
+précise que le crédit-bail peut également concerner « les opérations de location de fonds de
+commerce, d’établissement artisanal ou de l’un de leurs éléments incorporels ».
+2. AVANTAGES PROCURÉS PAR LE RECOURS AU CRÉDIT-BAIL
+Du point de vue du « prêteur » (établissement de crédit et sociétés de crédit-bail), l’intérêt du crédit‐bail
+réside essentiellement dans le droit de propriété dont il jouit sur le bien financé jusqu’à la levée
+effective de l’option d’achat. C’est ce qui explique en grande partie le succès du produit auprès
+d’entreprises qui accèdent difficilement aux financements traditionnels : c’est parce qu’il conserve
+la propriété du matériel ou de l’immeuble que l’établissement de crédit-bail est en mesure d’accorder
+plus facilement un financement.
+Pour les entreprises, les avantages sont multiples. Le crédit-bail permet :
+— un financement total d’un investissement alors que le crédit bancaire peut nécessiter un apport
+initial ;
+— un financement des PME parfois écartées du crédit bancaire parce qu’elles ne peuvent pas
+présenter de garanties suffisantes ;
+— un traitement rapide des demandes : la société de crédit-bail étant spécialisée dans le financement
+des équipements ou d’immeubles professionnels, les réponses aux demandes de financement
+sont données rapidement ;
+— d’investir en préservant la trésorerie et sans augmenter l’endettement financier ;
+— un transfert du risque à long terme à un tiers (à un investisseur immobilier notamment dont c’est
+le métier) ;
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=063439D9DBEE43FC35C362829CEE2C54.tpdjo16v_2?idSectionTA=LEGISCTA000006185109&cidTexte=LEGITEXT000006072026&dateTexte=20100709
+
+----- page 3 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 415 : Le crédit-bail
+et les autres techniques de financement apparentées
+— de disposer en permanence d’un matériel performant ; pour cette raison, le crédit-bail est très
+utilisé pour le financement du matériel informatique ;
+— une grande souplesse dans la mise au point du contrat : grâce à des barèmes personnalisés, le
+crédit-bail mobilier permet d’adapter au mieux le financement aux caractéristiques de l’activité de
+chaque entreprise (cycle de vie économique du matériel, mode d’utilisation, rendement espéré) ;
+— d’optimiser la fiscalité. En effet, la durée du contrat de crédit-bail correspond à la durée de vie
+économique du bien, soit en moyenne 3 à 7 ans pour les équipements et 12 à 15 ans pour les
+immeubles. Ces périodes, pendant lesquelles les entreprises déduisent fiscalement l’intégralité
+des loyers sont généralement bien inférieures à celles de l’amortissement fiscal du bien lorsque
+l’entreprise en est propriétaire. L’entreprise recourant au crédit-bail peut donc augmenter ses
+charges fiscales et réduire plus rapidement son imposition globale. Pour aller encore plus loin
+dans cette optimisation fiscale, les entreprises ont la possibilité de majorer le ou les premiers
+loyers ou bien d’opter pour des loyers dégressifs, afin d’augmenter les charges déductibles en
+début de contrat.
+3. LES INTERVENANTS
+Le crédit-bail, bien que juridiquement qualifié de contrat de location avec option d’achat, a en
+réalité un caractère éminemment financier parce qu’il constitue un mode de financement des
+investissements à moyen ou long terme. Il est assimilé à une opération de crédit et ne peut être
+effectué, selon l’article L. 515-2 du Code monétaire et financier, « à titre habituel que par des
+entreprises commerciales agréées en qualité d’établissement de crédit ».
+En 2021, l’Association française des sociétés financières (ASF) dénombre 35 établissements de
+crédit-bail mobilier à titre principal, 66 établissements de crédit-bail immobilier et 5 SOFERGIE
+(sociétés pour le financement de l’énergie 1), soit 106 sociétés au total.
+Ces établissements sont principalement des filiales de banques (de façon presque égale selon qu’il s’agit
+de crédit-bail mobilier ou immobilier) ainsi que, dans une moindre mesure, des constructeurs (automobiles,
+matériels informatiques et autres matériels d’équipement) dans le secteur du crédit‐bail mobilier.
+4. AUTRES OPÉRATIONS DE FINANCEMENT APPARENTÉES AU CRÉDIT-BAIL
+— La location financière (ou LLD – location longue durée) est une opération de location sans
+option d’achat. L’entreprise ne dispose pas de la faculté d’acquérir le bien loué après une période
+d’utilisation donnée. C’est l’absence d’option d’achat qui différencie la location financière du
+crédit-bail. Le contrat de location financière est un contrat de location qui porte sur une période
+irrévocable. Enfin, la location financière n’est pas soumise à la réglementation bancaire. Il s’agit
+d’une solution souple et idéale pour des biens à renouvellement fréquent.
+— La location-vente combine deux techniques contractuelles : la location et la vente. D’une part,
+le bailleur s’engage à procurer au preneur la jouissance immédiate du bien, et, d’autre part, à lui
+vendre le bien loué au terme du contrat. Le locataire prend l’engagement ferme d’acheter ce bien.
+Contrairement au crédit-bail, la location-vente se caractérise par l’existence d’une promesse de
+vente et d’une obligation d’achat du locataire.
+1. Ces sociétés ont pour objet le financement d’installations ou de matériels destinés à économiser l’énergie, le
+financement d’ouvrages et d’équipements utilisés par les collectivités territoriales ou liés à la protection de
+l’environnement. Elles bénéficient d’un régime fiscal particulier.
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=063439D9DBEE43FC35C362829CEE2C54.tpdjo16v_2?idSectionTA=LEGISCTA000006170628&cidTexte=LEGITEXT000006072026&dateTexte=20100709
+
+----- page 4 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 415 : Le crédit-bail
+et les autres techniques de financement apparentées
+— Le lease-back ou cession de bail qui se pratique pour des matériels et des immeubles.
+C’est un mode de financement par lequel une entreprise propriétaire d’un bien d’équipement ou
+d’un immeuble professionnel vend ce bien à une société de crédit-bail qui le lui reloue ensuite
+immédiatement dans le cadre d’un contrat de crédit-bail. Au terme de ce contrat, l’entreprise peut
+en redevenir propriétaire en levant l’option d’achat stipulée à son profit. L’objectif recherché réside
+généralement dans la réduction de l’endettement au bilan et dans le dégagement de liquidités
+pour financer de nouveaux investissements ou reconstituer la trésorerie. L’impact fiscal (droit de
+mutation, impôt sur les plus-values) et comptable (plus-values ou moins-values) est toutefois à
+prendre en considération.
+— Le crédit-bail adossé (plus répandu que le lease-back) ou crédit-bail fournisseur est une opération
+permettant à une entreprise productrice d’un bien, de le vendre à une société de leasing ou un
+établissement de crédit pour le reprendre immédiatement en location. L’entreprise devenue preneur
+va, par la suite, sous-louer le matériel à ses clients utilisateurs dans des conditions qui sont souvent
+identiques à celles du contrat de crédit-bail dont elle est bénéficiaire. Les fournisseurs recourent
+à cette solution pour économiser leurs fonds propres ou faire face à des parcs locatifs restreints.
+Cette transaction s’apparente largement à une opération de location-financement classique,
+à l’exception du fait que la société locataire était auparavant propriétaire du bien.
+En principe, tous les actifs mobiliers et immobiliers peuvent faire l’objet d’une opération de cession-bail.
+Sous-locataire
+Preneur
+Bailleur
+1) Vente du bien
+2) Contrat de location financement
+3) Contrat de location financement
+ou de location simple
+Vocabulaire :
+Le « preneur » qui apparaît au centre du schéma précédent peut être à la fois preneur (relation 1 et 2) et bailleur (relation
+3), le sous-locataire apparaît alors comme étant le preneur.
+Aucun texte législatif ne réglemente le crédit-bail adossé. Les dispositions sont définies
+contractuellement entre le preneur et le bailleur, puis entre le preneur et le sous-locataire.
+RÉFÉRENCES
+• Code monétaire et financier : articles L. 313-7 à 313-11, L. 515-2, L. 515-3, L. 571.13, R. 313-14
+• Lamy, Droit du financement 2016
+• Vernimmen, Finance d’entreprise 2021
+• Francis Lefebvre, Mémento comptable 2016, Comptes consolidés 2011 et IFRS 2012
+• Association française des sociétés financières
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=063439D9DBEE43FC35C362829CEE2C54.tpdjo16v_2?idSectionTA=LEGISCTA000006185109&cidTexte=LEGITEXT000006072026&dateTexte=20100709
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=063439D9DBEE43FC35C362829CEE2C54.tpdjo16v_2?idSectionTA=LEGISCTA000006170628&cidTexte=LEGITEXT000006072026&dateTexte=20100709
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=063439D9DBEE43FC35C362829CEE2C54.tpdjo16v_2?idSectionTA=LEGISCTA000006170654&cidTexte=LEGITEXT000006072026&dateTexte=20100709
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=063439D9DBEE43FC35C362829CEE2C54.tpdjo16v_2?idSectionTA=LEGISCTA000006194113&cidTexte=LEGITEXT000006072026&dateTexte=20100709
+[lien] https://www.asf-france.com/metiers/credit-bail/

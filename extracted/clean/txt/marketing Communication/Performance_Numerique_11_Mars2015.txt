@@ -55,6 +55,7 @@ chez l’autre. Par ailleurs, les produits
 doivent être classés conformément
 aux catégories de chaque moteur de
 shopping.
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
 
 ----- page 2 -----
 > Transmettre les informations

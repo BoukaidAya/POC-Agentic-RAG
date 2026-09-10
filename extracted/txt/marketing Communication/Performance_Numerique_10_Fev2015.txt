@@ -58,6 +58,7 @@ données liées à l’internaute d’une
 part, et les données liées à la visite du 
 site d’autre part.
 1 Journal du log : journal des connexions
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
 
 ----- page 2 -----
 CCI DORDOGNE - Performance numérique - FEVRIER 2015
@@ -237,3 +238,4 @@ catalogue e-commerce »
 Pour aller + loin :
 > Rdv le 5 mai à la CCI Dordogne pour l’Atelier numérique
 « Mesurer le trafic de son site web » - Inscription en ligne ici
+[lien] http://dordogne.cci.fr/inscription-atelier-tic

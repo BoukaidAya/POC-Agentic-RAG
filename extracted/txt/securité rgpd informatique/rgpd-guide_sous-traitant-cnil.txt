@@ -109,6 +109,8 @@ Les entreprises B et C sont responsables du traitement de gestion de leurs clien
 commerciale.  
 L’entreprise A est par ailleurs responsable de traitement s’agissant de la gestion du personnel dont elle est l’employeur, et 
 de la gestion de ses clients dont font partie les entreprises B et C.
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
 
 ----- page 4 -----
 Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 
@@ -133,6 +135,9 @@ des personnes concernées qui utilisent les services du client ?
 Texte officiel  
 Article 4 du règlement européen pour les définitions du responsable du traitement et du sous-traitant 
 Article 28.10 du règlement européen sur la notion de responsable du traitement
+[lien] http://ec.europa.eu/justice/policies/privacy/docs/wpdocs/2010/wp169_fr.pdf
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
 
 ----- page 5 -----
 Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 
@@ -152,6 +157,8 @@ comportement qui a lieu au sein de l'Union » (article 3 du règlement européen
  
 Texte officiel 
 Article 3 du règlement européen sur le champ d’application territorial
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article3
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article3
 
 ----- page 6 -----
 Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 
@@ -190,6 +197,10 @@ Articles 28, 30.2 et 37 du règlement européen sur les obligations du sous-trai
 la sécurité juridique et la transparence aux opérateurs économiques (…), pour offrir aux personnes physiques dans tous 
 les Etats membres un même niveau de droits opposables et d’obligations et de responsabilités pour les 
 responsables du traitement et les sous-traitants ».
+[lien] https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=636656F4E67DAD837D933B897BC40CC6.tpdila15v_3?idArticle=LEGIARTI000006528132&cidTexte=LEGITEXT000006068624&dateTexte=20161220
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article30
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article37
 
 ----- page 7 -----
 Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 
@@ -244,6 +255,10 @@ o de permettre à votre client de paramétrer par défaut et a minima la collect
 et ne pas rendre techniquement obligatoire le renseignement d’un champ facultatif  
 o de ne collecter que les données strictement nécessaires à la finalité du traitement 
 (minimisation des données)
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
+[lien] https://www.legifrance.gouv.fr/affichTexte.do;?cidTexte=JORFTEXT000024742533
+[lien] https://www.legifrance.gouv.fr/affichTexte.do;?cidTexte=JORFTEXT000024742533
 
 ----- page 8 -----
 Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 
@@ -331,6 +346,11 @@ Ce contrat doit définir :
 l’objet et la durée de la prestation que vous effectuez pour le compte de votre client 
  
 la nature et la finalité du traitement
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/ld_portabilite_eng.pdf
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article37
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article37
+[lien] https://www.cnil.fr/fr/devenir-delegue-la-protection-des-donnees
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article37
 
 ----- page 10 -----
 Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 
@@ -386,6 +406,16 @@ pour se préparer au règlement européen
 Texte officiel 
 Article 30.2 du règlement européen sur la tenue du registre par un sous-traitant  
 Article 30.1 du règlement européen pour la tenue du registre par un responsable de traitement
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/registre-reglement-publie.xlsx
+[lien] https://www.cnil.fr/fr/cartographier-vos-traitements-de-donnees-personnelles
+[lien] https://www.cnil.fr/fr/principes-cles/reglement-europeen-se-preparer-en-6-etapes
+[lien] https://www.cnil.fr/fr/principes-cles/reglement-europeen-se-preparer-en-6-etapes
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article30
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article30
 
 ----- page 11 -----
 Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 
@@ -434,6 +464,9 @@ Le présent guide propose un exemple de clauses de sous-traitance dans l’atten
 clauses contractuelles types au sens de l’article 28.8 du règlement européen. Ces exemples de clauses 
 peuvent être insérés dans vos contrats. Elles doivent adaptées et précisées selon la prestation de sous-
 traitance concernée. A noter qu’elles ne constituent pas, à elles seules, un contrat de sous-traitance.
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
 
 ----- page 12 -----
 Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 
@@ -481,6 +514,19 @@ s’agira alors de l’établissement dans l’UE où se déroule l’essentiel 
 Texte officiel 
 Articles 4.16, 56 et considérant 36 du règlement européen et lignes directrices du G29 relatives à la 
 désignation d’une autorité chef de file (p. 9)
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article33
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article34
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article33
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article34
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article35
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/ld_dpia_eng.pdf
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre6#Article56
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/lead_authorityen.pdf
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/lead_authorityen.pdf
 
 ----- page 13 -----
 Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 
@@ -536,6 +582,10 @@ si vous ne tenez pas de registre des catégories d’activités de traitement qu
  
 Texte officiel :  
 Articles 82 et 83 du règlement européen
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article3
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article27
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre8#Article82
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre8#Article83
 
 ----- page 14 -----
 Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 
@@ -574,6 +624,7 @@ Les données à caractère personnel traitées sont […].
 Les catégories de personnes concernées sont […]. 
 Pour l’exécution du service objet du présent contrat, le responsable de traitement met à la 
 disposition du sous-traitant les informations nécessaires suivantes […].
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article28
 
 ----- page 15 -----
 Règlement européen sur la protection des données personnelles - Guide du sous-traitant - Edition septembre 2017 

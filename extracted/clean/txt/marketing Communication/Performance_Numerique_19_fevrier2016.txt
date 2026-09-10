@@ -34,6 +34,7 @@ eux qui feront le succès du produit
 et éviteront de tomber dans le syn-
 drome du gadget.
 1Il est recommandé de lire au préalable Performance Numérique « Qu’est-ce qu’un objet connecté ? » (janvier 2016)
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
 
 ----- page 2 -----
 2 Pour en savoir plus, https://www.cnil.fr/fr/comprendre-vos-obligations

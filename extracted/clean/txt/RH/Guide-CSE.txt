@@ -754,3 +754,6 @@ boss.gouv.fr
 Réseaux sociaux
 @Urssaf officiel
 Urssaf l NAT/6840 / Janvier 2026 / Guide CSE l © Adobe stock
+[lien] https://www.urssaf.fr/accueil.html
+[lien] https://www.urssaf.fr/accueil.html
+[lien] https://boss.gouv.fr/portail/accueil.html

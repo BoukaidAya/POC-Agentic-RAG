@@ -1,0 +1,267 @@
+
+----- page 1 -----
+05/2021
+—
+© Banque de France
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les actions
+MOTS CLÉS
+actions,
+titres,
+capital,
+capitaux propres,
+marché
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+2. LES CARACTÉRISTIQUES D’UNE ACTION
+2.1. L’action, une fraction du capital social
+2.2. L’action, un droit de propriété (ou droit d’associé)
+2.3. L’action, un titre négociable
+3. ÉMISSION D’ACTIONS DANS LE CADRE D’UNE AUGMENTATION
+DE CAPITAL
+3.1. L’augmentation de capital par apports nouveaux
+3.1.1. L’augmentation par apports en numéraire
+3.1.2. L’augmentation par apports en nature
+3.2. L’augmentation de capital par incorporation de réserves
+3.3. L’augmentation de capital par conversion de dettes
+NB La fiche 312 traite plus particulièrement des actions de préférence qui présentent certaines particularités par rapport
+aux actions ordinaires décrites dans la présente fiche.
+Pour plus d’informations sur les obligations convertibles en actions, voir la fiche 325.
+Pour plus d’informations sur les obligations remboursables en actions et les obligations remboursables, voir la fiche 327.
+
+----- page 2 -----
+—
+© Banque de France
+1. PRÉSENTATION GÉNÉRALE
+Les actions sont des titres de propriété délivrés par des sociétés de capitaux (sociétés anonymes,
+sociétés par actions simplifiées ou sociétés en commandite par action). Elles confèrent à leur
+détenteur la propriété d’une partie du capital social d’une société. Les actions sont émises en
+contrepartie des apports réalisés par les associés lors de la création de la société (création du capital
+social) ou à l’occasion des augmentations de capital.
+Une action présente trois caractéristiques fondamentales :
+— l’action est un titre représentant une fraction du capital social,
+— l’action est un titre constatant un droit de propriété,
+— l’action est un titre négociable.
+2. LES CARACTÉRISTIQUES D’UNE ACTION
+2.1. L’action, une fraction du capital social
+La valeur nominale d’une action est la quote-part du capital social représentée par cette action.
+En effet, la valeur nominale d’une action est égale au montant du capital social divisé par le nombre
+total d’actions. Elle est parfois appelée « le pair ». Elle constitue la mesure des droits politiques et
+financiers attachés à l’action (cf. infra­).
+La valeur nominale est normalement fixée dans les statuts de l’entreprise. Toutefois, afin de faciliter
+la conversion du capital social des sociétés en euros, la loi n°98-546 du 2 juillet 1998 a supprimé
+l’obligation pour les sociétés par actions de mentionner dans leurs statuts le montant nominal des
+actions. Lorsqu’ elles sont émises sans valeur nominale, elles sont dites de « quotité » : leur valeur
+est exprimée sous forme d’une fraction avec au dénominateur le montant du capital social.
+La valeur nominale ne doit pas être confondue avec :
+— la valeur d’émission, qui est souvent supérieure au pair. En effet, lors d’une augmentation de
+capital, les souscripteurs sont parfois tenus de verser, en plus de la valeur nominale, une prime
+d’émission qui est la contrepartie du droit à bénéficier des réserves déjà constituées par la société
+(cf. infra) ;
+— la valeur vénale, qui est obtenue en rapportant l’actif net réévalué de l’entreprise et le nombre total
+d’actions. Si la société a réalisé et a mis en réserve des bénéfices, la valeur vénale est supérieure à
+la valeur nominale. Si, au contra­ire, elle a subi des pertes, la valeur vénale est inférieure à la valeur
+nominale. Le calcul de la valeur vénale est difficile car il suppose, notamment, une évaluation de
+tous les éléments du patrimoine social ;
+— enfin la valeur boursière qui est, pour les sociétés cotées en Bourse, le cours de marché de
+l’action. Il est établi en fonction de l’offre et de la demande de titres.
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000005626095&dateTexte=20100624
+
+----- page 3 -----
+—
+© Banque de France
+2.2. L’action, un droit de propriété (ou droit d’associé)
+En contrepartie de ses apports, le détenteur d’actions ordinaires bénéficie de deux types de droits :
+— des droits pécuniaires :
+• Droit aux dividendes, payables en numéraire ou éventuellement en actions. Les dividendes servent
+à rémunérer les apporteurs de capitaux propres (les actionnaires) ; ils sont en général distribués à
+partir du bénéfice net de l’exercice clos, mais peuvent également être prélevés sur les bénéfices
+mis en report à nouveau ou en réserves. Le dividende, dont le montant est proposé par le conseil
+d’administration et approuvé par l’assemblée générale, peut varier d’une année sur l’autre, puisqu’il
+dépend des profits réalisés par la société. Si la société n’a pas réalisé assez de bénéfices ou bien
+si ses projets justifient de constituer d’importantes réserves, l’assemblée générale peut voter de
+ne distribuer aucun dividende. Payables dans un délai de 9 mois après la clôture de l’exercice, les
+dividendes ne sont pas forcément payés chaque année à la même date.
+• Droit au capital (obtention du remboursement des apports en cas de dissolution de la société
+après paiement des créanciers).
+• Droit préférentiel de souscription en cas d’augmentation de capital par apports en numéraire
+(cf. infra).
+• Droit au boni de liquidation en cas de dissolution (sommes que se partagent les associés d’une
+société dissoute, après que les actifs aient été réalisés, que les créanciers et le personnel aient
+été payés et que les apports aient été repris. Le « boni » représente les bénéfices qui n’ont pas été
+distribués au cours de la vie de l’entreprise).
+— des droits d’ordre politique : droit à l’information et droit de vote. Des assemblées générales
+réunissent au moins une fois par an les dirigeants de l’entreprise et les actionnaires dans le but
+de faire le point sur la gestion de la société. Le fait de détenir des actions donne le droit de voter.
+Dans la pratique, beaucoup d’actionnaires, notamment de petits porteurs évitent de se déplacer.
+Ils peuvent donner procuration à un autre actionnaire ou à la société sans indication de mandat. Le
+vote peut aussi être réalisé à distance via inter­net, à partir d’un site spécialement aménagé à cet
+effet. Au cours de ces assemblées, sont notamment votées l’approbation des comptes annuels
+ou encore la désignation de nouveaux administrateurs.
+2.3. L’action, un titre négociable
+L’actionnaire peut céder ses actions. Celles-ci sont négociables, soit en bourse lorsque la société
+est cotée sur un marché réglementé ou organisé, soit de gré à gré (trans­action directement entre
+l’acheteur et le vendeur avec un cadre réglementaire plus souple).
+Toutefois, des restrictions à la liberté de cession des actions sont possibles. Par exemple, certaines
+actions peuvent être incessibles de façon temporaire : cela peut être le cas des titres attribués aux
+salariés dans le cadre de la participation aux résultats de l’entreprise. De même, il est possible de
+soumettre à agrément, par clauses statutaires, des cessions d’actions déterminées.
+
+----- page 4 -----
+—
+© Banque de France
+3. ÉMISSION D’ACTIONS DANS LE CADRE D’UNE AUGMENTATION
+DE CAPITAL
+Les dispositions légales relatives aux augmentations de capital des sociétés par actions sont édictées
+dans les articles L. 225-127 à 225-149-3 du Code de commerce.
+L’augmentation de capital dans les SARL est soumise à des conditions et des modalités particulières.
+Elle se traduit soit par l’élévation de la valeur nominale des parts sociales, soit par la création de
+nouvelles parts. En cas de création de nouvelles parts sociales, sont admis à souscrire à une
+augmentation de capital les associés et des tiers à l’entreprise. Dans cette hypothèse, ces derniers
+doivent être agréés par l’ensemble des associés.
+Les cas les plus fréquents d’augmentation de capital sont : l’augmentation par des apports nouveaux
+(en numéraire ou en nature) ; l’augmentation par incorporation de réserves ; l’augmentation par
+conversion de dettes.
+3.1. L’augmentation de capital par apports nouveaux
+Elle se traduit par des apports en numéraire ou de biens. Elle a pour effet de renforcer la structure
+financière de la société.
+3.1.1. L’augmentation par apports en numéraire
+L’article L. 225-131 du Code de commerce précise que « le capital doit être intégralement libéré avant
+toute émission d’actions nouvelles à libérer en numéraire... ».
+— Une décision de l’assemblée générale extra­ordinaire
+L’augmentation de capital suppose une modification des statuts d’une société sur décision de
+l’assemblée extra­ordinaire (à la majorité des 2/3 des suffrages exprimés ; le quorum exigé doit
+représenter la moitié des suffrages à la première convocation et le quart à la seconde). L’assemblée
+peut déléguer au conseil d’administration ou au directoire les pouvoirs de fixer les modalités de
+l’émission des titres (art. L. 225-129-1 du Code de commerce).
+L’assemblée générale extra­ordinaire détermine notamment le montant de l’émission et, par voie de
+conséquence, le nombre d’actions nouvelles à émettre.
+– Une émission au montant nominal ou majoré d’une prime d’émission
+L’article L. 225-128 du Code de commerce dispose que les actions nouvelles sont émises soit
+à leur montant nominal, soit à ce montant majoré d’une prime d’émission. Cette prime d’émission
+a pour finalité :
+• de couvrir les frais inhérents à l’opération,
+• de mettre sur le même pied d’égalité les anciens actionnaires et les nouveaux, dans la mesure où
+les nouveaux actionnaires acquièrent des droits sur des réserves qui ont été constituées avant
+leur arrivée, ou sur des plus-values d’actifs.
+Le montant des primes d’émission vient s’ajouter aux réserves. Il est comptabilisé au bilan dans le
+poste « prime d’émission ». Le capital social est augmenté de la valeur nominale multi­pliée par le
+nombre d’actions créées.
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=5C6051EE4875D8E930506340A4648C13.tpdjo15v_1?idSectionTA=LEGISCTA000006178762&cidTexte=LEGITEXT000005634379&dateTexte=20100327
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=5C6051EE4875D8E930506340A4648C13.tpdjo15v_1?idSectionTA=LEGISCTA000006178762&cidTexte=LEGITEXT000005634379&dateTexte=20100327
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=5C6051EE4875D8E930506340A4648C13.tpdjo15v_1?idSectionTA=LEGISCTA000006178762&cidTexte=LEGITEXT000005634379&dateTexte=20100327
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=5C6051EE4875D8E930506340A4648C13.tpdjo15v_1?idSectionTA=LEGISCTA000006178762&cidTexte=LEGITEXT000005634379&dateTexte=20100327
+
+----- page 5 -----
+—
+© Banque de France
+Pour les sociétés ayant connu des difficultés financières à l’origine de pertes comptables, la valeur
+réelle des actions est inférieure à leur valeur nominale. La loi inter­disant les souscriptions en dessous
+de cette valeur, les sociétés concernées souhaitant réaliser une augmentation de capital doivent
+au préalable réduire leur capital social par apurement des pertes, de façon à ce que la valeur réelle
+des actions corresponde à leur valeur nominale. Cette réduction du capital, suivie ensuite d’une
+augmentation, est connue sous le nom de « technique du coup d’accordéon ».
+– Un droit préférentiel de souscription
+En contrepartie de leurs droits dans les réserves existantes, les anciens actionnaires ont un
+droit préférentiel de souscription (art L. 225-132 du Code de commerce) : « les actionnaires ont,
+proportionnellement au montant de leurs actions, un droit de priorité pour la souscription d’actions
+de numéraire émises pour réaliser une augmentation de capital ». Ce droit préférentiel permet à un
+actionnaire de conserver son pourcentage du capital dans la société. Le délai de souscription ne peut
+pas être inférieur à 5 jours de bourse après l’ouverture de la souscription (art L. 225-141 du Code de
+commerce). Le droit préférentiel est représenté par un coupon, qui sera détaché du titre au moment
+de la souscription. Il a une valeur propre, c’est-à-dire qu’il peut être négocié par un actionnaire qui
+ne veut pas participer à l’augmentation de capital.
+Le droit préférentiel de souscription peut toutefois être supprimé par l’assemblée générale
+extraordinaire qui décide de l’augmentation de capital. Cette suppression peut n’être que partielle
+et porter seulement sur une partie de l’augmentation de capital. Lorsque le droit préférentiel de
+souscription est supprimé, le législateur a prévu un dispositif pour la détermination du prix d’émission.
+L’article L. 225-136 du Code de commerce précise que :
+• Le prix d’émission ou les conditions de fixation de ce prix sont déterminés par l’assemblé générale
+extra­ordinaire sur rapport du conseil d’administration ou du directoire et sur rapport spécial du
+commissaire aux comptes de la société ou d’un commissaire aux comptes désigné à cet effet ;
+• L’émission de titres de capital est limitée à 20 % du capital social par an.
+Une fois décidée, l’augmentation de capital doit inter­venir dans un délai de cinq ans.
+– Le règlement des actions souscrites
+Le règlement (ou libération) des actions souscrites peut inter­venir en une ou plusieurs fois
+conformément à la décision du conseil d’administration. Mais, la libération du quart au moins de la
+valeur nominale et de la totalité de la prime d’émission est une contra­inte légale, le solde étant libéré
+sur appel du conseil d’administration dans un délai de cinq ans.
+Il est à noter que l’article L. 225-138 du Code de commerce prévoit une modalité supplémentaire pour
+lever des capitaux l’assemblée générale qui décide de l’augmentation de capital peut réserver celle-ci
+à une ou plusieurs personnes nommément désignées ou à des catégories de personnes répondant à
+des caractéristiques déterminées. Dans ce cas, il s’agit d’augmentation de capital réservée. À cette
+fin, elle peut supprimer le droit préférentiel de souscription. Les personnes nommément désignées
+bénéficiaires de cette disposition ne peuvent pas prendre part au vote. Lorsque l’assemblée générale
+extra­ordinaire supprime le droit préférentiel de souscription au bénéficie d’une ou plusieurs catégories
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=5C6051EE4875D8E930506340A4648C13.tpdjo15v_1?idSectionTA=LEGISCTA000006178762&cidTexte=LEGITEXT000005634379&dateTexte=20100327
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=5C6051EE4875D8E930506340A4648C13.tpdjo15v_1?idSectionTA=LEGISCTA000006178762&cidTexte=LEGITEXT000005634379&dateTexte=20100327
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=5C6051EE4875D8E930506340A4648C13.tpdjo15v_1?idSectionTA=LEGISCTA000006178762&cidTexte=LEGITEXT000005634379&dateTexte=20100327
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=5C6051EE4875D8E930506340A4648C13.tpdjo15v_1?idSectionTA=LEGISCTA000006178762&cidTexte=LEGITEXT000005634379&dateTexte=20100327
+
+----- page 6 -----
+—
+© Banque de France
+de personnes identifiées par elle, elle peut déléguer au conseil d’administration (ou au directoire) le
+soin d’arrêter la liste des bénéficiaires ainsi que le nombre de titres à attribuer. Une telle délégation doit
+s’accompagner d’un rapport du conseil d’administration (ou du directoire), certifié par le commissaire
+aux comptes, décrivant les modalités de l’opération. En ce qui concerne le prix d’émission, c’est
+l’assemblée qui le détermine sur rapport du conseil d’administration et sur rapport spécial du
+commissaire aux comptes. L’émission est réalisée dans un délai de dix-huit mois à compter de
+l’assemblée générale qui l’a décidée ou qui a voté la délégation.
+3.1.2. L’augmentation par apports en nature
+Les augmentations de capital par apports en nature sont très fréquentes dans le cadre des
+restructurations d’entreprises : fusions, absorptions, apports partiels d’actif. L’attribution des
+actions nouvelles est réservée à l’apporteur de biens. Il ne peut donc exister de droit préférentiel
+de souscription au profit des actionnaires anciens, qui renoncent de ce fait à l’exercice de ce droit.
+Le capital initial peut ne pas avoir été entièrement libéré. En effet, une société peut avoir intérêt
+à accepter un apport en nature à un moment où les actionnaires n’ont pas encore libéré toutes les
+actions souscrites.
+La décision d’augmenter le capital est de la compétence de l’assemblée générale extra­ordinaire. Un
+ou plusieurs commissaires aux apports sont désignés à l’unanimité des actionnaires ou par décision
+de justice à la demande du président du conseil d’administration ou du directoire pour procéder
+à une évaluation des apports (art. L. 225-147 du Code de commerce).
+Les actions d’apports sont intégralement libérées dès leur émission.
+3.2. L’augmentation de capital par incorporation de réserves
+L’augmentation de capital par incorporation de réserves, bénéfices ou primes d’émission, est
+sans incidence sur les fonds propres, mais elle se traduit par un accroissement du « crédit » de
+la société. Le capital est en effet la garanti­e des tiers traitant avec l’entreprise. L’incorporation
+de réserves, inter­disant leur distribution, rassure les créanciers, actuels ou potentiels. Aussi, les
+banques subordonnent-elles souvent l’octroi de prêts à une augmentation de capital lorsque la
+société a un capital faible et des réserves importantes. L’augmentation de capital peut s’effectuer,
+soit par augmentation de la valeur nominale des actions, soit par l’attribution d’actions gratuites aux
+actionnaires au prorata du nombre de titres qu’ils détiennent déjà. Ce droit d’attribution est un droit
+négociable et cessible dans des conditions comparables à celles qui régissent la cession du droit
+préférentiel de souscription.
+Comme l’opération est à la fois favorable à la société et aux actionnaires, elle est réalisée à des
+conditions simplifiées. En effet, la décision est prise par l’assemblée générale extra­ordinaire statuant
+aux conditions de quorum et de majorité qui prévalent pour les assemblées générales ordinaires
+(art. L 225-130 du Code de commerce.).
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=5C6051EE4875D8E930506340A4648C13.tpdjo15v_1?idSectionTA=LEGISCTA000006178762&cidTexte=LEGITEXT000005634379&dateTexte=20100327
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042339726/2021-01-01
+
+----- page 7 -----
+—
+© Banque de France
+3.3. L’augmentation de capital par conversion de dettes
+L’augmentation de capital par conversion de dettes en actions a pour objectif d’améliorer la situation
+financière d’une société. Différentes modalités peuvent être envisagées :
+— en cas d’importantes difficultés de trésorerie d’une société proche de la cessation des paiements et
+du dépôt de bilan, les créanciers peuvent avoir intérêt à accepter la conversion de leurs créances en
+actions, plutôt que d’en toucher un pourcentage très fréquemment négligeable en cas de liquidation
+judiciaire. Dans ce cas, les créances converties doivent être liquides et exigibles et doivent faire l’objet
+d’un arrêté de compte établi par le conseil d’administration ou le directoire à la date de souscription
+et certifié exact par le commissaire aux comptes. Le capital est augmenté du montant des apports
+en nature constitué par les créances. Le prix d’émission des actions remises en contrepartie
+est alors calé sur la valeur nominale, ce qui nécessite l’accord des « anciens » actionnaires.
+Il est à noter que l’augmentation de capital peut également se faire par incorporation de comptes
+courants d’associés.
+— la conversion des dettes à long terme peut inter­venir lorsque la société a émis des obligations
+convertibles ou remboursables ou échangeables en actions. Lors de la conversion, la structure
+financière s’en trouve renforcée ainsi que la trésorerie, la société n’ayant pas à faire face au
+remboursement des obligations converties.
+RÉFÉRENCES
+• Articles L. 225-127 et suivant du Code de commerce
+• LAMY, Droit du financement 2016
+• DALLOZ, Ingénierie financière fiscale et juridique 2009-2010
+• VERNIMMEN, Finance d’entreprise 2021
+[lien] https://www.legifrance.gouv.fr/codes/id/LEGIARTI000042339726/2021-01-01

@@ -401,6 +401,7 @@ transmis et soit un SIREN valide.
 2.4.2 Taux de prélèvement par nature d’activités
 Lors d’un échange bac à sable avec l’Urssaf, les utilisateurs transmis dans le « fichier des utilisateurs à
 prélever » auront chacun un taux de prélèvement fictif. Ce taux est identique par nature d’activités.
+[lien] mailto:ne_pas_repondre@urssaf.fr
 
 ----- page 12 -----
 V2026-2
@@ -566,6 +567,8 @@ Ces informations techniques sont obligatoires. Elles se trouvent dans :
 ▪ Le bloc MessageSpec (de niveau message) ;
 ▪ Le bloc EntityUserIdentification (de niveau bloc d'information, également appelé enregistrement).
 Les flux envoyés doivent impérativement être en conformité avec les schémas rappelés ci-dessus.
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
 
 ----- page 16 -----
 V2026-2
@@ -602,6 +605,8 @@ Plateforme
 numérique_CI
 Phase
 Identification_Annexes_Schémas XSD_VFR)
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
 
 ----- page 17 -----
 V2026-2
@@ -1067,6 +1072,7 @@ télécharger le logiciel ici : https://www.7-zip.org/.
 Exemple : pour l'envoi d'un fichier compressé constitué le 10 mai 2024 à 09:07:10 pour une
 demande "Identification" pour le mois de mai 2024 par l'identifiant 4300025 :
 DPID_4300025_2024-05_001.xml.gz
+[lien] https://www.7-zip.org/
 
 ----- page 23 -----
 V2026-2
@@ -1414,6 +1420,8 @@ Il s’agit du nombre d’utilisateurs qui n’ont pas
 prélèvement pour le mois M de prélèvement.
 Mis à zéro si le fichier plateforme est
 inexploitable.
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
 
 ----- page 30 -----
 V2026-2
@@ -1804,6 +1812,8 @@ Listes des signalement – DPDRBody - EntityUserResult - ReportStates
 Signalement
 ReportState
 La liste des signalements est précisée au § 3.5.5.
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
 
 ----- page 35 -----
 V2026-2
@@ -2411,6 +2421,8 @@ Code de l’activité
 Taux à appliquer
 Value
 Taux
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
 
 ----- page 43 -----
 V2026-2
@@ -2897,3 +2909,4 @@ Plateforme
 numérique
 d’urssaf.fr :
 https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html

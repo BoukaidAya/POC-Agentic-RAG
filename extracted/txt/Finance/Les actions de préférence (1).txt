@@ -1,0 +1,67 @@
+
+----- page 1 -----
+05/2021
+1
+—
+2
+© Banque de France
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les titres 
+super subordonnés 
+(TSS)
+324
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 324 : Les titres super subordonnés (TSS)
+MOTS CLÉS
+titres super subordonnés, 
+capitaux propres, 
+quasi-fonds propres, 
+obligations
+SOMMAIRE
+1.  PRÉSENTATION GÉNÉRALE	
+2
+NB  Pour plus d’informations sur les actions de préférence, voir la fiche 312.
+
+----- page 2 -----
+2
+—
+2
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 324 : Les titres super subordonnés (TSS)
+1.  PRÉSENTATION GÉNÉRALE
+Créés par la loi de la sécurité financière (LSF) du 1er aout 2003, les titres super subordonnés sont des 
+obligations de caractère perpétuel entraînant une rémunération perpétuelle. Leur durée indéterminée 
+provient de l’absence d’un engagement contractuel de remboursement qui s’effectue au gré de 
+l’émetteur.
+En cas de liquidation de l’entreprise, leurs détenteurs sont remboursés après tous les autres 
+créanciers (prêts subordonnés), tout en étant remboursés avant les apporteurs de capitaux propres.
+Les titres super subordonnés sont les titres de dette les plus risqués. Compte tenu de leur risque 
+élevé, ils offrent une rentabilité sensiblement supérieure aux autres titres de dette. Leur rémunération 
+annuelle peut être conditionnelle au paiement d’un dividende, ou à la réalisation d’un résultat.
+En leur permettant d’émettre des titres de dette d’un rang de priorité inférieur aux prêts et titres 
+participatifs, et d’organiser à leur gré la subordination de leurs divers types de dettes, la LSF donne aux 
+entreprises les moyens de financer leur activité par l’émission de titres obligataires assimilables – sur le 
+plan prudentiel – aux quasi-fonds propres. En émettant des TSS, une entreprise peut ainsi renforcer la 
+structure de son bilan sans être affectée par l’effet dilutif 1 mécaniquement attaché à toute augmentation 
+du capital social, et surtout sans provoquer un alourdissement de son endettement senior 2.
+Ces titres peuvent constituer une alternative intéressante aux « preferred shares » (actions de 
+préférence) et autres titres hybrides permettant l’accès au capital d’une entreprise. En effet, les TSS 
+peuvent ne pas être considérés comme des titres de capital sur le plan comptable.
+Les titres super subordonnés sont régulièrement utilisés par les institutions financières pour renforcer 
+leurs capitaux propres. Notamment, en France, ces titres ont été souscrits en 2009 par l’État français 
+pour venir en aide aux établissements financiers fragilisés par la crise. Par ailleurs, les sociétés 
+commerciales et les établissements publics peuvent également tirer parti de cet instrument hybride 
+dans le cadre de la gestion de leur bilan et du financement de leurs opérations de croissance externe.
+1.  Le terme de dilution a deux acceptions bien distinctes : 
+–  On parle tout d’abord de dilution lorsqu’une modification de la structure financière de l’entreprise ou qu’une  
+  opération de fusion ou d’acquisition provoque une baisse du bénéfice par action.  
+–  La dilution peut également caractériser la réduction du pourcentage d’un actionnaire dans le capital d’une société  
+  suite à une augmentation de capital, une fusion.
+2.  La dette senior est une dette dont le remboursement se fait prioritairement par rapport aux autres dettes, dites 
+dettes subordonnées. Il s’agit donc d’une dette privilégiée. 
+RÉFÉRENCES
+•  la loi de la sécurité financière (LSF) du 1er août 2003
+•  Code de Commerce (art. L.228-97)
+•  VERNIMMEN, Finance d’entreprise 2021
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000428977
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000428977
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=2F1A84B412BD3B641A9DB39F921E986E.tpdjo11v_1?idSectionTA=LEGISCTA000006178844&cidTexte=LEGITEXT000005634379&dateTexte=20100609

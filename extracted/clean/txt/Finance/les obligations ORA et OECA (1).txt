@@ -1,0 +1,170 @@
+
+----- page 1 -----
+05/2022
+—
+Chapitre 4 : Les financements intermédiés | Fiche 411 : Les prêts participatifs
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les prêts participatifs
+MOTS CLÉS
+prêts participatifs,
+financement,
+dette,
+fonds propres,
+BPI
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+2. LA NATURE DES PRÊTS PARTICIPATIFS : UN SUJET DE DÉBAT
+2.1. Les dispositions législatives
+2.2. Les dispositions juridiques
+2.3. Le point de vue du Conseil national de la comptabilité (CNC)
+2.4. Le point de vue fiscal
+3. PRÊTEURS – EMPRUNTEURS – CONDITIONS
+4. GARANTIES
+5. LES PRÊTS PARTICIPATIFS RELANCE (PPR)
+
+----- page 2 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 411 : Les prêts participatifs
+1. PRÉSENTATION GÉNÉRALE
+Le prêt participatif a été introduit par la loi du 13 juillet 1978. Il est destiné au financement à long terme
+des entreprises, tout particulièrement des PME.
+Le prêt participatif s’analyse comme un moyen de financement intermédiaire entre le prêt à long terme
+et la prise de participation (selon le Dalloz 2009/2010). À l’origine, le remboursement du prêt participatif
+est subordonné au remboursement intégral par l’emprunteur de toutes ses autres créances bancaires
+(la dette est alors dite « subordonnée »). Il ne confère aucun droit de vote au prêteur et il est accordé
+moyennant le service d’un intérêt fixe, généralement majoré d’une participation au bénéfice net de
+l’emprunteur.
+Ces caractéristiques lui valent d’être généralement présenté comme un produit de fonds propres
+contribuant à améliorer la structure financière des entreprises. Par conséquent, du point de vue de
+l’analyse financière, ce prêt ne serait pas inclus dans l’endettement. Ce faisant, la qualification de
+quasi-fonds propres entraîne, pour la société qui y recourt, une amélioration de sa structure financière
+sans qu’il soit procédé à une augmentation de capital. Le prêt participatif constituerait de ce fait un
+mode de financement à effet de levier. Cette assertion est toutefois à nuancer (cf. infra).
+Après avoir été délaissé dans les années 1990, le prêt participatif a refait son apparition en 2008 dans
+un contexte économique marqué par la crise où il sert de support aux prêts de l’État (en faveur des
+entreprises en difficulté, notamment les constructeurs automobiles) et aux interventions d’OSEO
+(devenu Bpifrance). En effet, dans le cadre du plan de relance de l’économie 2008, OSEO avait été
+chargé de mobiliser un milliard d’euros sous la forme de « prêts participatifs » pour aider les PME
+à consolider leurs fonds propres et encourager l’investissement. À cette fin, en octobre 2009, le
+contrat de développement participatif (CDP), qui a été mis en place par cet établissement, se fonde
+sur la notion de prêts participatifs. Dans le cadre du programme d’investissements d’avenir 1, l’État
+avait de nouveau accordé à OSEO un milliard d’euros sur la période 2010-2011 pour la poursuite des
+contrats de développement participatifs.
+Les prêts participatifs ont été réactivés au printemps 2021, avec le label Relance, pour financer
+jusqu’en décembre 2023 les PME et les ETI avec une garantie de l’État de 30 %, selon les conditions
+expliquées au point 5.
+2. LA NATURE DES PRÊTS PARTICIPATIFS : UN SUJET DE DÉBAT
+Les prêts participatifs sont-ils constitutifs des fonds propres de l’entreprise, ou faut-il seulement les
+considérer comme de simples créances détenues par des tiers sur l’entreprise ?
+2.1. Les dispositions législatives
+L’assimilation souhaitée à des fonds propres résulte expressément des dispositions législatives de
+l’article L.313-14 du Code monétaire et financier, qui prévoient que « les prêts participatifs sont, au
+regard de l’appréciation de la situation financière des entreprises qui en bénéficient, assimilés à des
+fonds propres ».
+Aussi, du point de vue du législateur, et sur un plan purement financier, les prêts participatifs
+constituent des ressources financières qui doivent être assimilées à des fonds propres.
+1. La loi de finance rectificative pour 2010 a prévu la mise en œuvre d’un programme d’investissements d’avenir d’un
+montant de 35 milliards d’euros. L’objectif de ce programme est de moderniser et de renforcer la compétitivité
+nationale, en favorisant l’investissement et l’innovation dans des secteurs prioritaires dont la filière industrielle et PME.
+Bpifrance et la CDC font partie des opérateurs retenus pour mettre en œuvre ce programme.
+
+----- page 3 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 411 : Les prêts participatifs
+2.2. Les dispositions juridiques
+Si le législateur s’est clairement prononcé sur l’aspect financier de ce type de prêt, il n’a pas défini
+précisément leur nature juridique.
+La qualification juridique des prêts participatifs a été précisée notamment pour la détermination de
+la perte de plus de la moitié du capital social d’une entreprise. Selon le ministère de la Justice, ces
+prêts ne doivent pas être pris en compte pour le calcul de la perte de plus de la moitié du capital
+social, c’est-à-dire qu’ils ne peuvent pas être inclus dans les capitaux propres.
+2.3. Le point de vue du Conseil national de la comptabilité (CNC)
+L’analyse comptable des prêts participatifs suit l’analyse juridique : le Conseil national de la
+comptabilité a estimé que, quelle que soit la base de calcul de la rémunération du prêteur, ils
+demeurent une dette pour l’emprunteur, dont la rémunération est une charge financière représentative
+du coût des capitaux empruntés. Cette analyse est valable pour tout type de prêt participatif, et tout
+type de rémunération, fixe ou participante.
+Il est toutefois prévu que le bénéficiaire et l’organisme qui consent un prêt participatif doivent l’inscrire
+sur une ligne particulière de leur bilan.
+2.4. Le point de vue fiscal
+Pour le prêteur, les revenus des prêts participatifs sont considérés comme des recettes de l’exercice
+entrant dans la détermination du résultat imposable.
+Pour l’emprunteur, les sommes versées en rémunération des prêts participatifs viennent
+symétriquement diminuer son résultat imposable. Lorsque le prêt est consenti dans le cadre d’un
+groupe de sociétés, précisément par la société mère à sa filiale ou à toute société dans laquelle
+elle est associée à quelque hauteur que ce soit, l’article 39.1.3 du Code général des impôts (CGI)
+pose des limites à cette déductibilité, afin que le prêt participatif ne soit pas utilisé comme un outil
+d’optimisation fiscale.
+Ainsi, selon l’approche fiscale, le prêt participatif est considéré comme une dette.
+3. PRÊTEURS – EMPRUNTEURS – CONDITIONS
+Peuvent consentir des prêts participatifs un large éventail d’opérateurs économiques, le champ des
+prêteurs ayant été élargi par la loi du 2 août 2005. Il s’agit de l’État, des établissements de crédit,
+des sociétés commerciales, des établissements publics dont la liste est fixée par décret en Conseil
+d’État, des sociétés et mutuelles d’assurance, des associations sans but lucratif, des organismes
+de retraite complémentaire, ainsi que des institutions de prévoyance.
+Concernant les établissements publics éligibles, un décret du 14 juin 2006 précise que sont concernés
+les établissements publics de l’État à caractère industriel et commercial dont l’objet les autorise à
+participer au financement de l’activité économique. Cette mesure vise en premier lieu Bpifrance.
+La loi du 2 août 2005 a élargi le champ des bénéficiaires qui est désormais ouvert aux entreprises
+artisanales et aux entrepreneurs individuels, en complément des entreprises industrielles et
+commerciales. En revanche, les entreprises, personnes morales comme personnes physiques, qui
+exercent une activité civile, en particulier une activité libérale, sont exclues du dispositif.
+
+----- page 4 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 411 : Les prêts participatifs
+Tout comme le prêt participatif accordé par l’État, la loi fixe de manière très stricte la rémunération
+du prêteur dans le cadre d’un prêt participatif de droit commun, dit encore privé. Si le prêteur reçoit
+nécessairement un intérêt fixe, s’y ajoute facultativement, dans les conditions prévues au contrat, une
+rémunération variable notamment par le jeu d’une clause de participation au bénéfice de l’emprunteur.
+4. GARANTIES
+Le prêt participatif étant particulièrement risqué pour le prêteur (en tant que dette subordonnée de
+dernier rang, son remboursement intervient après le remboursement de toutes les autres dettes
+bancaires), plusieurs fonds de garantie ont été créés, essentiellement alimentés par des dotations
+de l’État. Ceux-ci sont gérés par Bpifrance, qui intervient, non pas en son nom propre, mais en tant
+que mandataire de l’État. Ces fonds garantissent uniquement les prêts éligibles définis conjointement
+par l’État et Bpifrance. Bpifrance n’intervient pas à titre de caution, mais en vertu d’un mécanisme
+proche de l’assurance : il rembourse à l’organisme prêteur en cas de défaillance de l’emprunteur
+une partie de la perte finale (30 % à 90 % du montant du crédit selon la formule de garantie choisie,
+et selon la présence ou non, à côté de Bpifrance, d’un co-garant en complément, par exemple une
+société de caution mutuelle ou des collectivités locales).
+Lorsque la garantie de Bpifrance n’a pas été obtenue ou demandée, l’emprunteur est en droit de
+recourir à la garantie d’un tiers, notamment sous forme de cautionnement.
+5. LES PRÊTS PARTICIPATIFS RELANCE (PPR)
+Dans le cadre du plan de relance 2020-2022, un dispositif de prêts participatifs et d’obligations relance,
+permettant de générer entre 10 et 20 Md€ de quasi-fonds propres pour les projets d’investissement
+des entreprises françaises, est prévu. Ces financements permettront aux entreprises d’investir,
+d’embaucher et de développer leur activité.
+Ces prêts participatifs devront être remboursés sur huit ans, avec un différé de quatre ans avant
+le début du remboursement. Pour réduire le risque pour les banques et les sociétés de gestion qui
+distribueront ces deux produits, l’État fournira une garantie pouvant aller jusqu’à 30 % des pertes en
+capital, soit 6 milliards d’euros pour un encours de 20 milliards d’euros. Ils seront très subordonnés, au
+sens où seules les participations en capital le seront davantage dans l’ordre d’exigibilité des créances.
+Le montant du prêt pourra atteindre 12,5 % du chiffre d’affaires 2019 pour les petites et moyennes
+entreprises (PME), et 8,4 % du chiffre d’affaires pour les entreprises de taille intermédiaire (ETI).
+Pour y avoir accès, une PME devra justifier d’un chiffre d’affaires supérieur à 2 millions d’euros.
+Les entreprises déjà soutenues via un prêt garanti par l’État (PGE) seront aussi éligibles, mais elles
+pourront dans certains cas emprunter moins (10 % de leur chiffre d’affaires 2019 pour une PME et
+5 % pour une ETI, si le cumul du PGE et du prêt participatif ou de l’obligation relance dépasse 25 %
+du chiffre d’affaires 2019).
+Le taux d’intérêt est de 4 à 5 % pour les PME et de 6 % pour les ETI.
+Les prêts participatifs ont été distribués à compter de mi-avril 2021, et le seront jusqu’à décembre 2023.
+Les prêts participatifs relance sont analysés par la Banque de France comme une dette financière
+subordonnée à long terme, sans charge de remboursement avant quatre ans, dont les impacts
+positifs examinés à dire d’expert peuvent permettre d’affiner le diagnostic quantitatif et d’en tenir
+compte de façon qualitative dans la cotation.
+
+----- page 5 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 411 : Les prêts participatifs
+RÉFÉRENCES
+• Loi n° 78-741 du 13 juillet 1978
+• Articles L.313-13 à L.313-20 du Code monétaire et financier
+• Loi du 2 août 2005
+• Loi de finances pour 2021
+• Décret du 14 juin 2006
+• Lamy, Droit du financement 2016
+• Francis Lefebvre, Mémento comptable 2016
+• Vernimmen 2022
+[lien] https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=E66B554EA5C84C6244FB599FA61E7993.tpdila21v_3?idArticle=LEGIARTI000006317138&cidTexte=LEGITEXT000006068641&dateTexte=20161014
+[lien] https://www.legifrance.gouv.fr/affichCode.do;jsessionid=E66B554EA5C84C6244FB599FA61E7993.tpdila21v_3?idSectionTA=LEGISCTA000006198065&cidTexte=LEGITEXT000006072026&dateTexte=20161014

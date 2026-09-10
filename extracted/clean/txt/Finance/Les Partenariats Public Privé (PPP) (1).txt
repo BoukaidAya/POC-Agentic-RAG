@@ -1,0 +1,140 @@
+
+----- page 1 -----
+06/2021
+—
+© Banque de France
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Le financement
+par fonds propres
+ou par dettes
+MOTS CLÉS
+dettes,
+capitaux propres,
+fonds propres,
+instruments financiers,
+titres hybrides
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+2. CAPITAUX PROPRES ET FONDS PROPRES : DÉFINITION
+3. LES DIFFÉRENCES FONDAMENTALES
+ENTRE LES DETTES ET LES CAPITAUX PROPRES
+4. DES DIFFÉRENCES QUI PRÉSENTENT NÉANMOINS DES LIMITES
+4.1. Les cas de détention du capital sans contrôle associé
+4.2. Une complexité croissante des instruments financiers
+5. LES DÉFINITIONS COMPTABLES ET FISCALES PERMETTANT
+DE DISTINGUER LES DETTES ET LES CAPITAUX PROPRES
+NB Pour plus d’informations sur les actions de préférence, voir la fiche 312.
+Pour plus d’informations sur les titres participatifs, voir la fiche 323.
+Pour plus d’informations sur les obligations convertibles en actions, voir la fiche 325.
+Pour plus d’informations sur les obligations à bons de souscription en actions (OBSA), voir la fiche 326.
+Pour plus d’informations sur les prêts participatifs, voir la fiche 411.
+
+----- page 2 -----
+—
+© Banque de France
+1. PRÉSENTATION GÉNÉRALE
+La distinction entre les produits de dette et de fonds propres est nécessaire et même indispensable
+pour :
+— l’appréciation du niveau d’endettement d’une entreprise et par voie de conséquence l’évaluation
+de son risque de crédit ;
+— la détermination du résultat d’une entreprise.
+2. CAPITAUX PROPRES ET FONDS PROPRES : DÉFINITION
+Il convient de distinguer la notion de capitaux propres de celle plus large de fonds propres.
+Ces derniers n’ont pas de véritable existence juridique, même s’ils sont pleinement utilisés en
+comptabilité ou en analyse financière. Les fonds propres se composent, en plus des capitaux
+propres, des « autres fonds propres ».
+Au plan comptable, les capitaux propres englobent :
+— le capital ;
+— les primes d’émission et primes assimilées ;
+— le résultat de l’exercice ;
+— les subventions d’investissement ;
+— les provisions réglementées ;
+— les réserves.
+Et les « autres fonds propres » :
+— les produits d’émission de titres participatifs ;
+— les avances conditionnées.
+Pour autant, la notion de fonds propres n’est pas limitative. Elle peut en effet évoluer au gré des
+innovations financières. En outre, elle fait parfois l’objet d’interprétations diverses. C’est notamment le
+cas lorsque sont inclus dans les fonds propres, à des fins d’analyse financière, les prêts participatifs
+ou encore les dépôts en compte courant des associés (cf. infra).
+
+----- page 3 -----
+—
+© Banque de France
+3. LES DIFFÉRENCES FONDAMENTALES ENTRE LES DETTES
+ET LES CAPITAUX PROPRES
+— Les capitaux propres correspondent aux fonds provenant soit des actionnaires, c’est-à-dire des
+associés, soit des bénéfices de l’entreprise ; les dettes correspondent à des fonds remboursables
+aux créanciers de l’entreprise (établissements de crédit, fournisseurs, État...).
+— La détention de capitaux propres donne le droit de participer à la vie sociale de l’entreprise.
+— La rémunération des capitaux propres s’impute après le résultat. Fiscalement, cette rémunération
+n’est ainsi pas déductible pour l’entreprise ; en outre, elle n’est pas due en cas d’absence ou
+d’insuffisance de bénéfice.
+— La rémunération des dettes est une charge au compte de résultat ; elle est déductible fiscalement.
+— Les capitaux propres ne sont assortis d’aucune échéance de remboursement. Leur remboursement
+est subordonné au remboursement des créanciers en cas de liquidation de l’entreprise.
+4. DES DIFFÉRENCES QUI PRÉSENTENT NÉANMOINS DES LIMITES
+Malgré ces critères de différenciation, la frontière entre ces deux sources de financement n’est pas
+toujours aisée à établir en raison de la création de produits financiers particulièrement innovants :
+4.1. Les cas de détention du capital sans contrôle associé
+Dans les faits, de nombreux associés ne participent pas directement aux décisions de gestion de
+l’entreprise (par exemple en ne siégeant pas aux assemblées générales). C’est le cas des détenteurs
+d’Actions à dividendes prioritaires (ADP), sans droit de vote (loi n° 78-741 du 13 juillet 1978). Ces titres
+permettent d’augmenter le capital social sans modifier la répartition des pouvoirs de décision au
+sein de l’entreprise tout en donnant à leurs détenteurs un droit de priorité sur les résultats distribués.
+Les certificats d’investissement (loi n° 83-1 du 3 janvier 1983) dissocient également participation au
+capital et participation à la vie sociale de l’entreprise : ils donnent droit aux bénéfices et aux réserves,
+comme les actions, mais aucun droit de vote ne leur était rattaché.
+Aujourd’hui, ces deux produits ne sont plus émis et ont été remplacés par les actions de préférence
+(cf. fiche 312).
+
+----- page 4 -----
+—
+© Banque de France
+4.2. Une complexité croissante des instruments financiers
+Depuis plusieurs années, les entreprises ont émis des titres de nature hybride, ou mis en place
+des financements structurés qui ne peuvent pas être assimilés de façon évidente à des ressources
+propres ou à de l’endettement.
+Notamment, certains produits obligataires, qui s’apparentent en première analyse à des dettes,
+donnent accès à leurs détenteurs au capital de l’entreprise, au terme d’une durée variable :
+— Les Obligations convertibles ;
+— Les Obligations à bon de souscription en actions, introduites par la loi n° 83-1du 3 janvier 1983.
+Ces titres permettent à la fois une augmentation des capitaux d’emprunt (endettement à long
+terme) et des capitaux propres (actions) ;
+D’autres types de produits se révèlent également difficiles à classer dans une catégorie de
+financement bien délimitée.
+— Les prêts participatifs : le créancier reçoit un intérêt fixe mais a également la possibilité de
+participer au bénéfice net (loi n° 78-741 du 13 juillet 1978).
+— Les titres participatifs (loi n° 83-1 du 3 janvier 1983) : le créancier reçoit des intérêts dont une partie
+est fixe et une autre variable. La dette peut acquérir un caractère perpétuel. Elle est remboursable
+en cas de liquidation ou sur initiative de l’entreprise (7 ans après l’émission). Les créanciers n’ont
+pas de priorité de remboursement, ils sont remboursés après tous les autres.
+— Les Titres subordonnés à durée indéterminée (TSDI) qui ont les caractéristiques suivantes :
+• ils ne sont remboursables qu’en cas de liquidation de l’entreprise (instrument de capitaux propres) ;
+• le remboursement n’intervient qu’après désintéressement de tous les autres créanciers, privilégiés
+ou chirographaires (instrument de capitaux propres) ;
+• la rémunération constitue une charge financière pour l’entreprise (instrument de dette).
+
+----- page 5 -----
+—
+© Banque de France
+5. LES DÉFINITIONS COMPTABLES ET FISCALES PERMETTANT
+DE DISTINGUER LES DETTES ET LES CAPITAUX PROPRES
+Afin de classer ces instruments et de pouvoir s’appuyer sur des règles suffisamment générales pour
+les qualifier, l’ordre des experts comptables a défini deux critères prépondérants. Un instrument
+financier est classé dans les ressources propres dès lors qu’il répond simultanément aux deux
+caractéristiques suivantes :
+— l’instrument n’est pas remboursable, ou son remboursement est sous contrôle exclusif de
+l’émetteur ou s’effectue par émission et attribution d’un autre instrument de capitaux propres ;
+— la rémunération n’est pas due et, en conséquence, n’a pas à être comptabilisée au passif du bilan,
+en cas d’absence ou d’insuffisance de bénéfice.
+D’un point de vue fiscal, la distinction est plus simple à opérer : si l’instrument donne lieu à une
+déduction fiscale de sa rémunération, alors il fait partie des dettes.
+Néanmoins, en raison du caractère hybride de certains instruments, certains experts comptables
+et analystes financiers ont proposé de créer une nouvelle rubrique comptable qui consacrerait les
+quasi‐fonds propres comme des produits intermédiaires entre les dettes financières et les fonds
+propres.
+RÉFÉRENCES
+• LAMY, droit du financement 2016
+• VERNIMMEN, Finance d’entreprise 2021
+• Lefebvre comptable 2016

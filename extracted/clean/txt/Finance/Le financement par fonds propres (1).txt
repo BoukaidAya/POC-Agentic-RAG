@@ -1,0 +1,190 @@
+
+----- page 1 -----
+05/2021
+—
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les Euro PP
+ou placements privés
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 333 : Les Euro PP ou placements privés
+MOTS CLÉS
+placement privé,
+Euro PP,
+Euro Private Placements
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+2. CARACTÉRISTIQUES ET MÉCANISMES D’UNE OPÉRATION D’EURO PP
+2.1. Caractéristiques et avantages d’une opération d’Euro PP
+2.2. Les étapes-clés d’une opération d’Euro PP
+3. RÉGLEMENTATION APPLICABLE
+3.1. Charte Euro PP
+3.2. Deux contrats types Euro PP
+3.3. Code de bonnes pratiques des arrangeurs d’opérations d’Euro PP
+4. LE MARCHÉ FRANÇAIS DES EURO PP
+
+----- page 2 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 333 : Les Euro PP ou placements privés
+1. PRÉSENTATION GÉNÉRALE
+Un Euro Private Placement (Euro PP) est une forme de placement privé, c’est-à-dire une opération
+de financement à moyen ou long terme réalisée entre une entreprise, cotée ou non, et un nombre
+limité d’investisseurs institutionnels. Lancé en juillet 2012, ce type d’opération peut être réalisé sous
+la forme d’un prêt ou d’une obligation, généralement par l’intermédiaire d’un « arrangeur 1 ».
+Ce placement représente une opportunité de diversifier les sources de financement des entreprises,
+et tout particulièrement pour les entreprises de taille intermédiaire (ETI) non notées qui étaient
+auparavant exclues du marché obligataire public (faute de montants à émettre suffisamment élevés)
+et des appels publics à l’épargne (notation et publication de l’information financière nécessaire).
+Pour les investisseurs institutionnels (fonds spécialisés, compagnies d’assurance, banques...),
+cette opération offre un rendement intéressant sur des entreprises non cotées pour un profil de
+risque sécurisé répondant désormais à leurs exigences réglementaires. Ainsi, la réforme du Code
+des assurances en août 2013 et le décret du 17 décembre 2014 autorisant les assureurs, mutuelles
+et institutions de prévoyance à consentir des prêts aux entreprises contribuent au développement
+du marché de l’Euro PP en France.
+2. CARACTÉRISTIQUES ET MÉCANISMES D’UNE OPÉRATION D’EURO PP
+2.1. Caractéristiques et avantages d’une opération d’Euro PP
+Les Euro PP peuvent se présenter sous la forme d’une obligation (cotée ou non) ou d’un prêt et
+présentent des caractéristiques qui les distinguent des autres types de financement :
+— Un nombre limité d’investisseurs. Contrairement à une émission obligataire publique, l’Euro PP
+n’est proposé qu’à un nombre limité d’investisseurs. Ceux-ci sont régulés, qu’il s’agisse de fonds
+d’investissement placés sous le contrôle de l’AMF en France, ou de banques et de sociétés
+d’assurance supervisés par l’ACPR en France.
+— Une documentation contractuelle sur mesure et négociée. Les caractéristiques de l’émission
+sont négociées entre l’emprunteur et les investisseurs, contrairement à une émission obligataire
+publique où l’investisseur ne fait que souscrire à l’émission sans en négocier les termes.
+— Détention jusqu’à maturité. Les obligations ont vocation à être détenues jusqu’à leur échéance
+par l’investisseur (investissement de type « buy and hold »), d’où une quasi-absence de liquidité
+du marché secondaire.
+— Traitement pari passu avec les créanciers bancaires (égalité de paiement entre les créanciers
+bancaires et les investisseurs d’Euro PP).
+— Aucune obligation en matière de publication d’information (en dehors de la relation
+émetteur‐investisseur) et de notation financière de l’Euro PP.
+1. L’arrangeur peut être un intermédiaire régulé, un établissement de crédit ou une entreprise d’investissement.
+L’arrangeur doit avoir la capacité de placement, c’est-à-dire la capacité à distribuer l’obligation émise ou l’emprunt
+structuré auprès des investisseurs institutionnels. Il peut co-investir dans un Euro PP sous la forme d’un prêt.
+
+----- page 3 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 333 : Les Euro PP ou placements privés
+Un Euro PP peut être coté ou non coté. Une cotation simplifiée et à moindre coût est possible sur la
+plateforme « Euronext Private Placement Bonds » d’Euronext depuis mars 2015.
+Présence possible de clauses spécifiques destinées à protéger les investisseurs jusqu’à maturité
+de l’obligation et inspirées des marchés plus matures américains (US PP) et allemand (Schuldschein) :
+— Clause de negative pledge élargie aux filiales et à l’endettement bancaire 2 (interdiction de donner
+en garantie certains actifs à des créanciers tiers).
+— Clause de changement de contrôle.
+— Respect de ratios financiers définis (covenants).
+— Clause de fall away (suppression de garanties si l’émetteur vient à obtenir une notation
+investment grade).
+— Remboursement anticipé en échange de la somme et intérêts restant dus, actualisée sur la
+base du taux de rendement margé d’une OAT de référence (make-whole call).
+Le financement par Euro PP présente de multiples avantages pour les entreprises émettrices qui
+peuvent ainsi :
+— Alléger leur niveau de remboursement annuel avec un remboursement intégral à l’échéance.
+— Allonger la maturité de leurs financements par rapport à un emprunt bancaire.
+— Diversifier leurs sources de financement et accéder au marché obligataire.
+— Développer leur notoriété financière tout en réalisant des opérations confidentielles, sans
+publication d’informations financières 3.
+2.2. Les étapes-clés d’une opération d’Euro PP
+1) Présentation de l’activité et des états financiers de l’emprunteur aux investisseurs, sous la forme
+d’un mémorandum d’information ou d’un prospectus selon le type d’Euro PP.
+2) Négociation et définition des modalités financières de l’opération et des engagements juridiques
+et financiers de l’emprunteur, ainsi que des clauses spécifiques de l’opération sous la forme
+d’une Term sheet. Ce document sert ensuite de base à la rédaction des modalités complètes et
+définitives des obligations ou du contrat de crédit (Terms and Conditions).
+3) Gestion de l’opération jusqu’à maturité : l’emprunteur s’engage à communiquer des informations
+périodiques (états financiers et tout évènement susceptible d’avoir un impact sur les obligations
+ou le prêt) permettant le suivi des engagements juridiques et financiers (covenants) en cours de
+vie des titres ou du prêt.
+Dès le début de l’opération, un accord de confidentialité est conclu. La négociation ainsi que la
+rédaction des documents informatifs et/ou contractuels (mémorandum, prospectus, term sheet...)
+sont facilitées par l’arrangeur tout au long du processus.
+2. Sur le marché obligataire classique, la clause negative pledge ne concerne que l’endettement obligataire.
+3. Dans le cas d’une opération d’Euro PP sous forme d’obligation cotée, la transaction n’est plus confidentielle et
+nécessite l’approbation d’une autorité de marché et requiert un certain niveau d’information financière (comptes
+consolidés avec 2 années d’historique, normes IFRS...).
+
+----- page 4 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 333 : Les Euro PP ou placements privés
+3. RÉGLEMENTATION APPLICABLE
+3.1. Charte Euro PP
+En mars 2014, une Charte Euro PP est communiquée par la Banque de France et la CCI Paris
+Île‐de‐France afin d’offrir un cadre de référence et de bonnes pratiques pour faciliter les relations
+entre les émetteurs et les investisseurs. Ce document évolutif a pour objectif d’ouvrir plus largement
+le marché de l’Euro PP aux investisseurs étrangers ainsi qu’aux ETI de plus petite taille. Il fournit
+des recommandations concernant les processus clefs d’une opération Euro PP avec notamment
+des modèles de documents nécessaires à l’opération (accord de confidentialité, mémorandum...).
+La Charte a par la suite inspiré le « Pan-Européen Corporate Private Placement Market Guide » publié
+en février 2015 par l’ICMA (International Capital Market Association) qui accompagne, quant à elle,
+les émissions d’Euro PP en Europe.
+En octobre 2019, la Charte Euro PP ainsi que les contrats cadres de prêts et émissions obligataires
+ont été mis à jour, dans l’objectif de s’adapter aux différentes évolutions du marché et proposer
+des procédures plus simples pour les investisseurs et entreprises. La modernisation prévoit
+principalement :
+— Une simplification et une standardisation des documents adossés à la Charte Euro PP et un
+processus accéléré ;
+— Une promotion des bonnes pratiques ainsi que d’une labellisation « green », « social » ou
+« durable » pour l’Euro PP.
+3.2. Deux contrats types Euro PP
+En avril 2014, un Comité de pilotage Euro PP, composé des grands acteurs du marché (Banque
+de France, CCI Paris IDF, le Trésor, Paris Europlace et une dizaine d’associations professionnelles
+représentant les entreprises émettrices, les investisseurs assureurs et institutionnels, ainsi que
+les banques, les sociétés de gestion et des cabinets d’avocats) a été constitué. Outre une mission
+de documentation, le Comité est également chargé du suivi du marché des Euro PP ainsi que de
+sa promotion 4.
+Afin de standardiser la documentation contractuelle et rassurer les emprunteurs et investisseurs
+peu habitués à ce type de financement, le Comité a donc élaboré deux contrats types Euro PP,
+l’un dédié aux prêts et l’autre aux émissions obligataires. Mis à disposition le 8 janvier 2015 5, ces
+contrats contiennent les informations nécessaires à toute opération Euro PP réalisée pour tous types
+d’entreprises, en France ou à l’international (versions traduites en anglais, italien et prochainement
+en allemand).
+3.3. Code de bonnes pratiques des arrangeurs d’opérations d’Euro PP
+En janvier 2016, un Code de bonnes pratiques des arrangeurs d’opérations d’Euro PP a été publié
+par l’Association française des marchés financiers (AMAFI) pour standardiser les bonnes pratiques
+professionnelles des établissements arrangeurs d’opérations d’Euro PP.
+4. Les « Secondes rencontres Euro PP » ont eu lieu à Paris le 29 mars 2016.
+5. Disponible sur www.euro-privateplacement.com.
+[lien] http://www.euro-privateplacement.com/Charte_Euro_PP-Juin_2014-FR.pdf
+[lien] http://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/Primary-Markets/private-placements/the-pan-european-corporate-private-placement-market-guide/
+[lien] http://www.amafi.fr/topics/fr/documentation/euro-pp
+[lien] http://www.euro-privateplacement.com/
+
+----- page 5 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 333 : Les Euro PP ou placements privés
+4. LE MARCHÉ FRANÇAIS DES EURO PP (données Dealogic)
+Le marché vise avant tout les entreprises de taille intermédiaire (ETI), voire les PME de taille
+suffisante, dont le financement de marché est encore assez faible (20 % du total de leurs financements
+contre 40 % pour les grandes entreprises en France) 6.
+En 2019, plus de 70 émissions ont été réalisées sur le marché des Euro PP soit un total estimé à
+près de 5 milliards d’euros. Ce montant reste encore loin des 10 milliards d’euros espérés. Quelques
+opérations importantes ont eu lieu : Sopra Steria (250 M€), Transdev (220 M€) et Bel (125 M€).
+Des émissions de moindre ampleur se sont aussi produites, notamment dans le secteur de l’immobilier.
+La charte Euro PP a été révisée, le marché s’est donc vu plus responsabilisé. La compagnie de
+Phalsbourg et le groupe Bel ont réalisé un emprunt Euro PP « green ». Les placements sont destinés
+à financer des projets durables ou conditionnés par des indicateurs de performance RSE.
+6. Discours de clôture des « Deuxièmes rencontres de l’Euro PP », Robert Ophèle, sous-gouverneur de la Banque
+de France, 29/03/16.
+RÉFÉRENCES
+Cadres de référence :
+• Charte relative aux « Euro Private Placements » ou « Euro PP », rédigée dans le cadre d’une
+initiative de la Chambre de commerce et d’industrie de Paris IDF sous l’égide de la Banque de
+France et de la direction générale du Trésor, juin 2014
+• Pan-Européen Corporate Private Placement Market Guide, ICMA, février 2015
+• Code de bonnes pratiques des arrangeurs d’opérations d’Euro PP, Amafi, janvier 2016
+Rapport et études de marché :
+• Rapport European Alternative Lending Markets Take An Ever-Bigger Slice Of The Cake, S&P,
+12 avril 2016
+• EY Private Placement Market Investor Survey, Ernst & Young, March 2016 (USPP)
+• Statistiques 2015 du marché des Euro PP, Dealogic, janvier 2016
+• Powerpoint de présentation des intervenants aux « Secondes journées Euro PP » du 29 mars 2016
+• Discours de clôture des « Deuxièmes rencontres de l’Euro PP », Robert Ophèle, sous-gouverneur
+de la Banque de France, 29/03/16
+• Site du Comité de pilotage Euro PP : http://www.euro-privateplacement.com/
+[lien] http://www.euro-privateplacement.com/Charte_Euro_PP-Juin_2014-FR.pdf
+[lien] http://www.icmagroup.org/Regulatory-Policy-and-Market-Practice/Primary-Markets/private-placements/the-pan-european-corporate-private-placement-market-guide/
+[lien] http://www.amafi.fr/topics/fr/documentation/euro-pp
+[lien] https://www.globalcreditportal.com/ratingsdirect/renderArticle.do?articleId=1613674&SctArtId=383108&from=CM&nsl_code=LIME&sourceObjectId=9593394&sourceRevId=1&fee_ind=N&exp_date=20260412-15:41:39
+[lien] http://www.ey.com/Publication/vwLUAssets/ey-private-placement-market-survey-2016/$FILE/ey-private-placement-market-survey-2016.pdf
+[lien] https://publishing.dealogic.com/dcm/DealogicEuropeanPrivatePlacementReview-2015.pdf
+[lien] http://www.euro-privateplacement.com/Rencontres_Euro_PP_2016_slides.pdf
+[lien] http://www.euro-privateplacement.com/

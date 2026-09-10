@@ -192,6 +192,8 @@ d’avancement, etc.).
 Pour une étude d’ensemble des différentes bases légales, voir l’avis de l’ex-G29, devenu Comité 
 Européen de la Protection de Données (CEPD) n° 06/2014 sur la notion d’intérêt légitime poursuivi par 
 le responsable du traitement des données au sens de l’article 7 de la directive 95/46/CE.
+[lien] https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp217_fr.pdf
+[lien] https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2014/wp217_fr.pdf
 
 ----- page 5 -----
 5 
@@ -281,6 +283,8 @@ l'organisme permettant la diffusion ou la
 collecte de données de gestion 
 administrative des personnels (intranet). 
 - Intérêt légitime
+[lien] https://www.cnil.fr/fr/la-liceite-du-traitement-lessentiel-sur-les-bases-legales-prevues-par-le-rgpd
+[lien] https://www.cnil.fr/fr/la-liceite-du-traitement-lessentiel-sur-les-bases-legales-prevues-par-le-rgpd
 
 ----- page 6 -----
 6 
@@ -625,6 +629,7 @@ concernées.
  
 Dans ces conditions, il incombe au responsable du traitement de déterminer cette durée en amont de la 
 réalisation du traitement.
+[lien] https://www.cnil.fr/fr/transferer-des-donnees-hors-de-lue
 
 ----- page 11 -----
 11 
@@ -745,6 +750,10 @@ concerné
 pénale pour délit) 
 L. 2142-1-3 du code 
 du travail
+[lien] https://www.cnil.fr/fr/securite-archiver-de-maniere-securisee
+[lien] https://www.cnil.fr/fr/limiter-la-conservation-des-donnees
+[lien] https://www.cnil.fr/fr/le-g29-publie-un-avis-sur-les-techniques-danonymisation
+[lien] https://www.cnil.fr/fr/le-g29-publie-un-avis-sur-les-techniques-danonymisation
 
 ----- page 12 -----
 12 
@@ -808,6 +817,8 @@ l’autorité publique.
 données qui les concernent. 
  
  Le droit à la limitation du traitement (par exemple, lorsque la personne conteste l’exactitude
+[lien] https://www.cnil.fr/fr/rgpd-exemples-de-mentions-dinformation
+[lien] https://www.cnil.fr/les-droits-pour-maitriser-vos-donnees-personnelles
 
 ----- page 13 -----
 13 
@@ -957,6 +968,11 @@ Conserver les secrets et les clés cryptographiques de manière sécurisée
  
 Pour ce faire, le responsable de traitement pourra utilement se référer au Guide de la sécurité des 
 données personnelles.
+[lien] https://www.cnil.fr/fr/reglement-europeen-sur-la-protection-des-donnees-un-guide-pour-accompagner-les-sous-traitants
+[lien] https://www.cnil.fr/fr/reglement-europeen-sur-la-protection-des-donnees-un-guide-pour-accompagner-les-sous-traitants
+[lien] https://www.cnil.fr/fr/sous-traitance-exemple-de-clauses
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/cnil_guide_securite_personnelle.pdf
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/cnil_guide_securite_personnelle.pdf
 
 ----- page 16 -----
 16 
@@ -1062,6 +1078,9 @@ algorithme ;
 traitement visant détecter et à prévenir les 
 départs de salariés sur la base de corrélations 
 établies entre divers facteurs ;
+[lien] https://www.cnil.fr/fr/liste-traitements-aipd-non-requise
+[lien] https://www.cnil.fr/fr/liste-traitements-aipd-requise
+[lien] https://www.cnil.fr/fr/liste-traitements-aipd-requise
 
 ----- page 17 -----
 17 
@@ -1144,3 +1163,6 @@ Si l’organisme en a désigné, le DPO devra être consulté.
 Conformément à l’article 36 du RGPD, le responsable de traitement doit consulter la CNIL 
 préalablement à la mise en œuvre du traitement si l’analyse d’impact indique qu’il ne parvient pas à 
 identifier des mesures suffisantes pour réduire les risques à un niveau acceptable.
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/wp248_rev.01_fr.pdf
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/wp248_rev.01_fr.pdf
+[lien] https://www.cnil.fr/fr/RGPD-analyse-impact-protection-des-donnees-aipd

@@ -100,10 +100,12 @@ def nettoyer_doc(rec: dict) -> dict:
     pages_propres = []
     for p in rec["pages"]:
         texte = nettoyer_page(p["text"], boilerplate)
-        if texte:
-            pages_propres.append({"page": p["page"], "text": texte})
+        liens = p.get("liens", [])
+        if texte or liens:
+            pages_propres.append({"page": p["page"], "text": texte, "liens": liens})
 
     texte_total = "\n\n".join(p["text"] for p in pages_propres)
+    tous_liens = [l for p in rec["pages"] for l in p.get("liens", [])]
     return {
         "path": rec["path"],
         "folder": rec["folder"],
@@ -112,6 +114,7 @@ def nettoyer_doc(rec: dict) -> dict:
         "num_pages": len(pages_propres),
         "total_chars": len(texte_total),
         "boilerplate_supprime": sorted(boilerplate),
+        "domaines": sorted({l["domaine"] for l in tous_liens}),
         "pages": pages_propres,
     }
 
@@ -173,6 +176,8 @@ def main():
             with txt_out.open("w", encoding="utf-8") as f:
                 for p in propre["pages"]:
                     f.write(f"\n----- page {p['page']} -----\n{p['text']}\n")
+                    for l in p["liens"]:
+                        f.write(f"[lien] {l['uri']}\n")
 
             rapport["retenus"].append({
                 "path": propre["path"],

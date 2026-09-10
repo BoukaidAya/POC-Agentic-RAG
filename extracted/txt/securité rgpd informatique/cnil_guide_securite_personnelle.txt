@@ -30,6 +30,8 @@ Un journal des modifications est disponible sur
 le site de la CNIL pour aider les acteurs à repérer 
 les évolutions à prendre en compte afin d’adapter 
 leur niveau de sécurité.
+[lien] https://www.cnil.fr/fr/modifications-guide-de-la-securite-des-donnees-personnelles
+[lien] https://www.cnil.fr/fr/modifications-guide-de-la-securite-des-donnees-personnelles
 
 ----- page 3 -----
 1
@@ -154,6 +156,9 @@ apporte plus de précisions sur un élément.
 3 Elle est en particulier indispensable lorsque le traitement doit faire l’objet d’une analyse d’impact relative à la protection 
 des données ou AIPD (voir « Ce qu’il faut savoir sur l’analyse d’impact relative à la protection des données (AIPD) », cnil.fr).
 4 Ces mesures pourront avec le temps et la pratique devenir des précautions élémentaires.
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees
+[lien] https://www.cnil.fr/fr/la-loi-informatique-et-libertes
+[lien] https://www.cnil.fr/fr/ce-quil-faut-savoir-sur-lanalyse-dimpact-relative-la-protection-des-donnees-aipd
 
 ----- page 5 -----
 3
@@ -196,6 +201,9 @@ décisions considérant :
 5 « Le registre des activités de traitement », cnil.fr
 6 L’article 35 du RGPD impose de mener une analyse d’impact relative à la protection des données (AIPD) pour certains types 
 de traitements (voir « Ce qu’il faut savoir sur l’analyse d’impact relative à la protection des données (AIPD) », cnil.fr).
+[lien] https://www.cnil.fr/fr/RGPD-le-registre-des-activites-de-traitement
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article35
+[lien] https://www.cnil.fr/fr/ce-quil-faut-savoir-sur-lanalyse-dimpact-relative-la-protection-des-donnees-aipd
 
 ----- page 6 -----
 4
@@ -259,6 +267,9 @@ guide9 des bonnes pratiques en termes de sécurité informatique.
 7 « Devenir délégué à la protection des données », cnil.fr
 8 « L’ISO 27701, une norme internationale pour la protection des données personnelles », cnil.fr
 9 « Guide d’hygiène informatique », cyber.gouv.fr
+[lien] https://www.cnil.fr/fr/devenir-delegue-la-protection-des-donnees
+[lien] https://www.cnil.fr/fr/liso-27701-une-norme-internationale-pour-la-protection-des-donnees-personnelles
+[lien] https://cyber.gouv.fr/publications/guide-dhygiene-informatique
 
 ----- page 8 -----
 6
@@ -427,6 +438,8 @@ Ces exercices permettent de vérifier la bonne prise en compte des consignes et 
 des procédures en place en matière de gestion des incidents et de crise. La consolidation 
 des retours d’expérience permet d’identifier les messages à renforcer et les procédures à 
 améliorer.
+[lien] https://www.cnil.fr/fr/la-loi-informatique-et-libertes#article6
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article9
 
 ----- page 13 -----
 11
@@ -470,6 +483,7 @@ temporisation de l’accès après plusieurs échecs, la mise en place de « Cap
 du compte après 10 échecs) ;
 - entropie de 13 bits (ex. : 4 chiffres) dans le cas d’un matériel détenu par l’utilisateur (ex. : carte 
 SIM, dispositif contenant un certificat) avec blocage au bout de 3 échecs.
+[lien] https://www.cnil.fr/fr/mots-de-passe-une-nouvelle-recommandation-pour-maitriser-sa-securite
 
 ----- page 14 -----
 12
@@ -515,6 +529,11 @@ impacter l’utilisation d’un gestionnaire de mots de passe.
 • Viser le niveau d'assurance offert par l'authentification multifacteur en s'appuyant sur un facteur de 
 connaissance et l'envoi d'un code par courrier électronique ou autre vérification en 2 étapes, sans 
 garantie qu'elle repose sur 2 facteurs distincts.
+[lien] https://www.cnil.fr/fr/generer-un-mot-de-passe-solide
+[lien] https://www.cnil.fr/fr/5-arguments-pour-adopter-le-gestionnaire-de-mots-de-passe
+[lien] https://www.cnil.fr/fr/les-conseils-de-la-cnil-pour-un-bon-mot-de-passe
+[lien] https://www.cnil.fr/fr/recommandation-mfa
+[lien] https://cyber.gouv.fr/publications/recommandations-relatives-lauthentification-multifacteur-et-aux-mots-de-passe
 
 ----- page 15 -----
 13
@@ -552,6 +571,11 @@ choix d’algorithmes cryptographiques, de dimensionnement et d’implémentatio
 • Pour les autorités administratives, les annexes du référentiel général de sécurité 
 (RGS)22 s’appliquent, notamment les annexes B1 et B2 concernant respectivement 
 les mécanismes cryptographiques et la gestion des clés utilisées.
+[lien] https://www.cnil.fr/fr/verifier-sa-politique-de-mots-de-passe
+[lien] https://www.cnil.fr/fr/le-controle-dacces-biometrique-sur-les-lieux-de-travail
+[lien] https://cyber.gouv.fr/publications/recommandations-relatives-lauthentification-multifacteur-et-aux-mots-de-passe
+[lien] https://cyber.gouv.fr/publications/mecanismes-cryptographiques
+[lien] https://cyber.gouv.fr/le-referentiel-general-de-securite-version-20-les-documents
 
 ----- page 16 -----
 14
@@ -669,6 +693,9 @@ d’information.
 23 « Profil de fonctionnalités et de sécurité - Sas et station blanche (réseaux non classifiés) », cyber.gouv.fr 
 24 « CERT-FR – Centre gouvernemental de veille, d’alerte et de réponse aux attaques informatiques », cert.ssi.gouv.fr
 25 « Les bons réflexes en cas d’intrusion sur un système d’information », cert.ssi.gouv.fr
+[lien] https://cyber.gouv.fr/publications/profil-de-fonctionnalites-et-de-securite-sas-et-station-blanche-reseaux-non-classifies
+[lien] https://www.cert.ssi.gouv.fr/
+[lien] https://www.cert.ssi.gouv.fr/les-bons-reflexes-en-cas-dintrusion-sur-un-systeme-dinformation/
 
 ----- page 20 -----
 18
@@ -744,6 +771,8 @@ ses modalités d’utilisation par l’employeur sur l’équipement personnel d
 cadre pour les utilisateurs).
 • Cloisonner les parties d’un équipement personnel ayant vocation à être utilisées dans 
 un cadre professionnel.
+[lien] https://www.cnil.fr/fr/byod-quelles-sont-les-bonnes-pratiques
+[lien] https://cyber.gouv.fr/publications/bonnes-pratiques-lusage-des-professionnels-en-deplacement
 
 ----- page 22 -----
 20
@@ -780,6 +809,7 @@ routeurs, passerelles).
 • Mettre à disposition des utilisateurs un accès Internet non filtré.
 • Mettre en place un réseau Wi-Fi utilisant un chiffrement WEP.
 28  « Sécuriser les accès Wi-Fi », cyber.gouv.fr
+[lien] https://cyber.gouv.fr/publications/securiser-les-acces-wi-fi
 
 ----- page 23 -----
 21
@@ -804,6 +834,10 @@ d’information à Internet30 (desquelles sont inspirées le schéma ci-dessous)
 pare-feux31 ou le déploiement du protocole 802.1X32.
 Exemple de mise en œuvre d’une DMZ
 Passerelle Internet sécurisée
+[lien] https://cyber.gouv.fr/publications?field_type_de_publication_target_id%5B934%5D=934
+[lien] https://cyber.gouv.fr/publications/recommandations-relatives-linterconnexion-dun-si-internet
+[lien] https://cyber.gouv.fr/publications/recommandations-pour-choisir-des-pare-feux-maitrises-dans-les-zones-exposees-internet
+[lien] https://cyber.gouv.fr/publications/recommandations-de-deploiement-du-protocole-8021x-pour-le-controle-dacces-des-reseaux
 
 ----- page 24 -----
 22
@@ -846,6 +880,8 @@ naviguer sur des sites web ou accéder à une messagerie électronique.
 33 Le protocole TLS est parfois appelé, à tort, SSL ou SSL/TLS. Le protocole SSL, prédécesseur de TLS, est aujourd’hui  obsolète et à 
 proscrire.
 34 Pour TLS, il existe plusieurs outils à cette fin (ex. : « SSL Server Test », ssllabs.com, « SSL-Tools », ssl-tools.net).
+[lien] https://www.ssllabs.com/ssltest
+[lien] https://ssl-tools.net/
 
 ----- page 25 -----
 23
@@ -879,6 +915,15 @@ recommandations publiées par l’ANSSI sur le sujet39.
 • L’ANSSI a publié diverses recommandations40 parmi lesquelles la sécurisation de 
 l’administration des systèmes d’information41 et la mise en place de cloisonnement 
 système42.
+[lien] https://www.cnil.fr/fr/la-loi-informatique-et-libertes#article6
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article9
+[lien] https://nmap.org/
+[lien] https://www.tenable.com/products/nessus
+[lien] https://www.cirt.net/nikto2
+[lien] https://cyber.gouv.fr/publications/recommandations-de-securite-relatives-tls
+[lien] https://cyber.gouv.fr/publications?field_type_de_publication_target_id%5B934%5D=934
+[lien] https://cyber.gouv.fr/publications/recommandations-relatives-ladministration-securisee-des-si
+[lien] https://cyber.gouv.fr/publications/recommandations-pour-la-mise-en-place-de-cloisonnement-systeme
 
 ----- page 26 -----
 24
@@ -918,6 +963,10 @@ applications web (voir « OWASP Top Ten », owasp.org).
 45 « SQL Injection », owasp.org
 46 « Cross Site Scripting (XSS) », owasp.org
 47 « Path Traversal », owasp.org
+[lien] https://owasp.org/www-project-top-ten/
+[lien] https://owasp.org/www-community/attacks/SQL_Injection
+[lien] https://owasp.org/www-community/attacks/xss/
+[lien] https://owasp.org/www-community/attacks/Path_Traversal
 
 ----- page 27 -----
 25
@@ -948,6 +997,14 @@ des systèmes ou serveurs critiques peuvent aussi être utilisés. Ces tests doi
 de façon régulière et avant toute mise en production d’une nouvelle version logicielle.
 • L’ANSSI a publié sur son site53 des recommandations spécifiques pour mettre en œuvre TLS54 
 ou pour sécuriser un site web55.
+[lien] https://www.cnil.fr/fr/cookies-et-autres-traceurs
+[lien] https://mas.owasp.org/checklists/
+[lien] https://www.zaproxy.org/
+[lien] https://nmap.org/
+[lien] https://www.cirt.net/nikto2
+[lien] https://cyber.gouv.fr/publications?field_type_de_publication_target_id%5B934%5D=934
+[lien] https://cyber.gouv.fr/publications/recommandations-de-securite-relatives-tls
+[lien] https://cyber.gouv.fr/publications/securiser-un-site-web
 
 ----- page 28 -----
 26
@@ -1025,6 +1082,8 @@ environnements de développement et de test.
 • Selon la nature de l’application, il peut être nécessaire d’assurer son intégrité par le recours 
 à des signatures de code exécutable garantissant qu’il n’a subi aucune altération.
 POUR ALLER PLUS LOIN
+[lien] https://lincnil.github.io/Guide-RGPD-du-developpeur/
+[lien] https://www.cnil.fr/fr/zones-bloc-note-et-commentaires-les-bons-reflexes-pour-ne-pas-deraper
 
 ----- page 30 -----
 28
@@ -1184,6 +1243,12 @@ contractuelles types entre responsable de traitement et sous-traitant », cnil.f
 personnelles.
 63 Se référer à l’article 32 du RGPD et au §41 des lignes directrices 07/2020 adoptées par le Comité européen à la protection des 
 données (CEPD).
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article24
+[lien] https://www.cnil.fr/fr/clauses-contractuelles-types-entre-responsable-de-traitement-et-sous-traitant
+[lien] https://www.cnil.fr/fr/clauses-contractuelles-types-entre-responsable-de-traitement-et-sous-traitant
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article32
+[lien] https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-072020-concepts-controller-and-processor-gdpr_fr
 
 ----- page 36 -----
 34
@@ -1215,6 +1280,11 @@ le périmètre.
 66 « HDS - Certification Hébergeur de Données de Santé », esante.gouv.fr
 67 « Liste des hébergeurs certifiés », esante.gouv.fr
 68 « Liste des hébergeurs agréés », esante.gouv.fr
+[lien] https://www.cnil.fr/fr/reglement-europeen-sur-la-protection-des-donnees-un-guide-pour-accompagner-les-sous-traitants
+[lien] https://www.cnil.fr/fr/liso-27701-une-norme-internationale-pour-la-protection-des-donnees-personnelles
+[lien] https://esante.gouv.fr/produits-services/hds
+[lien] https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-certifies
+[lien] https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-agrees
 
 ----- page 37 -----
 35
@@ -1255,6 +1325,8 @@ maintenance par des tiers.
 70 Tout comme les systèmes de journalisation, de tels dispositifs doivent être mis en place dans le respect des dispositions légales 
 applicables et en informant les personnes concernées.
 71 « Recommandations relatives à l’administration sécurisée des SI », cyber.gouv.fr
+[lien] https://cyber.gouv.fr/decouvrir-les-solutions-certifiees
+[lien] https://cyber.gouv.fr/publications/recommandations-relatives-ladministration-securisee-des-si
 
 ----- page 38 -----
 36
@@ -1314,6 +1386,8 @@ conformément aux présentes recommandations et de notifier dans les plus brefs 
 anomalie ou tout incident de sécurité au responsable de traitement.
 • Analyser de manière active, en temps réel ou à court terme, les traces collectées pour être en mesure 
 de détecter la survenue d’un incident (voir la fiche n°19 - Gérer les incidents et les violations).
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article24
 
 ----- page 41 -----
 39
@@ -1338,6 +1412,10 @@ surveillance automatique des journaux, couplée à une configuration adaptée de
 du système d’information afin d’empêcher toute altération de ceux-ci.
 • L‘ANSSI a publié des recommandations sur la mise en place d’un système de journalisation74 
 et plus spécifiquement des recommandations en environnement Active Directory75.
+[lien] https://www.cnil.fr/fr/la-cnil-publie-une-recommandation-relative-aux-mesures-de-journalisation
+[lien] https://cyber.gouv.fr/publications/recommandations-de-securite-pour-larchitecture-dun-systeme-de-journalisation
+[lien] https://cyber.gouv.fr/publications/recommandations-de-securite-pour-la-journalisation-des-systemes-microsoft-windows-en
+[lien] https://cyber.gouv.fr/publications/recommandations-de-securite-pour-la-journalisation-des-systemes-microsoft-windows-en
 
 ----- page 42 -----
 40
@@ -1377,6 +1455,7 @@ consiste à disposer de 3 copies des donnés, stocker sur 2 supports différents
 • L’ANSSI a publié des recommandations77 sur la sauvegarde des systèmes d’information.
 76 Une sauvegarde incrémentale consiste à n’enregistrer que les modifications faites par rapport à une précédente sauvegarde.
 77 « Sauvegarde des systèmes d’information », cyber.gouv.fr
+[lien] https://cyber.gouv.fr/publications/fondamentaux-sauvegarde-systemes-dinformation
 
 ----- page 43 -----
 41
@@ -1418,6 +1497,7 @@ d’information doit également être envisagé.
 78 RAID (« redondant array of independant disk ») désigne des techniques de répartition de données sur plusieurs supports de 
 stockage (ex. : disques durs) afin de prévenir la perte de données consécutive à la panne d’un des supports.
 79 « Bienvenue sur le guide de la continuité d’activité », guide-continuite-activite.sgdsn.gouv.fr .
+[lien] https://guide-continuite-activite.sgdsn.gouv.fr/
 
 ----- page 44 -----
 42
@@ -1460,6 +1540,11 @@ droits et libertés des personnes.
 • Attendre d’avoir des informations précises pour notifier la CNIL alors qu’il est clairement établi 
 qu’une violation s’est produite. Les notifications de données peuvent être transmises en deux 
 temps : une initiale, dans les 72h, puis une complémentaire ensuite si nécessaire.
+[lien] https://www.cnil.fr/fr/notifier-une-violation-de-donnees-personnelles
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article33
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article34
+[lien] https://www.cnil.fr/fr/notifications-dincidents-de-securite-aux-autorites-de-regulation-comment-sorganiser-et-qui-sadresser
+[lien] https://www.cnil.fr/fr/notifications-dincidents-de-securite-aux-autorites-de-regulation-comment-sorganiser-et-qui-sadresser
 
 ----- page 45 -----
 43
@@ -1481,6 +1566,10 @@ numérique86.
 edpb.europa.eu 
 85 « Guidelines on Personal data breach notification under Regulation 2016/679 (wp250rev.01) », ec.europa.eu
 86 « Assistance  et prévention du risque numérique au service des publics », cybermalveillance.gouv.fr
+[lien] https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-012021-examples-regarding-personal-data-breach_fr
+[lien] https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-012021-examples-regarding-personal-data-breach_fr
+[lien] https://ec.europa.eu/newsroom/article29/items/612052
+[lien] https://www.cybermalveillance.gouv.fr/
 
 ----- page 46 -----
 44
@@ -1527,6 +1616,10 @@ de paie de l’ensemble des salariés d’une entreprise) ;
 délit suite à la modification de journaux d’accès) ;
 - disparition temporaire ou définitive de données (ex. : non-détection d’une interaction 
 médicamenteuse du fait de l’impossibilité d’accéder au dossier électronique du patient).
+[lien] https://www.cnil.fr/fr/ce-quil-faut-savoir-sur-lanalyse-dimpact-relative-la-protection-des-donnees-aipd
+[lien] https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article35
+[lien] https://www.cnil.fr/fr/guides-aipd
+[lien] https://www.cnil.fr/fr/guides-aipd
 
 ----- page 48 -----
 46
@@ -1619,6 +1712,13 @@ pas requise », cnil.fr
 94 Par exemple à l’aide de la méthode EBIOS RM (voir « La méthode EBIOS Risk Manager », cyber.gouv.fr), la méthode de gestion 
 des risques publiée par l’ANSSI, agence rattachée au Secrétariat général de la défense et de la sécurité nationale (SGDSN). 
 EBIOS est une marque déposée du SGDSN.
+[lien] https://www.cnil.fr/fr/guides-aipd
+[lien] https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil
+[lien] https://www.cnil.fr/fr/analyse-dimpact-relative-la-protection-des-donnees-publication-dune-liste-des-traitements-pour
+[lien] https://www.cnil.fr/fr/analyse-dimpact-relative-la-protection-des-donnees-publication-dune-liste-des-traitements-pour
+[lien] https://www.cnil.fr/fr/liste-traitements-aipd-non-requise
+[lien] https://www.cnil.fr/fr/liste-traitements-aipd-non-requise
+[lien] https://cyber.gouv.fr/la-methode-ebios-risk-manager
 
 ----- page 50 -----
 48
@@ -1693,6 +1793,11 @@ cryptographiques et la gestion des clés utilisées.
 107 Par conteneur, il faut comprendre un fichier susceptible de contenir plusieurs autres fichiers.
 108 « The Gnu Privacy Guard », gnupg.org
 109 « Le référentiel général de sécurité version 2.0 : les documents », cyber.gouv.fr
+[lien] https://www.cnil.fr/fr/comprendre-les-grands-principes-de-la-cryptologie-et-du-chiffrement
+[lien] https://cyber.gouv.fr/publications/mecanismes-cryptographiques
+[lien] https://cyber.gouv.fr/visa-de-securite
+[lien] https://www.gnupg.org/index.fr.html
+[lien] https://cyber.gouv.fr/le-referentiel-general-de-securite-version-20-les-documents
 
 ----- page 52 -----
 50
@@ -1762,6 +1867,7 @@ transferts de données en dehors de l’Union européenne.
 • Signer un contrat indiquant que le fournisseur de cloud peut accéder aux données et aux systèmes 
 pour certains besoins (y compris sécurité ou obligation légale), sans autorisation du client. 
 110  « Violation du trimestre : les défauts de configuration des espaces de stockage dans le cloud public », cnil.fr
+[lien] https://www.cnil.fr/fr/violation-du-trimestre-les-defauts-de-configuration-des-espaces-de-stockage-dans-le-cloud-public
 
 ----- page 54 -----
 52
@@ -1793,6 +1899,16 @@ hébergeurs disposent encore d’un agrément118 valide.
 • Consulter la communication120 sur les outils pour la sécurité d’applications web dans le 
 cloud.
 POUR ALLER PLUS LOIN
+[lien] https://www.cnil.fr/fr/ce-quil-faut-savoir-sur-le-code-de-conduite
+[lien] https://www.cnil.fr/fr/la-cnil-approuve-le-premier-code-de-conduite-europeen-dedie-aux-fournisseurs-de-services
+[lien] https://eucoc.cloud/en/home
+[lien] https://cyber.gouv.fr/actualites/lanssi-actualise-le-referentiel-secnumcloud
+[lien] https://www.legifrance.gouv.fr/circulaire/id/45446
+[lien] https://esante.gouv.fr/produits-services/hds
+[lien] https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-certifies
+[lien] https://esante.gouv.fr/offres-services/hds/liste-des-herbergeurs-agrees
+[lien] https://www.cnil.fr/fr/les-pratiques-de-chiffrement-dans-linformatique-en-nuage-cloud-public
+[lien] https://www.cnil.fr/fr/les-outils-de-securisation-dapplications-web-dans-linformatique-en-nuage-cloud
 
 ----- page 55 -----
 53
@@ -1827,6 +1943,9 @@ gabarits biométriques de plusieurs personnes).
 121 « Recommandations de sécurité relatives à TLS », cyber.gouv.fr
 122 « Keystore soutenu par le matériel », source.android.com
 123 « Secure Enclave », support.apple.com
+[lien] https://cyber.gouv.fr/publications/recommandations-de-securite-relatives-tls
+[lien] https://source.android.com/docs/security/features/keystore?hl=fr
+[lien] https://support.apple.com/fr-ca/guide/security/sec59b0b31ff/web
 
 ----- page 56 -----
 54
@@ -1873,6 +1992,9 @@ de sécurité suffisant.
 124 Open web application security project (voir « OWASP MAS Checklist », mas.owasp.org).
 125 « Chaine d’attaque sur les prestataires de service et les bureaux d’étude : un nouveau rapport d'analyse de la menace », 
 cyber.gouv.fr
+[lien] https://mas.owasp.org/checklists/
+[lien] https://cyber.gouv.fr/actualites/chaine-dattaque-sur-les-prestataires-de-service-et-les-bureaux-detude-un-nouveau-rapport
+[lien] https://cyber.gouv.fr/actualites/chaine-dattaque-sur-les-prestataires-de-service-et-les-bureaux-detude-un-nouveau-rapport
 
 ----- page 57 -----
 55
@@ -1951,6 +2073,9 @@ contenus produits par le système.
 127 « Les fiches pratiques IA », cnil.fr 
 128 « Petite taxonomie des attaques des systèmes d’IA », linc.cnil.fr  
 129 « Sécurité des systèmes d’IA, les gestes qui sauvent », linc.cnil.fr
+[lien] https://www.cnil.fr/fr/les-fiches-pratiques-ia
+[lien] https://linc.cnil.fr/petite-taxonomie-des-attaques-des-systemes-dia
+[lien] https://linc.cnil.fr/securite-des-systemes-dia-les-gestes-qui-sauvent
 
 ----- page 59 -----
 57
@@ -1998,6 +2123,8 @@ n°5 - Gérer les habilitations) ou encore le chiffrement des communications à 
 expérimentations et de tester les résultats attendus à partir de données fictives. 
 131 « OWASP API Security Top 10 », owasp.org
 132 « API : les recommandations de la CNIL sur le partage de données », cnil.fr
+[lien] https://owasp.org/API-Security/
+[lien] https://www.cnil.fr/fr/api-les-recommandations-de-la-cnil-sur-le-partage-de-donnees
 
 ----- page 61 -----
 59
@@ -2192,3 +2319,4 @@ Commission nationale de l’informatique et des libertés
 www.cnil.fr
 linc.cnil.fr
 Mars 2024 (mise à jour 2026)
+[lien] https://linc.cnil.fr/

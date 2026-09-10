@@ -621,6 +621,7 @@ tiendrait pas compte des mesures complémentaires mises en œuvre et de la vrais
  
                                                              
 1 https://cve.mitre.org/
+[lien] https://cve.mitre.org/
 
 ----- page 13 -----
 13 
@@ -786,6 +787,8 @@ de quelles informations et ressources aurait-il besoin ? En dispose-t-il génér
                                                              
 2https://datenschutzhamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240715_Di
 scussion_Paper_Hamburg_DPA_KI_Models.pdf
+[lien] https://datenschutz-hamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240715_Discussion_Paper_Hamburg_DPA_KI_Models.pdf
+[lien] https://datenschutz-hamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240715_Discussion_Paper_Hamburg_DPA_KI_Models.pdf
 
 ----- page 16 -----
 16 
@@ -1084,3 +1087,4 @@ d’utilisation y seraient toujours soumises.
 interactions du système avec les données personnelles, le tatouage de données, l’ajustement des 
 modèles, les filtres et classifieurs utilisés sur les réponses, le contrôle des utilisateurs sur le système, et 
 la cybersécurité.
+[lien] https://arxiv.org/abs/2310.07298v1

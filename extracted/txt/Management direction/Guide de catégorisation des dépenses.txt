@@ -59,6 +59,7 @@ montant correspondant dans la catégorie : Coût lié à la certification de con
 Le GUIDE DE CATEGORISATION DES DÉPENSES 
 vous accompagne dans votre demande d’aide financière 
 PRESENTATION DES DEPENSES DU PROJET
+[lien] http://www.ademe.fr/
 
 ----- page 2 -----
 2 
@@ -451,3 +452,4 @@ par l'entreprise (charges directes et indirectes)
 ANNEXE 
 Informations complémentaires 
 aux postes et catégories de dépenses
+[lien] http://www.ademe.fr/

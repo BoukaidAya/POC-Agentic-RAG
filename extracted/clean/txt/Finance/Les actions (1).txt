@@ -1,0 +1,283 @@
+
+----- page 1 -----
+05/2021
+—
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les partenariats
+public-privé (PPP)
+Chapitre 4 : Les financements intermédiés | Fiche 419 : Les partenariats public-privé (PPP)
+MOTS CLÉS
+montages à effet de levier,
+partenariat public-privé,
+PPP
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+1.1. Les délégations de service public
+1.2. Le contrat de partenariat et les contrats assimilés
+2. CARACTÉRISTIQUES DES CONTRATS DE PARTENARIAT
+2.1. Un contrat global
+2.2. Un contrat de longue durée
+2.3. Un contrat aux modalités de rémunérations originales
+2.4. Un contrat administratif qui satisfait aux règles communautaires
+3. LE FINANCEMENT DES PARTENARIATS PUBLIC-PRIVÉ
+3.1. Le financement corporate
+3.2. Le financement de projet
+3.3. Les principales caractéristiques des financements PPP
+3.4. Les profils financiers des entreprises ayant recours
+aux partenariats public-privé
+
+----- page 2 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 419 : Les partenariats public-privé (PPP)
+1. PRÉSENTATION GÉNÉRALE
+Le partenariat public-privé – PPP – est un mode de financement par lequel une personne publique
+s’associe à un prestataire privé afin de lui confier le financement, la conception, la construction voire
+l’exploitation d’infrastructures ou d’équipements contribuant au service public.
+Les PPP concernent aussi bien le bâtiment et les travaux publics que les nouvelles technologies de
+l’information et de la communication. On peut par exemple citer :
+— les infrastructures scolaires : écoles, collèges, lycées, institut de formation ... ;
+— les bâtiments et services sanitaires et sociaux : hôpitaux, crèches ... ;
+— l’éclairage public et la signalisation tricolore : régulation du trafic ... ;
+— la voierie, le stationnement et le transport ;
+— l’informatisation des services publics locaux ;
+— les équipements culturels et sportifs : stades, piscines, musées, centres culturels ... ;
+— les projets d’aménagement urbain ou touristique ;
+— certaines infrastructures dans le domaine de l’eau, de l’assainissement ou des déchets (stations
+d’épuration, incinérateurs ...).
+Il existe deux grandes familles de PPP :
+— Les délégations de service public.
+— Les contrats de partenariats et contrats assimilés.
+1.1. Les délégations de service public
+La délégation de service public se définit comme « un contrat par lequel une personne morale de droit
+public confie la gestion d’un service public dont elle a la responsabilité, à un délégataire public ou privé,
+dont la rémunération est substantiellement liée aux résultats de l’exploitation du service. Le délégataire
+peut être chargé de construire des ouvrages ou d’acquérir des biens nécessaires au service ».
+
+----- page 3 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 419 : Les partenariats public-privé (PPP)
+Les spécificités des quatre familles appartenant à la catégorie des délégations de service public
+sont résumées dans le tableau suivant :
+Délégation
+de service
+public
+Responsable du :
+Mode et
+source de
+financement
+Exemples
+de secteurs
+d’application
+Recettes
+du projet
+Coût
+d’investissement
+Risque
+d’exploitation
+Gérance
+Partenaire public
+Partenaire
+public
+Rémunération
+fixe,
+déterminée
+par le
+partenaire
+public
+Service les
+plus souvent
+déficitaires
+(piscines, etc.)
+Recettes
+perçues des
+usagers par
+le gérant pour
+compte du
+partenaire
+public
+Régie
+intéressée
+Partenaire public
+Partagé
+Rémunération
+fixe,
+déterminée
+par le
+partenaire
+public avec
+intéressement
+Transports
+publics, eau,
+etc.
+Recettes
+perçues des
+usagers par
+le régisseur
+pour compte
+du partenaire
+public
+Affermage
+Partenaire public
+Fermier
+Rémunération
+versée par les
+usagers
+Infrastructures
+déjà
+construites
+(casinos,
+distribution
+d’eau,
+d’énergie,
+etc.)
+Recettes
+perçues des
+usagers par le
+fermier pour
+couvrir les frais
+d’exploitation
+Concession
+Concessionnaire
+Concessionnaire
+Rémunération
+versée par les
+usagers
+Très large
+Recettes
+perçues des
+usagers par le
+concessionnaire
+pour couvrir les
+investissements
+et les frais
+d’exploitation
+1.2. Le contrat de partenariat et les contrats assimilés
+Crée par l’ordonnance de 2004 1, le contrat de partenariat (CP) est un contrat administratif global
+permettant à l’État, une collectivité ou un établissement public de déléguer, la conception, la
+construction, la gestion et la maintenance d’un ouvrage à une société privée.
+Deux contrats sont assimilables au CP : le bail emphytéotique administratif (BEA) et l’autorisation
+d’occupation temporaire (AOT). Dans chacun des cas, la rémunération est fixe et versée par le
+partenaire public (avec une possibilité de percevoir des recettes complémentaires des tiers dans
+certains cas).
+1. Ordonnance n° 2004-559 du 17 juin 2004.
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000438720&dateTexte=&categorieLien=id
+
+----- page 4 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 419 : Les partenariats public-privé (PPP)
+Le BEA est un bail de longue durée (de 18 à 99 ans) ; l’AOT accorde à son titulaire, un droit réel sur
+les ouvrages et constructions durant une période maximum de 70 ans.
+La principale divergence entre ces contrats se situent au niveau du domaine d’application, les
+BEA et AOT recouvrent des corps de métiers ciblés tels que la justice, les services de la défense,
+la gendarmerie ou la police nationale tandis que le CP s’applique à tous types de secteur, des
+infrastructures scolaires à l’éclairage public en passant par les équipements culturels et de santé.
+Les contrats de partenariats public-privé sont variés et impactent différemment la situation des
+entreprises. Certains contrats s’apparentent à :
+— une activité purement de service (délégation de service public type gérance, régie intéressée et
+affermage) ; dans ce cas l’enjeu pour l’entreprise est de dégager une rentabilité positive ;
+— une activité beaucoup plus capitalistique (construction voire exploitation de l’ouvrage type
+concession ou CP) : l’entreprise doit alors supporter le risque de financement du montage
+et dégager suffisamment de flux de son exploitation pour assurer le remboursement de ses
+échéances (concession, contrat de partenariat).
+2. CARACTÉRISTIQUES DES CONTRATS DE PARTENARIAT
+2.1. Un contrat global
+Le CP est un contrat global comprenant au moins les trois éléments suivants 2 :
+— le financement privé d’investissements nécessaires au service public sur une longue durée ;
+— la construction ou la transformation des ouvrages ou des équipements ou d’autres investissements
+(y compris immatériels) ;
+— leur entretien, leur maintenance et/ou leur exploitation ou gestion.
+2.2. Un contrat de longue durée
+Il se conclut pour une longue période (en moyenne 20-30 ans) déterminée en fonction de la durée
+d’amortissement des investissements ou des modalités de financements retenues. L’ordonnance
+ne fixe ni durée plancher, ni durée plafond.
+2.3. Un contrat aux modalités de rémunérations originales
+La rétribution du cocontractant, par l’autorité publique, présente trois particularités :
+— elle est étalée sur toute la durée du contrat ;
+— elle est liée à des objectifs de performance ;
+— elle peut intégrer des recettes connexes.
+2. Source : Circulaire relative aux PPP.
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000608582&dateTexte=&categorieLien=id
+
+----- page 5 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 419 : Les partenariats public-privé (PPP)
+Les contrats autorisent ainsi la rémunération dans laquelle les investissements initiaux ne sont pas
+nécessairement réglés à la « réception » mais peuvent donner lieu à des versements tout au long
+de la phase d’exploitation.
+Par ailleurs, une place décisive est donnée aux objectifs de performance. L’objet premier d’un contrat
+de partenariat est de répondre aux besoins propres de la collectivité, d’améliorer les services rendus
+aux usagers, mais surtout, d’optimiser la prestation rendue. Des objectifs de résultat peuvent être
+imposés, notamment en matière d’entretien et de maintenance. En cas de non-respect, le cocontractant
+sera amené à subir une pénalisation financière sous la forme d’une minoration de sa rémunération.
+Enfin, le contrat de partenariat permet de recourir à des financements innovants combinant divers
+éléments : versement direct par la personne publique, revenus provenant de la valorisation du domaine
+public, exploitation alternative des ouvrages et équipements. Il s’agit d’optimiser l’exploitation de
+l’ouvrage en autorisant le partenaire privé à s’approprier une rémunération « hors service public » telle
+que la location de salles d’un musée pour des manifestations privées en dehors des heures d’ouverture.
+Cette pratique doit néanmoins rester accessoire afin d’éviter toute requalification du contrat.
+2.4. Un contrat administratif qui satisfait aux règles communautaires
+Le contrat de partenariat est un contrat administratif par détermination de la loi. L’ensemble du droit
+administratif s’applique donc à ce type de contrat, qu’il s’agisse des règles prudentielles ou des
+mécanismes de contrôle.
+De par sa durée, ses modalités de rémunération et les conditions de son exploitation, le contrat
+de partenariat n’est pas un marché public soumis aux dispositions du Code des marchés publics.
+En revanche, au niveau communautaire, deux catégories de contrats existent : les concessions et les
+marchés publics. Or, tout ce qui n’est pas concession est marché public. Le droit européen qualifie
+donc les contrats de partenariat de marchés publics.
+3. LE FINANCEMENT DES PARTENARIATS PUBLIC-PRIVÉ
+Deux modes de financement peuvent être retenus dans le cadre d’un PPP, le financement
+d’investissement classique dit « corporate » et le financement de projet.
+3.1. Le financement corporate
+Il s’agit d’un financement ordinaire, la société initiatrice va porter le projet dans son bilan. La capacité
+d’endettement du projet sera limitée à celle de la société. La capacité de remboursement des
+emprunts sera considérée au regard de la rentabilité et de la structure financière de la société.
+Les actifs de cette dernière seront apportés en garantie du financement. Aujourd’hui, le financement
+corporate reste le mode de financement le plus courant des concessions banalisées.
+3.2. Le financement de projet
+Dans le cadre d’un financement de projet, une société de projet (Special Purpose Vehicle – SPV) est
+constituée par les promoteurs privés du projet. Cette entité est juridiquement autonome, titulaire et
+signataire du partenariat. Elle se chargera de porter le financement de l’opération, en émettant des
+actions, des obligations, en contractant des emprunts, en mobilisant les fonds propres et quasi‐fonds
+propres. La dette contractée n’apparaît pas au bilan du promoteur mais dans celui de l’entité ad hoc.
+
+----- page 6 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 419 : Les partenariats public-privé (PPP)
+Les initiateurs du projet limitent ainsi leurs risques au montant de leur participation au capital de
+la société ainsi créée et n’impactent leurs comptes consolidés que si le contrôle est majoritaire ou
+conjoint.
+Quant au remboursement du prêteur, il se fait directement à partir des flux de trésorerie du projet,
+et peut s’étaler sur une durée généralement plus longue.
+Dans la pratique, les sociétés de projet ne sont pas systématiquement déconsolidées. Les exemples
+ci-dessous rappellent que le financement de projet et le montage juridico-financier retenu sont
+élaborés au cas par cas et sont différents d’un projet à un autre.
+3.3. Les principales caractéristiques des financements PPP
+La durée du financement ne peut être supérieure à la durée du projet, elle est généralement très
+inférieure pour bénéficier des évolutions de conditions de marché.
+Un effet de levier de 9 (10 de fonds propres et 90 de dettes) est couramment admis au regard de la
+qualité de la personne publique et/ou des perspectives de rentabilité du projet.
+3.4. Les profils financiers des entreprises
+ayant recours aux partenariats public-privé
+Dans la réalisation d’un contrat de partenariat entre le secteur public et privé, de nombreuses sociétés
+interviennent aux différentes phases d’élaboration du projet. Ainsi, les entreprises qui participent à
+la conception, la construction ou la maintenance de l’ouvrage, peuvent être :
+— des sous-traitants qui réalisent une mission de service pour les promoteurs ou la société de projet.
+Ces entreprises ne supportent pas le financement global de l’infrastructure,
+— des entreprises qui exercent un contrôle exclusif ou conjoint du contrat (portage du contrat
+dans leurs propres comptes ou détention d’une société spécifique porteuse du contrat).
+Si le financement de ces projets en partenariat est supporté par l’entreprise initiatrice et que ces
+projets représentent une part dominante de son activité, on sera en présence d’un profil financier
+particulier aux partenariats public-privé. Dans les autres cas, le profil financier de la société ne
+reflétera pas les caractéristiques particulières des PPP.
+RÉFÉRENCES
+• Site des marchés publics : www.marche-public.fr
+• Article L1411-1 du Code général des collectivités territoriales (définition d’une délégation de
+service public)
+• Ordonnance n° 2004-559 du 17 juin 2004 sur les contrats de partenariats : www.legifrance.gouv.fr
+• Guide EPEC des PPP
+https://www.economie.gouv.fr/files/directions_services/ppp/guide_epec_ppp.pdf
+[lien] http://www.marche-public.fr/
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=9131A3B3BFB952376631688D73E1F02A.tpdjo17v_2?cidTexte=LEGITEXT000006070633&idArticle=LEGIARTI000006389208&dateTexte=20120509&categorieLien=id%20-%20LEGIARTI000006389208
+[lien] https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000438720/
+[lien] http://www.legifrance.gouv.fr/
+[lien] https://www.economie.gouv.fr/files/directions_services/ppp/guide_epec_ppp.pdf

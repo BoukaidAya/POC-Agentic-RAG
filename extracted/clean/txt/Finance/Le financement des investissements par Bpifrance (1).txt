@@ -1,0 +1,196 @@
+
+----- page 1 -----
+05/2021
+—
+Chapitre 4 : Les financements intermédiés | Fiche 412 : Les prêts bancaires classiques
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les prêts bancaires
+classiques
+MOTS CLÉS
+prêts,
+emprunts,
+crédits,
+taux d’intérêt,
+commissions
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+2. PRINCIPALES CARACTÉRISTIQUES
+DES PRÊTS BANCAIRES CLASSIQUES
+2.1. Réglementation en vigueur
+2.2. Caractéristiques des prêts bancaires
+2.2.1. La convention de crédit
+2.2.2. La rémunération
+2.2.3. Les modalités de remboursement
+2.2.4. Les garanties
+2.2.5. Le respect de certaines conditions par l’entreprise
+durant l’exécution du contrat de prêt
+3. LES PRÊTS BANCAIRES PARTICULIERS
+3.1. Le crédit syndiqué
+3.2. Les lignes de crédits à moyen terme
+
+----- page 2 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 412 : Les prêts bancaires classiques
+1. PRÉSENTATION GÉNÉRALE
+Le crédit englobe les diverses activités de prêt d’argent, que ce soit sous la forme de contrats de
+prêts bancaires ou de délais de paiement d’un fournisseur à un client (cf. fiche 601).
+Le crédit est généralement porteur d’un intérêt que doit payer le débiteur (le bénéficiaire du crédit,
+appelé aussi emprunteur) au créditeur (celui qui accorde le crédit, appelé aussi prêteur).
+2. PRINCIPALES CARACTÉRISTIQUES DES PRÊTS BANCAIRES CLASSIQUES
+2.1. Réglementation en vigueur
+Le prêt d’argent de droit commun relève du Code civil (Code civil, art. 1892 et suivants). Toutefois,
+le Code monétaire et financier apporte des précisions concernant les opérations de crédit dont
+fait partie le prêt d’argent à titre onéreux (art. L. 313-1 à L. 313-5-2 du Code monétaire et financier).
+L’article L. 511-1 indique que ce sont les établissements de crédit qui effectuent à titre de profession
+habituelle les opérations de banque (article L. 311-1), dont les opérations de crédit à titre onéreux
+font partie.
+2.2. Caractéristiques des prêts bancaires
+2.2.1. La convention de crédit
+Si le Code civil définit les conditions essentielles du prêt, les conditions du crédit font par ailleurs
+l’objet de conventions précisant les engagements de l’emprunteur, la rémunération du prêteur et ses
+droits. La convention contiendra par ailleurs éventuellement soit les promesses de garantie, soit les
+garanties conférées à l’occasion du prêt (cf. infra).
+Il convient de distinguer la ligne de crédit confirmé, qui est une mise à disposition assurée de fonds
+financiers durant une période donnée sans qu’une entreprise doive nécessairement les utiliser en
+totalité, de la ligne de crédit non confirmée.
+2.2.2. La rémunération
+La rémunération du prêt est constituée par le taux d’intérêt et les commissions.
+Le taux d’intérêt
+Il est fixe ou variable. Il est fonction de nombreux facteurs, et dépend notamment du coût de
+refinancement de la banque constitué par le coût de l’argent emprunté sur les marchés, des coûts
+fixes de gestion de l’établissement, de sa politique commerciale.
+Il varie selon chaque établissement. En effet, une banque à réseau aura, par exemple, une capacité
+importante de collecte des dépôts à vue non rémunérés avec, en contrepartie, des frais importants
+pour l’entretien de son réseau. Alors qu’une banque sans guichet fonctionnera, certes, à moindre
+frais mais sans capacité notable de collecte de dépôts non rémunérés ou faiblement rémunérés
+auprès de sa clientèle.
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006444847&cidTexte=LEGITEXT000006070721&dateTexte=20100716&oldAction=rechCodeArticle
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006652080&cidTexte=LEGITEXT000006072026&dateTexte=20100716&oldAction=rechCodeArticle
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=33F9D2D5BCCF40A6EC4F399C70955191.tpdjo06v_1?idSectionTA=LEGISCTA000006170506&cidTexte=LEGITEXT000006072026&dateTexte=20100716
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072026&idArticle=LEGIARTI000006652028&dateTexte=&categorieLien=cid
+
+----- page 3 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 412 : Les prêts bancaires classiques
+Aux différents coûts, notamment celui du refinancement, s’ajoute une marge qui varie en fonction du
+risque de non-remboursement encouru (probabilité de défaut) : risque lié à la taille et à l’activité de
+l’entreprise, la qualité de ses dirigeants, sa surface financière, sa rentabilité, la nature de l’opération
+financée, sa durée et les garanties consenties par l’emprunteur. Dans le cadre des accords Bâle 2 et
+Bâle 3, les banques sont tenues de respecter des normes de fonds propres proportionnées aux risques
+encourus et à leur évolution. Ces exigences en matière de solvabilité ont un impact sur les taux appliqués.
+L’immobilisation des capitaux rentre également en ligne de compte. Outre le fait que l’argent prêté
+ne peut être simultanément utilisé à d’autres fins, la durée de l’opération de crédit génère également
+un risque d’évolution défavorable des taux pour la banque, risque d’autant plus sensible que le
+concours est d’une durée plus longue. Cela explique la préférence des banques pour les crédits
+assortis d’un taux variable.
+Enfin, le taux d’intérêt appliqué par une banque ne correspond pas toujours aux véritables coûts
+qu’elle supporte. En effet, sous la pression d’une concurrence exacerbée, les banques peuvent mettre
+en œuvre des stratégies commerciales pour se rapprocher de certains clients, offrant des prêts à des
+conditions très attractives et même sans rapport avec le risque de la contrepartie. Elles compensent
+cette faible rémunération par la facturation de commissions sur d’autres services. Inversement, elles
+peuvent bénéficier d’une faible concurrence sur certains secteurs ou certaines zones géographiques
+et proposer des taux d’intérêt élevés.
+Toutefois, l’art. 109 de l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du
+secteur de la banque, des services de paiement et des services d’investissement soumises au
+contrôle de l’Autorité de contrôle prudentiel et de résolution précise que la sélection des opérations
+de crédit doit tenir compte de leur rentabilité. Il est à noter que l’art. L. 313-4 du Code monétaire
+et financier prévoit que tout contrat de prêt doit mentionner le taux effectif global (taux calculé en
+incluant aux intérêts les frais, les commissions ou les rémunérations de toute nature, directs ou
+indirects : c’est le taux qui est censé représenter le coût réel pour le client).
+Enfin, le taux de base bancaire (TBB) n’est défini par aucun texte légal ou réglementaire mais son
+usage s’est dégagé des pratiques de la profession. Chaque banque fixe librement son taux de base
+en fonction du coût moyen de ses ressources, de ses moyens de refinancement et des contingences
+réglementaires auxquelles elle est soumise. Ce taux est le taux minimum qu’une banque entend
+retenir pour ses opérations. Il peut servir de référence à la tarification des crédits à court et moyen
+terme consentis aux entreprises.
+Les commissions
+Les commissions rémunèrent un service en amont, concomitant ou postérieur à la mise à disposition
+des fonds (frais de dossier, frais liés à la prise de sûretés).
+Elles s’expriment en pourcentage du montant total ou partiel du crédit ou en une somme forfaitaire
+fixe, payable à un moment déterminé. Elles peuvent être aussi prorata temporis.
+La Banque de France publie trimestriellement une enquête sur le coût du crédit en France.
+[lien] https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=9EE7EC913019E95B15C6037BF1801F67.tpdila20v_1?idArticle=JORFARTI000029701001&cidTexte=JORFTEXT000029700770&dateTexte=29990101&categorieLien=id
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=84C55B701363D584D36AA2B8531149EF.tpdjo15v_2?idArticle=LEGIARTI000006652085&cidTexte=LEGITEXT000006072026&dateTexte=20100716
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=84C55B701363D584D36AA2B8531149EF.tpdjo15v_2?idArticle=LEGIARTI000006652085&cidTexte=LEGITEXT000006072026&dateTexte=20100716
+
+----- page 4 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 412 : Les prêts bancaires classiques
+2.2.3. Les modalités de remboursement
+Le remboursement peut être :
+— in fine : le remboursement du capital intervient en une seule fois au terme convenu. Le service
+annuel, voire trimestriel ou mensuel de l’emprunt ne comprend que les intérêts, lesquels sont
+constants pendant la durée du prêt.
+— par annuité (ou mensualité, trimestrialité) constante : une annuité comprend à la fois les
+intérêts de la dette et une part de remboursement du capital (l’amortissement).
+— par amortissement constant : le remboursement du capital est chaque année (trimestre, mois)
+constant et les intérêts décroissent au fil du temps.
+2.2.4. Les garanties
+Les garanties peuvent prendre différentes formes comme, par exemple, le cautionnement 1
+et/ou le nantissement 2 du fonds de commerce ou d’autres actifs. La prise en garantie d’un actif
+impose des contraintes fortes à l’entreprise (impossibilité de céder cet actif...), mais peut lui permettre
+d’abaisser son coût de financement ou de trouver des financements plus importants. La banque peut
+également exiger que l’entreprise bénéficiaire du crédit s’engage à faire virer sur le compte ouvert
+dans ses livres tout ou partie des sommes qui lui seront payées (revenus ou créances diverses).
+Plus largement encore, la banque peut également demander à son client de réaliser, avec elle, tout
+ou partie de ses opérations bancaires.
+2.2.5. Le respect de certaines conditions par l’entreprise
+durant l’exécution du contrat de prêt
+Les banques peuvent imposer, dans les conventions de crédit, le respect par l’entreprise de certaines
+conditions, appelées « covenants », durant toute la durée du prêt consenti. Les principales conditions
+à respecter portent sur des ratios comptables, des décisions financières et la structure de contrôle.
+Selon le Vernimmen, quatre grandes catégories d’engagements peuvent être distinguées :
+— L’engagement de faire qui consiste à respecter certaines valeurs de ratios de structure financière
+ou de résultat, d’adopter ou de conserver une structure juridique donnée ou même de réaliser
+une restructuration.
+— L’engagement de ne pas faire, en limitant la distribution de dividendes, la cession d’actifs,
+la politique d’investissement, la constitution de garantie de certains actifs au profit de tiers,
+le recours à de nouveaux emprunts ou certaines opérations en capital (telles que les rachats
+d’actions, les réductions de capital).
+— Le « pari passu ». Cette clause oblige l’entreprise à faire bénéficier le prêteur de toutes les
+garanties supplémentaires qu’elle sera amenée à donner lors de crédits futurs de même rang.
+— Le cross default (défaut croisé). Cette clause prévoit que si l’entreprise fait défaut sur un autre
+crédit, la ligne de crédit devient exigible. Un seuil de déclenchement est généralement prévu.
+1. Acte par lequel une personne appelée caution s’engage, à l’égard d’un créancier, à exécuter l’obligation de son
+débiteur au cas où celui-ci ne l’exécuterait pas lui-même.
+2. Garantie réelle prise par la banque sur un bien d’un de ses clients pour l’octroi d’un crédit. Si le client n’arrive plus à
+payer ses mensualités, la banque pourra saisir le bien et le revendre.
+
+----- page 5 -----
+—
+Chapitre 4 : Les financements intermédiés | Fiche 412 : Les prêts bancaires classiques
+3. LES PRÊTS BANCAIRES PARTICULIERS
+3.1. Le crédit syndiqué
+Lorsqu’une entreprise souhaite lever des fonds importants, elle peut avoir recours à un pool de
+banques au travers du crédit syndiqué. En effet, les banques ne souhaitent pas assumer seules le
+risque de crédit sur des sommes élevées.
+Le crédit syndiqué est un crédit fourni par une association de plusieurs établissements financiers,
+réunis dans un syndicat bancaire, pour financer un projet donné ou une entreprise donnée.
+Le groupement est généralement coordonné par un chef de file qui joue le rôle d’ingénieur financier
+élaborant le montage général, et qui s’occupe en première ligne des relations du groupement avec
+le bénéficiaire du financement. Le chef de file négocie également les conditions financières et les
+garanties. La participation des banques dans le groupement relève de deux natures : la participation
+dans le financement en risque et trésorerie (apport de fonds) et la participation en risque (si le client
+est défaillant), l’accord définit la quote-part réelle de la banque. La participation en risque n’est
+pas nécessairement équivalente à la quote-part en financement. Les banques peuvent accepter
+de prendre plus de risques que leur propre quote-part de financement, en contrepartie d’une
+rémunération complémentaire.
+3.2. Les lignes de crédits à moyen terme
+Certaines entreprises bénéficient d’une ligne de crédit d’investissement, annuelle ou pluriannuelle,
+leur permettant de faire des tirages à chaque nouvelle dépense d’investissement, en respectant un
+plafond total attribué. Une entreprise s’assure ainsi, durant une période déterminée, de la disponibilité
+de fonds sans nécessairement avoir à s’endetter.
+RÉFÉRENCES
+• Code civil : art. 1892 et suivants
+• Code monétaire et financier : art. L. 313-1 à L. 313-5-2 du Code monétaire et financier
+• Art. 109 de l’arrêté du 3 novembre 2014 relatif au contrôle interne des entreprises du secteur de
+la banque, des services de paiement et des services d’investissement soumis au contrôle de
+l’Autorité de contrôle prudentiel et de résolution
+• Enquête trimestrielle sur le coût du crédit, Banque de France
+• Lamy, Droit du financement 2016
+• Dalloz, Ingénierie financière fiscale et juridique 2009-2010
+• Vernimmen, Finance d’entreprise 2021
+• Francis Lefebvre, Mémento comptable 2016
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006444847&cidTexte=LEGITEXT000006070721&dateTexte=20100716&oldAction=rechCodeArticle
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006652080&cidTexte=LEGITEXT000006072026&dateTexte=20100716&oldAction=rechCodeArticle
+[lien] https://www.legifrance.gouv.fr/affichTexteArticle.do;jsessionid=9EE7EC913019E95B15C6037BF1801F67.tpdila20v_1?idArticle=JORFARTI000029701001&cidTexte=JORFTEXT000029700770&dateTexte=29990101&categorieLien=id

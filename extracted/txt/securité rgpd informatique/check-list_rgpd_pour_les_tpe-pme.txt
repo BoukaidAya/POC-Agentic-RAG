@@ -63,6 +63,8 @@ Bpifrance), disponible depuis la Médiathèque du site web de la CNIL.
 À SAVOIR
 1
 2
+[lien] http://cnil.fr/RGDP-le-registre-des-activites-de-traitement
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/bpi-cnil-rgpd_guide-tpe-pme.pdf
 
 ----- page 3 -----
 Je respecte toujours l’information  
@@ -100,6 +102,10 @@ Rubrique Ma conformité au RGPD > Passer à l’action > Sécurité des données
 À SAVOIR
 3
 4
+[lien] https://www.cnil.fr/fr/rgpd-exemples-de-mentions-dinformation
+[lien] https://www.ssi.gouv.fr/uploads/2017/01/guide_cpme_bonnes_pratiques.pdf
+[lien] https://www.ssi.gouv.fr/uploads/2017/01/guide_cpme_bonnes_pratiques.pdf
+[lien] https://www.cnil.fr/fr/securite-des-donnees
 
 ----- page 4 -----
 POUR LES PETITES 

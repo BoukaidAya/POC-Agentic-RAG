@@ -78,6 +78,7 @@ Votre rendez-vous mensuel
 Quels sont les risques ?
 1« The impact ok Mobile Devices on Information Security » (Conséquences de l’utilisation des terminaux mobiles sur la sécurité des informations) – Check Point Software technologies, 2014
 http://bit.ly/1dMQhs7.
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
 
 ----- page 2 -----
 > Authentification

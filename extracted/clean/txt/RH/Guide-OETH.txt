@@ -103,6 +103,12 @@ Obligation d’emploi
 des travailleurs handicapés
 Attention aux démarches
 frauduleuses !
+[lien] https://www.urssaf.fr/portail/home/votre-urssaf/contacts-telephoniques.html
+[lien] https://www.urssaf.fr/portail/home/votre-urssaf/contacts-telephoniques.html
+[lien] https://www.economie.gouv.fr/dgccrf/infos-arnaques
+[lien] https://www.economie.gouv.fr/contact/contacter-la-dgccrf
+[lien] https://travail-emploi.gouv.fr/arnaques-et-fraudes-lobligation-demploi-des-personnes-handicapees
+[lien] https://travail-emploi.gouv.fr/arnaques-et-fraudes-lobligation-demploi-des-personnes-handicapees
 
 ----- page 6 -----
 L’Agefiph n’est pas en charge de la DOETH et du recouvrement de la contribution
@@ -351,6 +357,11 @@ handicapés.
 Arrêté du 3 mars 2026 portant application du décret n° 2025-1294 du 24 décembre
 2025 relatif aux dépenses déductibles de la contribution annuelle due au titre de
 l'obligation d'emploi des travailleurs handicapés
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047476694#:~:text=D%C3%A9cret%20n%C2%B0%202023-296%20du%2020%20avril%202023%20relatif%20aux%20modalit%C3%A9s
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053164696
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053625449
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053625449
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053625449
 
 ----- page 12 -----
 Le décret n° 2026-86 du 13 février 2026 relatif au reliquat de fin d’accord
@@ -358,6 +369,7 @@ agrée mentionné à l’article L.5212-8 du code du travail en matière d’emp
 des travailleurs handicapés, permettant aux Urssaf de procéder au
 recouvrement des reliquats
 Décret n° 2026-86 du 13 février 2026
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053482417
 
 ----- page 13 -----
 Toutes les entreprises de 20 salariés et plus sont assujetties
@@ -814,6 +826,7 @@ Un simulateur de contribution est disponible sur le site de
 l’Agefiph afin de faciliter les calculs de contribution des entreprises :
 https://www.agefiph.fr/employeur/simulateur_doeth
 Bon à savoir
+[lien] https://www.agefiph.fr/employeur/simulateur_doeth
 
 ----- page 27 -----
 Sur-contribution pour absence d’emploi de travailleur handicapé, de
@@ -1110,6 +1123,8 @@ montant au moins égal à celui qu’il aurait dû verser à l’Urssaf ou à la
 toutefois prendre en compte le montant des dépenses déductibles mentionnées à
 l’article L. 5212-11 du code du travail.
 Mise en œuvre de l’OETH par accord agréé
+[lien] https://mesdemarches.emploi.gouv.fr/identification/login?TARGET=https%3A%2F%2Fagape-th.emploi.gouv.fr%2Fagapeth%2F
+[lien] https://mesdemarches.emploi.gouv.fr/identification/login?TARGET=https%3A%2F%2Fagape-th.emploi.gouv.fr%2Fagapeth%2F
 
 ----- page 35 -----
 Conformément à l’article R. 5212-13 du code du travail, le montant prévisionnel
@@ -1208,6 +1223,7 @@ vous invitons à consulter les consignes déclaratives disponible sur
 Consignes relatives à l'OETH en DSN
 x
 Bon à savoir
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2427
 
 ----- page 39 -----
 Si le travailleur handicapé communique plusieurs statuts et plusieurs justificatifs à son
@@ -1693,6 +1709,7 @@ nous vous invitons à consulter les consignes déclaratives disponible sur
 Consignes relatives à l'OETH en DSN
 x
 Bon à savoir
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/3275/#parent_4
 
 ----- page 51 -----
 Le nombre de BOETH externes est à déclarer par le biais du bloc « Complément
@@ -1955,6 +1972,8 @@ Voir également le Guide Urssaf – Comment déclarer et régulariser les
 cotisations Urssaf en DSN disponible sur le site urssaf.fr.
 x
 Bon à savoir
+[lien] https://www.urssaf.fr/portail/files/live/sites/urssaf/files/documents/DSN-Guide-declaration-regularisation-cotisations-sociales-Urssaf.pdf
+[lien] https://www.urssaf.fr/portail/home.html
 
 ----- page 58 -----
 Pour l’exercice de référence 2025, l’entreprise « Exemple » a calculé :
@@ -2040,6 +2059,8 @@ agrégée - S21.G00.23 » à la rubrique « Montant assiette - S21.G00.23.004 »
 la DSN de l’établissement où le paiement de la contribution a été initialement
 déclaré et sur la même période d’emploi (voir le Guide Urssaf – Comment déclarer
 et régulariser les cotisations Urssaf en DSN disponible sur le site urssaf.fr).
+[lien] https://www.urssaf.fr/portail/files/live/sites/urssaf/files/documents/DSN-Guide-declaration-regularisation-cotisations-sociales-Urssaf.pdf
+[lien] https://www.urssaf.fr/portail/home.html
 
 ----- page 60 -----
 Pour rappel, pour l’exercice de référence 2025, l’entreprise « Exemple » a
@@ -2425,6 +2446,8 @@ assiette - S21.G00.23.004 » sur la DSN de l’établissement où le paiement de
 contribution a été initialement déclaré et sur la même période d’emploi (voir le
 Guide Urssaf – Comment déclarer et régulariser les cotisations Urssaf en DSN
 disponible sur le site urssaf.fr).
+[lien] https://www.urssaf.fr/portail/files/live/sites/urssaf/files/documents/DSN-Guide-declaration-regularisation-cotisations-sociales-Urssaf.pdf
+[lien] https://www.urssaf.fr/portail/home.html
 
 ----- page 68 -----
 Exemple de correction sur une déduction ayant un impact sur la contribution
@@ -2462,6 +2485,7 @@ Pour l exercice annuel 2025 déclaré en
 inscrire est 2025
 x
 Bon à savoir
+[lien] https://www.net-entreprises.fr/
 
 ----- page 71 -----
 Déclaration de l’absence de contribution annuelle pour cause d’accord
@@ -2607,6 +2631,9 @@ reliquat de fin d'accord agréé par l'autorité administrative. Il détermine l
 modalités de dépôt du bilan récapitulatif des accords agréés et allonge le délai
 Versement pour dépenses non réalisées au
 terme d’un accord agréé
+[lien] https://www.urssaf.fr/portail/files/live/sites/urssaf/files/documents/DSN-Guide-declaration-regularisation-cotisations-sociales-Urssaf.pdf
+[lien] https://www.urssaf.fr/portail/home.html
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053482417
 
 ----- page 75 -----
 de déclaration pour les employeurs. Il détaille la procédure de recouvrement
@@ -2783,6 +2810,7 @@ www.urssaf.fr
 Tél. 3957, du lundi au vendredi.
 x
 Bon à savoir
+[lien] http://www.urssaf.fr/
 
 ----- page 80 -----
 L’Agefiph est l’interlocutrice des entreprises pour :
@@ -2820,6 +2848,12 @@ entreprises.
 Rôle de l’Agefiph
 x
 Bon à savoir
+[lien] http://www.agefiph.fr/
+[lien] http://www.agefiph.fr/emploi
+[lien] http://www.agefiph.fr/centre-de-ressources
+[lien] http://www.agefiph.fr/employeur/simulateur_doeth
+[lien] http://www.agefiph.fr/aides-handicap/reseau-des-referents-handicap-rrh
+[lien] http://www.agefiph.fr/aides-handicap/reseau-des-referents-handicap-rrh
 
 ----- page 81 -----
 L’Agefiph accompagne toutes les entreprises et propose :
@@ -2855,6 +2889,7 @@ projet et peut apporter un soutien financier en complément de
 l’investissement de l’entreprise.
 Le détail des services et des aides financières de l’Agefiph aux entreprises
 est disponible sur www.agefiph.fr/employeur
+[lien] http://www.agefiph.fr/employeur
 
 ----- page 82 -----
 EN SAVOIR PLUS...
@@ -3162,6 +3197,9 @@ d'emploi des travailleurs handicapés au titre du partenariat, par voie de
 convention ou d'adhésion, avec des associations ou organismes œuvrant
 pour la formation, l'insertion sociale et professionnelle de personnes
 Questions sur les déductions
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903692&dateTexte=&categorieLien=cid
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018495256&dateTexte=&categorieLien=cid
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000018495256&dateTexte=&categorieLien=cid
 
 ----- page 92 -----
 handicapées que l'employeur accueille ou embauche, à l'exclusion des
@@ -3201,6 +3239,11 @@ Le montant des dépenses déductibles à retenir est le montant HT figurant sur 
 facture. Ce montant est plafonné à 10% du montant de la contribution annuelle
 brute (avant déductions). Pour appliquer la déduction il faut que la facture soit
 payée l’année au titre de laquelle la déclaration est faite.
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903694&dateTexte=&categorieLien=cid
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903694&dateTexte=&categorieLien=cid
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053625449
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053625449
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053625449
 
 ----- page 93 -----
 Les entreprises qui relèvent d'un accord agréé peuvent-elles
@@ -3698,6 +3741,14 @@ Par téléphone
 >
 0 800 11 10 09 (services et appel gratuit), de 9h00 à 18h00 du lundi au
 vendredi
+[lien] https://www.agefiph.fr/
+[lien] https://www.agefiph.fr/articles/obligation/tout-savoir-sur-lobligation-demploi-des-travailleurs-handicapes
+[lien] https://www.agefiph.fr/articles/obligation/tout-savoir-sur-lobligation-demploi-des-travailleurs-handicapes
+[lien] https://mesdemarches.emploi.gouv.fr/identification/login?TARGET=https%3A%2F%2Fagape-th.emploi.gouv.fr%2Fagapeth%2F
+[lien] https://appuipro.agefiph.fr/learn/courses/369/declarer-loeth-en-dsn-en-toute-simplicite
+[lien] https://appuipro.agefiph.fr/learn/courses/369/declarer-loeth-en-dsn-en-toute-simplicite
+[lien] mailto:reformeoeth@agefiph.asso.fr
+[lien] https://www.agefiph.fr/employeur/simulateur_doeth
 
 ----- page 109 -----
 Sur le web
@@ -3718,6 +3769,13 @@ Par téléphone
 3957, du lundi au vendredi.
 Toutes les informations sur la déclaration en
 DSN
+[lien] https://www.urssaf.fr/
+[lien] https://www.urssaf.fr/portail/files/live/sites/urssaf/files/documents/DSN-Guide-declaration-regularisation-cotisations-sociales-Urssaf.pdf
+[lien] https://www.urssaf.fr/portail/home/espaces-dedies/obligation-demploi-des-travaille/documentation.html
+[lien] https://www.net-entreprises.fr/
+[lien] https://www.net-entreprises.fr/
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/3275/#parent_4
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/3275/#parent_4
 
 ----- page 110 -----
 AAH : Allocation aux adultes handicapés – Aide financière permettant à des adultes

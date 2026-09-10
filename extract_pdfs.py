@@ -5,13 +5,14 @@ Usage:
     python extract_pdfs.py
 Sortie:
     extracted/txt/<meme arbo>.txt   (texte lisible, page par page)
-    extracted/corpus.jsonl          (1 ligne JSON par PDF, texte par page)
-    extracted/index.csv             (inventaire: fichier, dossier, pages, chars, ocr?)
+    extracted/corpus.jsonl          (1 ligne JSON par PDF, texte par page + liens)
+    extracted/index.csv             (inventaire: fichier, dossier, pages, chars, ocr?, liens)
 """
 import csv
 import json
 import sys
 from pathlib import Path
+from urllib.parse import urlparse
 
 import pymupdf  # PyMuPDF
 
@@ -19,6 +20,19 @@ ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "extracted"
 TXT_DIR = OUT / "txt"
 MIN_CHARS_PER_PAGE = 20  # en dessous -> page probablement scannée (image)
+
+
+def extraire_liens(page) -> list[dict]:
+    """Liens externes (annotations 'uri'), pas les liens internes de navigation
+    entre pages. Le texte d'une URL longue est souvent coupe par un retour a
+    la ligne dans page.get_text() -> l'annotation est la source fiable."""
+    liens = []
+    for l in page.get_links():
+        uri = l.get("uri")
+        if not uri:
+            continue
+        liens.append({"uri": uri, "domaine": urlparse(uri).netloc})
+    return liens
 
 
 def extract_one(pdf_path: Path):
@@ -31,11 +45,13 @@ def extract_one(pdf_path: Path):
         text = page.get_text("text").strip()
         if len(text) < MIN_CHARS_PER_PAGE:
             empty_pages += 1
-        pages.append({"page": i + 1, "text": text})
+        pages.append({"page": i + 1, "text": text, "liens": extraire_liens(page)})
     doc.close()
 
     total_chars = sum(len(p["text"]) for p in pages)
     likely_scanned = len(pages) > 0 and empty_pages / len(pages) > 0.5
+    tous_liens = [l for p in pages for l in p["liens"]]
+    domaines = sorted({l["domaine"] for l in tous_liens})
 
     record = {
         "path": str(rel).replace("\\", "/"),
@@ -46,6 +62,8 @@ def extract_one(pdf_path: Path):
         "total_chars": total_chars,
         "empty_pages": empty_pages,
         "likely_scanned": likely_scanned,
+        "num_liens": len(tous_liens),
+        "domaines": domaines,
         "pages": pages,
     }
     return record
@@ -73,6 +91,7 @@ def main():
                     "folder": str(pdf.relative_to(ROOT).parent).replace("\\", "/"),
                     "filename": pdf.name, "num_pages": 0, "total_chars": 0,
                     "likely_scanned": "ERROR", "error": str(e),
+                    "num_liens": 0, "domaines": "",
                 })
                 continue
 
@@ -83,6 +102,8 @@ def main():
             with txt_out.open("w", encoding="utf-8") as f:
                 for p in rec["pages"]:
                     f.write(f"\n----- page {p['page']} -----\n{p['text']}\n")
+                    for l in p["liens"]:
+                        f.write(f"[lien] {l['uri']}\n")
 
             # ligne corpus.jsonl
             corpus.write(json.dumps(rec, ensure_ascii=False) + "\n")
@@ -92,6 +113,7 @@ def main():
                 "filename": rec["filename"], "num_pages": rec["num_pages"],
                 "total_chars": rec["total_chars"],
                 "likely_scanned": rec["likely_scanned"], "error": "",
+                "num_liens": rec["num_liens"], "domaines": ";".join(rec["domaines"]),
             })
             flag = " [SCAN?]" if rec["likely_scanned"] else ""
             print(f"[{n}/{len(pdfs)}] {rec['num_pages']:>3}p  "
@@ -101,7 +123,7 @@ def main():
     with index_path.open("w", encoding="utf-8-sig", newline="") as f:
         w = csv.DictWriter(f, fieldnames=[
             "path", "folder", "filename", "num_pages",
-            "total_chars", "likely_scanned", "error"])
+            "total_chars", "likely_scanned", "error", "num_liens", "domaines"])
         w.writeheader()
         w.writerows(index_rows)
 

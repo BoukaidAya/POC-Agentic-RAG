@@ -43,6 +43,7 @@ Article « Quelles sont les mentions obligatoires sur un site internet ? »
 sur le site internet www.service-public.fr
 VOUS AVEZ
 UN SITE VITRINE
+[lien] https://www.service-public.fr/professionnels-entreprises/vosdroits/F31228
 
 ----- page 4 -----
 Depuis Twitter, Facebook,
@@ -99,6 +100,9 @@ de ses comptes sociaux »
 sur le site internet de la CNIL
 Article « L’usurpation d’identité en question »
 sur le site internet de la CNIL
+[lien] https://www.cnil.fr/fr/securite-securiser-les-sites-web
+[lien] https://www.cnil.fr/fr/prevenir-reperer-et-reagir-face-au-piratage-de-ses-comptes-sociaux
+[lien] https://www.cnil.fr/fr/lusurpation-didentite-en-questions
 
 ----- page 7 -----
 POUR EN SAVOIR PLUS :
@@ -120,6 +124,7 @@ vous devez obtenir le consentement des visiteurs.
 VOTRE SITE DÉPOSE
 DES COOKIES OU DES TRACEURS
 PUBLICITAIRES
+[lien] https://www.cnil.fr/fr/site-web-cookies-et-autres-traceurs
 
 ----- page 8 -----
 CNIL

@@ -540,6 +540,7 @@ d’extraction ne pouvaient suffire à qualifier le modèle, car les risques pro
 moyens semblent encore insuffisants. La pertinence d’un tel seuil a été questionnée, dans la mesure ou il ne
 tiendrait pas compte des mesures complémentaires mises en œuvre et de la vraisemblance d’une attaque.
 1 https://cve.mitre.org/
+[lien] https://cve.mitre.org/
 
 ----- page 13 -----
 Enfin, il a été pointé que ce seuil ne semblait pas nécessaire, pour deux raisons bien distinctes. D’une part
@@ -688,6 +689,8 @@ Dans l’hypothèse où l’utilisateur aurait à conduire l’analyse du caract
 de quelles informations et ressources aurait-il besoin ? En dispose-t-il généralement selon
 2https://datenschutzhamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240715_Di
 scussion_Paper_Hamburg_DPA_KI_Models.pdf
+[lien] https://datenschutz-hamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240715_Discussion_Paper_Hamburg_DPA_KI_Models.pdf
+[lien] https://datenschutz-hamburg.de/fileadmin/user_upload/HmbBfDI/Datenschutz/Informationen/240715_Discussion_Paper_Hamburg_DPA_KI_Models.pdf
 
 ----- page 16 -----
 vous et, à défaut, qui les possède ? Vous semble-t-il possible pour l’utilisateur de réaliser
@@ -948,3 +951,4 @@ Le développement de mesures au niveau applicatif doit être privilégié, comme
 interactions du système avec les données personnelles, le tatouage de données, l’ajustement des
 modèles, les filtres et classifieurs utilisés sur les réponses, le contrôle des utilisateurs sur le système, et
 la cybersécurité.
+[lien] https://arxiv.org/abs/2310.07298v1

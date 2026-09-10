@@ -20,6 +20,7 @@ numérique
 Votre rendez-vous mensuel
 Le système connecté
 L’objet connecté n’est en fait que le point de départ d’un système destiné à apporter un service.
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
 
 ----- page 2 -----
 > L’objet

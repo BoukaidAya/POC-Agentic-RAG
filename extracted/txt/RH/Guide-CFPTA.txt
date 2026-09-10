@@ -142,6 +142,8 @@ Bonne lecture !
  
  
 d’informations
+[lien] https://www.urssaf.fr/portail/home/independant.html
+[lien] https://www.urssaf.fr/portail/home/independant.html
 
 ----- page 4 -----
 3 
@@ -592,6 +594,15 @@ Situations particulières
 •
 Neutralisation des franchissements de seuils d’effectifs 
 Pour aller plus loin…
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/le-calcul-de-leffectif/calcul-de-leffectif-moyen-au-31.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/le-calcul-de-leffectif/calcul-de-leffectif-moyen-au-31/salaries-pris-en-compte-pour-la.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/le-calcul-de-leffectif/calcul-de-leffectif-moyen-au-31/salaries-pris-en-compte-pour-la.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/le-calcul-de-leffectif/calcul-de-leffectif-moyen-au-31/salaries-exclus-pour-la-determin.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/le-calcul-de-leffectif/calcul-de-leffectif-moyen-au-31/salaries-exclus-pour-la-determin.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/le-calcul-de-leffectif/calcul-de-leffectif-moyen-au-31/situations-particulieres--entrep.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/le-calcul-de-leffectif/calcul-de-leffectif-moyen-au-31/situations-particulieres--entrep.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/le-calcul-de-leffectif/calcul-de-leffectif-moyen-au-31/neutralisation-des-franchissemen.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/le-calcul-de-leffectif/calcul-de-leffectif-moyen-au-31/neutralisation-des-franchissemen.html
 
 ----- page 19 -----
 18 
@@ -643,6 +654,8 @@ Pour en savoir plus sur les règles de comptabilisation des effectifs (création
 d’entreprise, fusion, absorption, etc.) vous pouvez consulter le Bulletin officiel de 
 la Sécurité Sociale (BOSS).  
 Tableau d’application des règles de franchissement de seuil
+[lien] https://boss.gouv.fr/portail/accueil/regles-dassujettissement/effectif.html
+[lien] https://boss.gouv.fr/portail/accueil/regles-dassujettissement/effectif.html
 
 ----- page 22 -----
 21 
@@ -789,6 +802,7 @@ En revanche, les employeurs du BTP de moins de 11 salariés doivent
 continuer à verser la cotisation CCCA-BTP auprès de l’organisme Pro-
 BTP selon les modalités habituelles. 
 Bon à savoir
+[lien] https://www.audiens.org/
 
 ----- page 25 -----
 24 
@@ -960,6 +974,7 @@ L’IDCC applicable déclaré au niveau de l’établissement pourra être diff�
 de l’IDCC appliqué et déclaré en DSN au niveau des contrats de travail, qui 
 demeure inchangé. 
 Bon à savoir
+[lien] https://quel-est-mon-opco.francecompetences.fr/
 
 ----- page 30 -----
 29 
@@ -1068,6 +1083,8 @@ n° 2019-861 du 21 août 2019, ces dispositions s'appliquent depuis le 1er janvi
 Enfin, conformément à l’article L. 6331-55 du code du travail, la contribution au 
 CPF-CDD n’est pas due au titre des salariés intermittents du spectacle qui 
 relèvent des secteurs d'activités du spectacle vivant et du spectacle enregistré.
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904283&dateTexte=&categorieLien=cid
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006071318&idArticle=LEGIARTI000031537857&dateTexte=&categorieLien=cid
 
 ----- page 34 -----
 33 
@@ -1590,6 +1607,8 @@ travers le bloc S21.G00.44.
  
 Les modalités déclaratives de la 
 part principale de la TA en DSN
+[lien] https://www.net-entreprises.fr/nomenclatures-dsn-p22v01/
+[lien] https://www.net-entreprises.fr/nomenclatures-dsn-p22v01/
 
 ----- page 50 -----
 49 
@@ -1984,6 +2003,7 @@ liste nationale, le cas échéant qu’il soit inscrit sur ces listes.
 Ainsi, selon l’article L. 6241-5 du code du travail, sont habilités à percevoir le 
 solde de la taxe d'apprentissage au titre des dépenses mentionnées au 1° 
 premier alinéa de l'article L. 6241-4 :
+[lien] https://www.soltea.education.gouv.fr/espace-public/liste/actualites
 
 ----- page 61 -----
 60 
@@ -2417,6 +2437,9 @@ Taux < 1 %
 Concernant les établissements des départements du Haut-Rhin, du Bas-
 Rhin et de la Moselle, le taux appliqué à l’assiette de la CSA est réduit à 52 % 
 Le calcul de la contribution
+[lien] https://fr.wiktionary.org/wiki/%E2%89%A5
+[lien] https://fr.wiktionary.org/wiki/%E2%89%A5
+[lien] https://fr.wiktionary.org/wiki/%E2%89%A5
 
 ----- page 73 -----
 72 
@@ -2458,6 +2481,9 @@ l’année précédente.
 Le respect de cette condition s’apprécie en prenant en compte l’effectif annuel 
 moyen des salariés sous contrat d’apprentissage ou de professionnalisation, et 
 Cifre. La comparaison s’effectue entre deux années civiles.
+[lien] https://fr.wiktionary.org/wiki/%E2%89%A5
+[lien] https://fr.wiktionary.org/wiki/%E2%89%A5
+[lien] https://fr.wiktionary.org/wiki/%E2%89%A5
 
 ----- page 74 -----
 73 
@@ -2647,6 +2673,7 @@ Les services de l’Urssaf :
  
  
 Le rôle de l'Urssaf
+[lien] http://www.urssaf.fr/
 
 ----- page 79 -----
 78 
@@ -2806,6 +2833,7 @@ habilitées à le recevoir.
  
  
 Le rôle de la Caisse des dépôts
+[lien] https://www.soltea.gouv.fr/espace-public/
 
 ----- page 84 -----
 83 
@@ -2842,6 +2870,23 @@ Décret n° 2021-1917 du 30 décembre 2021 relatif au recouvrement et à la
 répartition des contributions des employeurs dédiées au financement de la 
 formation professionnelle et de l'apprentissage. 
 Référentiels et annexes règlementaires
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037367660/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038496102/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038496102/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039675317/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039675317/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039683923/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037848195/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037848195/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037848195/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037883766/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037883766/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038250174
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038250174
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000038250174
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039472758/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039472758/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039727052/
 
 ----- page 85 -----
 84 
@@ -2879,6 +2924,29 @@ Arrêté du 30 décembre 2019 fixant la liste nationale des organismes habilité
 percevoir le solde de la taxe d’apprentissage (JO du 5 janvier 2020) 
 Arrêté du 3 janvier 2020 fixant le montant forfaitaire de la créance définie à 
 l'article L. 6241-4 du code du travail imputable sur le solde de la taxe
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037884031?r=UemNSA2eYP
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037884031?r=UemNSA2eYP
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037884031?r=UemNSA2eYP
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037884308
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037884308
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037884308
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037884324/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037884324/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037852704/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037852704/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037852704/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037852704/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037882341/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039667474/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039667474/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039667474/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039667474/
+[lien] https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039685273/2020-12-10/
+[lien] https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039685273/2020-12-10/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039773003
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039773003
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039792469/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039792469/
 
 ----- page 86 -----
 85 
@@ -2892,6 +2960,11 @@ XIII de l’article 135 de la loi n° 2026-103 du 19 février 2026 de finances p
  
 Réglementation applicable à la CSA 
 Loi n°2018-1317 du 28 décembre 2018 - art. 136 (V)
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039792469/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041759549/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041759549/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000041759549/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037882341/
 
 ----- page 87 -----
 86 
@@ -2909,6 +2982,8 @@ Par téléphone
 Toutes les informations sur la réforme 
 des contributions de formation 
 professionnelle et d'apprentissage
+[lien] https://www.urssaf.fr/portail/home/espaces-dedies/contributions-de-formation-profe.html
+[lien] https://www.soltea.gouv.fr/espace-public/
 
 ----- page 88 -----
 87 
@@ -2933,6 +3008,13 @@ Par téléphone
  
 Toutes les informations  
 sur la déclaration en DSN
+[lien] https://www.urssaf.fr/portail/home/espaces-dedies/contributions-de-formation-profe.html
+[lien] https://www.urssaf.fr/portail/files/live/sites/urssaf/files/documents/DSN-Guide-declaration-regularisation-cotisations-sociales-Urssaf.pdf
+[lien] http://www.net-entreprises.fr/
+[lien] https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnet-entreprises.custhelp.com%2Fapp%2Fanswers%2Fdetail_dsn%2Fa_id%2F2503%2Fkw%2FModalit%25C3%25A9s%2520d%25C3%25A9claratives%2520de%2520la%2520contribution%2520%25C3%25A0%2520la%2520formation%2520professionnelle&amp;data=04%7C01%7Cphilippine.hoguet%40soprasterianext.com%7Ced4c73ad89124d7b938f08d92047aac0%7C8b87af7d86474dc78df45f69a2011bb5%7C0%7C0%7C637576314443294001%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=VIJmYO65lMD%2BDfSz121Ck%2F%2BVIwJSxMtiJxolQCJNFwo%3D&amp;reserved=0
+[lien] https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnet-entreprises.custhelp.com%2Fapp%2Fanswers%2Fdetail_dsn%2Fa_id%2F2502%2Fkw%2FCPF%2520CDD&amp;data=04%7C01%7Cphilippine.hoguet%40soprasterianext.com%7Ced4c73ad89124d7b938f08d92047aac0%7C8b87af7d86474dc78df45f69a2011bb5%7C0%7C0%7C637576314443294001%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=edeVLo%2FSPLUaUk9uWbajAgZs%2FfUrcbIJYG73M2ccmZk%3D&amp;reserved=0
+[lien] https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnet-entreprises.custhelp.com%2Fapp%2Fanswers%2Fdetail_dsn%2Fa_id%2F2502%2Fkw%2FCPF%2520CDD&amp;data=04%7C01%7Cphilippine.hoguet%40soprasterianext.com%7Ced4c73ad89124d7b938f08d92047aac0%7C8b87af7d86474dc78df45f69a2011bb5%7C0%7C0%7C637576314443294001%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=edeVLo%2FSPLUaUk9uWbajAgZs%2FfUrcbIJYG73M2ccmZk%3D&amp;reserved=0
+[lien] https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnet-entreprises.custhelp.com%2Fapp%2Fanswers%2Fdetail_dsn%2Fa_id%2F2504%2Fkw%2Ftaxe%2520d%27apprentissage&amp;data=04%7C01%7Cphilippine.hoguet%40soprasterianext.com%7Ced4c73ad89124d7b938f08d92047aac0%7C8b87af7d86474dc78df45f69a2011bb5%7C0%7C0%7C637576314443294001%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=fG0JFT1jMYFWAUlgWSfe2wm2a1n%2FkYTGIi%2B1Ey1dqx0%3D&amp;reserved=0%3chttps://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnet-entreprises.custhelp.com%2Fapp%2Fanswers%2Fdetail_dsn%2Fa_id%2F2504%2Fkw%2Ftaxe%2520d%26%23039%3Bapprentissage&amp;data=04%7C01%7Cphilippine.hoguet%40soprasterianext.com%7Ced4c73ad89124d7b938f08d92047aac0%7C8b87af7d86474dc78df45f69a2011bb5%7C0%7C0%7C637576314443294001%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=2vN%2B7WA4kDM%2BDbUOBBt5jBtcKiTZG0lAnqQhqn4oiSI%3D&amp;reserved=0%3e
 
 ----- page 89 -----
 88 

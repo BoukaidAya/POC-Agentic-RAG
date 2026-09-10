@@ -1,0 +1,87 @@
+
+----- page 1 -----
+05/2021
+—
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les obligations
+à bons de souscription
+en actions (OBSA)
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 326 : Les obligations
+à bons de souscription en actions (OBSA)
+MOTS CLÉS
+obligations,
+actions,
+capitaux propres,
+endettement
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+2. AVANTAGES ET INCONVÉNIENTS DES OBSA
+NB Pour plus d’informations sur les obligations convertibles en actions, voir la fiche 325.
+Pour plus d’informations sur les obligations à bons de souscription en actions (OBSA), voir la fiche 326.
+Pour plus d’informations sur les obligations remboursables en actions (ORA) et les obligations échangeables
+en actions (OECA), voir la fiche 327.
+
+----- page 2 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 326 : Les obligations
+à bons de souscription en actions (OBSA)
+1. PRÉSENTATION GÉNÉRALE
+Tout comme les obligations convertibles en actions, échangeables ou remboursables en, les
+obligations à bons de souscription d’actions (OBSA) sont des valeurs dites « composées ».
+Une obligation à bon de souscription d’actions est une obligation ordinaire à laquelle est attaché un
+bon de souscription d’actions. Ce dernier permet de souscrire à une future augmentation de capital
+à un prix fixé à l’avance. Le souscripteur d’une OBSA est d’abord un investisseur obligataire, mais
+aussi un actionnaire potentiel de la société émettrice.
+Ainsi, l’OBSA est un produit hybride qui réunit un titre de créance et un bon de souscription d’actions.
+Pour l’entreprise émettrice, deux opérations financières successives sont envisagées : une émission
+d’obligations suivie d’une augmentation de capital. En ce sens, une émission d’OBSA présente un
+élément de convergence avec une émission d’obligations convertibles (OC). Toutefois, dans le cas
+des OC, l’émission d’actions nouvelles se substitue aux obligations précédemment émises et il n’y a
+qu’un seul apport de trésorerie au profit de l’émetteur. En outre, dans le cas de l’OBSA, l’endettement
+ne s’éteint pas du fait de l’augmentation de capital.
+C’est l’assemblée générale extraordinaire des actionnaires qui décide d’émettre des OBSA. En effet,
+l’assemblée générale extraordinaire, sur le rapport du conseil d’administration ou du directoire, selon
+le cas, et sur le rapport spécial des commissaires aux comptes, autorise l’émission d’obligations avec
+un ou plusieurs bons de souscription d’actions. Ces bons donnent le droit de souscrire des actions
+à émettre par la société à un ou plusieurs prix et dans les conditions et délais fixés par le contrat
+d’émission. Les anciens actionnaires disposent d’un droit préférentiel de souscription.
+Pratiquement, l’obligation et le bon de souscription sont cotés séparément.
+Très présentes sur les marchés financiers jusqu’au début des années quatre-vingt-dix, les OBSA se
+sont faites ensuite un peu plus rares. Elles continuent cependant à représenter un des principaux
+produits hybrides de financement des sociétés cotées et non cotées.
+2. AVANTAGES ET INCONVÉNIENTS DES OBSA
+— Pour le souscripteur :
+Les OBSA sont d’une grande souplesse d’utilisation. Elles offrent à leur détenteur la possibilité
+d’effectuer diverses opérations en fonction de l’évolution des marchés : vendre l’obligation et le
+bon de souscription attaché ; conserver l’obligation et le bon de souscription ; vendre l’obligation et
+conserver le bon de souscription ; conserver l’obligation et vendre le bon de souscription ; vendre
+l’obligation et exercer le bon de souscription. Cette flexibilité d’utilisation est plus grande que celle
+qui préside au mouvement d’une obligation convertible.
+Ces titres présentent les caractéristiques suivantes :
+– sous-rémunération de la composante obligataire : un taux d’intérêt relativement bas par rapport
+aux emprunts traditionnels, contrepartie de l’avantage que procure la détention de bons de
+souscription,
+– incertitude du rendement du bon de souscription directement lié à l’évolution des cours de bourse.
+Le bon permet à un investisseur d’être intéressé à la hausse d’une action sans avoir à y consacrer
+le même montant de capitaux que s’il était actionnaire direct de la société.
+
+----- page 3 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 326 : Les obligations
+à bons de souscription en actions (OBSA)
+– Pour l’émetteur :
+L’intérêt de l’émetteur est de diminuer dans l’immédiat le coût de son endettement. L’emprunt émis
+permet à l’entreprise de payer un taux d’intérêt inférieur aux conditions du marché.
+Par ailleurs, la création de bons permet aux entreprises de planifier leurs ressources en fonds propres.
+En outre, l’entreprise peut faire souscrire l’OBSA par d’autres entreprises partenaires. Cette pratique
+fait diminuer le risque d’une éventuelle OPA. En cas de réelle menace, les sociétés utiliseront leur
+droit de conversion, ce qui rend plus difficile la prise de pouvoir de la société.
+RÉFÉRENCES
+• Loi n° 83-1 du 3 janvier 1983
+• Code de commerce art. L 228-91 al.1, Ordonnance n° 2004-604 du 24 juin 2004
+• Vernimmen, Finance d’entreprise 2021
+• DALLOZ, Ingénierie financière fiscale et juridique 2009-2010
+• Francis LEFEBVRE, Mémento comptable 2016
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006068775&dateTexte=20100510
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006228584&cidTexte=LEGITEXT000005634379&dateTexte=20120309&oldAction=rechCodeArticle
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000804070&fastPos=1&fastReqId=967693102&categorieLien=cid&oldAction=rechTexte

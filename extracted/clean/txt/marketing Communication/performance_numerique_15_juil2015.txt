@@ -47,6 +47,7 @@ Un réseau wifi efficace
 Un réseau wifi est dit privé lorsqu’il est utilisé seulement par le personnel de l’entreprise. On parle de wifi
 public lorsqu’il est mis à disposition de personnes extérieures.
 Sa présence est alors signalée par le logo suivant :
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
 
 ----- page 2 -----
 Voici deux possibilités de configuration d’un réseau wifi :

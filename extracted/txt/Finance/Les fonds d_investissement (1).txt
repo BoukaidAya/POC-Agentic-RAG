@@ -1,0 +1,103 @@
+
+----- page 1 -----
+06/2021
+1
+—
+3
+© Banque de France
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+La dette mezzanine
+328
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 328 : La dette mezzanine
+MOTS CLÉS
+dette mezzanine, 
+dette senior, 
+financement, 
+endettement, 
+LBO
+SOMMAIRE
+1.  PRÉSENTATION GÉNÉRALE	
+2
+2.  AUTRES AVANTAGES ET INCONVÉNIENTS  
+DU FINANCEMENT MEZZANINE POUR UNE ENTREPRISE	
+3
+NB  Pour en savoir plus sur les obligations à bons de souscription en actions, voir la fiche 326. 
+Pour en savoir plus sur les obligations remboursables en actions (ORA) et les obligations échangeables 
+en actions (OECA), voir la fiche 327.
+
+----- page 2 -----
+2
+—
+3
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 328 : La dette mezzanine
+1.  PRÉSENTATION GÉNÉRALE
+La dette mezzanine désigne la dette dont le remboursement est subordonné à celui de la dette 
+dite senior, c’est-à-dire qu’il ne débute qu’à partir du moment où la dette senior est intégralement 
+remboursée. Ce différé d’amortissement du capital peut s’accompagner d’une franchise partielle 
+ou totale du paiement des intérêts sur la même période. Aussi, la dette mezzanine est-elle plus 
+risquée, mais, en contrepartie, elle est davantage rémunérée. En outre, les titres de dette mezzanine, 
+généralement d’une durée supérieure à ceux de la dette senior (en général, la dette mezzanine est 
+d’une durée comprise entre 7 et 10 ans), sont souvent complétés de bons de souscription pour en 
+améliorer la rentabilité.
+Elle peut revêtir la forme d’un crédit bancaire assorti de bons de souscription d’actions mais, le plus 
+souvent, elle prend la forme d’une émission d’obligations à bons de souscription d’actions, voire 
+d’obligations convertibles ou remboursables en actions.
+La dette senior correspond à un emprunt classique. Le recours complémentaire au financement 
+mezzanine permet de financer une acquisition ou maximiser le taux de rentabilité d’une entreprise en 
+limitant les capitaux propres investis. La dette mezzanine désigne alors le financement qui s’intercale 
+entre les fonds propres et la dette senior.
+La dette mezzanine est un mode de financement couramment utilisé lors de montages financiers 
+de type LBO (Leveraged Buy Out). Le principe du LBO est de racheter une entreprise cible via une 
+société holding qui s’endette pour réaliser l’opération. La société holding paie les intérêts de la dette 
+et rembourse le capital grâce aux excédents de trésorerie dégagés par la société cible. Dans un 
+processus d’acquisition, le repreneur cherche à maximiser l’effet de levier financier (ratio : dette/
+fonds propres) pour augmenter le taux de rentabilité des capitaux propres qu’il a investis. Pour cela, 
+il dispose de deux types de financement externes : la dette senior et la dette mezzanine.
+Dans de tels types de montage, le financement mezzanine, à mi-chemin entre le financement par 
+capitaux propres et le financement par dette senior, offre aux entreprises les avantages suivants :
+—  profiter des effets de levier au-delà de ce que les banques acceptent de prêter,
+—  mettre en place une opération qu’il n’aurait pas été possible de monter avec le seul concours des 
+capitaux propres et de la dette senior,
+—  profiter d’un endettement sur une durée plus longue que les crédits classiques,
+—  obtenir une plus grande souplesse dans le management de la cible grâce à des « covenants » 1 
+peu restrictifs.
+1.  Les covenants sont des clauses contractuelles décrivant l’ensemble des obligations financières que l’emprunteur doit 
+respecter sous peine de remboursement anticipé du prêt (le plus souvent il s’agit de seuils de ratios à respecter, par 
+exemple pour le ratio dettes/fonds propres).
+
+----- page 3 -----
+3
+—
+3
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 328 : La dette mezzanine
+2.  AUTRES AVANTAGES ET INCONVÉNIENTS 
+DU FINANCEMENT MEZZANINE POUR UNE ENTREPRISE
+Avantages
+Inconvénients
+—  Comble des lacunes de financement et 
+fournit des capitaux pour réaliser des 
+projets ;
+—  Améliore la structure du bilan et 
+donc la solvabilité, ce qui peut influer 
+favorablement sur sa marge de 
+manœuvre financière ;
+—  Renforce la structure du bilan sans 
+devoir subir de dilution ni de pertes de 
+droits de propriété ;
+—  Permet de déduire les intérêts des 
+impôts et d’aménager la rémunération 
+de manière souple ;
+—  Donne plus de liberté à l’entreprise, car 
+le droit de cogestion de l’investisseur 
+mezzanine est limité.
+—  Engendre des coûts plus élevés que le 
+financement classique par des crédits ;
+—  Met des fonds à disposition de 
+l’entreprise pour une durée limitée 
+seulement, contrairement aux fonds 
+propres « purs » ;
+—  Exige une plus grande transparence.
+RÉFÉRENCES
+•  Vernimmen, Finance d’entreprise 2021.

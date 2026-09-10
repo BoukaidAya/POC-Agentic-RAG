@@ -1,0 +1,81 @@
+
+----- page 1 -----
+05/2021
+1
+—
+3
+© Banque de France
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les titres participatifs 
+(TP)
+323
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 323 : Les titres participatifs (TP) - 11/2023
+MOTS CLÉS
+titres participatifs, 
+capitaux propres, 
+quasi-fonds propres
+SOMMAIRE
+1.  PRÉSENTATION GÉNÉRALE	
+2
+2.  TRAITEMENT COMPTABLE	
+2
+3.  TRAITEMENT FISCAL	
+2
+
+----- page 2 -----
+2
+—
+3
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 323 : Les titres participatifs (TP) - 11/2023
+1.  PRÉSENTATION GÉNÉRALE
+Les titres participatifs (TP) ont été créés en 1983 afin d’aider à la recapitalisation d’entreprises d’État. 
+L’État souhaitait renforcer les capitaux propres des sociétés qu’il venait de nationaliser sans céder de 
+droits de vote. Ils sont émis uniquement par les sociétés du secteur public, les sociétés anonymes 
+coopératives et les compagnies d’assurance.
+Aussi, les titres participatifs sont-ils des valeurs mobilières sans droit de vote, mais qui prévoient 
+une rémunération compensatrice. Leur rémunération est basée à la fois sur une partie fixe et sur 
+une partie variable. La partie variable est indexée sur les performances de l’entreprise : elle peut être 
+fonction de la croissance du chiffre d’affaires, de la production ou encore du résultat net.
+Ce sont des titres subordonnés de dernier rang : en cas de liquidation de la société, leurs détenteurs 
+ne sont désintéressés qu’après le remboursement de tous les créanciers.
+Les porteurs de titres participatifs ont les mêmes droits que les actionnaires en matière de 
+communication des documents sociaux.
+Les entreprises ayant émis des titres participatifs proposent souvent à leurs actionnaires de 
+les échanger contre des actions ordinaires. Cependant, il existe encore une quinzaine de titres 
+participatifs cotés sur Euronext Paris qui ont été émis entre 1983 et 1987. Sans échéance, ces titres ne 
+peuvent être retirés qu’en cas d’OPA réussie, ou de remboursement par l’émetteur selon les clauses 
+du prospectus. Ils peuvent intéresser les investisseurs à la recherche d’un rendement « perpétuel » 
+ne craignant pas l’illiquidité des titres.
+2.  TRAITEMENT COMPTABLE
+Apparaissant sous la rubrique « autres fonds propres » du Plan comptable général, ils sont considérés 
+comme des quasi-capitaux propres, voire comme des capitaux propres 1. 
+3.  TRAITEMENT FISCAL
+Le régime fiscal des titres participatifs est celui des obligations ordinaires, avec tout de même une 
+différence. Les coupons des TP émis avant le 1er janvier 1987 font l’objet d’une retenue à la source de 
+10 % (c’est le cas pour toutes les obligations émise avant 1987) qui est restituée sous forme de crédit 
+d’impôt. Outre cette retenue à la source, la fiscalité est similaire à celle des obligations (prélèvement 
+libératoire ou intégration dans les revenus pour les coupons).
+Depuis 2018, le prélèvement forfaitaire unique de 30 % est appliqué sur les coupons et les plus‑values 
+enregistrées en cas de revente.  
+La rémunération souvent élevée versée aux titulaires de TP est en principe déductible pour la société 
+émettrice.
+1.  Règlement ANC 2014-03, article 934-1.
+
+----- page 3 -----
+3
+—
+3
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 323 : Les titres participatifs (TP) - 11/2023
+RÉFÉRENCES
+•  Code de commerce art. L228-36 et s. L228-37, L228-97.
+•  Code monétaire et financier art. L213-32 et s.
+•  Décret n° 2009-297 du 16 mars 2009 pris pour l’application de l’ordonnance n° 2009-15  
+du 8 janvier 2009 relative aux instruments financiers.
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=157E52A02A4850E849A8A3FD1076E55E.tpdjo07v_3?idSectionTA=LEGISCTA000006161284&cidTexte=LEGITEXT000005634379&dateTexte=20100323
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=157E52A02A4850E849A8A3FD1076E55E.tpdjo07v_3?idSectionTA=LEGISCTA000006161284&cidTexte=LEGITEXT000005634379&dateTexte=20100323
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=A04E531958672B8B3E3C13D516649309.tpdjo16v_3?idSectionTA=LEGISCTA000006178844&cidTexte=LEGITEXT000005634379&dateTexte=20080220
+[lien] http://legifrance.gouv.fr/affichCode.do;jsessionid=3774DC3D6425C2CC3ED910A4167136E8.tpdjo09v_2?idSectionTA=LEGISCTA000006170128&cidTexte=LEGITEXT000006072026&dateTexte=20030801
+[lien] http://www.legifrance.gouv.fr/affichTexte.do;jsessionid=7ACE553353852347361FFD3FBCB08715.tpdjo11v_1?cidTexte=JORFTEXT000020402041&categorieLien=id
+[lien] https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020052506/?isSuggest=true

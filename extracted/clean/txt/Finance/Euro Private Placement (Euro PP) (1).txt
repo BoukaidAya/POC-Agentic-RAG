@@ -1,0 +1,580 @@
+
+----- page 1 -----
+05/2021
+—
+© Banque de France
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les établissements
+du secteur bancaire
+MOTS CLÉS
+établissements de crédit,
+sociétés de financement
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+2. LES OPÉRATIONS EFFECTUÉES ET LES INTERDICTIONS
+3. CONDITIONS D’ACCÈS À LA PROFESSION
+4. LES BANQUES « COMMERCIALES »
+5. LES BANQUES MUTUALISTES OU COOPÉRATIVES
+6. LES ÉTABLISSEMENTS DE CRÉDIT SPÉCIALISÉS
+7. LES CAISSES DE CRÉDIT MUNICIPAL
+8. LES SOCIÉTÉS DE FINANCEMENT
+9. LES COMPAGNIES FINANCIÈRES ET ENTREPRISES MÈRES
+DE SOCIÉTÉ DE FINANCEMENT
+10. LA BANQUE POSTALE
+11. LES INTERMÉDIAIRES EN OPÉRATIONS DE BANQUE
+ET SERVICES DE PAIEMENT
+12. LES NÉO-BANQUES ET BANQUES EN LIGNE
+NB Pour plus d’informations sur le crédit-bail, voir la fiche 415.
+Pour plus d’informations sur le cautionnement mutuel, voir la fiche 503.
+
+----- page 2 -----
+—
+© Banque de France
+1. PRÉSENTATION GÉNÉRALE
+Suite à l’entrée en vigueur au 1er janvier 2014 du règlement (UE) N° 575/2013 du 26 juin 2013
+concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises
+d’investissement européen 1, qui harmonise la notion d’établissement de crédit au niveau
+communautaire, il existe deux catégories d’établissements du secteur bancaire (articles L. 511-1
+à 511-4 du Code monétaire et financier) :
+— les établissements de crédit, dont la définition est issue du CRR et qui bénéficient d’un statut
+européen,
+— les sociétés de financement dont la définition et le statut sont nationaux.
+Les établissements de crédit sont des personnes morales dont l’activité consiste, pour leur propre compte
+et à titre de profession habituelle, à recevoir des fonds remboursables du public et à octroyer des crédits.
+Sont considérés comme fonds remboursables du public, les fonds qu’une personne recueille d’un tiers,
+notamment sous forme de dépôts, avec le droit d’en disposer pour son propre compte mais à charge pour
+elle de les restituer (article L.312-2 du Code monétaire et financier). Cette notion est relativement large car
+elle inclut l’émission de titres de créances, dans des conditions et limites toutefois précisées par décret.
+Les sociétés de financement sont des personnes morales, autres que des établissements de crédit,
+qui effectuent à titre de profession habituelle et pour leur propre compte des opérations de crédit
+dans les conditions et limites définies par leur agrément. Elles ne sont pas autorisées à recevoir des
+fonds remboursables du public.
+2. LES OPÉRATIONS EFFECTUÉES ET LES INTERDICTIONS
+Les établissements de crédit et les sociétés de financement peuvent également effectuer des
+opérations connexes à leur activité (article L. 311-2 du Code monétaire et financier). Les opérations
+connexes sont les suivantes :
+1. Les opérations de change ;
+2. Les opérations sur or, métaux précieux et pièces ;
+3. Le placement, la souscription, l’achat, la gestion, la garde et la vente de valeurs mobilières et de
+tout produit financier ;
+4. Le conseil et l’assistance en matière de gestion de patrimoine ;
+5. Le conseil et l’assistance en matière de gestion financière, l’ingénierie financière et d’une manière
+générale tous les services destinés à faciliter la création et le développement des entreprises,
+sous réserve des dispositions législatives relatives à l’exercice illégal de certaines professions ;
+6. Les opérations de location simple de biens mobiliers ou immobiliers pour les établissements
+habilités à effectuer des opérations de crédit-bail ;
+7. Les services de paiement (article L. 314-1 du Code monétaire et financier) ;
+8. L’émission et la gestion de monnaie électronique.
+1. En anglais : « Capital Requirements Regulation » – CRR.
+
+----- page 3 -----
+—
+© Banque de France
+Les établissements de crédit peuvent effectuer l’ensemble de ces opérations, en revanche les
+sociétés de financement ne peuvent exercer que les opérations mentionnées aux 1, 2, 5 et 6.
+Lorsqu’il constitue la fourniture de services d’investissement (article L. 321-1 du Code monétaire
+et financier), l’exercice des opérations connexes et de l’activité de conservation est subordonné
+à la délivrance d’un agrément préalable par l’Autorité de contrôle prudentiel et de résolution
+(article L. 532‐1 du Code monétaire et financier).
+Les établissements de crédit et les sociétés de financement peuvent, en outre, dans des conditions
+définies par le ministre chargé de l’économie, prendre et détenir des participations dans des
+entreprises existantes ou en création (article L. 511-2 du Code monétaire et financier).
+Les établissements de crédit et les sociétés de financement ne peuvent exercer à titre habituel une
+activité autre que celles mentionnées ci-dessus que dans des conditions définies par le ministre
+chargé de l’économie. Ces opérations doivent, en tout état de cause, demeurer d’une importance
+limitée par rapport à l’ensemble des activités habituelles de l’établissement et ne pas empêcher,
+restreindre ou fausser le jeu de la concurrence sur le marché considéré (article L. 511-3 du Code
+monétaire et financier).
+Il est interdit à toute personne autre qu’un établissement de crédit ou une société de financement
+d’effectuer des opérations de banque à titre habituel. Il est, en outre, interdit à toute entreprise autre
+qu’un établissement de crédit de recevoir du public des fonds remboursables ou de fournir des
+services bancaires de paiement.
+Toutefois, ces interdictions ne concernent pas un certain nombre d’institutions, services, organismes
+ou associations définies aux articles L.511-5 à L.511-8 du Code monétaire et financier.
+3. CONDITIONS D’ACCÈS À LA PROFESSION
+3.1. Agrément
+Avant d’exercer leur activité, les établissements de crédit et les sociétés de financement doivent obtenir
+un agrément délivré par l’Autorité de contrôle prudentiel et de résolution (ACPR) (articles L. 511-9
+à L. 511-20 du Code monétaire et financier).
+Les établissements de crédit sont agréés en qualité de banque 2, de banque mutualiste ou coopérative,
+d’établissement de crédit spécialisé ou de caisse de crédit municipal.
+Les banques mutualistes ou coopératives, les établissements de crédit spécialisés et les caisses de
+crédit municipal peuvent effectuer toutes les opérations de banque dans le respect des limitations
+qui résultent des textes législatifs et réglementaires qui les régissent (cf. infra).
+3.1.1. Dispositions comptables
+Les établissements de crédit et les sociétés de financement doivent disposer d’un capital libéré
+ou d’une dotation versée d’un montant au moins égal à une somme fixée par le ministre chargé
+de l’économie.
+2. Les banques peuvent effectuer toutes les opérations de banque c’est-à-dire la réception des fonds remboursables
+du public, les opérations de crédit, ainsi que les services bancaires de paiement (art. L. 311-1 du Code monétaire
+et financier).
+[lien] http://www.acp.banque-france.fr/accueil.html
+
+----- page 4 -----
+—
+© Banque de France
+3.1.2. Répartition du capital
+Les modifications dans la répartition du capital d’un établissement de crédit ou d’une société de
+financement doivent être notifiées à l’ACPR et autorisées par cette dernière. Elle vérifie notamment
+que ces opérations ne remettent pas en cause les conditions auxquelles est subordonné l’agrément
+délivré à l’établissement de crédit.
+3.1.3. Autre disposition
+L’administration centrale de tout établissement de crédit ou de société de financement soumis à un
+agrément doit être située sur le même territoire national que son siège statutaire.
+3.1.4. Refus ou retrait d’agrément
+L’ACPR statue dans un délai de douze mois à compter de la réception de la demande d’agrément.
+Tout refus d’agrément est notifié au demandeur.
+L’ACPR établit et tient à jour la liste des établissements de crédit qui est publiée au Journal officiel de
+la République française (cf. la liste des établissements de crédit sur le site de la Banque de France).
+Le retrait d’agrément est prononcé par l’ACPR à la demande de l’entreprise. Il peut aussi être décidé
+d’office par l’Autorité si l’entreprise ne remplit plus les conditions ou les engagements auxquels était
+subordonné son agrément ou une autorisation ultérieure, ou si l’entreprise n’a pas fait usage de son
+agrément dans un délai de douze mois ou lorsqu’elle n’exerce plus son activité depuis au moins six mois.
+Le retrait d’agrément prend effet à l’expiration d’une période dont la durée est déterminée par l’ACPR.
+Pendant cette période :
+1. L’établissement de crédit ou la société de financement demeure soumis au contrôle de l’ACPR et,
+le cas échéant, de l’Autorité des marchés financiers (AMF, cf. fiche 233). L’ACPR peut prononcer
+à son encontre des sanctions disciplinaires, y compris la radiation ;
+2. L’établissement de crédit ou la société de financement ne peut effectuer que les opérations
+strictement nécessaires à l’apurement de sa situation et doit limiter les autres activités ;
+3. L’entreprise ne peut faire état de sa qualité d’établissement de crédit ou de société de financement,
+selon les cas, qu’en précisant que son agrément est en cours de retrait.
+3.2. Organes de la profession
+Tout établissement de crédit ou société de financement est tenu d’adhérer à un organisme
+professionnel ou à un organe central affilié à l’Association française des établissements de crédit et
+des entreprises d’investissement (article L. 511-29 du Code monétaire et financier).
+3.2.1. L’Association française des établissements de crédit et des entreprises d’investissement
+L’Association française des établissements de crédit, des sociétés de financement et des entreprises
+d’investissement (AFECEI) a pour objet la représentation des intérêts collectifs des entreprises du
+secteur bancaire et financier auprès des pouvoirs publics, l’information de ses adhérents et du public,
+l’étude de toute question d’intérêt commun et l’élaboration de recommandations en vue de favoriser
+la coopération entre les réseaux. Elle a également pour objet l’élaboration de codes de conduite
+applicables aux établissements de crédit et entreprises d’investissement qu’elle représente en vue
+de leur homologation.
+[lien] http://acpr.banque-france.fr/agrements-et-autorisations/registres-et-listes/regafi-et-liste-des-agents-financiers.html
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=6A79142C228CFFFFD133E1D939F00D7D.tpdjo09v_1?idSectionTA=LEGISCTA000006184702&cidTexte=LEGITEXT000006072026&dateTexte=20100930
+[lien] http://www.afecei.asso.fr/Web/afecei/content.nsf?Opendatabase
+
+----- page 5 -----
+—
+© Banque de France
+L’AFECEI a également la possibilité d’engager un dialogue social sur les questions d’ordre
+général concernant l’ensemble des établissements de crédit, des sociétés de financement, des
+établissements de paiement et des entreprises d’investissement avec les organisations syndicales
+représentatives de ce secteur.
+L’AFECEI a notamment pour adhérents des organes centraux (cf. 1.3.2.2) et des organismes
+professionnels tels que la FBF et l’ASF (cf. 1.3.2.3 et 1.3.2.4)
+3.2.2. Les organes centraux
+Sont considérés comme organes centraux, le Crédit agricole S.A. (CASA), l’organe central des
+Caisses d’épargne et des Banques populaires (BPCE) et la Confédération nationale du Crédit mutuel
+(articles L. 511-30 et L. 511-31 du Code monétaire et financier).
+Ils représentent les établissements de crédit et les sociétés de financement qui leur sont affiliés
+auprès de la Banque de France et de l’Autorité de contrôle prudentiel et de résolution.
+3.2.3. La Fédération bancaire française (FBF)
+La FBF est l’organisation professionnelle qui représente toutes les banques installées en France.
+Elle compte 337 entreprises bancaires adhérentes de toutes origines (commerciales, coopératives
+ou mutualistes), françaises ou étrangères.
+Elle a pour objectif de promouvoir l’activité bancaire et financière sur les marchés français,
+européens et internationaux, et de définir les positions et propositions de la profession vis-à-vis
+des pouvoirs publics et des autorités du domaine économique et financier. Elle diffuse également
+des recommandations professionnelles et des conventions, et met son expérience à la disposition
+de ses membres. La FBF a aussi pour mission d’informer les banques adhérentes de toute question
+relative à leurs activités.
+3.2.4. L’Association française des sociétés financières (ASF)
+L’ASF est l’organisme professionnel des établissements de crédit spécialisés. Elle défend la
+spécialisation en matière de crédit, services financiers et services d’investissement.
+Elle compte 270 adhérents, sociétés financières, banques spécialisées et entreprises d’investissement.
+Les prestations proposées par l’ASF sont l’information juridique et économique, la concertation entre
+les membres, les actions professionnelles auprès des autorités nationales et européennes 3 (l’ASF
+est l’interlocutrice des autorités du crédit, des pouvoirs publics, des instances européennes, mais
+aussi des organisations syndicales du métier).
+L’ASF entretient un dialogue avec les organisations de consommateurs (institution d’un Médiateur
+dès 1995, livret co-rédigé sur le crédit à la consommation, accords sur la lisibilité des relevés de
+compte et sur le recouvrement).
+3. L’ASF est membre de trois associations européennes : Eurofinas (crédit à la consommation), Leaseurope (crédit-bail)
+et EUFederation (affacturage).
+[lien] http://www.fbf.fr/Web/Internet2010/Content.nsf?OpenDatabase
+[lien] https://www.asf-france.com/
+[lien] http://www.eurofinas.org/
+[lien] http://www.leaseurope.org/
+[lien] http://www.euf.eu.com/
+
+----- page 6 -----
+—
+© Banque de France
+3.2.5. L’Association française des banques (AFB)
+L’AFB assure une mission de syndicat patronal, sur le champ de la convention collective de la banque
+de janvier 2000, pour les banques dites commerciales et le groupe Banque populaire. Elle est l’acteur
+patronal du dialogue social et de la négociation avec les organisations syndicales (convention
+collective, salaires, emploi, formation professionnelle...).
+Représentant des employeurs dans le dialogue social et la négociation avec les organisations
+syndicales, la direction des Affaires sociales avec l’appui d’une délégation patronale propose au
+Conseil de l’AFB les orientations sociales de la branche. Ses activités couvrent trois domaines : la
+réflexion collective et la gestion des dossiers communs, le service aux adhérents et la représentation
+de la profession, notamment aux niveaux interprofessionnel et européen.
+En outre, l’AFB assure la liaison entre les différentes catégories de banques et recueille leurs avis pour
+préparer, notamment à l’occasion des réunions de son Conseil, la participation de son représentant
+aux travaux du Comité exécutif de la Fédération bancaire française (FBF) dans les domaines bancaire
+et financier. L’AFB est membre de la FBF.
+3.3. Le secret professionnel
+Tout membre d’un conseil d’administration ou d’un conseil de surveillance et toute personne qui participe
+à la direction ou à la gestion d’un établissement de crédit ou d’une société de financement ou qui y est
+employée sont tenus au secret professionnel (article L. 511-33 à L. 511-34 du Code monétaire et financier).
+Outre les cas où la loi le prévoit, le secret professionnel ne peut être opposé ni à l’Autorité de contrôle
+prudentiel et de résolution, ni à la Banque de France ainsi qu’à l’autorité judiciaire agissant dans le
+cadre d’une procédure pénale.
+Les établissements de crédit ou les sociétés de financement peuvent communiquer des informations
+couvertes par le secret professionnel aux agences de notation pour les besoins de la notation des
+produits financiers ainsi qu’aux personnes avec lesquelles ils négocient, concluent ou exécutent
+les opérations visées à l’article L. 511-33 du Code monétaire et financier. Ils peuvent également
+communiquer des informations couvertes par le secret professionnel au cas par cas et uniquement
+lorsque les personnes concernées leur ont expressément permis de le faire.
+3.4. Dispositions comptables
+3.4.1. Comptes sociaux et documents comptables
+Les dispositions du Code de commerce relatives aux comptes sociaux sont applicables à tous
+les établissements de crédit et sociétés de financement dans des conditions fixées par l’Autorité
+des normes comptables après avis du Comité consultatif de la législation et de la réglementation
+financières (articles L. 511-35 à L. 511-37 du Code monétaire et financier).
+Lorsqu’ils établissent leurs comptes sous une forme consolidée, les établissements de crédit et
+les sociétés de financement le font selon les règles définies par règlement de l’Autorité des normes
+comptables pris après avis du Comité consultatif de la législation et de la réglementation financières.
+Toutefois, ils sont dispensés de se conformer à ces règles lorsqu’ils utilisent les normes comptables
+internationales adoptées par règlement de la Commission européenne.
+Tout établissement de crédit ou société de financement doit publier ses comptes annuels dans
+des conditions fixées par l’Autorité des normes comptables après avis du Comité consultatif de la
+législation et de la réglementation financières.
+[lien] https://www.afb.fr/
+
+----- page 7 -----
+—
+© Banque de France
+3.4.2. Commissaires aux comptes
+Le contrôle est exercé dans chaque établissement de crédit ou société de financement par au
+moins deux commissaires aux comptes. Ces commissaires sont désignés après avis de l’Autorité
+de contrôle prudentiel et de résolution, dans des conditions fixées par décret. L’Autorité de contrôle
+prudentiel et de résolution peut en outre, lorsque la situation le justifie, procéder à la désignation
+d’un commissaire aux comptes supplémentaire (articles L. 511-38 et L. 511-39 du Code monétaire
+et financier). Le contrôle peut toutefois être exercé par un seul commissaire aux comptes lorsque le
+total du bilan de l’établissement est inférieur à 450 millions d’euros 4.
+Les commissaires aux comptes doivent présenter toutes les garanties d’indépendance à l’égard des
+établissements de crédit et des sociétés de financement contrôlés.
+3.5. Disposition prudentielle et contrôle interne
+(articles L. 511-41 à L. 511-45 du Code monétaire et financier)
+Les établissements de crédit et les sociétés de financement sont tenus de respecter des normes
+de gestion destinées à garantir leur liquidité et leur solvabilité à l’égard des déposants et, plus
+généralement, des tiers, ainsi que l’équilibre de leur structure financière.
+Ils doivent en particulier respecter des ratios de couverture et de division de risques.
+Les établissements de crédit et les sociétés de financement doivent également respecter des normes
+relatives à la solvabilité et de liquidité, ils peuvent être autorisés à utiliser leurs approches internes
+d’évaluation des risques et disposer d’un système adéquat de contrôle interne leur permettant
+notamment de mesurer les risques et la rentabilité de leurs activités, y compris lorsqu’ils confient
+à des tiers des fonctions ou autres tâches opérationnelles essentielles ou importantes. Lorsque
+la surveillance est exercée sur la base de la situation financière consolidée, les groupes financiers
+ou mixtes doivent adopter des procédures de contrôle interne adéquates pour la production des
+informations et renseignements utiles aux fins de l’exercice de cette surveillance. Les établissements
+de crédit et les sociétés de financement notifient à l’Autorité de contrôle prudentiel et de résolution
+les transactions importantes entre les établissements de crédit ou les sociétés de financement d’un
+groupe mixte et la compagnie mixte ou ses filiales.
+4. LES BANQUES « COMMERCIALES »
+Elles sont habilitées à effectuer toutes les opérations de banque. Plus de la moitié des effectifs
+travaille au sein des « trois grandes » que sont la BNP, la Société générale et le Crédit Lyonnais/
+Crédit agricole. Les autres exercent leur activité dans des banques à vocation générale, régionales
+et locales, des banques de marché et des banques de financement spécialisé.
+4. Le seuil est porté à 4 500 millions d’euros si l’établissement est affilié à un organe central.
+
+----- page 8 -----
+—
+© Banque de France
+5. LES BANQUES MUTUALISTES OU COOPÉRATIVES
+Les banques mutualistes et coopératives ont pour particularité que leurs clients (personnes physiques
+ou morales) sont aussi leurs actionnaires ou sociétaires.
+Elles peuvent procéder à une offre au public de titres financiers. Elles peuvent également procéder à
+une offre au public de leurs parts sociales, c’est-à-dire des parts de capital social, dans les conditions
+fixées par le règlement général de l’Autorité des marchés financiers.
+5.1. Les Banques populaires
+5.1.1. Dispositions générales
+Les Banques populaires ne peuvent faire d’opérations qu’avec des commerçants, industriels,
+fabricants, artisans, patrons bateliers, sociétés commerciales et les membres des professions
+libérales pour l’exercice normal de leur industrie, de leur commerce, de leur métier ou de leur
+profession.
+Elles sont toutefois habilitées à prêter leurs concours à leurs sociétaires et à participer à la réalisation
+de toutes opérations garanties par une société de caution mutuelle.
+Elles peuvent également recevoir des dépôts de toute personne ou société.
+Les statuts de chaque Banque populaire indiquent si la société étend à d’autres personnes que ses
+sociétaires le bénéfice de ses opérations.
+Ils stipulent que les ouvertures de crédit sont accordées dans les limites déterminées pour la banque
+par l’organe central des Caisses d’épargne et des Banques populaires.
+5.1.2. Le réseau
+Le réseau des Banques populaires comprend les Banques populaires, les sociétés de caution mutuelle
+leur accordant statutairement l’exclusivité de leur cautionnement et la société de participations du
+réseau des Banques populaires.
+5.2. Le Crédit agricole
+Les caisses de Crédit agricole évoquées ci-dessous sont les caisses de Crédit agricole mutuel et
+l’organe central du Crédit agricole.
+5.2.1. Les caisses de Crédit agricole mutuel
+Les caisses de Crédit agricole mutuel ont notamment pour objet de faciliter et de garantir les
+opérations concernant la production agricole et l’équipement agricole et rural effectuées par leurs
+sociétaires.
+Elles admettent comme sociétaires les groupements agricoles ou leurs membres, les collectivités,
+associations et organismes dont la liste est fixée par décret ainsi que les artisans ruraux n’employant
+pas plus de deux ouvriers de façon permanente.
+Elles peuvent recevoir de toute personne des dépôts de fonds avec ou sans intérêt et tout dépôt de
+titres mais ne peuvent émettre des bons de caisse à échéance variable, avec ou sans intérêt, qu’en
+faveur des agriculteurs domiciliés dans la circonscription de la caisse régionale.
+
+----- page 9 -----
+—
+© Banque de France
+5.2.2. L’organe central du Crédit agricole (CASA)
+L’organe central du Crédit agricole est une société anonyme chargée de faciliter, de coordonner,
+de contrôler la réalisation des opérations et habilitée à recevoir tous dépôts de fonds et de titres.
+Il contrôle le fonctionnement de toutes les institutions ou collectivités ayant reçu, directement ou
+indirectement, des avances, des prêts à long terme ainsi que des prêts des caisses de Crédit agricole mutuel.
+5.3. Le Crédit mutuel
+Les caisses de Crédit mutuel ont exclusivement pour objet le crédit mutuel. Elles peuvent recevoir
+des dépôts de toute personne physique ou morale et admettre des tiers non sociétaires à bénéficier
+de leurs concours ou de leurs services dans les conditions fixées par leurs statuts.
+Les caisses locales de Crédit mutuel doivent constituer entre elles des caisses départementales ou
+interdépartementales, qui elles-mêmes doivent constituer entre elles la caisse centrale du Crédit mutuel.
+5.4. Les sociétés coopératives de banque
+Les sociétés coopératives de banque sont des établissements de crédit.
+Elles sont constituées comme des sociétés à capital fixe ayant la forme d’union de coopératives.
+Seules peuvent être sociétaires, les sociétés coopératives, les sociétés mutualistes et les sociétés
+d’assurance à forme mutuelle régies par le Code des assurances, ainsi que, dans la limite de 30 %
+du capital et des droits de vote, les associations sans but lucratif régies par la loi du 1er juillet 1901 ou
+par les dispositions applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+Elles peuvent recevoir des dépôts de toute personne physique ou morale. Elles doivent accorder 80 %
+au moins de leurs concours à leurs sociétaires, aux membres de ceux-ci, à des sociétés coopératives,
+à des sociétés mutualistes ou des sociétés à forme mutuelle régies par le code des assurances,
+à des associations sans but lucratif régies par la loi du 1er juillet 1901 ou la loi locale applicable
+dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle ainsi qu’à des collectivités ou
+établissements publics et des sociétés d’économie mixte.
+5.5. Le crédit maritime mutuel
+Le crédit maritime mutuel a pour objet de faciliter le financement des opérations et des investissements
+relatifs aux pêches maritimes, aux cultures marines et aux activités qui s’y rattachent, ainsi qu’à
+l’extraction des sables, graviers et amendements marins et à la récolte des végétaux provenant de
+la mer ou du domaine maritime.
+Les établissements de crédit maritime mutuel peuvent également effectuer toute opération de banque
+en faveur de leurs sociétaires et de ceux de l’organe central des Caisses d’épargne et des Banques
+populaires et recevoir de toute personne des dépôts de fonds et de titres.
+Le crédit maritime mutuel est pratiqué par les caisses régionales de crédit maritime mutuel, les
+unions de crédit maritime mutuel que des caisses régionales peuvent former entre elles et une société
+centrale de crédit maritime mutuel.
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069570&dateTexte=&categorieLien=cid
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=LEGITEXT000006069570&dateTexte=&categorieLien=cid
+
+----- page 10 -----
+—
+© Banque de France
+5.6. L’organe central des Caisses d’épargne et des Banques populaires (BPCE)
+BPCE est l’organe central commun aux Caisses d’épargne et aux Banques populaires depuis le
+31 juillet 2009 5. Il est en charge de la stratégie, du contrôle, de la coordination et de l’animation du
+groupe, dont il garantit la solvabilité.
+BPCE est détenu à parité par les 15 Caisses d’épargne et les 14 Banques populaires.
+BPCE exerce notamment les compétences suivantes :
+— définir la politique et les orientations stratégiques du groupe et de ses réseaux,
+— coordonner les politiques commerciales,
+— représenter le groupe et ses réseaux en tant qu’employeur,
+— mettre en œuvre tous les moyens permettant de piloter le groupe en matière de liquidité, de
+solvabilité, de maîtrise des risques et de contrôle interne.
+Le groupe BPCE développe un modèle original de banque universelle reposant sur une architecture
+à trois niveaux :
+— les deux réseaux coopératifs avec les 14 Banques populaires et les 15 Caisses d’épargne,
+— l’organe central (BPCE),
+— les filiales dont Natixis (BPCE détient directement plus de 70 % du capital de Natixis), structure
+cotée qui réunit la Banque de financement et d’investissement, l’épargne et les services financiers,
+le Crédit foncier, la Banque Palatine, les banques du réseau BPCE International et Outre-mer.
+5.7. Le réseau des Caisses d’épargne
+Le réseau des Caisses d’épargne a pour objet la promotion et la collecte de l’épargne ainsi que le
+développement de la prévoyance, pour satisfaire notamment les besoins collectifs et familiaux.
+Il contribue à la protection de l’épargne populaire, au financement du logement social, à l’amélioration
+du développement économique local et régional et à la lutte contre l’exclusion bancaire et financière
+de tous les acteurs de la vie économique, sociale et environnementale.
+Le réseau des Caisses d’épargne comprend notamment les Caisses d’épargne et de prévoyance,
+les sociétés locales d’épargne, la Fédération nationale des Caisses d’épargne et de prévoyance.
+5.7.1. Les Caisses d’épargne et de prévoyance
+Sociétés coopératives, les Caisses d’épargne et de prévoyance sont des établissements de crédit.
+Elles peuvent exercer toutes les opérations de banque.
+5.7.2. Les sociétés locales d’épargne
+Les sociétés locales d’épargne sont des sociétés coopératives. Elles ne peuvent pas faire d’opérations
+de banque ou fournir des services de paiement.
+5. Il s’est substitué à la Caisse nationale des Caisses d’épargne et à la Banque fédérale des Banques populaires.
+Il est constitué en société anonyme à directoire et conseil de surveillance et a le statut d’établissement de crédit.
+
+----- page 11 -----
+—
+© Banque de France
+5.7.3. La Fédération nationale des Caisses d’épargne et de prévoyance
+La Fédération nationale des Caisses d’épargne et de prévoyance est constituée selon les modalités
+prévues par la loi du 1er juillet 1901 relative au contrat d’association. Elle regroupe l’ensemble des
+Caisses d’épargne et de prévoyance.
+6. LES ÉTABLISSEMENTS DE CRÉDIT SPÉCIALISÉS
+Les établissements de crédit spécialisés ne peuvent effectuer que les opérations de banque résultant
+des dispositions législatives et réglementaires qui leur sont propres ou de la décision d’agrément
+qui les concerne.
+6.1. Les sociétés de crédit foncier
+Les sociétés de crédit foncier sont des établissements de crédit spécialisés, qui ont pour objet exclusif :
+1. De consentir ou d’acquérir des prêts garantis, des expositions sur des personnes publiques et
+des titres et valeurs ;
+2. Pour le financement de ces catégories de prêts, d’expositions, de titres et valeurs, d’émettre des
+obligations appelées obligations foncières et de recueillir d’autres ressources.
+Les sociétés de crédit foncier peuvent également assurer le financement des activités mentionnées
+ci-dessus par l’émission d’emprunts ou de ressources. Elles peuvent émettre des billets à ordre.
+Les sociétés de crédit foncier peuvent mobiliser l’ensemble des créances qu’elles détiennent, quelle
+que soit la nature, professionnelle ou non, de ces créances.
+Elles ne peuvent pas détenir de participations.
+Les prêts garantis sont des prêts assortis :
+1. D’une hypothèque de premier rang ou d’une sûreté immobilière conférant une garantie au moins
+équivalente ;
+2. Ou, dans des limites et des conditions déterminées par décret en Conseil d’État, sous réserve que
+le prêt garanti soit exclusivement affecté au financement d’un bien immobilier, d’un cautionnement
+d’un établissement de crédit, d’une société de financement ou d’une entreprise d’assurance
+n’entrant pas dans le périmètre de consolidation dont relève la société de crédit foncier.
+La gestion ou le recouvrement des prêts, expositions, créances assimilées, titres et valeurs, des
+obligations ou des autres ressources ne peuvent être assurés que par un établissement de crédit
+ou une société de financement lié à la société de crédit foncier par contrat.
+
+----- page 12 -----
+—
+© Banque de France
+6.2. Les sociétés de financement de l’habitat
+Les sociétés de financement de l’habitat sont des établissements de crédit spécialisés qui ont pour
+objet exclusif de consentir ou de financer des prêts à l’habitat et de détenir des titres et valeurs dans
+les conditions définies par décret en Conseil d’État.
+Pour la réalisation de leur objet, les sociétés de financement de l’habitat peuvent :
+1. Consentir à tout établissement de crédit des prêts garantis par la remise, la cession ou le
+nantissement de créances ;
+2. Acquérir des billets à ordre émis par tout établissement de crédit ;
+3. Consentir des prêts à l’habitat.
+Les prêts à l’habitat consentis ou financés par les sociétés de financement de l’habitat sont :
+1. Destinés, en tout ou partie, au financement d’un bien immobilier résidentiel situé en France ou
+dans un autre État membre de l’Union européenne ou un autre État partie à l’accord sur l’Espace
+économique européen ou dans un État bénéficiant du meilleur échelon de qualité de crédit établi
+par un organisme externe d’évaluation de crédit reconnu par l’Autorité de contrôle prudentiel dans
+les conditions prévues à l’article L. 511-44 ;
+2. Garantis par une hypothèque de premier rang ou une sûreté immobilière conférant une garantie
+au moins équivalente ou par un cautionnement consenti par un établissement de crédit, société
+de financement ou une entreprise d’assurance.
+Les sociétés de financement de l’habitat ne peuvent détenir de participations.
+Pour le financement de leurs opérations, les sociétés de financement de l’habitat peuvent émettre
+des obligations appelées obligations de financement de l’habitat et recueillir d’autres ressources
+(emprunts, billets à ordre, mobilisation de l’ensemble des créances qu’elles détiennent, quelle que
+soit la nature professionnelle ou non, de ces créances).
+7. LES CAISSES DE CRÉDIT MUNICIPAL
+Les caisses de Crédit municipal sont des établissements publics communaux de crédit et d’aide
+sociale. Elles ont notamment pour mission de combattre l’usure par l’octroi de prêts sur gages
+corporels dont elles ont le monopole. Elles peuvent réaliser toutes opérations avec les établissements
+de crédit et les sociétés de financement, recevoir des fonds des personnes physiques et des
+personnes morales, mettre à la disposition de ces personnes des moyens de paiement et réaliser
+avec elles des opérations connexes.
+Leur agrément peut prévoir, en fonction des capacités techniques et financières de la caisse, que
+celle-ci est, en outre, habilitée à exercer les activités suivantes ou l’une d’entre elles :
+1. l’octroi de crédits aux personnes physiques ;
+2. l’octroi de crédits aux établissements publics locaux et aux associations régies par la loi du
+1er juillet 1901 relative au contrat d’association dont l’activité s’exerce dans la zone d’activité
+habituelle de la caisse et dont l’objet présente un intérêt social ou culturel.
+
+----- page 13 -----
+—
+© Banque de France
+8. LES SOCIÉTÉS DE FINANCEMENT
+En raison de l’entrée en vigueur au 1er janvier 2014 du règlement européen « Capital requirements
+regulation » (CRR), qui harmonise la notion d’établissement de crédit au niveau communautaire,
+l’ordonnance n° 2013-544 du 27 juin 2013 a défini de manière plus étroite la notion d’établissement
+de crédit : l’octroi de crédits et la réception de fonds remboursables du public, alors qu’auparavant
+un établissement de crédit pouvait octroyer des crédits sans recevoir effectivement de fonds
+remboursables du public. Dès lors, pour les établissements qui ne reçoivent pas de fonds
+remboursables du public mais qui effectuent des opérations de crédit, un nouveau statut a été
+créé : la société de financement.
+Les sociétés de financement sont donc des personnes morales, autres que des établissements de
+crédit, qui effectuent à titre de profession habituelle et pour leur propre compte des opérations de crédit.
+Le régime législatif des sociétés de financement suit celui des établissements de crédit.
+Les articles L. 511-1 à 511-20 du Code monétaire et financier concernent non seulement les
+établissements de crédit mais aussi les sociétés de financement (cf. paragraphe 1).
+Un dispositif transitoire a été élaboré pour les sociétés financières. Au 1er janvier 2014, les sociétés
+financières sont devenues de plein droit des établissements de crédit au sens européen relevant de
+la catégorie d’établissements de crédit spécialisés. Ces sociétés disposent toutefois, à compter du
+1er octobre 2013, d’une période d’un an pour opter pour le nouveau statut de sociétés de financement.
+8.1. Les entreprises de crédit-bail mobilier et immobilier
+Lorsqu’elles ne collectent pas de fonds remboursables du public, les entreprises qui effectuent des
+opérations de crédit-bail doivent être agréées en qualité de sociétés de financement.
+8.2. Les sociétés de caution mutuelle
+Les sociétés de cautionnement mutuel ont pour objet d’apporter, dans le cadre d’une structure coopérative,
+une garantie collective à l’un des sociétaires dans le cadre d’une opération qu’il mène avec un tiers.
+Les sociétés de cautionnement mutuel sont constituées entre commerçants, industriels, artisans,
+sociétés commerciales et membres de professions libérales.
+9. LES COMPAGNIES FINANCIÈRES ET ENTREPRISES MÈRES
+DE SOCIÉTÉ DE FINANCEMENT
+Une compagnie financière holding est un établissement financier qui a pour filiales, exclusivement
+ou principalement, un ou plusieurs établissements de crédit ou entreprises d’investissement 6 ou
+établissements financiers 7.
+Une entreprise mère de société de financement est un établissement financier qui a pour filiales,
+exclusivement ou principalement, une ou plusieurs sociétés de financement ou établissements
+financiers. L’une au moins de ces filiales est une société de financement.
+6. Ces sociétés exercent à titre principal des activités de service en investissement (négociation, gestion pour compte
+de tiers, intermédiation). Les sociétés de bourse sont des entreprises d’investissement.
+7. D’une manière générale, un établissement financier est un établissement qui fait des crédits et/ou reçoit des dépôts.
+
+----- page 14 -----
+—
+© Banque de France
+10. LA BANQUE POSTALE
+En vertu de la loi de régulation des activités postales, les services financiers de La Poste ont été
+séparés des activités postales. Ils ont servi de socle à la création de La Banque Postale, agréée
+le 1er janvier 2006. La Banque Postale est détenue à 100 % par le groupe La Poste 8 dont elle est la
+filiale bancaire.
+La Banque Postale intervient essentiellement sur le marché de la banque de détail aux particuliers
+mais s’adresse également aux entreprises (elle accueille près de 11 millions de clients actifs).
+Le réseau des bureaux de poste lui permet de réaliser les opérations bancaires avec sa clientèle.
+Elle intervient dans quatre grands domaines d’activité : l’argent au quotidien, l’épargne et l’assurance,
+le crédit et la prévoyance.
+11. LES INTERMÉDIAIRES EN OPÉRATIONS DE BANQUE
+ET SERVICES DE PAIEMENT
+Est intermédiaire en opérations de banque et en services de paiement toute personne qui, à titre
+de profession habituelle, contre une rémunération ou toute autre forme d’avantage économique,
+met en rapport les parties intéressées à la conclusion d’une opération de banque ou d’un service
+de paiement.
+L’activité d’intermédiaire en opérations de banque et en services de paiement ne peut s’exercer
+qu’entre deux personnes dont l’une au moins est un établissement de crédit, une société de
+financement, un établissement de monnaie électronique qui fournit des services de paiement ou un
+établissement de paiement. L’intermédiaire en opérations de banque et en services de paiement agit
+en vertu d’un mandat délivré par cet établissement. Ce mandat mentionne la nature et les conditions
+des opérations que l’intermédiaire est habilité à accomplir.
+Les intermédiaires en opérations de banque et en services de paiement sont immatriculés sur le
+registre des intermédiaires en assurance, banque et finance tenu par l’ORIAS (Organisme pour le
+registre unique des intermédiaires en assurance, banque et finance).
+Par contre, le contrôle de l’activité des intermédiaires français est de la compétence de l’Autorité de
+contrôle prudentiel et de résolution (ACPR).
+8. La Poste peut créer, dans les conditions définies par la législation applicable, toute filiale ayant le statut
+d’établissement de crédit, d’entreprise d’investissement, d’établissement de paiement ou d’entreprise d’assurance
+et prend directement ou indirectement toute participation dans de tels établissements ou entreprises. Elle peut
+conclure avec ces établissements ou entreprises toute convention en vue d’offrir, en leur nom et pour leur compte
+et dans le respect des règles de concurrence, toute prestation concourant à la réalisation de leur objet, notamment
+toute prestation relative aux opérations prévues aux articles L. 311-1 et L. 311-2, au II de l’article L. 314-1
+et aux articles L. 321-1, L. 321-2 et L. 522-2 ou à tous produits d’assurance.
+[lien] https://www.orias.fr/welcome
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=6A79142C228CFFFFD133E1D939F00D7D.tpdjo09v_1?idSectionTA=LEGISCTA000006170351&cidTexte=LEGITEXT000006072026&dateTexte=20100930
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=6A79142C228CFFFFD133E1D939F00D7D.tpdjo09v_1?idSectionTA=LEGISCTA000006170352&cidTexte=LEGITEXT000006072026&dateTexte=20100930
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072026&idArticle=LEGIARTI000020861186&dateTexte=&categorieLien=cid
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072026&idArticle=LEGIARTI000006652173&dateTexte=&categorieLien=cid
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=F7D1781DF2C4AC7D61B100BDE28BC4E0.tpdjo09v_1?idArticle=LEGIARTI000022962398&cidTexte=LEGITEXT000006072026&dateTexte=20101028
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072026&idArticle=LEGIARTI000020862294&dateTexte=&categorieLien=cid
+
+----- page 15 -----
+—
+© Banque de France
+12. LES NÉO-BANQUES ET BANQUES EN LIGNE
+Une banque en ligne est systématiquement reliée à une banque « commerciale », elle propose
+une offre équivalente mais dématérialisée. La qualité de la banque est donc omniprésente mais à
+des prix plus attractifs. Parmi les banques en ligne les plus connues du grand public on trouve :
+Boursorama (Société générale), Fortuneo (Crédit mutuel), BforBank (Crédit agricole), Ma French Bank
+(La Banque Postale).
+Les néo-banques ne sont quant à elles que des établissements de paiement ayant obtenu une
+licence bancaire sur un accès 100 % mobile. Contrairement à la banque en ligne, la néo-banque
+ne propose que des produits basiques gratuits (carte bancaire, tenue de compte) mais ne propose
+pas de produits plus large (assurance-vie, livret A). La néo-banque ne laisse pas de possibilité de
+découvert et ne permet pas le dépôt de chèque ou d’espèces. Le plus souvent, la néo-banque est
+utilisée comme un compte annexe.
+RÉFÉRENCES
+• Code monétaire et financier livre V – Titre 1er – Chapitre I à IX
+[lien] http://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006072026&dateTexte=20140404

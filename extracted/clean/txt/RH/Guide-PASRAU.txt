@@ -186,6 +186,8 @@ offres à votre disposition pour consulter les données de votre compte.
 Axé principalement sur les seules pratiques déclaratives, il n’a en revanche pas vocation à aborder les
 aspects règlementaires et législatifs, qui restent à votre disposition via les moyens habituels et notamment
 par la consultation des informations du site urssaf.fr.
+[lien] https://www.net-entreprises.fr/vos-declarations-en-ligne/pasrau/#lessentiel
+[lien] https://www.net-entreprises.fr/vos-declarations-en-ligne/pasrau/#lessentiel
 
 ----- page 7 -----
 1. De clarer ses cotisations Urssaf en
@@ -227,6 +229,7 @@ S21.G00.23.005 : montant de cotisation.
 La donnée n’est pas nécessairement renseignée lorsque l’assiette est présente, en revanche en cas
 d’utilisation d’un CTP d’écrêtement, la donnée renseignée correspond au montant total de réduction
 de cotisations au titre de cet écrêtement.
+[lien] https://fichierdirect.declaration.urssaf.fr/TablesReference.htm
 
 ----- page 8 -----
 Nota bene : « S21.G00.23.006 : code INSEE Commune » - Cette rubrique est supprimée en norme NeoRau
@@ -278,6 +281,8 @@ cotisation n’est pas renseigné.
 Pour aller plus loin dans la compréhension du contexte juridique et de l’utilisation d’un CTP et des taux
 associés, vous pouvez vous rendre sur le lien suivant : https://www.urssaf.fr/portail/home/taux-
 baremes.html.
+[lien] https://www.urssaf.fr/portail/home/taux-baremes.html
+[lien] https://www.urssaf.fr/portail/home/taux-baremes.html
 
 ----- page 10 -----
 1.1.1. Principe d’équivalence entre la maille agrégée et nominative
@@ -356,6 +361,7 @@ Pour chaque rubrique concernée :
 •
 Les spécificités associées au CTP sont indiquées en rouge ;
 Exemple : Rubrique « Qualifiant d’assiette - S21.G00.23.002 » : 920
+[lien] https://www.urssaf.fr/files/live/sites/urssaffr/files/autres/PASRAU-Guide-DIDA.xlsx
 
 ----- page 12 -----
 •
@@ -373,6 +379,8 @@ Le présent Guide n’a pas de valeur réglementaire, les éléments mis à disp
 titre indicatif : pour connaître les taux en vigueur pour les CTP ainsi que la manière de les déclarer il
 convient de se référer à la table des codes types accessible ici :
 https://fichierdirect.declaration.urssaf.fr/TablesReference.htm.
+[lien] https://www.urssaf.fr/portail/home/taux-baremes.html
+[lien] https://fichierdirect.declaration.urssaf.fr/TablesReference.htm
 
 ----- page 13 -----
 1.3. Utiliser les différents formats des CTP :
@@ -632,6 +640,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 1 CTP applicable avant 2019 : 277
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 20 -----
 CTP 042 RR Pré retraite av. 11/10/2007 Taux Réduit
@@ -697,6 +706,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 CTP applicable avant 2019 : 277 (CSG) + 287 (CRDS)
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 21 -----
 CTP 043 RR Préretraite taux plein
@@ -754,6 +764,7 @@ table CCERP : Créer deux blocs « Cotisation individuelle - S21.G00.81 » : un 
 un pour la CRDS (code 079)
 Bloc « Cotisation Individuelle - S21.G00.81 »
 3 CTP applicable avant 2019: 283
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 22 -----
 CTP 043 RR Préretraite taux plein
@@ -827,6 +838,7 @@ Bloc « Cotisation Individuelle - S21.G00.81 »
 •
 Rubrique « Code de cotisation - S21.G00.81.001 » : 134
 4 CTP applicable avant 2019: 022
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 24 -----
 CTP 022 RR Préretraite CASA
@@ -904,6 +916,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 5 CTP applicable avant 2019: 381
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 26 -----
 CTP 052 RR Préretraite Alsace-Moselle
@@ -971,6 +984,7 @@ Rubrique « Identifiant Organisme de Protection Sociale - S21.G00.81.002 » : À
 •
 Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 6 CTP applicable avant 2019: 212
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 28 -----
 CTP 053 RR Préretraite Cot. Maladie Reg Gene
@@ -1070,6 +1084,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 7 CTP applicable avant 2019: 214
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 32 -----
 CTP 054 RR Pré retraite Cot. Maladie Reg Spec.
@@ -1159,6 +1174,7 @@ Rubrique « Identifiant Organisme de Protection Sociale - S21.G00.81.002 » : À
 •
 Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 8 CTP applicable avant 2019: 216
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 35 -----
 CTP 055 RR Pré retraite cot. Maladie Dec. Empl
@@ -1224,6 +1240,7 @@ Le bloc « Cotisation Individuelle - S21.G00.81 » doit porter le code de cotisa
 table CCERP : code « 075 - Cotisation Assurance Maladie »
 Bloc « Cotisation Individuelle - S21.G00.81 »
 9 CTP applicable avant 2019: 306
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 37 -----
 CTP 443 RR Pré retraite N-Résident Reg. Gene.
@@ -1302,6 +1319,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 10 CTP applicable avant 2019 : 306
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 39 -----
 CTP 446 RR Pré retraite N-Résident Reg. Spec.
@@ -1373,6 +1391,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 11 CTP applicable avant 2019: 306
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 41 -----
 CTP 614 RR Préretraites Ecrêtement
@@ -1430,6 +1449,7 @@ Rubrique « Identifiant du droit - S21.G00.78.008 » : À renseigner
 Le bloc « Base assujettie – S21.G00.78 » correspondant aux cotisations écrêtées est utilisé en
 référence. Seul un bloc « Cotisation Individuelle - S21.G00.81 » est ajouté pour matérialiser le montant
 écrêté.
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 42 -----
 CTP 614 RR Préretraites Ecrêtement
@@ -1510,6 +1530,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 44 -----
 CTP 716 RR Contribution Patronale Préretraites
@@ -1565,6 +1586,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 45 -----
 CTP 717 RR Contribution Patronale Préretraites
@@ -1619,6 +1641,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 46 -----
 1.5.2 CTP - Revenus de remplacement – retraite de base
@@ -1629,6 +1652,7 @@ Les pensions de base servies par les organismes de Sécurité sociale ;
 Les pensions de base servies par les régimes spéciaux.
 Pour toute information concernant la réglementation applicable aux revenus de remplacement, il
 convient de se reporter au site urssaf.fr : Les revenus de remplacement - Urssaf.fr
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 47 -----
 CTP 025 Retraite base Taux Plein
@@ -1687,6 +1711,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 12 CTP applicable avant 2019 : 275
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 48 -----
 CTP 034 RR Retraite base taux réduit
@@ -1746,6 +1771,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 13 CTP applicable avant 2019 : 266 (CSG) + 261 (CRDS)
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 49 -----
 CTP 650 RR Retraite base taux médian
@@ -1804,6 +1830,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 50 -----
 CTP 035 RR Retraite de base Alsace-Moselle
@@ -1862,6 +1889,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 14 CTP applicable avant 2019 : 381
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 51 -----
 CTP 441 RR Retraite de base Reg.Gen. N-Résid.
@@ -1920,6 +1948,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 15 CTP applicable avant 2019: 306
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 52 -----
 CTP 308 RR Retraite de base Rég. Spéc. N-résid
@@ -1978,6 +2007,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 16 CTP applicable avant 2019: 308
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 53 -----
 CTP 655 RR Retraite base CASA
@@ -2036,6 +2066,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 17 CTP applicable avant 2019: 022
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 54 -----
 CTP 379 RR Cotis Mal Retraite TI non-résidents
@@ -2093,6 +2124,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 55 -----
 1.5.3 CTP - Revenus de remplacement – retraite complémentaire
@@ -2107,6 +2139,7 @@ Les avantages de retraite servis par les anciens employeurs (rentes servies aux 
 avantages en nature, avantages accessoires...).
 Pour toute information concernant la réglementation applicable aux revenus de remplacement, il
 convient de se reporter au site urssaf.fr : Les revenus de remplacement - Urssaf.fr.
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 56 -----
 CTP 036 RR Retraite complémentaire Taux Plein
@@ -2168,6 +2201,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 18 CTP applicable avant 2019: 275
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 57 -----
 CTP 036 RR Retraite complémentaire Taux Plein
@@ -2236,6 +2270,7 @@ Rubrique « Identifiant Organisme de Protection Sociale - S21.G00.81.002 » : À
 •
 Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 19 CTP applicable avant 2019: 266 (CSG) + 261 (CRDS)
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 59 -----
 CTP 037 RR Retraite complémentaire Taux Réduit
@@ -2308,6 +2343,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 61 -----
 CTP 038 RR Retraite complt Alsace-Moselle
@@ -2370,6 +2406,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 20 CTP applicable avant 2019: 381
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 62 -----
 CTP 040 RR Retraite complt cotis.maladie
@@ -2431,6 +2468,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 21 CTP applicable avant 2019: 216
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 63 -----
 CTP 040 RR Retraite complt cotis.maladie
@@ -2501,6 +2539,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 22 CTP applicable avant 2019: 306
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 65 -----
 CTP 657 RR Retraite complémentaire CASA
@@ -2561,6 +2600,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 23 CTP applicable avant 2019: 022
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 66 -----
 CTP 657 RR Retraite complémentaire CASA
@@ -2598,6 +2638,7 @@ Bloc « Précision sur prestation - S21.G00.57 »
 Rubrique « Type de prestation » (S21.G00.57.001) : C3P07
 •
 Rubrique « Montant » (S21.G00.57.002) : À renseigner
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 68 -----
 CTP 564 Contrib.Ret.suppl.bénéf.Rentes 7%
@@ -2657,6 +2698,8 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-contributions-dues-sur-le-fi.html?ut=
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-contributions-dues-sur-le-fi.html?ut=
 
 ----- page 69 -----
 CTP 566 Contrib.Retr.suppl.bénéf.Rentes 14%
@@ -2714,6 +2757,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte/revenus-de-remplacement--regime.html
 
 ----- page 70 -----
 CTP 010 Contrib Retraite suppl rente 32%
@@ -2771,6 +2815,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte/revenus-de-remplacement--regime.html
 
 ----- page 71 -----
 CTP 706 RR Contr Retraite suppl rente16 %
@@ -2829,6 +2874,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte/revenus-de-remplacement--regime.html
 
 ----- page 72 -----
 CTP 812 Contr.Retraites Suppl L137-11-2 CSS
@@ -2885,6 +2931,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte/revenus-de-remplacement--regime.html
 
 ----- page 73 -----
 1.5.5 CTP - Revenus de remplacement – Prévoyance invalidité
@@ -2900,6 +2947,7 @@ Les allocations de cessation anticipée d’activité en faveur des salariés vi
 Les différents CTP permettent la gestion des taux différenciés.
 Pour toute information concernant la réglementation applicable aux revenus de remplacement, il
 convient de se reporter au site urssaf.fr : Les revenus de remplacement - Urssaf.fr.
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 74 -----
 CTP 389 RR invalidité de base taux plein
@@ -2962,6 +3010,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 75 -----
 CTP 395 RR invalidité de base taux réduit
@@ -3024,6 +3073,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 76 -----
 CTP 652 RR invalidité de base médian
@@ -3085,6 +3135,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 77 -----
 CTP 658 RR invalidité de base CASA
@@ -3147,6 +3198,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 FICHE 39
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 78 -----
 Création de CTP
@@ -3233,6 +3285,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 80 -----
 CTP 838 RR invalidité de base taux médian TI
@@ -3294,6 +3347,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 FICHE 41
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 81 -----
 CTP 839 RR invalidité de base taux réduit TI
@@ -3357,6 +3411,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 82 -----
 CTP 956 RR invalidité de base taux CASA TI
@@ -3417,6 +3472,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 83 -----
 1.5.6 CTP - Revenus de remplacement – Prévoyance invalidité
@@ -3434,6 +3490,7 @@ Les prestations décès (rente de survivant, conjoint, éducation...).
 Les différents CTP permettent la gestion des taux différenciés de cotisation.
 Pour toute information concernant la réglementation applicable aux revenus de remplacement, il
 convient de se reporter au site urssaf.fr : Les revenus de remplacement - Urssaf.fr.
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 84 -----
 CTP 399 RR invalidité complémentaire taux plein
@@ -3495,6 +3552,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 24 CTP applicable avant 2019 : 278
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 85 -----
 CTP 399 RR invalidité complémentaire taux plein
@@ -3564,6 +3622,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 25 CTP applicable avant 2019 : 266 (CSG) + 289 (CRDS)
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 87 -----
 CTP 440 RR invalidité complémentaire taux réduit
@@ -3634,6 +3693,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 89 -----
 CTP 659 RR invalidité complémentaire CASA
@@ -3696,6 +3756,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 26 CTP applicable avant 2019 : 022
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 90 -----
 CTP 672 RR invalidité de base écrêtement
@@ -3748,6 +3809,7 @@ Rubrique « Identifiant du droit - S21.G00.78.008 » : À renseigner
 Le bloc « Base assujettie – S21.G00.78 » correspondant aux cotisations écrêtées est utilisé en
 référence. Seul un bloc « Cotisation Individuelle - S21.G00.81 » est ajouté pour matérialiser le montant
 écrêté.
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 91 -----
 CTP 672 RR invalidité de base écrêtement
@@ -3783,6 +3845,7 @@ Indemnités versées par les collectivités territoriales aux agents mis en « d
 d’office »
 Pour toute information concernant la réglementation applicable aux revenus de remplacement, il
 convient de se reporter au site urssaf.fr : Les revenus de remplacement - Urssaf.fr.
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 93 -----
 CTP 080 RR IJSS de base taux plein
@@ -3845,6 +3908,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 27 CTP applicable avant 2019 : 279 (CSG) + 289 (CRDS)
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 94 -----
 CTP 080 RR IJSS de base taux plein
@@ -3887,6 +3951,7 @@ Bloc « Précision sur prestation - S21.G00.57 »
 Rubrique « Type de prestation » (S21.G00.57.001) : C3P01
 •
 Rubrique « Montant » (S21.G00.57.002) : À renseigner
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 96 -----
 CTP 081 RR IJSS complémentaire taux plein
@@ -3952,6 +4017,7 @@ Rubrique « Identifiant Organisme de Protection Sociale - S21.G00.81.002 » : À
 •
 Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 28 CTP applicable avant 2019 : 278
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 97 -----
 CTP 081 RR IJSS complémentaire taux plein
@@ -4027,6 +4093,7 @@ Rubrique « Identifiant Organisme de Protection Sociale - S21.G00.81.002 » : À
 •
 Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 29 CTP applicable avant 2019 : 266 (CSG) + 289 (CRDS)
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 99 -----
 CTP 377 RR IJSS complémentaire taux réduit
@@ -4093,6 +4160,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 Le bloc cotisation Individuelle - S21.G00.81 doit porter le code de cotisation d’une valeur de la table
 CCERP : « 079 - Remboursement de la dette sociale »
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 101 -----
 CTP 957 RR IJ INCAPACITE TEMPORAIRE RID
@@ -4126,6 +4194,7 @@ Les différents CTP permettent la gestion des taux différenciés de cotisation,
 cas échéant la gestion de l’écrêtement des cotisations.
 Pour toute information concernant la réglementation applicable aux revenus de remplacement, il
 convient de se reporter au site urssaf.fr : Les revenus de remplacement - Urssaf.fr
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 103 -----
 CTP 060 Chômage CSG-CRDS taux plein
@@ -4187,6 +4256,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 30 CTP applicable avant 2019 : 279 + 289
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 104 -----
 CTP 060 Chômage CSG-CRDS taux plein
@@ -4256,6 +4326,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 31 CTP applicable avant 2019 : 942 (CSG) + 289 (CRDS)
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 106 -----
 CTP 079 RR Chômage Alsace-Moselle
@@ -4315,6 +4386,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 32 CTP applicable avant 2019 : 211
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 107 -----
 CTP 454 RR Chômage maladie Non-Résidents
@@ -4375,6 +4447,7 @@ Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
 33 CTP applicable avant 2019 : 307
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 108 -----
 CTP 616 RR Chômage écrêtement
@@ -4432,6 +4505,7 @@ référence. Seul un bloc « Cotisation Individuelle - S21.G00.81 » est ajouté
 Le bloc « Cotisation Individuelle - S21.G00.81 » doit porter le code de cotisation d’une valeur de la
 table CCERP : code « 079 - Remboursement de la dette sociale » ou code « 075 - Cotisation Assurance
 Maladie » pour les non-résidents fiscaux
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 109 -----
 CTP 616 RR Chômage écrêtement
@@ -4468,6 +4542,8 @@ NB : les contributions (CSG et CRDS) sont à déclarer via les CTP précisés au
 remplacement – retraite de base’ et/ou ‘Revenus de remplacement – retraite complémentaire’
 Pour toute information concernant la réglementation applicable aux revenus de remplacement, il
 convient de se reporter au site urssaf.fr : «..» «..».
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte/revenus-de-remplacement--regime.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte/revenus-de-remplacement--regime.html
 
 ----- page 112 -----
 CTP 217 RR Retraite complémentaire régime agricole
@@ -4531,6 +4607,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 113 -----
 CTP 718 RR Retraite de base régime agricole
@@ -4588,6 +4665,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 114 -----
 CTP 756 RR Retraite de base régime agricole
@@ -4650,6 +4728,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 115 -----
 CTP 758 RR Retraite de base régime agricole
@@ -4707,6 +4786,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 116 -----
 CTP 759 RR Retraite complémentaire régime agricole
@@ -4770,6 +4850,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 117 -----
 CTP 978 – RR Retraite base cotisation maladie non -salariés agricole
@@ -4823,6 +4904,7 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 118 -----
 1.5.11 CTP - Revenus de remplacement – Divers & spécifique
@@ -4878,6 +4960,7 @@ Rubrique « Identifiant du droit - S21.G00.78.008 » : À renseigner
 Le bloc cotisation Individuelle - S21.G00.81 doit porter le code de cotisation d’une valeur de la table
 CCERP : code « 133 - Contribution maladie spécifique Mayotte »
 Bloc « Cotisation Individuelle - S21.G00.81 »
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 120 -----
 CTP 619 MAYOTTE Contrib Rev. Remplacement
@@ -5054,6 +5137,7 @@ Rubrique « Date de fin de période de rattachement - S21.G00.78.003 » : À ren
 Rubrique « Montant - S21.G00.78.004 » : XXXX.XX €
 •
 Rubrique « Identifiant du droit - S21.G00.78.008 » : À renseigner
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/revenus-de-remplacement.html
 
 ----- page 124 -----
 CTP 904 RR PRESTATIONS FAMILIALES
@@ -5125,6 +5209,8 @@ Rubrique « Taux de cotisation - S21.G00.23.003 » : A renseigner (optionnel)
 Rubrique « Montant d’assiette - S21.G00.23.004 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.23.005 » : non renseigné
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 126 -----
 CTP 150 STAGIAIRES FORMATION PROFESSIONNELLE
@@ -5214,6 +5300,8 @@ Rubrique « Identifiant Organisme de Protection Sociale - S21.G00.81.002 » : À
 Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 •
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 128 -----
 CTP 233 COT.AT FORMATION PROFESSIONNELLE
@@ -5242,6 +5330,8 @@ Indemnité de Retraite (IRT)
 Prestations sur contrats à adhésion facultative
 •
 Aides sociales versées par les Comités Sociaux Economique.../...
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 130 -----
 CTP 100 RG Cas général
@@ -5846,6 +5936,8 @@ Rubrique « Montant de cotisation - S21.G00.23.005 » : non renseigné
 Au niveau nominatif :
 Les données individuelles ne sont pas attendues en équivalence des données agrégés déclarées sous
 ce CTP
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 148 -----
 CTP 798 Caisses de congés payés du bâtiment
@@ -5897,6 +5989,8 @@ Rubrique « Montant d’assiette - S21.G00.23.004 » : XXXX.XX €*
 Rubrique « Montant de cotisation - S21.G00.23.005 » : non renseigné
 *Compte tenu de spécificités de ce CTP (taux à 100%), le montant à renseigner S21.G00.23.004,
 correspondra au montant de la régularisation annuelle
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 149 -----
 CTP 798 Caisses de congés payés du bâtiment
@@ -5954,6 +6048,8 @@ Rubrique « Montant de cotisation - S21.G00.23.005 » : non renseigné
 Au niveau nominatif :
 Les données individuelles ne sont pas attendues en équivalence des données agrégés déclarées sous
 ce CTP
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 151 -----
 CTP 799 Caisses CP Sect. BAT TP DOM OM
@@ -6005,6 +6101,8 @@ Rubrique « Montant d’assiette - S21.G00.23.004 » : XXXX, XX€
 Rubrique « Montant de cotisation - S21.G00.23.005 » : non renseigné
 *Compte tenu de spécificités de ce CTP (taux à 100%), le montant à renseigner S21.G00.23.004,
 correspondra au montant de la régularisation annuelle
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 152 -----
 CTP 799 Caisses CP Sect. BAT TP DOM OM
@@ -6059,6 +6157,8 @@ Rubrique « Montant de cotisation - S21.G00.23.005 » : non renseigné
 Au niveau nominatif :
 Les données individuelles ne sont pas attendues en équivalence des données agrégés déclarées sous
 ce CTP
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 154 -----
 CTP 312 Artistes cas général abattement 30%
@@ -6116,6 +6216,8 @@ Rubrique « Date de début de période de rattachement - S21.G00.78.002 » : À 
 Rubrique « Date de fin de période de rattachement - S21.G00.78.003 » : À renseigner
 •
 Rubrique « Montant - S21.G00.78.004 » : XXXX.XX €
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 155 -----
 CTP 312 Artistes cas général abattement 30%
@@ -6265,6 +6367,8 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 158 -----
 CTP 320 Artistes sans AT
@@ -6324,6 +6428,8 @@ Rubrique « Date de fin de période de rattachement - S21.G00.78.003 » : À ren
 Rubrique « Montant - S21.G00.78.004 » : XXXX.XX €
 •
 Rubrique « Identifiant du droit - S21.G00.78.008 » : À renseigner
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 159 -----
 CTP 320 Artistes sans AT
@@ -6447,6 +6553,8 @@ Rubrique « Montant de cotisation - S21.G00.23.005 » : non renseigné
 Au niveau nominatif :
 Les données individuelles ne sont pas attendues en équivalence des données agrégés déclarées sous
 ce CTP
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 162 -----
 CTP 310 – Indemnités Congés payés AGRICOLES – Cotisation SS
@@ -6491,6 +6599,8 @@ code (068), un pour le code (074), un pour le code (075) et un pour le code (076
 Bloc « Cotisation individuelle - S21.G00.81 »
 • Rubrique « Code de cotisation (S21.G00.81.001) » : A renseigner
 • Rubrique « Identifiant organisme de protection sociale (S21.G00.81.002) » : A renseigner
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 163 -----
 CTP 310 – Indemnités Congés payés AGRICOLES – Cotisation SS
@@ -6545,6 +6655,8 @@ Bloc « Cotisation individuelle - S21.G00.81 »
 • Rubrique « Montant d’assiette (S21.G00.81.003) » : XXXX.XX €
 • Rubrique « Montant de cotisation (S21.G00.81.004) » : XXXX.XX €
 • Rubrique « Taux de cotisation (S21.G00.81.007) » : Non renseigné
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 165 -----
 CTP 311 – Indemnités Congés payés AGRICOLES – Cotisation maladie Alsace Moselle
@@ -6599,6 +6711,8 @@ Rubrique « Montant d’assiette - S21.G00.81.003 » : XXXX.XX €
 Rubrique « Montant de cotisation - S21.G00.81.004 » : XXXX.XX €
 •
 Rubrique « Taux de cotisation - S21.G00.81.007 » : XX,XX
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-elements-a-prendre-en-compte.html
 
 ----- page 166 -----
 CTP 374 – Complément de Cotisation d’allocation familiale – Régime Agricole
@@ -6871,6 +6985,8 @@ Cette liste a pour vocation de référencer les différents CTP clôturés. Il e
 NB : A la suite des travaux de paramétrage sur les CTP contemporains, ces derniers peuvent
 désormais être substitués aux CTP clôturés pour la déclaration de régularisation concernant des
 périodes de rattachement avant 2019.
+[lien] https://fichierdirect.declaration.urssaf.fr/TablesReference.htm
+[lien] https://fichierdirect.declaration.urssaf.fr/TablesReference.htm
 
 ----- page 171 -----
 3. Principes de re gularisation des
@@ -8903,6 +9019,8 @@ invitons à vous rapprocher de votre Urssaf de rattachement.
 le compte lié au Siret XXXXXXXXXXXXXX et au titre du mois de rattachement MM car
 l’exigibilité associée doit être identique pour l’ensemble des déclarations Urssaf comprises
 dans votre PASRAU. »
+[lien] https://dsn-info.custhelp.com/app/answers/detail/a_id/366
+[lien] https://fichierdirect.declaration.urssaf.fr/TablesReference.htm
 
 ----- page 195 -----
 ➢ Si un agrégat fait référence à un compte d’affectation différent de la déclaration
@@ -8954,3 +9072,4 @@ consultation des notifications automatiques des anomalies déclaratives etc.
 Attestation de vigilance,
 •
 Mandat de prélèvement SEPA.
+[lien] http://www.contact.urssaf.fr/adhenligne/

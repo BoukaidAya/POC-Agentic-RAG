@@ -50,6 +50,7 @@ financière.
 5. JE RÉALISE LE BILAN
 J’assure un suivi des performances de mon projet
 et j’en informe l’ADEME.
+[lien] https://agirpourlatransition.ademe.fr
 
 ----- page 2 -----
 JE PRÉPARE ET DÉPOSE MA DEMANDE D’AIDE EN LIGNE
@@ -151,6 +152,7 @@ bution des aides ADEME*
 • Je note dans mon agenda les échéances et
 engagements prévus dans le contrat et le cas
 échéant ses annexes.
+[lien] https://www.ademe.fr/aides-financieres-lademe
 
 ----- page 4 -----
 1. COMMENT RECEVOIR UN PAIEMENT ?

@@ -87,6 +87,7 @@ bout de quelques secondes pour lui demander
 combien il est prêt à payer pour cet article. Si la
 somme proposée est trop basse, une nouvelle
 proposition est faite par Cdiscount.
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
 
 ----- page 2 -----
 > Le pop-up de sortie
@@ -243,3 +244,4 @@ www.dordogne.cci.fr
 Rdv le 8 décembre à la CCI Dordogne pour l’Atelier
 numérique « Ergonomie web, UX et qualité web »
 Inscription en ligne ici
+[lien] http://dordogne.cci.fr/inscription-atelier-tic

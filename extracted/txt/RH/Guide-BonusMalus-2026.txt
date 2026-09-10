@@ -183,6 +183,14 @@ concerne les entreprises d’au moins
 11 salariés et plus relevant de 
 6 secteurs d’activité comportant un 
 taux de séparation supérieur au seuil
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000033013440&dateTexte=&categorieLien=cid
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006903498&dateTexte=&categorieLien=cid
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043306112
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043306112
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043306112
+[lien] https://www.unedic.org/la-reglementation/conventions-d-assurance-chomage
+[lien] https://www.unedic.org/la-reglementation/conventions-d-assurance-chomage
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053509770
 
 ----- page 4 -----
 3 
@@ -239,6 +247,7 @@ par un arrêté en date du 18 février 2026. Ces modifications entrent en vigueu
  
  
 L’objectif
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053509770
 
 ----- page 7 -----
 6 
@@ -448,6 +457,7 @@ création si son effectif moyen annuel est égal ou supérieur à 11 salariés
 pendant les 5 années précédentes (art. 50-11 du RAC).  
  
 Bon à savoir
+[lien] https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043314454
 
 ----- page 14 -----
 13 
@@ -1365,6 +1375,8 @@ comment déclarer et régulariser les cotisations Urssaf en DSN.
  
 Modalités déclaratives en DSN – Cas spécifique des 
 salariés affiliés à une caisse de congés payés
+[lien] https://www.urssaf.fr/portail/files/live/sites/urssaf/files/documents/DSN-Guide-declaration-regularisation-cotisations-sociales-Urssaf.pdf
+[lien] https://www.urssaf.fr/portail/files/live/sites/urssaf/files/documents/DSN-Guide-declaration-regularisation-cotisations-sociales-Urssaf.pdf
 
 ----- page 38 -----
 37 
@@ -1738,6 +1750,7 @@ Tél. 39 57, du lundi au vendredi, de 9h à 17h
  
  
 Le rôle de l'Urssaf
+[lien] http://www.urssaf.fr/
 
 ----- page 46 -----
 45 
@@ -1781,6 +1794,24 @@ calcul du bonus-malus
  
  
 Référentiels et annexes règlementaires
+[lien] https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037367660/
+[lien] https://www.legifrance.gouv.fr/loda/id/JORFTEXT000037367660/
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050797861
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050797861
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050797861
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050797861
+[lien] https://www.unedic.org/la-reglementation/conventions-d-assurance-chomage/texte-consolide-de-la-convention-du-15-novembre-2024-relative-a-lassurance-chomage
+[lien] https://www.unedic.org/la-reglementation/conventions-d-assurance-chomage/avenant-n1-du-7-juillet-2025-a-la-convention-du-15-novembre-2024-relative-a-lassurance-chomage
+[lien] https://www.unedic.org/la-reglementation/conventions-d-assurance-chomage/avenant-n1-du-7-juillet-2025-a-la-convention-du-15-novembre-2024-relative-a-lassurance-chomage
+[lien] https://www.unedic.org/la-reglementation/conventions-d-assurance-chomage/avenant-n1-du-7-juillet-2025-a-la-convention-du-15-novembre-2024-relative-a-lassurance-chomage
+[lien] https://www.unedic.org/la-reglementation/conventions-d-assurance-chomage/texte-consolide-du-reglement-general-annexe-a-la-convention-du-15-novembre-2024
+[lien] https://www.unedic.org/la-reglementation/conventions-d-assurance-chomage/texte-consolide-du-reglement-general-annexe-a-la-convention-du-15-novembre-2024
+[lien] https://www.unedic.org/la-reglementation/conventions-d-assurance-chomage/texte-consolide-du-reglement-general-annexe-a-la-convention-du-15-novembre-2024
+[lien] https://www.unedic.org/la-reglementation/conventions-d-assurance-chomage/texte-consolide-de-laccord-application-n1-a-la-convention-du-15-novembre-2024
+[lien] https://www.unedic.org/la-reglementation/conventions-d-assurance-chomage/texte-consolide-de-laccord-application-n1-a-la-convention-du-15-novembre-2024
+[lien] https://www.unedic.org/ged/documents/circulars/pdf/CIRCULAIRE%20n%202026-02%20du%2026%20f%C3%A9vrier%202026.pdf
+[lien] https://www.unedic.org/ged/documents/circulars/pdf/CIRCULAIRE%20n%202026-02%20du%2026%20f%C3%A9vrier%202026.pdf
+[lien] https://www.unedic.org/ged/documents/circulars/pdf/CIRCULAIRE%20n%202026-02%20du%2026%20f%C3%A9vrier%202026.pdf
 
 ----- page 47 -----
 46 
@@ -1801,6 +1832,9 @@ Accueil | Unédic.org
  
 Toutes les informations sur le dispositif 
 bonus-malus
+[lien] https://travail-emploi.gouv.fr/emploi-et-insertion/bonus-malus/
+[lien] http://www.urssaf.fr/
+[lien] https://www.unedic.org/
 
 ----- page 48 -----
 47 
@@ -1845,6 +1879,19 @@ Par téléphone
  
 Toutes les informations  
 sur la déclaration en DSN
+[lien] http://www.urssaf.fr/
+[lien] http://www.net-entreprises.fr/
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2570/kw/2570
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2570/kw/2570
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2572/kw/2572
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2572/kw/2572
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2572/kw/2572
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2573/kw/2573
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2573/kw/2573
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2573/kw/2573
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2574/kw/2574
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2574/kw/2574
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2574/kw/2574
 
 ----- page 49 -----
 48 

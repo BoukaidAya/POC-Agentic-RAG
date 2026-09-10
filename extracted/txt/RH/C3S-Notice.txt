@@ -117,6 +117,9 @@ adresse de messagerie, sont à jour de façon à recevoir les
 informations communiquées par le site des déclarations 
 sociales et l’Urssaf PACA au titre de la campagne déclarative 
 de la C3S.
+[lien] http://www.urssaf.fr/c3s
+[lien] http://www.urssaf.fr/c3s
+[lien] http://www.net-entreprises.fr
 
 ----- page 4 -----
 4
@@ -390,6 +393,7 @@ dans les cases prévues à cet effet.
 Les opérations entrant dans le champ d’application de la TVA, taxées ou exonérées, qui ne seraient 
 pas inscrites sur les lignes normalement concernées de l’imprimé TVA-CA3, seront à porter dans la 
 rubrique « II – Sommes à ajouter ».
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037054484/
 
 ----- page 10 -----
 10
@@ -602,6 +606,7 @@ gestionnaire de la C3S dans le délai de trois mois à compter de la notificatio
 par l’administration fiscale, ou en cas de contestation, à compter de la notification de la décision 
 définitive. Dans la mesure où vous connaîtriez une situation particulière non précisée dans la 
 notice, nous vous invitons à prendre contact avec nos services.
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037054450/
 
 ----- page 14 -----
 14
@@ -649,6 +654,7 @@ d’affaires.
 Si le taux plafonné est applicable mais que le calcul de la C3S au taux normal est plus favorable 
 à l’entreprise, alors ce dernier sera retenu et sera automatiquement proposé dans le formulaire 
 déclaratif dématérialisé.
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037054484/
 
 ----- page 15 -----
 15
@@ -694,6 +700,11 @@ Le taux de la C3S est alors plafonné à 3,08 % de la marge brute.
 Si le taux plafonné est applicable mais que le calcul de la C3S est plus favorable au taux normal, 
 alors ce dernier sera retenu et sera automatiquement proposé dans le formulaire déclaratif 
 dématérialisé.
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037054484/
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037054450/
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041918184
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041918193
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041918201
 
 ----- page 16 -----
 16
@@ -739,6 +750,9 @@ vous permet ainsi d’accéder à la télédéclaration.
 gérer vos habilitations, vous pouvez, après vous être connecté sur www.net-entreprises.fr, 
 engager cette démarche à partir de la liste proposée par l’option «Gestion» de votre espace 
 entreprise.
+[lien] http://www.net-entreprises.fr
+[lien] http://www.net-entreprises.fr
+[lien] http://www.net-entreprises.fr
 
 ----- page 17 -----
 17
@@ -800,6 +814,7 @@ de déclaration et de paiement au plus tard le 15 mai.
 La déclaration et le paiement de la C3S doivent être réalisées exclusivement par voie 
 dématérialisée (article L.137-35 du Code de la Sécurité sociale). Des majorations sont appliquées 
 pour sanctionner le non-respect de ces obligations.
+[lien] http://www.net-entreprises.fr
 
 ----- page 20 -----
 20
@@ -839,6 +854,10 @@ l’entreprise.
 Les entreprises doivent donc tout mettre en œuvre dans leur organisation, malgré la survenance 
 d’aléas, pour veiller au bon accomplissement de leurs obligations pour la date limite fixée par les 
 textes.
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037054540
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037054348
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037054505
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039222642
 
 ----- page 21 -----
 21
@@ -895,6 +914,12 @@ L.13734 (procédure de contrôle sur pièces) : dans la limite de 5 % de la c
 prévue à l’article L.137-34 IV : dans la limite de 10 % sur le supplément de contribution dû.
 Ces majorations peuvent faire l’objet de la procédure de remise gracieuse visée (cf. page 
 précédente).
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037054496
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743861&dateTexte=&categorieLien=cid
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743861&dateTexte=&categorieLien=cid
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006073189&idArticle=LEGIARTI000006743861&dateTexte=&categorieLien=cid
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037054496
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037054540
 
 ----- page 22 -----
 22
@@ -923,3 +948,6 @@ Contactez l’Urssaf
 →Par téléphone en composant le 0 806 804 260 
 Retrouvez toute l’information sur la C3S sur www.urssaf.fr/c3s 
 Urssaf CN/6910/Mars 2026/Notice C3S
+[lien] http://www.urssaf.fr/c3s
+[lien] http://www.urssaf.fr/c3s
+[lien] http://www.urssaf.fr/c3s

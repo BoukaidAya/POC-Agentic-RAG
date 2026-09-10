@@ -36,6 +36,7 @@ Annexes 1, 2, 3, 4
 Schémas XSD 
  
 Version 2026-1 du 31 mars 2026
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
 
 ----- page 2 -----
 Plateforme numérique 

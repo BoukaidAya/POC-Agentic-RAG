@@ -1,0 +1,76 @@
+
+----- page 1 -----
+05/2021
+1
+—
+2
+© Banque de France
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les titres hybrides
+322
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 322 : Les titres hybrides
+MOTS CLÉS
+titres hybrides, 
+actions, 
+obligations, 
+bons, 
+capitaux propres, 
+endettement
+SOMMAIRE
+1.  PRÉSENTATION GÉNÉRALE	
+2
+2.  QUELQUES EXEMPLES DE TITRES HYBRIDES	
+2
+NB  Pour plus d’informations sur les actions de préférence, voir la fiche 312. 
+Pour plus d’informations sur les titres super subordonnés (TSS), voir la fiche 324. 
+Pour plus d’informations sur les obligations convertibles en actions, voir la fiche 325. 
+Pour plus d’informations sur les obligations à bons de souscription en actions (OBSA), voir la fiche 326. 
+Pour plus d’informations sur les obligations remboursables en actions (ORA) et les obligations échangeables 
+en actions (OECA), voir la fiche 327.
+
+----- page 2 -----
+2
+—
+2
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 322 : Les titres hybrides
+1.  PRÉSENTATION GÉNÉRALE
+Les titres hybrides sont des produits financiers qui combinent les caractéristiques des produits de capitaux 
+propres et des produits de dette.
+De prime abord, les titres hybrides semblent pouvoir être assimilés à des capitaux propres. Mais ils sont le plus 
+souvent représentatifs de l’endettement d’une entreprise : une obligation convertible non convertie constituera 
+toujours une dette, une obligation à bon de souscription d’actions représente également une dette…
+Ces produits donnent l’impression de faire appel à des techniques d’ingénierie financière très complexes. Mais, 
+en réalité, leur utilisation est surtout la résultante des difficultés financières des entreprises qu’elles essaient de 
+surmonter en recourant à ce type d’instrument, ou le moyen de résoudre les difficultés de placement qu’elles 
+rencontrent auprès d’investisseurs plutôt enclins à investir dans des produits financiers plus ordinaires.
+2.  QUELQUES EXEMPLES DE TITRES HYBRIDES
+—  L’obligation convertible en actions : il s’agit d’une obligation classique assortie d’une option de 
+conversion en actions qui donne la faculté à son souscripteur de la convertir en une ou plusieurs 
+actions nouvelles de la société émettrice.
+Sa valeur intrinsèque s’analyse comme la somme :
+—  de la valeur d’une obligation classique,
+—  et de la valeur d’une option d’achat d’actions dont le prix d’exercice est le prix de remboursement.
+La rémunération de la composante obligataire d’une obligation convertible est habituellement plus 
+faible que celle dont pourrait bénéficier l’investisseur de la part d’une obligation classique. Il s’agit 
+d’une caractéristique essentielle d’une émission d’obligations convertibles : l’émetteur propose au 
+souscripteur de diminuer le taux actuariel auquel il peut prétendre, en contrepartie de l’octroi d’une 
+option de conversion pouvant être à l’origine de gains importants.
+—  Le bon de souscription : c’est un titre financier permettant de souscrire pendant une période 
+donnée, dans une proportion et à un prix fixé à l’avance, un autre titre financier. Un bon de 
+souscription peut être attaché à l’émission d’une action (action à bon de souscription d’action 
+ou ABSA) ou d’une obligation (obligation à bon de souscription d’action ou OBSA) ou être distribué 
+« gratuitement ». D’un point de vue conceptuel, un bon de souscription est assimilable à une 
+option d’achat (call) vendue par une société sur des actions à émettre. Le bon de souscription 
+permet de réaliser une augmentation de capital en organisant une dilution 1 progressive.
+—  Les actions de préférence, les titres super-subordonnés, les actions privilégiées, les certificats 
+d’investissement, les obligations remboursables en actions et échangeables en actions 
+constituent d’autres catégories de titres hybrides.
+1.  Le terme de dilution a deux acceptions bien distinctes :  
+–  on parle tout d’abord de dilution lorsqu’une modification de la structure financière de l’entreprise ou qu’une 
+  opération de fusion ou d’acquisition provoque une baisse du bénéfice par action ; 
+–  la dilution peut également caractériser la réduction du pourcentage d’un actionnaire dans le capital d’une société 
+  suite à une augmentation de capital, une fusion.
+RÉFÉRENCES
+•  VERNIMMEN, Finance d’entreprise 2021
+[lien] https://www.vernimmen.net/Vernimmen/Resumes/Partie_2_Les_investisseurs_et_la_logique_des_marches_financiers/Chapitre_26_Les_titres_hybrides.html

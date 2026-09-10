@@ -33,6 +33,7 @@ Le « click and collect » présente en outre deux avantages pour le commerçant
 Internet, ensuite il permet de réaliser des ventes additionnelles lorsque le client vient chercher sa commande : une pro-
 motion en cours, un article complémentaire, voire un produit consulté en ligne par le client si le site web dispose d’un
 système de tracking spécifique. (suite page suivante)
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
 
 ----- page 2 -----
 Le « click and reserve »

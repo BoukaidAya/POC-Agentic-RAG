@@ -336,6 +336,7 @@ et ainsi développer votre activité
 Créer
 de nouveaux services
 PASSEZ À L’ACTION : RGPD Bpifrance Le Lab 21
+[lien] https://www.bpifrance-lelab.fr/Analyses-Reflexions/Les-Travaux-du-Lab/Dirigeants-de-PME-et-ETI-face-au-digital
 
 ----- page 12 -----
 DONNEES
@@ -457,6 +458,7 @@ purement occasionnels (exemple : fichier constitué pour une opération
 En constituant votre registre, vous aurez une vision d’ensemble
 sur vos traitements de données.
 PASSEZ À L’ACTION : RGPD Bpifrance Le Lab 31
+[lien] https://www.cnil.fr/fr/le-registre-des-activites-de-traitement
 
 ----- page 17 -----
 La constitution
@@ -561,6 +563,7 @@ POUR EN SAVOIR PLUS :
 « Dossier respecter les droits des personnes »
 sur le site internet de la CNIL
 PASSEZ À L’ACTION : RGPD Bpifrance Le Lab 37
+[lien] https://www.cnil.fr/fr/respecter-les-droits-des-personnes
 
 ----- page 20 -----
 Si le risque zéro n’existe
@@ -650,6 +653,9 @@ informer.
 protection des données personnelles en continu et de faire face
 aux incidents.
 PASSEZ À L’ACTION : RGPD Bpifrance Le Lab 41
+[lien] https://www.cybermalveillance.gouv.fr/
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/cnil_guide_securite_personnelle.pdf
+[lien] https://www.cybermalveillance.gouv.fr/
 
 ----- page 22 -----
 PASSEZ À L’ACTION : RGPD Bpifrance Le Lab 43
@@ -729,6 +735,7 @@ POUR EN SAVOIR PLUS :
 « Guide RGPD pour les sous-traitants »
 sur le site internet de la CNIL
 PASSEZ À L’ACTION : RGPD Bpifrance Le Lab 49
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/rgpd-guide_sous-traitant-cnil.pdf
 
 ----- page 26 -----
 TRAITEMENTS
@@ -839,6 +846,9 @@ de contact sur la page « CONTACT » du site internet de la CNIL).
 Par ailleurs, vos sous-traitants ont une obligation d’alerte et de conseil
 en matière de protection des données. N’hésitez-pas à les solliciter.
 PASSEZ À L’ACTION : RGPD Bpifrance Le Lab 55
+[lien] https://www.cnil.fr/fr/RGPD-analyse-impact-protection-des-donnees-pia
+[lien] https://www.cnil.fr/fr/transferer-des-donnees-hors-de-lue
+[lien] https://www.cnil.fr/fr/le-delegue-la-protection-des-donnees-dpo
 
 ----- page 29 -----
 Collecter et traiter
@@ -1018,6 +1028,7 @@ Il existe pour la prospection téléphonique des règles particulières.
 Renseignez-vous sur le site internet de « Bloctel », organisme chargé
 de gérer la liste nationale d’opposition au démarchage téléphonique
 https://pro.bloctel.fr
+[lien] https://pro.bloctel.fr/
 
 ----- page 37 -----
 POUR EN SAVOIR PLUS :
@@ -1040,6 +1051,7 @@ du consentement ne sont pas toujours les mêmes. Prévoyez une fonctionnalité d
 pour que vos clients puissent facilement exprimer leurs préférences de communication.
 Pensez également à informer vos clients des moyens existants de s’opposer à des sollicitations
 commerciales (Bloctel, signalspam, etc.).
+[lien] https://www.cnil.fr/
 
 ----- page 38 -----
 Accueillir un nouveau client, c’est généralement
@@ -1085,6 +1097,7 @@ Prévoyez la suppression des informations en cas d’inactivité prolongée de v
 Vous devez toutefois conserver certaines données en raison d’obligations légales (notamment
 comptabilité, contentieux, etc.). Archivez-les dans une autre base de données dont l’accès est
 plus restreint.
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/commerce_et_donnees_personelles.pdf
 
 ----- page 40 -----
 PROTÉGEZ
@@ -1183,6 +1196,7 @@ LES LIMITES DU CONTRÔLE
 POUR EN SAVOIR PLUS :
 Fiches pratiques « Travail et protection des données »
 sur le site internet de la CNIL
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/travail-vie_privee.pdf
 
 ----- page 46 -----
 La protection des données personnelles
@@ -1251,6 +1265,7 @@ Article « Quelles sont les mentions obligatoires sur un site internet ? »
 sur le site internet www.service-public.fr
 VOUS AVEZ
 UN SITE VITRINE
+[lien] https://www.service-public.fr/professionnels-entreprises/vosdroits/F31228
 
 ----- page 50 -----
 Depuis Twitter, Facebook,
@@ -1307,6 +1322,9 @@ de ses comptes sociaux »
 sur le site internet de la CNIL
 Article « L’usurpation d’identité en question »
 sur le site internet de la CNIL
+[lien] https://www.cnil.fr/fr/securite-securiser-les-sites-web
+[lien] https://www.cnil.fr/fr/prevenir-reperer-et-reagir-face-au-piratage-de-ses-comptes-sociaux
+[lien] https://www.cnil.fr/fr/lusurpation-didentite-en-questions
 
 ----- page 53 -----
 POUR EN SAVOIR PLUS :
@@ -1328,6 +1346,7 @@ vous devez obtenir le consentement des visiteurs.
 VOTRE SITE DÉPOSE
 DES COOKIES OU DES TRACEURS
 PUBLICITAIRES
+[lien] https://www.cnil.fr/fr/site-web-cookies-et-autres-traceurs
 
 ----- page 54 -----
 CNIL

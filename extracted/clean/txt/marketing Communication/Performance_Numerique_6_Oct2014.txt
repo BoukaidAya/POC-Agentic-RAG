@@ -76,6 +76,8 @@ WEBCHALLENGE
 J-10
 CLÔTURE DES
 INSCRIPTIONS
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
+[lien] http://webchallenge24.com
 
 ----- page 2 -----
 On appelle cross-selling les ventes additionnelles
@@ -394,3 +396,6 @@ Ce thème vous intéresse ? Découvrez les formations de la CCI :
 > Améliorez la qualité de votre site internet
 J-10 avant la clôture des inscriptions !
 w w w . w e b c h a l l e n g e 2 4 . c o m
+[lien] http://dordogne.cci.fr/sites/default/files/uploads/fiches_produits/2014/FP-Developpez_des_campagnes_e-mailing_performantes.pdf
+[lien] http://dordogne.cci.fr/sites/default/files/uploads/fiches_produits/2014/FP-Ameliorez_la_qualite_de_votre_site_internet.pdf
+[lien] http://webchallenge24.com

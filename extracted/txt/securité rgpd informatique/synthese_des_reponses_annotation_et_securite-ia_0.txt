@@ -84,6 +84,9 @@ Ces contributions ont permis à la CNIL :
 consolider ses analyses ; 
  d’apporter des réponses, dans la synthèse ci-dessous, aux préoccupations les plus 
 fréquemment partagées par les contributeurs.
+[lien] https://www.cnil.fr/fr/ia-la-cnil-publie-ses-premieres-recommandations-sur-le-developpement-des-systemes-dintelligence
+[lien] https://www.cnil.fr/fr/ia-la-cnil-publie-ses-premieres-recommandations-sur-le-developpement-des-systemes-dintelligence
+[lien] https://www.cnil.fr/fr/intelligence-artificielle-la-cnil-ouvre-une-nouvelle-consultation-publique
 
 ----- page 3 -----
 3 

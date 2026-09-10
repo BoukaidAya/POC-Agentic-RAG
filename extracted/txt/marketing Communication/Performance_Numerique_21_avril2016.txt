@@ -67,6 +67,7 @@ de langues différentes,
 les robots des moteurs 
 1.  Mot-clé utilisé pour rechercher un « pull »
 2.  Mot-clé utilisé pour rechercher une « serpillère »
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
 
 ----- page 2 -----
 de recherche concluront alors à 

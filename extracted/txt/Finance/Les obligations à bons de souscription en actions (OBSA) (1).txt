@@ -1,0 +1,81 @@
+
+----- page 1 -----
+05/2021
+1
+—
+3
+© Banque de France
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les obligations 
+convertibles en actions
+325
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 325 : Les obligations convertibles en actions
+MOTS CLÉS
+obligations convertibles, 
+actions, 
+financement, 
+conversion
+SOMMAIRE
+1.  PRÉSENTATION GÉNÉRALE	
+2
+2.  PRINCIPALES CARACTÉRISTIQUES 
+DES OBLIGATIONS CONVERTIBLES	
+2
+
+----- page 2 -----
+2
+—
+3
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 325 : Les obligations convertibles en actions
+1.  PRÉSENTATION GÉNÉRALE
+Les obligations convertibles en actions sont utilisées aussi bien par les entreprises cotées sur un 
+marché financier que par les entreprises non cotées.
+L’obligation convertible est une obligation classique à laquelle est adjointe une option de conversion. 
+Cette option donne la faculté à son porteur de convertir l’obligation, selon des conditions 
+prédéterminées 1, en actions nouvelles émises par la société au moment de l’opération de conversion.
+Toutes les sociétés par actions, cotées ou non, peuvent émettre des obligations convertibles. 
+La décision d’émission relève de l’assemblée générale extraordinaire des actionnaires.
+Le prix d’émission de l’obligation convertible doit être au moins égal à la valeur nominale des 
+actions reçues en contrepartie de la conversion. La durée de vie des obligations convertibles 
+est généralement de 3 à 7 ans ; elle varie selon les besoins des émetteurs et les contraintes 
+conjoncturelles. Leur amortissement intervient le plus souvent in fine. L’obligation convertible est 
+un titre d’une grande souplesse d’utilisation puisque le taux d’intérêt peut être fixe, variable, indexé, 
+flottant, et révisable.
+La rémunération de la composante obligataire d’une obligation convertible est habituellement plus 
+faible que celle dont pourrait bénéficier une obligation classique. Il s’agit d’une caractéristique 
+essentielle d’une émission d’obligations convertibles : l’émetteur propose au souscripteur de diminuer 
+le taux actuariel auquel il peut prétendre en contrepartie de l’octroi d’une option de conversion 
+pouvant être à l’origine de gains importants.
+2.  PRINCIPALES CARACTÉRISTIQUES DES OBLIGATIONS CONVERTIBLES
+—  Du point de vue du souscripteur de l’obligation :
+L’obligation convertible propose un couple risque/rentabilité original qui peut être très attractif. 
+La rentabilité est constituée d’une partie fixe et d’une partie aléatoire :
+•  la partie fixe assure à l’investisseur un taux de rendement actuariel brut d’environ les deux tiers 
+de ce qu’il pourrait obtenir avec une obligation classique ;
+•  la partie aléatoire est la plus-value éventuelle liée à la conversion du titre suivie de sa revente. 
+Cette plus-value peut être très importante en théorie. Mais, dans la pratique, elle est le plus souvent 
+plafonnée par une option de rachat anticipé qui vient limiter son taux à environ 20 % à 30 %.
+—  Du point de vue de l’émetteur :
+L’obligation convertible permet à l’émetteur de collecter des ressources financières très peu 
+coûteuses, puisque l’option de conversion lui permet de diminuer la rentabilité actuarielle de la 
+composante obligataire de l’ordre d’un tiers. En outre, cette rentabilité est généralement assurée 
+par le versement d’un coupon et d’une prime de remboursement. Or, la prime de remboursement 
+n’est due que si l’obligation arrive à échéance et qu’elle n’est pas convertie, ce qui n’est pas le cas le 
+plus souvent. En contrepartie, l’inconvénient d’une émission d’obligations convertibles réside pour 
+l’essentiel en un risque d’échec de la conversion qui est assumé par l’émetteur. 
+1.  Les obligations convertibles peuvent donner lieu à conversion à tout moment. Cela n’exclut pas toutefois la 
+possibilité d’instaurer un différé de conversion en début de vie de l’obligation. En outre, de façon exceptionnelle, 
+notamment en cas de fusion, la conversion peut être suspendue pendant un délai maximal de trois mois. Le ratio de 
+conversion précise le nombre d’actions qu’un porteur peut obtenir en échange d’une obligation convertible. Il s’agit le 
+plus souvent d’un ratio fixe.
+
+----- page 3 -----
+3
+—
+3
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 325 : Les obligations convertibles en actions
+RÉFÉRENCES
+•  Vernimmen, Finance d’entreprise 2021
+•  Francis Lefebvre, mémento comptable 2016

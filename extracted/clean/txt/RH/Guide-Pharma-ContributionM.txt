@@ -429,6 +429,10 @@ Détail de la page contacter votre urssaf.fr, avec encadré rouge sur "Par courr
 la rubrique « Pas de compte ».
 Image du site internet Urssaf.fr, page "profil créateur", encdré rouge sur la rubrique "pas de compte", sous partie "Créateur d'entreprise".
 4. Puis compléter le formulaire pour vous identifier.
+[lien] https://www.contact.urssaf.fr/mosaic/categorie.do
+[lien] https://www.contact.urssaf.fr/mosaic/categorie.do
+[lien] https://www.urssaf.fr/portail/home.html
+[lien] https://www.urssaf.fr/portail/home/votre-urssaf/contacts-telephoniques.html
 
 ----- page 8 -----
 Remplir la déclaration
@@ -473,6 +477,9 @@ Le renseignement sur les spécialités remboursables (la zone « Code CIP ») es
 Le Chiffre d’affaires des médicaments remboursables est alimenté de manière dynamique et automatique
 lors de la saisie des différentes spécialités.
 Image du site internet - Etape
+[lien] http://www.codage.ext.cnamts.fr/codif/bdm_it/index.php
+[lien] https://sante.gouv.fr/soins-et-maladies/medicaments/professionnels-de-sante/autorisation-de-mise-sur-le-marche/article/autorisation-d-acces-precoce-autorisation-d-acces-compassionnel-et-cadre-de
+[lien] https://sante.gouv.fr/soins-et-maladies/medicaments/professionnels-de-sante/autorisation-de-mise-sur-le-marche/article/autorisation-d-acces-precoce-autorisation-d-acces-compassionnel-et-cadre-de
 
 ----- page 10 -----
 Pour terminer, vous devez renseigner les chiffres d’affaires des médicaments non remboursables et autres

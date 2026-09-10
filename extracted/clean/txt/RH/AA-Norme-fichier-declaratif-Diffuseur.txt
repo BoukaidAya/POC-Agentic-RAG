@@ -35,6 +35,11 @@ Nouvelle nomenclature des revenus .............................. 13
 Structure et format d’un enregistrement diffuseur ..................................................... 15
 Structure et format d’enregistrement Auteur ............................................................. 16
 Structure et format de l’enregistrement de fin de fichier ........................................... 19
+[lien] https://recouv.sharepoint.com/sites/Artistes-Auteurs-Diffuseurs/Documents%20partages/General/PO%20-%20MOA%20Métier/DIFF%20-%20Diffuseurs/Expression%20de%20Besoin/20220801-FiabilisationEDI-RevisionNormeEDI23-1-V1.3.docx#_Toc110587826
+[lien] https://recouv.sharepoint.com/sites/Artistes-Auteurs-Diffuseurs/Documents%20partages/General/PO%20-%20MOA%20Métier/DIFF%20-%20Diffuseurs/Expression%20de%20Besoin/20220801-FiabilisationEDI-RevisionNormeEDI23-1-V1.3.docx#_Toc110587831
+[lien] https://recouv.sharepoint.com/sites/Artistes-Auteurs-Diffuseurs/Documents%20partages/General/PO%20-%20MOA%20Métier/DIFF%20-%20Diffuseurs/Expression%20de%20Besoin/20220801-FiabilisationEDI-RevisionNormeEDI23-1-V1.3.docx#_Toc110587847
+[lien] https://recouv.sharepoint.com/sites/Artistes-Auteurs-Diffuseurs/Documents%20partages/General/PO%20-%20MOA%20Métier/DIFF%20-%20Diffuseurs/Expression%20de%20Besoin/20220801-FiabilisationEDI-RevisionNormeEDI23-1-V1.3.docx#_Toc110587850
+[lien] https://recouv.sharepoint.com/sites/Artistes-Auteurs-Diffuseurs/Documents%20partages/General/PO%20-%20MOA%20Métier/DIFF%20-%20Diffuseurs/Expression%20de%20Besoin/20220801-FiabilisationEDI-RevisionNormeEDI23-1-V1.3.docx#_Toc110587851
 
 ----- page 4 -----
 Le format d’échange est un format dit « à plat » avec les caractéristiques suivantes :
@@ -721,6 +726,7 @@ administrative Française issu de l'INSEE pour les "codes de pays étranger". Ce
 pays est enregistré dans le champ "Code postal" (norme :
 https://www.insee.fr/fr/information/2028273). Vous avez également la possibilité de
 renseigner un code postal générique « 99999 » pour toute adresse à l’étranger.
+[lien] https://www.insee.fr/fr/information/2028273
 
 ----- page 12 -----
 Les codes postaux étrangers contenant éventuellement une lettre, sont quant à eux
@@ -1034,6 +1040,8 @@ Facultatif pour les types 3, 4, 5, D, I
 Ne doit contenir que 5 chiffres. Pour les codes
 postaux étrangers, utiliser la classification pays
 INSEE ou renseigner un code unique « 99999 »
+[lien] https://www.insee.fr/fr/information/2028273
+[lien] https://www.insee.fr/fr/information/2028273
 
 ----- page 17 -----
 Ville

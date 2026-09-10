@@ -62,6 +62,7 @@ Votre rendez-vous mensuel
 Qu’est-ce que le responsive design ?
 1Le positionnement des sites sur les tablettes et ordinateurs n’est pas impacté.
 a. Illustration de Guillermo Mont
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
 
 ----- page 2 -----
 2 Phablette (phablet en anglais) : mot-valise obtenu par la contraction des mots « phone et « tablette ». Il s’agit d’un smartphone dont l’écran est presque aussi grand que celui d’une tablette.

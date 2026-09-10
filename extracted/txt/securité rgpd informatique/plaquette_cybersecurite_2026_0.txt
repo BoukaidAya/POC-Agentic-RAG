@@ -288,6 +288,8 @@ www.cnil.fr/mon-quotidien/ma-securite-numerique
 En savoir + 
 www.cnil.fr/cybersecurite
 En savoir +
+[lien] http://www.cnil.fr/mon-quotidien/ma-securite-numerique
+[lien] http://cnil.fr/cybersecurite
 
 ----- page 5 -----
 Les attaques par rançongiciel

@@ -104,6 +104,7 @@ TSA 62101
 69833 SAINT PRIEST CEDEX 9
 →Par courriel : c3s.controle@urssaf.fr
 →Par téléphone en composant le 04 83 65 15 00
+[lien] mailto:c3s.controle%40urssaf.fr?subject=
 
 ----- page 6 -----
 Le contrôle sur pièces de la C3S

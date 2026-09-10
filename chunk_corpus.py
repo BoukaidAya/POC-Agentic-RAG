@@ -230,8 +230,20 @@ def main():
             stat["docs"] += 1
             stat["chunks"] += len(chunks)
 
+            liens_par_page: dict[int, list[dict]] = {}
+            for p in rec["pages"]:
+                if p.get("liens"):
+                    liens_par_page[p["page"]] = p["liens"]
+
             for i, c in enumerate(chunks):
                 c["chunk_id"] = f"{rec['path']}#{i}"
+                liens_chunk, vus = [], set()
+                for pg in range(c["page_debut"], c["page_fin"] + 1):
+                    for l in liens_par_page.get(pg, []):
+                        if l["uri"] not in vus:
+                            vus.add(l["uri"])
+                            liens_chunk.append(l)
+                c["liens"] = liens_chunk
                 c["doc_path"] = rec["path"]
                 c["folder"] = rec["folder"]
                 c["filename"] = rec["filename"]

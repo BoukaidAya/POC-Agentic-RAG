@@ -65,6 +65,7 @@ Le bandeau ou l’encart peut informer
 l’internaute brièvement de l’exis-
 tence et de la finalité des cookies 
 puis renvoyer vers une page plus
+[lien] http://www.dordogne.cci.fr/developper/developper-son-entreprise/tic
 
 ----- page 2 -----
 CCI DORDOGNE - Performance numérique - AVRIL 2015
@@ -189,3 +190,4 @@ CCI DORDOGNE
 Votre prochain rdv numérique :
 « Comment sécuriser 
 vos terminaux mobiles »
+[lien] http://www.cnil.fr/vos-obligations/sites-web-cookies-et-autres-traceurs/outils-et-codes-sources/la-mesure-daudience/

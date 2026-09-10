@@ -187,6 +187,7 @@ connecté du Portail Plateformes Numériques.
 A l’issue de cette étape et après validation du dossier, le compte en ligne de l’administrateur est créé et 
 la plateforme a accès au portail Plateformes numériques. L’administrateur peut alors créer des comptes 
 pour habiliter d’autres personnes au sein de la plateforme.
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
 
 ----- page 5 -----
 Portail Plateforme numérique 
@@ -256,6 +257,7 @@ d’Utilisation (CGU) du Portail Plateformes Numériques. Ces CGU devront être 
 Lors de la première connexion ; 
 ▪ 
 A toute nouvelle version des CGU.
+[lien] https://plateforme-numerique.urssaf.fr/connexion
 
 ----- page 6 -----
 Portail Plateforme numérique 
@@ -654,6 +656,7 @@ Cet encart permet de retrouver, pour le dernier fichier transmis uniquement :
 ➔ Pour un fichier d’identification :  
 ▪ 
 La période déclarative concernée par le fichier ;
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
 
 ----- page 16 -----
 Portail Plateforme numérique 

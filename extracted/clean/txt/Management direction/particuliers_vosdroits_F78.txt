@@ -32,6 +32,14 @@ However, some employees, such as VRP for example, may be excluded from the scope
 they have a specific status.
 The vast majority of sectors of activity and the companies associated with them are covered by a collective
 agreement, regardless of the number of employees.
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F34774?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F34774?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F34774?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F34774?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F987?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F987?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F987?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F987?lang=en
 
 ----- page 2 -----
 How is the collective agreement applicable to the company
@@ -69,6 +77,18 @@ Judicial Tribunal
 (http://www.annuaires.justice.gouv.fr/)
 Please note
 Tickets may be issued by the Labor Inspectorate for non-compliance with the provisions of the Convention.
+[lien] https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.fr/particuliers/vosdroits/F78
+[lien] https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.fr/particuliers/vosdroits/F78
+[lien] https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.fr/particuliers/vosdroits/F78
+[lien] https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.fr/particuliers/vosdroits/F78
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F2360?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F2360?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F2360?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F2360?lang=en
+[lien] http://www.annuaires.justice.gouv.fr/
+[lien] http://www.annuaires.justice.gouv.fr/
+[lien] http://www.annuaires.justice.gouv.fr/
+[lien] http://www.annuaires.justice.gouv.fr/
 
 ----- page 3 -----
 How are employees informed about the applicable collective
@@ -107,6 +127,12 @@ The collective agreement is not extended
 Collective agreements not extended are available in the Official Bulletin of Collective Agreements, also available on
 the website Légifrance.gouv.fr, under the heading " Official Publications ", " Official Bulletins of Collective
 Agreements ’:
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F34474?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F34474?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F34474?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R2970
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R2970
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R2970
 
 ----- page 4 -----
 Find your collective agreement
@@ -144,6 +170,27 @@ Labor Code: Articles L2221-1 to L2221-3
 Subject matter, content, scope and duration of collective agreements
 Labor Code: Article L2222-4 (https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189513/?lang=en)
 Determination of the duration of agreements
+[lien] https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.fr/particuliers/vosdroits/F78?lang=en
+[lien] https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.fr/particuliers/vosdroits/F78?lang=en
+[lien] https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.fr/particuliers/vosdroits/F78?lang=en
+[lien] https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.fr/particuliers/vosdroits/F78?lang=en
+[lien] https://code.travail.gouv.fr/outils/convention-collective?src_url=https://service-public.fr/particuliers/vosdroits/F78?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R66129
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R66129
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R66129
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R15651
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R15651
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R15651
+[lien] https://dreets.gouv.fr/
+[lien] https://dreets.gouv.fr/
+[lien] https://dreets.gouv.fr/
+[lien] https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177925?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177925?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177925?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177925?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189513/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189513/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006189513/?lang=en
 
 ----- page 5 -----
 FAQ
@@ -166,3 +213,30 @@ Search tools
 Additional topics
 Collective company agreements (https://www.legifrance.gouv.fr/liste/acco?lang=en)
 Directorate of Legal and Administrative Information (Dila) - Prime Minister
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F2395?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F2395?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/F2395?lang=en
+[lien] https://entreprendre.service-public.gouv.fr/vosdroits/F36056?lang=en
+[lien] https://entreprendre.service-public.gouv.fr/vosdroits/F36056?lang=en
+[lien] https://entreprendre.service-public.gouv.fr/vosdroits/F36056?lang=en
+[lien] https://entreprendre.service-public.gouv.fr/vosdroits/F36056?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018535599/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018535599/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018535599/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/id/LEGISCTA000018535599/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653106/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653106/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653106/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018487280/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018487280/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018487280/?lang=en
+[lien] https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018487280/?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R60805?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R60805?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R60805?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R2970?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R2970?lang=en
+[lien] https://www.service-public.gouv.fr/particuliers/vosdroits/R2970?lang=en
+[lien] https://www.legifrance.gouv.fr/liste/acco?lang=en
+[lien] https://www.legifrance.gouv.fr/liste/acco?lang=en
+[lien] https://www.legifrance.gouv.fr/liste/acco?lang=en

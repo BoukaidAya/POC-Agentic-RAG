@@ -14,6 +14,7 @@ de recommandation « cookies et autres traceurs » afin de recueillir les
 difficultés d’interprétation suscitées par le texte et des exemples de bonnes 
 pratiques. Les contributions ont nourri les travaux de la CNIL en vue de la 
 publication de la version définitive de sa recommandation.
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/recommandation-cookies-et-autres-traceurs.pdf
 
 ----- page 2 -----
 2 
@@ -68,6 +69,9 @@ votes
 30 organismes à but non lucratif ;  
 • 
 26 institutions publiques.
+[lien] https://www.cnil.fr/fr/cookies-et-autres-traceurs-la-cnil-publie-de-nouvelles-lignes-directrices
+[lien] https://www.cnil.fr/fr/la-loi-informatique-et-libertes#article82
+[lien] https://www.cnil.fr/fr/la-loi-informatique-et-libertes#article82
 
 ----- page 3 -----
 3 
@@ -99,6 +103,8 @@ profiteront ».
  
 « La technologie des cookies semble un peu dépassée pour certains autres façons de « tracker » les personnes 
 développées, impossible à voir pour l'utilisateur (…) »
+[lien] http://www.cnil.fr/fr/questions-reponses-sur-les-lignes-directrices-modificatives-et-la-recommandation-cookies-et-autres
+[lien] https://www.cnil.fr/fr/definition/cookie
 
 ----- page 4 -----
 4 
@@ -162,6 +168,10 @@ et autres traceurs » (ces traceurs étaient précédemment listés dans le proj
 1 Le fait qu’un traceur soit nécessaire à la viabilité économique du service n’implique pas qu’il soit « strictement nécessaires 
 à la fourniture d'un service expressément demandé par l'utilisateur » (Conseil d'État, 10ème - 9ème chambres réunies, 
 06/06/2018, 412589, Publié au recueil Lebon).
+[lien] https://www.cnil.fr/fr/definition/cookie-de-capping
+[lien] https://www.cnil.fr/fr/definition/publicite-contextuelle
+[lien] https://www.cnil.fr/fr/definition/publicite-contextuelle
+[lien] https://www.cnil.fr/fr/definition/affiliation
 
 ----- page 5 -----
 5 
@@ -323,3 +333,9 @@ Les lignes directrices sur les cookies et autres traceurs
 La recommandation sur les cookies et autres traceurs 
  
 Site web de la CNIL
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/cnil_cahiers_ip6.pdf
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/cnil_cahiers_ip6.pdf
+[lien] https://www.cnil.fr/fr/la-loi-informatique-et-libertes
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/ligne-directrice-cookies-et-autres-traceurs.pdf
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/recommandation-cookies-et-autres-traceurs.pdf
+[lien] http://www.cnil.fr/

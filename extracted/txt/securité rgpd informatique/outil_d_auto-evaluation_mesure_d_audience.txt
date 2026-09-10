@@ -71,6 +71,8 @@ consentement à la condition qu’elles aient été préalablement anonymisées 
 effective. En effet, la réutilisation de données effectivement rendues anonymes est présumée ne pas créer 
 d’atteinte supplémentaire à la vie privée au regard de la protection apportée par l’article 82 de la loi 
 « informatique et libertés ». Le RGPD reste applicable au traitement d’anonymisation lui-même.
+[lien] https://www.cnil.fr/fr/technologies/lanonymisation-de-donnees-personnelles
+[lien] https://www.cnil.fr/fr/technologies/lanonymisation-de-donnees-personnelles
 
 ----- page 3 -----
 3 
@@ -601,3 +603,4 @@ d’opposition ou à la mesure et
 l’ajout à une liste repoussoir 
 d’une empreinte numérique 
 (ou « fingerprinting »).
+[lien] https://www.cnil.fr/fr/le-g29-publie-un-avis-sur-les-techniques-danonymisation

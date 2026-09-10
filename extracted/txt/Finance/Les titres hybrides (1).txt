@@ -1,0 +1,221 @@
+
+----- page 1 -----
+05/2021
+1
+—
+5
+© Banque de France
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les titres de créances 
+négociables (TCN)
+331
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 331 : Les titres de créances négociables (TCN)
+MOTS CLÉS
+NEU CP, 
+NEU MTN, 
+marché monétaire
+SOMMAIRE
+1.  PRÉSENTATION GÉNÉRALE	
+2
+2.  CARACTÉRISTIQUES DES TCN	
+2
+2.1. Définition	
+2
+2.2. Caractéristiques et atouts des TCN 
+(art D. 213-1 à 213-7 du Code monétaire et financier)	
+	
+3
+3.  CONDITIONS D’ÉMISSION DES TCN	
+4
+3.1. Les émetteurs habilités	
+4
+3.2. Les conditions d’émission	
+4
+
+----- page 2 -----
+2
+—
+5
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 331 : Les titres de créances négociables (TCN)
+1.  PRÉSENTATION GÉNÉRALE
+Le marché des titres de créances négociables (TCN) est un marché à court terme (durée inférieure 
+ou égale à un an) et à moyen terme (au-delà d’un an) permettant une diversification des sources 
+de financement des émetteurs et de placement offertes aux investisseurs, en euro et en devises. 
+Les principaux atouts de ce marché reposent sur la transparence et la fiabilité, le respect des 
+conditions d’émission des émetteurs étant garanti par la Banque de France.
+Second marché de titres à court terme en Europe et leader en zone euro (avec un total d’encours 
+supérieur à 300 milliards d’euros), ce marché a fait l’objet d’une réforme, entrée en vigueur le 
+1er juin 2016 qui vise à :
+—  simplifier le cadre juridique des TCN,
+—  moderniser le marché,
+—  favoriser l’accès aux émetteurs français et étrangers.
+À noter : La Banque centrale européenne (BCE) a mis en œuvre le 27 mars 2020 un programme 
+temporaire d’achats d’urgence face à la pandémie (Pandemic Emergency Purchase Programme 
+– PEPP), incluant l’achat de commercial paper corporate dont les titres de créances négociables à 
+court terme.
+2.  CARACTÉRISTIQUES DES TCN
+2.1.  Définition
+Les titres de créances négociables sont des « titres financiers émis au gré de l’émetteur, négociables 
+sur un marché réglementé ou de gré à gré, qui représentent chacun un droit de créance » 
+(Art. L.213‑1 du Code monétaire et financier).
+Ils peuvent être émis par les banques, les entreprises, les organismes publics (collectivités locales, 
+hôpitaux…) et les véhicules de titrisation 1 sur le marché monétaire 2.
+Depuis le 1er juin 2016, le marché est désormais composé de titres dénommés :
+—  Titres de créances négociables à court terme ou « Negociable European Commercial Paper » 
+(NEU CP). D’une durée initiale inférieure ou égale à 1 an, ils correspondent aux anciens billets 
+de trésorerie émis par les entreprises ainsi qu’aux anciens certificats de dépôt émis par les 
+établissements de crédit ou la Caisse des dépôts et consignations (CDC).
+—  Titres de créances négociables à moyen terme ou « Negociable European Medium Term 
+Notes » (NEU MTN). Anciennement appelés « bons à moyen terme négociables », ce sont des 
+titres d’une durée initiale supérieure à 1 an.
+1.  Fonds d’investissement dont l’objet est d’acquérir des créances et d’émettre des obligations ou des actions 
+représentatives de ces créances.
+2.  Le marché monétaire est un marché de capitaux à court et moyen terme, divisé en un marché interbancaire réservé 
+aux établissements de crédit, qui l’utilisent pour se refinancer, et un marché des titres de créances négociables 
+(TCN) ouvert à tous les agents économiques, dont les entreprises.
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=2E6B92897C71E9583A1EB9E085DDB66A.tpdila15v_2?idArticle=LEGIARTI000020096336&cidTexte=LEGITEXT000006072026&dateTexte=20100624
+
+----- page 3 -----
+3
+—
+5
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 331 : Les titres de créances négociables (TCN)
+Cette requalification s’inscrit plus largement dans le cadre de la réforme du cadre juridique initiée 
+en 2016 sous l’égide du comité « Place de Paris 2020 » afin de positionner le marché à la portée d’un 
+plus grand nombre d’émetteurs en France (dont les ETI) et à l’étranger ainsi qu’à une base élargie 
+d’investisseurs internationaux.
+2.2.  Caractéristiques et atouts des TCN 
+(art. D. 213-1 à 213-7 du Code monétaire et financier)
+Les TCN peuvent avoir une échéance fixe comprise entre un jour et un an pour les TCN à court terme, 
+et supérieure à un an pour les TCN à moyen terme.
+Le montant unitaire des TCN doit être au moins égal à la contrevaleur de 150 000 euros 3. Ils peuvent 
+toutefois être émis à un prix différent de leur valeur nominale et comporter une prime de remboursement 4.
+Les TCN portent intérêt. Les intérêts sont fixés et négociés librement lors de l’émission. Ils sont en principe 
+calculés sur la base d’un taux fixe et par référence au marché monétaire. Ils peuvent avoir également un 
+coupon indexé sur une référence variable. Lorsque la rémunération varie en application d’une clause 
+d’indexation qui ne porte pas sur un taux usuel du marché interbancaire, du marché monétaire ou du 
+marché obligataire, cette clause doit être portée à la connaissance de la Banque de France. Les émetteurs 
+doivent faire connaître, le cas échéant, lors de l’émission, le taux de rendement actuariel annuel.
+Les TCN peuvent être libellés en devises étrangères sauf en cas de suspension temporaire de cette 
+possibilité décidée par la Banque de France.
+Enfin, ils peuvent éventuellement être garantis par un établissement de crédit habilité par son statut 
+à délivrer une telle garantie. Ils peuvent également être garantis par une entreprise d’investissement 
+ou une entité elle-même habilitée à émettre des TCN, lorsque cette entreprise ou cette entité détient, 
+directement ou indirectement 20 % au moins du capital de l’émetteur ou dont le capital est détenu, 
+directement ou indirectement, par l’émetteur à concurrence de 20 % au moins.
+Véritable instrument de diversification et de désintermédiation bancaire, les TCN présentent divers 
+avantages :
+—  pour l’émetteur :
+•  une grande flexibilité pour le choix des échéances,
+•  un coût inférieur à celui d’autres financements à court terme,
+•  un instrument d’amélioration de la notoriété permettant de faciliter l’accès aux marchés financiers.
+—  pour l’investisseur :
+•  une rentabilité égale ou supérieure à celle des autres produits du marché monétaire,
+•  une rémunération à taux fixe,
+•  une transaction encadrée : seules les sociétés qui bénéficient d’une bonne notation peuvent 
+accéder au marché des TCN, dont la transparence est garantie par la Banque de France.
+3.  200 000 euros si la documentation financière est rédigée en anglais.
+4.  La prime de remboursement correspond à la différence entre le prix de remboursement et la valeur nominale. 
+Les TCN sont alors remboursés à un prix supérieur à leur valeur nominale.
+
+----- page 4 -----
+4
+—
+5
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 331 : Les titres de créances négociables (TCN)
+Enfin, l’attribution en temps réel du numéro d’identification des titres (code ISIN), indispensable à 
+toute transaction, assure une meilleure efficacité et sécurité juridique des opérations.
+3.  CONDITIONS D’ÉMISSION DES TCN
+Les dispositions légales relatives aux émissions de titres de créances négociables sont contenues 
+dans les articles L. 213-1 à L. 213-4 et D. 213-1 à D. 213-14 du Code monétaire et financier.
+3.1.  Les émetteurs habilités
+Au terme des articles L. 213-3 et D. 213-8 du Code monétaire et financier, et sous réserve de remplir 
+certaines conditions, sont habilitées à émettre des titres de créances négociables, les entités 
+suivantes :
+1)  les établissements de crédit, les entreprises d’investissement et la Caisse des dépôts 
+et consignations ;
+2)  les sociétés de financement ;
+3)  les autres entreprises (sociétés par actions, sociétés coopératives agricoles, sociétés coopératives 
+par action) ;
+4)  les entreprises du secteur public ;
+5)  les groupements d’intérêt économique et les sociétés en nom collectif ;
+6)  les institutions de l’Union européenne et les organisations internationales ;
+7)  la caisse d’amortissement de la dette sociale ;
+8)  les collectivités locales et leurs groupements ;
+9)  les associations ;
+10)  les États ;
+11)  les organismes de titrisation ;
+12)  l’Agence centrale des organismes de sécurité sociale ;
+13)  les centres hospitaliers régionaux (CHR).
+3.2.  Les conditions d’émission
+Avant toute première émission de TCN, les émetteurs doivent établir une documentation financière, 
+détaillant leur activité, leur situation économique et financière ainsi que le programme d’émission. 
+Cette documentation financière, rédigée en français ou en anglais, est déposée auprès de la 
+Banque de France, qui est chargée de veiller au respect des conditions d’émission par les émetteurs 
+(art. L. 213-4 du Code monétaire et financier).
+[lien] http://www.legifrance.gouv.fr/affichCode.do;jsessionid=7FAF8D526C8196A4A0F38B2EAA76285B.tpdjo14v_2?idSectionTA=LEGISCTA000006170093&cidTexte=LEGITEXT000006072026&dateTexte=20100624
+[lien] http://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006639410&idSectionTA=LEGISCTA000006184390&cidTexte=LEGITEXT000006072026&dateTexte=20100624
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072026&idArticle=LEGIARTI000028638709
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072026&idArticle=LEGIARTI000020644841
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072026&idArticle=LEGIARTI000006647587
+
+----- page 5 -----
+5
+—
+5
+© Banque de France
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 331 : Les titres de créances négociables (TCN)
+La documentation financière doit être mise à jour chaque année dans un délai de 45 jours après 
+la tenue de l’assemblée générale des actionnaires, ou de l’organe qui en tient lieu, statuant sur 
+les comptes du dernier exercice (art. D. 213-12 du Code monétaire et financier) ou à l’occasion 
+d’un changement important (modification de la notation, de la structure juridique de l’émetteur, 
+changement de domiciliataire…).
+Les émetteurs doivent également rendre publique une notation de leur programme d’émission, 
+obtenue auprès d’une agence agréée par l’Autorité européenne des marchés financiers (ESMA), 
+exceptés les établissements de crédit et les entreprises d’investissement établis dans l’Espace 
+économique européen, la Caisse des dépôts et consignations, les émetteurs dont les titres sont 
+admis en négociation sur un marché réglementé de l’Espace économique européen ou ceux qui 
+disposent d’un garant bénéficiant déjà d’une telle notation (article D. 213-3 du Code monétaire 
+et financier).
+Ils doivent domicilier leurs titres auprès d’un établissement de crédit, d’une entreprise d’investissement 
+installée en France ou de la Caisse des dépôts et consignations dans les conditions fixées par le 
+règlement général de l’Autorité des marchés financiers (art. 322-46 à 322-49 du Règlement général 
+de l’AMF).
+Enfin, ils doivent rendre compte à la Banque de France des remboursements anticipés de leurs titres 
+(art. D. 213-14 du Code monétaire et financier).
+Outre sa mission de surveillance, la Banque de France assure également la transparence du marché 
+des TCN en rendant publique sur son site internet la documentation financière des émetteurs et les 
+informations statistiques sur les titres émis (notamment publications quotidiennes, hebdomadaires 
+et mensuelles). Par ailleurs, elle a mis en place à destination des nouveaux émetteurs des titres 
+négociables, une solution digitale qui permet de simplifier les échanges entre la Banque de France 
+et les émetteurs. Cette solution devrait s’étendre à tous les émetteurs dans les années à venir.
+RÉFÉRENCES
+•  Articles L.213-1-A à L.213-4-1 du Code monétaire et financier (conditions d’émission)
+•  Articles D.213-1-A à D.213-14 du Code monétaire et financier (conditions d’émission)
+•  Décret n° 2016-707 du 30 mai 2016 portant réforme des titres de créances négociables
+•  Arrêté du 30 mai 2016 portant réforme des titres de créances négociables
+•  Décision n° 2012-01 du 02/07/12 du gouverneur de la Banque de France modifiée par la décision 
+n° 2016-04 du 31/05/2016 (modalités d’exercice des missions de la Banque de France sur le 
+marché des TCN) et l’annexe I relative aux déclarations d’émissions de TCN
+•  Articles 322-46 à 322-49 de la sous-section 3 de la section unique du Chapitre 2, Titre III, Livre III 
+du Règlement général de l’Autorité des marchés financiers (domiciliation des TCN)
+•  Vernimmen, Finance d’entreprise 2021
+•  FRANCIS LEFEBVRE, Mémento comptable 2016
+•  Dossier « Réforme du marché des titres de créances négociables », mai 2016
+•  Liste des émetteurs de TCN
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072026&idArticle=LEGIARTI000006639529
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072026&idArticle=LEGIARTI000006639439&dateTexte=&categorieLien=cid
+[lien] https://www.amf-france.org/fr/eli/fr/aai/amf/rg/article/322-46/20130419/notes
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=5492C504D35625883BC39AB9B33A9B6F.tpdila13v_3?idArticle=LEGIARTI000006639550&cidTexte=LEGITEXT000006072026&dateTexte=20150914
+[lien] https://www.legifrance.gouv.fr/affichCode.do;jsessionid=B38A3D6D67A97BDF4B0E98F0147381B2.tpdila16v_3?idSectionTA=LEGISCTA000006170093&cidTexte=LEGITEXT000006072026&dateTexte=20150917
+[lien] https://www.legifrance.gouv.fr/affichCode.do;jsessionid=04E01E027E055193068C4CE196D68E60.tpdila23v_2?idSectionTA=LEGISCTA000006169748&cidTexte=LEGITEXT000006072026&dateTexte=20150917
+[lien] https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=7CCD7BC08E3C2B49C7EC3DD5B5B35916.tpdila23v_2?cidTexte=JORFTEXT000032611011&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000032610819
+[lien] https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=7CCD7BC08E3C2B49C7EC3DD5B5B35916.tpdila23v_2?cidTexte=JORFTEXT000032611052&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000032610819
+[lien] https://publications.banque-france.fr/liste-chronologique/decisions-du-gouverneur-prises-dans-le-cadre-des-missions-du-sebc?year=2012
+[lien] https://www.banque-france.fr/fileadmin/user_upload/banque_de_france/Politique_Monetaire/tcn/Decision_20160331_2016-04_missiontcn.pdf
+[lien] https://www.amf-france.org/fr/eli/fr/aai/amf/rg/article/322-46/20130419/notes
+[lien] https://www.banque-france.fr/sites/default/files/dossier-technique-reforme-marche-titres-de-creances-negociables.pdf
+[lien] https://eucpmtn.banque-france.fr/public/#/liste-des-emetteurs

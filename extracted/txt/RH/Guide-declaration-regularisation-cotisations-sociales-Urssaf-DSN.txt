@@ -147,6 +147,8 @@ mobilité, et pour chaque commune au titre de laquelle le versement mobilité es
 de similarité de taux. 
 Il est à noter qu’en cas de rejet d’une ligne de cotisation associée au CTP 900 en raison d’une absence 
 de code commune INSEE, une régularisation du déclarant est attendue dans la DSN du mois suivant.
+[lien] https://fichierdirect.declaration.urssaf.fr/TablesReference.htm
+[lien] https://www.urssaf.fr/accueil/employeur/cotisations/liste-cotisations/at-vieillesse-csa-dialoguesocial.html
 
 ----- page 5 -----
 5 
@@ -190,6 +192,7 @@ sociale » en lieu et place des bases assujetties plafonnées (02) et déplafonn
 Lorsqu’une base assujettie est dédiée à une cotisation/contribution, par exemple de type « 04 - Assiette de la 
 contribution sociale généralisée » ou « 57 - Assiette du versement mobilité », son usage doit perdurer même 
 en cas de base forfaitaire.
+[lien] http://net-entreprises.custhelp.com/app/answers/detail/a_id/1737/kw/1737
 
 ----- page 6 -----
 6 
@@ -330,6 +333,9 @@ Les CTP sont classés en deux catégories : d’une part les CTP du socle de bas
 part les CTP correspondant à des situations particulières (mention figurant à côté du numéro de fiche).  Enfin, les deux 
 dernières parties précisent la définition de l’effectif fin de période de la rubrique « Alimentation des rubriques liées 
 aux effectifs » et la « Gestion des arrondis pour les déclarations de cotisations ».
+[lien] https://www.urssaf.fr/files/live/sites/urssaffr/files/autres/Urssaf-equivalenceDIDA.xlsx
+[lien] https://www.urssaf.fr/files/live/sites/urssaffr/files/autres/Urssaf-equivalenceDIDA-82.xlsx
+[lien] https://open.urssaf.fr/explore/dataset/equivalence-dida/export/
 
 ----- page 9 -----
 9 
@@ -385,6 +391,8 @@ CTP 725 Bonus Malus Assurance Chômage
 CTP 820 VMRR 
 NB : Il est à noter que l’exploitation du format du code type de personnel permet de savoir si c’est le montant d’assiette 
 ou le montant de cotisation qui doit être complété en DSN.
+[lien] https://www.urssaf.fr/portail/home/taux-baremes.html
+[lien] https://fichierdirect.declaration.urssaf.fr/TablesReference.htm
 
 ----- page 10 -----
 10 
@@ -459,6 +467,8 @@ Il est précisé que :
 La rubrique « Type de Composant de base assujettie - S21.G00.79.001 » est à alimenter de la 
 valeur « 01 - Montant du SMIC retenu pour le calcul de la Réduction générale des cotisations 
 patronales de Sécurité sociale, de retraite complémentaire, d'assurance chômage et de la
+[lien] http://www.net-entreprises.fr/vos-declarations-en-ligne/compte-atmp/#lessentiel
+[lien] http://www.net-entreprises.fr/vos-declarations-en-ligne/compte-atmp/#lessentiel
 
 ----- page 12 -----
 CTP 100 RG, cas général (avec un seul taux AT) 
@@ -582,6 +592,7 @@ celle-ci vous a adressée. Vous pouvez également en retrouver la teneur en adh�
 sur net-entreprises via l’adresse suivante :ici  
 Au niveau nominatif : 
 La complétude des blocs est la même qu’en cas de taux AT unique (cf. fiche n°1).
+[lien] http://www.net-entreprises.fr/vos-declarations-en-ligne/compte-atmp/#lessentiel.
 
 ----- page 15 -----
 15 
@@ -635,6 +646,8 @@ ou d’un CTP portant sur une période d’emploi antérieure à sa clôture.
 2.2. Liste récapitulative des CTP clôturés 
 Cette liste a pour vocation de référencer les différents CTP clôturés. Il est disponible sur le site urssaf.fr 
 à l’adresse suivante : ici
+[lien] https://fichierdirect.declaration.urssaf.fr/TablesReference.htm
+[lien] https://fichierdirect.declaration.urssaf.fr/TablesReference.htm
 
 ----- page 17 -----
 17 
@@ -1072,6 +1085,7 @@ Si cette situation venait à se produire après l’exigibilité, étant donnée
 d’origine tous les montants et périodes déclarées sur la déclaration initiale du SIRET non actif, afin 
 que l’ensemble des destinataires puissent recevoir l’information. Les organismes ayant rejetés les 
 données lors du dépôt initial le feront également pour ce nouveau dépôt.
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2955
 
 ----- page 25 -----
 25 
@@ -1151,6 +1165,7 @@ Ce service est accessible depuis net-entreprises via les services complémentair
 via vos services en ligne d’Urssaf.fr.  
 Ce service vous permet de consulter, de modifier, d’ajouter ou d’initier un télépaiement à une DSN ou 
 à une Ducs et d’accéder, le cas échéant, au télépaiement des dettes.
+[lien] http://www.net-entreprises.fr/media/documentation/telepaiement-services-urssaf.pdf
 
 ----- page 27 -----
 27 
@@ -1197,6 +1212,7 @@ Vous devez déclarer en bloc « Bordereau de cotisation due - S21.G00.22 » :
 S21.G00.22.003 : 01012021 
 • 
 S21.G00.22.005 : -400.00
+[lien] http://www.net-entreprises.fr/media/documentation/telepaiement-services-urssaf.pdf
 
 ----- page 28 -----
 28 
@@ -1239,6 +1255,9 @@ http://www.net-entreprises.fr/media/documentation/dsn-note-partitionnement.pdf
 L’utilisation du partitionnement va de pair avec la pratique du fractionnement. Vous avez accès aux 
 consignes sur le fractionnement sur DSN-info en cliquant sur les liens suivants : Gestion des Entreprises 
 et Etablissements en DSN - Les généralités
+[lien] http://www.net-entreprises.fr/media/documentation/dsn-note-partitionnement.pdf
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2946
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2946
 
 ----- page 30 -----
 30 
@@ -1336,6 +1355,7 @@ et en mode API au plus proche du dépôt et de manière générale dans un déla
 dépôts effectués en TEST font également l’objet d’une restitution de ces CRM à H+4. 
 - Les CRM normalisés de type CRM 120 sont restitués de manière consolidée au plus tard à J+5 de 
 l’exigibilité.
+[lien] https://fichierdirect.declaration.urssaf.fr/TablesReference.htm
 
 ----- page 32 -----
 32 
@@ -1360,6 +1380,8 @@ Le service Suivi DSN d'Urssaf en ligne permet la consultation des anomalies non 
 rappel annuel n’est donc pas mis à disposition en tant que tel sur ce service. 
 Le lien ci-dessous vous servira de complément d’information :  
 DSN : un nouveau compte-rendu métier de rappel annuel - Urssaf.fr
+[lien] https://www.net-entreprises.fr/declaration/norme-et-documentation-neores/
+[lien] https://www.urssaf.fr/accueil/actualites/dsn-compte-rendu-metier-annuel.html
 
 ----- page 33 -----
 33 
@@ -1529,6 +1551,8 @@ Cf :  fiche consigne Cotisations de retraite complémentaire AGIRC ARRCO due
   
  
 3. Le bloc 79 doit être alimenté via les rubriques S21.G00.79.001, 004.
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2556%22%20/t%20%22_blank
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2556%22%20/t%20%22_blank
 
 ----- page 35 -----
 35 
@@ -1559,6 +1583,7 @@ Si l’employeur applique une mesure de réduction dégressive autre que la RGD 
 domicile, Lodeom ... ) : il doit utiliser le CTP de complément de taux si la rémunération dépasse le 
 seuil d’application et les CTP de déduction de complément de taux si la rémunération passe sous le 
 seuil en cours d’année. Sans changement ni à maille individuelle ni à maille agrégée.
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051269481
 
 ----- page 36 -----
 36 
@@ -1671,6 +1696,7 @@ S21.G00.81.004 pour le type 131
 S21.G00.81.004 pour le type 142)  
 [Retraite] Complémentaire Tranche 2  
 Exclu du périmètre du contrôle MNS006 pour l’année 2026
+[lien] https://boss.gouv.fr/portail/accueil/bulletin-de-paie/montant-net-social.html
 
 ----- page 37 -----
 37 
@@ -1743,6 +1769,8 @@ retraite complémentaire Agirc-Arrco (Tranche 1) et de CEG (Tranche 1), ainsi qu
 déclarer en bloc S21.G00.81 sous le code « 142 – Cotisation régime unifié Agirc-Arrco (part patronale 
 tranche T1) » (cf fiche consigne Cotisations de retraite complémentaire AGIRC ARRCO dues à partir 
 du 01/01/2023).
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2556
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2556
 
 ----- page 38 -----
 38 
@@ -1819,6 +1847,7 @@ consultation des notifications automatiques des anomalies déclaratives etc.
 Attestation de vigilance, 
 • 
 Mandat de prélèvement SEPA.
+[lien] http://www.contact.urssaf.fr/adhenligne/
 
 ----- page 40 -----
 40 
@@ -1861,6 +1890,8 @@ toutefois déposer une fraction DSN à néant.
 Si votre client souhaite déclarer exclusivement l’ensemble de ses salariés via l’un de ces services, 
 contactez votre Urssaf afin de fermer le compte employeur Urssaf de votre client. Seul le compte Tese, 
 Cea ou TFE restera ouvert.
+[lien] https://www.urssaf.fr/accueil/employeur/gerer-entreprise/declaration-sociale-nominative.html#ancre-le-service-suivi-dsn
+[lien] https://www.urssaf.fr/accueil/employeur/gerer-entreprise/declaration-sociale-nominative.html#ancre-le-service-suivi-dsn
 
 ----- page 41 -----
 41 
@@ -1873,3 +1904,6 @@ Vos contacts pour le service Cea - Urssaf.fr
 Vos contacts pour le service Titre firmes étrangères - Urssaf.fr 
  
 Le respect de ces consignes garantit les droits sociaux des salariés.
+[lien] https://www.urssaf.fr/accueil/contacter-urssaf/employeur-service-tese.html
+[lien] https://www.urssaf.fr/accueil/contacter-urssaf/employeur-service-cea.html
+[lien] https://www.urssaf.fr/accueil/contacter-urssaf/employeur-service-tfe.html

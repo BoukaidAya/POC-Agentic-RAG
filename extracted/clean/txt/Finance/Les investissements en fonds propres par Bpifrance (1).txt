@@ -1,0 +1,133 @@
+
+----- page 1 -----
+04/2022
+—
+Chapitre 2 : Les acteurs | Fiche 224 : Les sociétés d’assurance-crédit
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les sociétés
+d’assurance-crédit
+MOTS CLÉS
+assurance-crédit,
+garantie,
+clients
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+2. LE MARCHÉ DE L’ASSURANCE-CRÉDIT ET SES ACTEURS
+2.1. Le marché
+2.2. Les acteurs
+2.2.1. EULER HERMES
+2.2.2. ATRADIUS
+2.2.3. COFACE
+NB Pour plus d’informations, la fiche 604 présente l’assurance-crédit.
+
+----- page 2 -----
+—
+Chapitre 2 : Les acteurs | Fiche 224 : Les sociétés d’assurance-crédit
+1. PRÉSENTATION GÉNÉRALE
+Destinée aux entreprises de toutes tailles (TPE, PME et grands comptes), les sociétés d’assurance-
+crédit garantissent leurs assurés contre le risque de non-paiement des clients, le plus souvent par
+suite d’insolvabilité.
+Elles participent donc à la gestion du risque clients des entreprises en proposant 3 services.
+— L’indemnisation des créances garanties mais non recouvrées.
+— La prévention du risque client à travers une analyse financière approfondie et continue.
+Elles s’attachent à évaluer la situation financière des clients à couvrir (clients de leurs assurés) pour
+limiter leur propre exposition au risque. Ce faisant, les sociétés d’assurance-crédit contribuent à la
+sécurisation du poste clients des entreprises qui souscrivent le contrat d’assurance-crédit et qui
+sont exposées à un risque de crédit du fait des délais de paiement accordés. La couverture des
+encours s’accompagne en amont de la délivrance d’informations sur la santé financière de leurs
+clients (acheteurs) et prospects. Lorsqu’elles sont sollicitées pour une demande d’agrément, les
+sociétés d’assurance-crédit peuvent refuser ou accepter de couvrir les risques sur les acheteurs
+concernés. À cette occasion, elles renseignent utilement les entreprises assurées sur la solvabilité
+de leurs clients.
+Certaines sociétés proposent, en accompagnement de l’activité d’assurance, des compléments
+d’information payants sur les clients des clients. De cette façon, les entreprises disposent de
+renseignements précis qui peuvent les conduire à ne pas développer une activité commerciale avec
+des clients considérés comme « risqués » ou à exiger des garanties financières supplémentaires, voire
+un paiement comptant des clients « douteux ». Ainsi, la surveillance des clients peut permettre aux
+entreprises de bénéficier de meilleures conditions de financement auprès des partenaires bancaires
+et d’une meilleure couverture du risque client.
+— Le recouvrement des factures impayées.
+Les sociétés d’assurance-crédit peuvent se charger du recouvrement des créances impayées en
+engageant des démarches amiables et en usant de leur propre influence auprès des débiteurs.
+2. LE MARCHÉ DE L’ASSURANCE-CRÉDIT ET SES ACTEURS
+2.1. Le marché
+Le dynamisme du marché varie en fonction du volume des transactions réalisées par les entreprises
+adhérentes, elles-mêmes dépendantes du contexte économique. En effet, même si un contexte
+difficile incite les entreprises à se prémunir davantage contre le risque d’insolvabilité de leurs clients,
+le volume des transactions aura naturellement tendance à diminuer.
+De leur côté, face à l’accroissement du risque d’incidents de paiement ou de défaillance des
+portefeuilles assurés, les assureurs peuvent décider de refuser ou de résilier certaines souscriptions
+après réévaluation du risque.
+À titre d’exemple, la détérioration de la situation économique en 2008-2009 a ainsi conduit les
+assureurs-crédit à diminuer leur exposition au risque en abaissant le montant des garanties accordées
+et en nettoyant les portefeuilles clients, tout en augmentant les tarifs et les franchises.
+
+----- page 3 -----
+—
+Chapitre 2 : Les acteurs | Fiche 224 : Les sociétés d’assurance-crédit
+Les assureurs-crédit demeurent, pour certaines opérations, un partenaire indispensable.
+C’est notamment le cas lorsque les entreprises recourent à l’affacturage. En effet, le factor demande
+le plus souvent qu’une assurance-crédit soit souscrite sur les créances qui lui sont cédées. Pour se
+développer à l’international, les entreprises recourent également aux assureurs-crédit, qui ont une
+très bonne connaissance du tissu économique des pays et des risques politiques.
+En 2013, une réforme de l’assurance-crédit a été initiée afin d’améliorer le fonctionnement du marché
+et garantir une meilleure relation entre assureurs et entreprises, notamment en cas de dégradation
+brutale de l’appréciation du risque et/ou de diminution importante du niveau de couverture par un
+assureur. À cet effet, le site acheteurs-assurance-credit.fr a été créé pour assurer une meilleure
+information des assurés. L’entreprise inscrite via ce portail est alors informée d’une révision de sa
+couverture et dispose à minima de trois semaines pour échanger avec l’assureur et anticiper l’impact
+de la décision sur sa trésorerie. Seuls les clients des assureurs-crédit Atradius, Axa Assurcrédit,
+Coface, Euler Hermes France et Groupama Assurance-Crédit sont concernés par ce dispositif.
+En 2020 pour faire face à la crise sanitaire, le gouvernement a réactivé le dispositif de soutien
+de 2008/2009 : CAP, CAP+, CAP Francexport et CAP Francexport+, destiné à maintenir ou renforcer
+les couvertures d’assurance-crédit individuelles.
+2.2. Les acteurs
+Dans les années 1990, un mouvement de concentration dans le secteur de l’assurance-crédit s’est
+traduit par la création d’un marché oligopolistique partagé entre trois grandes sociétés qui occupent
+désormais plus de 80 % du marché mondial (rapport AU Group 2020) : EULER HERMES (34,6 % de
+parts de marché), ATRADIUS (24,5 %) et COFACE (17,2 %).
+La force de ces assureurs globaux repose sur les informations contenues dans leurs bases de données
+mondiales, leur implantation internationale et leur offre globale dans la gestion du risque client.
+Parallèlement à ce trio de tête, plusieurs assureurs « de niche » ont émergé, offrant à leur clientèle des
+produits d’assurance spécifiques avec une expertise selon le type d’entreprise, le secteur d’activité ou
+encore la zone géographique d’activité (par exemple : Groupama AC pour les exportateurs exposés
+au risque politique, QBE pour le secteur de la construction...).
+2.2.1. EULER HERMES
+Crée en 1927, le groupe EULER HERMES est détenu depuis 2018 par ALLIANZ, et est devenu
+ALLIANZ TRADE fin mars 2022.
+Le groupe est présent en France par l’intermédiaire de sa filiale française EULER HERMES FRANCE
+qui a développé une gamme complète de produits d’assurance-crédit pour les entreprises quels
+que soient leur taille et leur chiffre d’affaires.
+2.2.2. ATRADIUS
+Présent en France depuis 1911, le groupe est détenu à 64,23 % par CREDITO y CAUCION
+(première société espagnole d’assurance-crédit et quatrième mondiale), à 35,77 % par le groupe
+CATALANA OCCIDENTE qui détient également indirectement 47,43 % des parts de ATRADIUS.
+Le groupe est spécialisé dans l’assurance-crédit et ses services connexes tels que le recouvrement,
+qui est à chaque fois intégré aux polices d’assurance du groupe, mais aussi l’affacturage, le
+recouvrement des impayés, le cautionnement et l’information commerciale.
+[lien] http://www.acheteurs-assurance-credit.fr/
+
+----- page 4 -----
+—
+Chapitre 2 : Les acteurs | Fiche 224 : Les sociétés d’assurance-crédit
+Concernant l’assurance-crédit, le groupe propose des solutions sur mesure pour les multinationales
+et des polices modulaires s’adaptant aux besoins spécifiques des grandes entreprises, des TPE et
+des PME/PMI. ATRADIUS a également développé une plateforme web automatisée de couverture,
+gestion et financement du poste clients en temps réel.
+2.2.3. COFACE
+Crée en 1946, COFACE appartient à 29,9 % à Arch Capital Group Ltd, à 0,8 % à ses salariés, les
+69,3 % des parts restantes sont en capital flottant.
+COFACE propose une offre complète et modulaire de la gestion du poste clients pour les entreprises
+de toutes tailles, de tous secteurs, les banques et les affactureurs. Le groupe s’est recentré en 2011
+sur son cœur de métier, l’assurance-crédit, qui représente plus de 89 % de son chiffre d’affaires.
+COFACE acquiert SID-PKZ en 2019, leader de l’assurance-crédit en Slovénie, et poursuit une logique
+d’externalisation avec une présence dans 100 pays.
+RÉFÉRENCES
+• Les sites des sociétés Atradius, Coface, Euler Hermès et acheteurs assurance-crédit
+• Rapport AU Group, État du marché de l’assurance-crédit 2020
+• Réforme de l’assurance-crédit : un enjeu pour la trésorerie des entreprises, 17 juin 2013
+[lien] https://atradius.fr/
+[lien] http://www.coface.fr/
+[lien] http://www.eulerhermes.fr/
+[lien] http://www.acheteurs-assurance-credit.fr/
+[lien] http://www.economie.gouv.fr/files/assurance-credit-juin-2013.pdf

@@ -16,6 +16,7 @@ Phase « Déclaration »
 Annexes 1, 2, 3, 4
 Schémas XSD
 Version 2026-2 31/03/2026
+[lien] https://www.urssaf.fr/accueil/tiers-declarant/plateforme-numerique.html
 
 ----- page 2 -----
 V2026-2

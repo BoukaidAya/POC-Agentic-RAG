@@ -96,6 +96,7 @@ LES LIMITES DU CONTRÔLE
 POUR EN SAVOIR PLUS :
 Fiches pratiques « Travail et protection des données »
 sur le site internet de la CNIL
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/travail-vie_privee.pdf
 
 ----- page 7 -----
 La protection des données personnelles

@@ -97,6 +97,8 @@ Transmettre des données sans respecter le cadre établi par les dispositions l�
 communication exercé.
 1 Cette vérification doit être réalisée en choisissant la version consolidée du texte en vigueur à la date du jour de la
 vérification.
+[lien] https://www.legifrance.gouv.fr/
+[lien] https://www.legifrance.gouv.fr/
 
 ----- page 5 -----
 TESTEZ-VOUS
@@ -255,6 +257,9 @@ Contrôle sur pièces
 À l’occasion des contrôles sur pièces que réalise la CNIL (par exemple : transmission d’un courrier exigeant de
 l’organisme qu’il communique certaines informations), l’organisme peut à tout moment contacter la
 Commission afin de se faire confirmer la réalité de la procédure.
+[lien] https://lannuaire.service-public.fr/
+[lien] https://www.data.gouv.fr/fr/datasets/organismes-ayant-designe-un-e-delegue-e-a-la-protection-des-donnees-dpd-dpo/
+[lien] https://www.data.gouv.fr/fr/datasets/organismes-ayant-designe-un-e-delegue-e-a-la-protection-des-donnees-dpd-dpo/
 
 ----- page 8 -----
 2. La vérification du périmètre des données transmises
@@ -595,3 +600,17 @@ Passeport de conseil aux voyageurs (ANSSI), qui traite notamment des cas de dema
 équipements par des autorités étrangères à l’occasion de déplacements
 Liste des produits de sécurité qualifiés par l’ANSSI
 Page web CNIL « Comment se passe un contrôle de la CNIL ? »
+[lien] https://www.data.gouv.fr/fr/datasets/organismes-ayant-designe-un-e-delegue-e-a-la-protection-des-donnees-dpd-dpo/
+[lien] https://www.data.gouv.fr/fr/datasets/organismes-ayant-designe-un-e-delegue-e-a-la-protection-des-donnees-dpd-dpo/
+[lien] https://lannuaire.service-public.fr/
+[lien] https://www.cnil.fr/fr/pratiques-abusives-mise-en-conformite-RGPD-CNIL-DGCCRF
+[lien] https://www.economie.gouv.fr/dgccrf/pratiques-abusives-mise-en-conformite-rgpd-comment-sen-premunir
+[lien] https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=DCFF485B7666F100CC93BF17B5D6BB27.tpdila17v_1?cidTexte=JORFTEXT000033928007&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000033926715
+[lien] https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=DCFF485B7666F100CC93BF17B5D6BB27.tpdila17v_1?cidTexte=JORFTEXT000033928007&dateTexte=&oldAction=rechJO&categorieLien=id&idJO=JORFCONT000033926715
+[lien] https://www.legifrance.gouv.fr/affichCnil.do?oldAction=rechExpCnil&id=CNILTEXT000035142451&fastReqId=898883081&fastPos=1
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/recueil-procedures-tiers-autorises.pdf
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/recueil-procedures-tiers-autorises.pdf
+[lien] https://www.cnil.fr/fr/comment-chiffrer-ses-documents-et-ses-repertoires
+[lien] https://www.ssi.gouv.fr/guide/partir-en-mission-avec-son-telephone-sa-tablette-ou-son-ordinateur-portable/
+[lien] https://www.ssi.gouv.fr/entreprise/qualifications/produits-recommandes-par-lanssi/
+[lien] https://www.cnil.fr/fr/comment-se-passe-un-controle-de-la-cnil

@@ -1,0 +1,139 @@
+
+----- page 1 -----
+05/2021
+—
+© Banque de France
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Schéma général et
+encours du financement
+des entreprises
+MOTS CLÉS
+dettes,
+actions,
+financement de marché,
+financement intermédié,
+Reffin
+SOMMAIRE
+1. SCHÉMA GÉNÉRAL DES DIFFÉRENTES SOURCES DE FINANCEMENT
+DES SOCIÉTÉS NON FINANCIÈRES
+2. L’ACTIVITÉ DES SOCIÉTÉS NON FINANCIÈRES
+3. LES ENTREPRISES INDIVIDUELLES
+
+----- page 2 -----
+—
+© Banque de France
+1. SCHÉMA GÉNÉRAL DES DIFFÉRENTES SOURCES DE FINANCEMENT
+DES SOCIÉTÉS NON FINANCIÈRES
+Les comptes nationaux financiers, établis par la Banque de France, reprennent les classifications
+des différents « secteurs institutionnels » de la comptabilité nationale. Ainsi, les entreprises sont
+représentées par la catégorie des « sociétés non financières » (SNF), dont sont exclues les entreprises
+individuelles classées dans le secteur des « ménages ». Les intermédiaires financiers (IF), à l’origine
+des financements octroyés, recouvrent un périmètre plus large que les seuls établissements de
+crédit. Ceux-ci comprennent en effet les Institutions financières et monétaires (IFM), composées de la
+banque centrale, des établissements de crédit, des OPCVM monétaires, et les autres intermédiaires
+financiers (institutions financières diverses et autres OPCVM). Les comptes des SNF sont établis
+à partir des informations déclarées par les autres secteurs. Certaines informations proviennent
+du dispositif d’Élaboration des statistiques annuelles d’entreprises (ESANE), géré par l’Insee.
+Des précisions complémentaires sont disponibles sur le site de la Banque de France.
+Le financement de l’économie française a longtemps reposé sur le crédit bancaire. Ces crédits
+bancaires représentaient environ 75 % du financement en dette des SNF à la fin des années 90,
+77 % à l’été 2008. Depuis 2008, cette part dominante du financement bancaire a significativement
+reculé au bénéfice du financement de marché. Ainsi, la part du financement de marché dans le
+financement en dette est passée de 23 % en 2008 à 40 % en 2015 et s’est stabilisée depuis autour
+de 36 %. De manière générale, l’endettement des SNF françaises a progressé plus rapidement que
+dans les autres économies européennes depuis la crise de 2008, avec une accélération sur la période
+qui a immédiatement précédé la crise sanitaire.
+2. L’ACTIVITÉ DES SOCIÉTÉS NON FINANCIÈRES
+Sur l’année 2020, les flux de dette des SNF augmentent nettement, du fait de l’accroissement des
+emprunts bancaires et des émissions de titres de créance au 2e trimestre, au début de la crise
+sanitaire. Les placements financiers s’élèvent fortement en 2020 : cette hausse est consécutive aux
+flux élevés du 2e trimestre, dus à une élévation des dépôts et à une reprise des acquisitions de titres
+d’OPC monétaires.
+Flux annuels 2019
+Flux annuels 2020
+Placement financiers
+31,3
+208,7
+Numéraire et dépôts
+53,5
+156,6
+Titres
+-13,1
+44,4
+Titres de créance
+3,7
+-8,5
+OPC monétaires
+-9,4
+60,2
+OPC non monétaires
+-7,4
+-7,3
+Autres prêts nets
+-9,1
+7,7
+Flux de dette
+107,8
+240,7
+Emprunts bancaires
+50,7
+152,0
+Titres de créance
+39,3
+77,6
+Actions et autres participations nettes
+17,8
+11,1
+Source : Banque de France, Comptes financiers des agents non financiers (analyse au 27 avril 2021).
+[lien] https://www.banque-france.fr/statistiques/epargne-et-comptes-nationaux-financiers/comptes-nationaux-financiers
+
+----- page 3 -----
+—
+© Banque de France
+L’analyse des flux permet de mesurer les évolutions des sources de financement des SNF en France.
+En 2020, la valeur ajoutée des SNF a fortement diminué avec une contra­ction de 105,7 milliards
+d’euros. L’excédent brut d’exploitation a connu une décroissance de 53 milliards d’euros soit - 12,5 %.
+Au total, l’épargne des SNF a diminué de 43,3 milliards d’euros.
+La crise sanitaire a aussi eu pour autre conséquence une baisse des investissements de 6,7 %, soit
+une baisse de 20,7 milliards. Au total, le taux d’auto­financement diminue de 8,1 points pour atteindre
+89,1 % en 2020.
+La crise sanitaire a ainsi fortement impacté la structure financière des SNF avec une diminution
+brutale de l’activité et un choc de trésorerie. Les dispositifs publics de compensation des pertes ont
+permis de réduire d’environ 50 % le besoin de financement induit par ce choc. Les Prêts garantis par
+l’État (PGE) ont notamment permis d’apporter un soutien en trésorerie (voir fiche 420).
+3. LES ENTREPRISES INDIVIDUELLES
+La France comptait en 2017 plus 3,9 millions d’entreprises actives.
+Fin 2017, 928 000 micro-entrepreneurs sont économiquement actifs. Ils exercent une activité
+non salariée dans l’ensemble des secteurs non agricoles, à titre principal ou en complément d’une
+activité salariée. Ils représentent 33 % de l’emploi non salarié.
+Le nouveau régime de micro-entreprises, entré en vigueur en janvier 2009, a fortement pesé sur les
+créations d’entreprises individuelles puisque plus de 200 000 personnes optent chaque année pour
+le régime du micro-entrepreneuriat.
+Bien que les entreprises individuelles soient classées dans le secteur des « ménages », la comptabilité
+nationale est en mesure de distinguer au sein du compte des ménages les opérations des entreprises
+individuelles relatives aux comptes de production et d’exploitation.
+Les créations d’entreprises individuelles classiques décroissent de 13 % en 2020, soit un
+total de 82 200 créations. Les immatriculations d’entreprises individuelles sous le régime du
+micro‐entrepreneur s’accroissent de 9 %, soit 45 900 immatriculations supplémentaires, pour
+atteindre 547 900 créations.
+Ainsi, en 2020, la part des micro-entrepreneurs dans le nombre total de créations continue
+d’augmenter (65 % après 62 % en 2019), tandis que celle des entreprises individuelles classiques
+diminue (10 %, après 12 % en 2019).
+RÉFÉRENCES
+• Comptes financiers et non financiers nationaux
+La publication des comptes financiers nationaux intervient chaque année au mois de mai sur le site de
+la Banque de France en coordination avec celle de l’Insee sur les comptes nationaux non financiers.
+• https://www.banque-france.fr/statistiques/epargne-et-comptes-nationaux-financiers/comptes-
+nationaux-financiers/comptes-nationaux-financiers-par-secteurs/comptes-financiers-des-
+agents-non-financiers
+• https://www.banque-france.fr/intervention/le-financement-des-entreprises-en-sortie-de-crise
+• https://www.insee.fr/fr/statistiques/5016913#onglet-2
+• https://www.insee.fr/fr/statistiques/5387891
+[lien] https://www.franceinvest.eu/
+[lien] http://www.insee.fr/fr/themes/theme.asp?theme=16
+[lien] https://www.banque-france.fr/statistiques/epargne-et-comptes-nationaux-financiers/comptes-nationaux-financiers/comptes-nationaux-financiers-par-secteurs/comptes-financiers-des-agents-non-financiers
+[lien] https://www.banque-france.fr/statistiques/epargne-et-comptes-nationaux-financiers/comptes-nationaux-financiers/comptes-nationaux-financiers-par-secteurs/comptes-financiers-des-agents-non-financiers
+[lien] https://www.banque-france.fr/statistiques/epargne-et-comptes-nationaux-financiers/comptes-nationaux-financiers/comptes-nationaux-financiers-par-secteurs/comptes-financiers-des-agents-non-financiers
+[lien] https://www.banque-france.fr/intervention/le-financement-des-entreprises-en-sortie-de-crise
+[lien] https://www.insee.fr/fr/statistiques/5016913#onglet-2
+[lien] https://www.insee.fr/fr/statistiques/5387891

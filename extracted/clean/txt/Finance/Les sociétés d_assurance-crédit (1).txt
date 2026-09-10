@@ -1,0 +1,124 @@
+
+----- page 1 -----
+05/2021
+—
+© Banque de France
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Les actions
+de préférence
+MOTS CLÉS
+actions,
+capitaux propres
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+2. DÉFINITION ET PRINCIPALES CARACTÉRISTIQUES
+2.1. Définition
+2.2. Principales caractéristiques
+3. AVANTAGES ET INCONVÉNIENTS
+3.1. Pour l’entreprise
+3.2. Pour l’actionnaire
+
+----- page 2 -----
+—
+© Banque de France
+1. PRÉSENTATION GÉNÉRALE
+L’ordonnance n° 2004-604 du 24 juin 2004, complétée par le décret d’application n° 2005‐112 du
+10 février 2005 a instauré le système des actions de préférence qui est décrit par les articles L228‐11
+et suivants du Code de commerce.
+L’article L228-11 du Code de commerce dispose que « lors de la constitution de la société ou au
+cours de son existence, il peut être créé des actions de préférence, avec ou sans droit de vote,
+assorties de droits particuliers de toute nature, à titre temporaire ou permanent ». Inspirées des
+« preferred shares » américaines, les actions de préférence peuvent également être créées par
+conversion de tout ou partie d’actions ordinaires.
+2. DÉFINITION ET PRINCIPALES CARACTÉRISTIQUES
+2.1. Définition
+Le capital d’une société par actions peut être composé, soit d’actions « ordinaires », soit d’actions « de
+préférence » (l’assemblée générale extraordinaire est seule compétente pour décider de l’émission,
+du rachat et de la conversion de ces actions), soit encore de ces deux types de titres.
+Les actions de préférence se traduisent à la fois par l’octroi de droits particuliers (droits pécuniaires
+ou non financiers, cf. infra) et le retranchement de certaines prérogatives (suppression du droit de
+vote, droit aux dividendes limité). En effet, le terme « préférence » ne signifie pas que ces actions
+bénéficient exclusivement d’avantages par rapport aux actions « classiques » ; elles peuvent être
+également assorties de droits réduits en contrepartie de ces avantages. En tout état de cause, les
+caractéristiques de ces actions sont très largement laissées à la liberté de l’émetteur.
+Pour permettre un meilleur développement de cette nouvelle classe d’actifs, l’ordonnance
+n° 2008‐1145 a précisé que les actions de préférence dépourvues de droit de vote au moment de
+leur émission sont également dépourvues de droit préférentiel de souscription.
+2.2. Principales caractéristiques
+— les actions de préférence peuvent donner droit à des avantages pécuniaires : dividende
+prioritaire (attribution d’un dividende d’un montant déterminé versé avant toute autre affectation
+du bénéfice distribuable, en espèces ou en actions), dividende majoré, dividende fixé par formule,
+droit prioritaire au boni de liquidation (en cas de liquidation de la société, les actions donnent droit
+à un certain pourcentage du boni de liquidation), droit sur le produit de la cession de certains
+actifs, droits dans une filiale.
+— les actions de préférence peuvent donner droit à des avantages non financiers : droit
+d’information renforcée (communication plus fréquente de documents comptables ou de rapports
+d’activité), droits de contrôle spécifiques (possibilité de demander une mission d’audit ayant pour
+objet d’apporter aux actionnaires privilégiés des renseignements particuliers sur la société),
+aménagement de la représentation au conseil d’administration (attribution de sièges au conseil
+d’administration ou au conseil de surveillance ou faculté de proposer des membres dans ces conseils).
+— les actions de préférence peuvent se traduire par la suppression de certains droits
+habituellement rattachés aux actions : droit de vote (la privation du droit de vote pourra être
+permanente, temporaire, conditionnée par certains paramètres financiers, limitée à certaines
+décisions), retrait du droit préférentiel de souscription, droit aux dividendes réduit.
+[lien] http://www.legifrance.gouv.fr/affichTexte.do;jsessionid=5F21C1A87FBF1EE128ACBF9159D7B534.tpdjo12v_2?cidTexte=LEGITEXT000005793147&dateTexte=20120217
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000238910&dateTexte=
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000005634379&idArticle=LEGIARTI000019291743&dateTexte=
+[lien] http://www.legifrance.gouv.fr/affichTexte.do;jsessionid=D80B018D0D24B3AF60D8C178917C7893.tpdjo13v_2?cidTexte=JORFTEXT000019732692&dateTexte=20120605
+
+----- page 3 -----
+—
+© Banque de France
+3. AVANTAGES ET INCONVÉNIENTS
+3.1. Pour l’entreprise
+L’action de préférence peut permettre à une entreprise en difficulté, qui dispose néanmoins de réelles
+chances de redressement, d’attirer des souscripteurs par l’octroi des avantages particuliers qui lui
+sont rattachés.
+Lorsqu’elles sont privées de droit de vote, ces actions permettent à une entreprise de réaliser une
+augmentation de capital sans diluer le contrôle des actionnaires. Par exemple, une entreprise dont
+l’actionnariat est familial peut ainsi faire appel à des investisseurs financiers extérieurs sans risquer
+une remise en cause du pouvoir de la famille.
+Par ailleurs, des banques les ont souvent utilisées car elles sont classées en capitaux propres au
+titre des ratios imposés par la réglementation prudentielle, bien que ces actions obligent à verser
+chaque année un dividende constant, exprimé en pourcentage du nominal, qui pourrait conduire à
+les assimiler à des titres de créance.
+Face à ces atouts, ce type de titre présente cependant plusieurs inconvénients :
+— les actions de préférence étant moins liquides sur le marché que les actions ordinaires, on
+observe généralement une décote qui réduit le cours de l’action de préférence par rapport à sa
+valeur théorique (cette dernière étant par ailleurs compliquée à déterminer car elle est égale à
+la valeur de l’action ordinaire à laquelle il convient d’ajouter des éléments difficiles à apprécier :
+ajout de la valeur du privilège qui lui est rattaché, retranchement (éventuellement) de la valeur
+du droit de vote) ;
+— par ailleurs, le bouclage de telles émissions peut s’avérer problématique. En effet, la valeur des
+actions de préférence étant souvent largement inférieure à leur valeur théorique, les porteurs
+exigent une prime très importante par rapport à la valeur de marché pour échanger ou céder
+leurs titres.
+3.2. Pour l’actionnaire
+Les actions de préférence, notamment celles utilisées dans les montages de capital investissement, se
+caractérisent par l’octroi de privilèges financiers et extra-financiers (siège au conseil d’administration,
+droits d’information renforcés). Ces privilèges sont la contrepartie du prix élevé que les investisseurs
+acceptent de payer (par la souscription d’actions avec une importante prime d’émission), afin de ne
+pas diluer trop massivement la part des fondateurs et porteurs du projet d’entreprise dans le capital.
+La souplesse offerte par les actions de préférence a sans aucun doute un intérêt pour les sociétés
+non cotées. En effet, elles permettent d’organiser le gouvernement d’entreprise entre les actionnaires
+impliqués dans la gestion et les actionnaires financiers. Elles sont pour cette raison prisées dans les
+cas de capital investissement (pour financer le démarrage, le développement, la transmission ou
+l’acquisition d’une entreprise), et en particulier dans le cas de montages LBO.
+Ces produits présentent moins d’attrait pour les sociétés cotées. Aujourd’hui, cette formule a
+quasiment disparu du marché boursier français qui préfère une ligne unique de cotation par société
+avec un volume large de transactions et une égalité de traitement entre les actionnaires.
+
+----- page 4 -----
+—
+© Banque de France
+RÉFÉRENCES
+• Ordonnance n° 2004-604 du 24 juin 2004,
+• Ordonnance n° 2008-1145 du 6 novembre 2008
+• Décret n° 2005-112 du 10 février 2005
+• Articles L.228-11 et suivant du Code de commerce
+• DALLOZ, Ingénierie financière fiscale et juridique 2009-2010
+• VERNIMMEN, Finance d’entreprise 2021
+[lien] http://www.legifrance.gouv.fr/affichTexte.do;jsessionid=5F21C1A87FBF1EE128ACBF9159D7B534.tpdjo12v_2?cidTexte=LEGITEXT000005793147&dateTexte=20120217
+[lien] http://www.legifrance.gouv.fr/affichTexte.do;jsessionid=D80B018D0D24B3AF60D8C178917C7893.tpdjo13v_2?cidTexte=JORFTEXT000019732692&dateTexte=20120605
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000238910&dateTexte=
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000005634379&idArticle=LEGIARTI000019291743&dateTexte=

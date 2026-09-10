@@ -54,6 +54,7 @@ Il existe pour la prospection téléphonique des règles particulières.
 Renseignez-vous sur le site internet de « Bloctel », organisme chargé
 de gérer la liste nationale d’opposition au démarchage téléphonique
 https://pro.bloctel.fr
+[lien] https://pro.bloctel.fr/
 
 ----- page 5 -----
 POUR EN SAVOIR PLUS :
@@ -76,6 +77,7 @@ du consentement ne sont pas toujours les mêmes. Prévoyez une fonctionnalité d
 pour que vos clients puissent facilement exprimer leurs préférences de communication.
 Pensez également à informer vos clients des moyens existants de s’opposer à des sollicitations
 commerciales (Bloctel, signalspam, etc.).
+[lien] https://www.cnil.fr/
 
 ----- page 6 -----
 Accueillir un nouveau client, c’est généralement
@@ -121,6 +123,7 @@ Prévoyez la suppression des informations en cas d’inactivité prolongée de v
 Vous devez toutefois conserver certaines données en raison d’obligations légales (notamment
 comptabilité, contentieux, etc.). Archivez-les dans une autre base de données dont l’accès est
 plus restreint.
+[lien] https://www.cnil.fr/sites/default/files/atoms/files/commerce_et_donnees_personelles.pdf
 
 ----- page 8 -----
 CNIL

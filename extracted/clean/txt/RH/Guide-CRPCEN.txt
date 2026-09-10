@@ -353,6 +353,9 @@ détailler les consignes déclaratives pour le cas général et le cas des appre
 hors Alsace-Moselle et d’Alsace-Moselle.
 Bon à savoir
 Le calcul des cotisations vieillesse et maladie
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
+[lien] https://www.crpcen.fr/etudes/taux-et-indices-de-references
+[lien] http://www.net-entreprises.fr/
 
 ----- page 17 -----
 CONTRIBUTION
@@ -390,6 +393,8 @@ Le taux de la CSA est déterminé par l’article L. 137-40 du code de la sécur
 sociale.
 Le taux de la CSA est consultable sur le site urssaf.fr et crpcen.fr.
 Le calcul de la contribution
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
+[lien] https://www.crpcen.fr/
 
 ----- page 20 -----
 COMPLÉMENT
@@ -427,6 +432,9 @@ supérieures à 2,25 Smic annuel selon les dispositions combinées des articles
 L241-2-1 et D 243-3 du code de la Sécurité sociale à compter du 1er janvier 2025.
 Le taux du complément maladie est consultable sur le site urssaf.fr et crpcen.fr.
 Le calcul du complément
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-taux-de-cotisations/la-cotisation-maladie---maternit/reduction-de-6-points-du-taux-de/regle-de-cumul-et-modalites-decl.html
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
+[lien] https://www.crpcen.fr/
 
 ----- page 23 -----
 RÉDUCTION
@@ -503,6 +511,7 @@ est ainsi imputé sur le CTP 085 pour les salariés embauchés avant le 1er
 septembre 2023 et sur le CTP 084 pour les nouveaux salariés entrants au 1er
 septembre 2023.
 Bon à savoir
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
 
 ----- page 27 -----
 Comment appliquer le dispositif de réduction ?
@@ -644,6 +653,7 @@ déduction ZFU pour ses salariés affiliés avant le 1er septembre 2023.
 Les salariés affiliés à compter du 1er septembre 2023 ne sont pas éligibles à cette
 déduction.
 Le calcul de la déduction
+[lien] https://www.urssaf.fr/portail/home/employeur/beneficier-dune-exoneration/exonerations-ou-aides-a-caracter/les-zones-franches-urbaines-zfu.html
 
 ----- page 35 -----
 SALARIÉS
@@ -676,6 +686,8 @@ Comment le taux est-il déterminé ?
 Le taux est déterminé par l’art. D242-3 alinéa 2 du code de la sécurité sociale.
 Le taux de la cotisation est consultable sur le site urssaf.fr et crpcen.fr.
 Le calcul de la cotisation
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
+[lien] https://www.crpcen.fr/
 
 ----- page 38 -----
 STAGIAIRES DE LA
@@ -694,6 +706,7 @@ l'opérateur de compétences ou par la région ont des taux spécifiques en
 application de l’article 42 du décret du 20 décembre 1990 et de l'article L. 6342-3
 du code du travail.
 L’assujettissement à la cotisation
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904381&dateTexte=&categorieLien=cid
 
 ----- page 40 -----
 Comment l'assiette est-elle déterminée ?
@@ -705,6 +718,8 @@ Les taux vieillesse et maladie sont identiques à ceux du régime général.
 Comment retrouver les taux ?
 Les taux des cotisations sont consultables sur le site urssaf.fr et crpcen.fr.
 Le calcul des cotisations vieillesse et maladie
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/assiettes-forfaitaires-et-franch/les-stagiaires-de-la-formation-p.html
+[lien] https://www.crpcen.fr/
 
 ----- page 41 -----
 FONCTIONNAIRES
@@ -739,6 +754,8 @@ Quel est le taux de cotisation applicable ?
 Le taux de la cotisation maladie est celui qui est applicable aux salariés affiliés à
 la CRPCEN.
 Le calcul de la cotisation
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
+[lien] https://www.crpcen.fr/
 
 ----- page 44 -----
 RÉGULARISATIONS EN DSN
@@ -1336,6 +1353,15 @@ général et doit être déclaré de la même façon pour les redevables des cot
 de la CRPCEN pour les salariés affiliés avant le 01/09/2023.
 Les modalités déclaratives et de versement
 Rappel sur la déclaration de la CSG/CRDS
+[lien] https://www.urssaf.fr/portail/files/live/sites/urssaf/files/documents/DSN-Guide-declaration-regularisation-cotisations-sociales-Urssaf.pdf
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/838/kw/838
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/838/kw/838
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/839/kw/839
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/1252/kw/1252
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/1252/kw/1252
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2642/kw/CRPCEN
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2642/kw/CRPCEN
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2642/kw/CRPCEN
 
 ----- page 53 -----
 La synthèse des données déclaratives
@@ -1755,6 +1781,7 @@ Les services de l’Urssaf
 > www.urssaf.fr
 > Tél. 3957 du lundi au vendredi - de 9h00 à 17h00
 Rôle de l’Urssaf
+[lien] http://www.urssaf.fr/
 
 ----- page 62 -----
 La Caisse de retraite et de prévoyance des clercs et employés de notaires
@@ -1776,6 +1803,7 @@ Les services de la CRPCEN
 > www.crpcen.fr
 > Tél. 01 44 90 20 62 du lundi au vendredi - de 9h00 à 12h30
 Rôle de la CRPCEN
+[lien] https://recouv.sharepoint.com/sites/RecouvrementCRPCEN2023/Documents%20partages/General/MOA%20Projet/Guide%20du%20d%C3%A9clarant/www.crpcen.fr
 
 ----- page 63 -----
 > Loi n°2019-1446 du 24 décembre 2019 de financement de la sécurité sociale
@@ -1800,6 +1828,7 @@ Par téléphone
 01 44 90 20 62 du lundi au vendredi - de 9h00 à 12h30
 Toutes les informations sur le
 transfert des cotisations CRPCEN
+[lien] http://www.crpcen.fr/
 
 ----- page 65 -----
 Sur internet
@@ -1809,6 +1838,8 @@ Par téléphone
 > 3957 du lundi au vendredi - de 9h00 à 17h00
 Toutes les informations sur
 la déclaration en DSN
+[lien] https://www.urssaf.fr/portail/home.html
+[lien] https://www.net-entreprises.fr/
 
 ----- page 66 -----
 CRPCEN : Caisse de retraite et de prévoyance des clercs et employés de notaires

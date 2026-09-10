@@ -42,6 +42,7 @@ d’informations (ci-après « traceurs ») dans l’équipement terminal de com
 électroniques de l’abonné ou de l’utilisateur, et notamment à l’usage des témoins de
 connexion (ci-après « cookies »). Le cadre légal résulte en particulier des dispositions
 applicables de la directive du 12 juillet 2002 susvisée (ci-après directive « ePrivacy »),
+[lien] http://www.cnil.fr/
 
 ----- page 2 -----
 transposées en droit national à l’article 82 de la loi « Informatique et Libertés », et de

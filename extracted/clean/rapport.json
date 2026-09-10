@@ -1,5 +1,5 @@
 {
-  "total_docs": 101,
+  "total_docs": 128,
   "rejetes_junk": [
     {
       "path": "Management direction/Engager son entreprise pour l'emploi des 50 ans et plus.pdf",
@@ -28,6 +28,168 @@
     }
   ],
   "retenus": [
+    {
+      "path": "Finance/Euro Private Placement (Euro PP) (1).pdf",
+      "chars_avant": 41485,
+      "chars_apres": 39835,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Le crédit-bail et les autres techniques de financement apparentées (1).pdf",
+      "chars_avant": 15318,
+      "chars_apres": 14584,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Le financement des investissements par Bpifrance (1).pdf",
+      "chars_avant": 12668,
+      "chars_apres": 12396,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Le financement obligataire (1).pdf",
+      "chars_avant": 4299,
+      "chars_apres": 4232,
+      "lignes_boilerplate_supprimees": 0
+    },
+    {
+      "path": "Finance/Le financement par fonds propres (1).pdf",
+      "chars_avant": 12422,
+      "chars_apres": 12164,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Le financement participatif (1).pdf",
+      "chars_avant": 3554,
+      "chars_apres": 3438,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les acteurs du financement des entreprises (1).pdf",
+      "chars_avant": 15327,
+      "chars_apres": 15013,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les actions (1).pdf",
+      "chars_avant": 13359,
+      "chars_apres": 13018,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les actions de préférence (1).pdf",
+      "chars_avant": 3582,
+      "chars_apres": 3524,
+      "lignes_boilerplate_supprimees": 0
+    },
+    {
+      "path": "Finance/Les fonds d_investissement (1).pdf",
+      "chars_avant": 4757,
+      "chars_apres": 4617,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les investissements en fonds propres par Bpifrance (1).pdf",
+      "chars_avant": 8537,
+      "chars_apres": 8348,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les nouveaux acteurs les entreprises les assurances mutuelles et les particuliers (1).pdf",
+      "chars_avant": 5789,
+      "chars_apres": 5647,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les obligations convertibles en actions (1).pdf",
+      "chars_avant": 18035,
+      "chars_apres": 17722,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/les obligations ORA et OECA (1).pdf",
+      "chars_avant": 11912,
+      "chars_apres": 11665,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les obligations à bons de souscription en actions (OBSA) (1).pdf",
+      "chars_avant": 4378,
+      "chars_apres": 4259,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les Partenariats Public Privé (PPP) (1).pdf",
+      "chars_avant": 8527,
+      "chars_apres": 7946,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les prêts bancaires aux entreprises adossés au LDD et au livret A (1).pdf",
+      "chars_avant": 5286,
+      "chars_apres": 5158,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les prêts bancaires classiques (1).pdf",
+      "chars_avant": 6665,
+      "chars_apres": 6372,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les prêts de la Banque Européenne d_Investissement (BEI) (1).pdf",
+      "chars_avant": 18683,
+      "chars_apres": 17908,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les prêts participatifs (1).pdf",
+      "chars_avant": 19989,
+      "chars_apres": 19587,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les sociétés d_assurance-crédit (1).pdf",
+      "chars_avant": 7753,
+      "chars_apres": 7260,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les titres de créances négociables (TCN) (1).pdf",
+      "chars_avant": 6634,
+      "chars_apres": 6252,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les titres hybrides (1).pdf",
+      "chars_avant": 11767,
+      "chars_apres": 11512,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les titres participatifs (TP) (1).pdf",
+      "chars_avant": 5692,
+      "chars_apres": 5550,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les titres super subordonnés (TSS) (1).pdf",
+      "chars_avant": 7333,
+      "chars_apres": 7138,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/Les établissements du secteur bancaire (1).pdf",
+      "chars_avant": 8436,
+      "chars_apres": 8232,
+      "lignes_boilerplate_supprimees": 1
+    },
+    {
+      "path": "Finance/schema general et encours du financement (1).pdf",
+      "chars_avant": 10492,
+      "chars_apres": 10270,
+      "lignes_boilerplate_supprimees": 1
+    },
     {
       "path": "juridique droit du travail/Livre II _ Le contrat de travail (Articles L1211-1 à L1273-6) - Légifrance.pdf",
       "chars_avant": 583033,

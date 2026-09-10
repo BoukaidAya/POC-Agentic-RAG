@@ -1,0 +1,267 @@
+
+----- page 1 -----
+04/2022
+—
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+Le financement participatif
+(crowdfunding)
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 332 : Le financement participatif (crowdfunding)
+MOTS CLÉS
+financement participatif,
+crowdfunding,
+plateforme de financement
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+2. CARACTÉRISTIQUES ET MÉCANISMES
+2.1. Trois modes de financement
+2.2. Les étapes d’une levée de fonds en crowdfunding
+3. RÉGLEMENTATION APPLICABLE AU FINANCEMENT PARTICIPATIF
+4. LE MARCHÉ EN FRANCE
+
+----- page 2 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 332 : Le financement participatif (crowdfunding)
+1. PRÉSENTATION GÉNÉRALE
+Le financement participatif ou crowdfunding (« financement par la foule ») est un mode de levée
+de fonds réalisé auprès d’un large public de particuliers pour financer un projet spécifique via une
+plateforme sur internet. Il peut se présenter sous trois formes : dons, prêts ou participations au capital.
+Le porteur de projet peut être une entreprise, un particulier, une association ou une collectivité.
+Inspiré du principe de la philanthropie ou du sponsoring, ce mode de financement est en plein
+essor grâce au développement des nouvelles technologies et compte tenu des difficultés d’accès
+aux crédits traditionnels que peuvent rencontrer certaines entreprises spécifiques. Simple de
+fonctionnement et à la portée de tous, il constitue également un moyen de fédérer un grand nombre
+de personnes autour d’un projet sélectionné par le contributeur ou l’investisseur lui-même.
+2. Caractéristiques et mécanismes
+Apparu aux États-Unis en 2007 le marché du crowdfunding a connu une vive croissance en France
+par la suite. Le système fut initialement popularisé par le dénicheur de talents musicaux « My Major
+Company », pionnier du financement participatif en 2007.
+Ce nouveau financement attire tout particulièrement les jeunes entreprises ou les porteurs de projet
+qui ne peuvent ou ne veulent pas recourir au système bancaire.
+Le crowdfunding offre également des conditions attractives de financement pour une société en
+démarrage d’activité.
+2.1. Trois modes de financement
+On distingue trois modèles de crowdfunding :
+— Le don avec ou sans contrepartie (crowdgiving)
+Des gratifications en fonction des sommes engagées par le contributeur peuvent éventuellement être
+proposées par le porteur de projet : remerciements, dédicaces, billetterie ou échantillons gratuits
+ou bien toute gratification symbolique (nom au générique d’un film par exemple). Aucun retour sur
+investissement financier n’est espéré par le contributeur.
+— Le prêt rémunéré ou non rémunéré (crowdlending)
+Le porteur de projet s’engage par contrat à rembourser les prêteurs. Toutefois, un risque de perte
+totale ou partielle du capital investi existe pour l’investisseur, en cas d’échec du projet et/ou d’absence
+de garantie de prêt.
+— L’investissement en capital (crowdequity)
+La collecte de fonds peut se faire sous la forme d’une souscription en actions ordinaires ou en
+obligations à taux fixe dans le cadre d’une augmentation de capital auprès de prêteurs particuliers.
+Ce mode de financement présente un risque de dilution du capital et de paralysie de gestion : un
+trop grand nombre d’actionnaires peut mettre en péril la gestion du projet ou de la société en cas
+de divergence d’opinions. De plus, la revente des titres est incertaine et ne peut être garantie pour
+l’investisseur (risque d’illiquidité).
+
+----- page 3 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 332 : Le financement participatif (crowdfunding)
+En cas de financement opéré au moyen d’un prêt ou par recours à des titres financiers, le retour sur
+investissement dépend de la réussite du projet financé.
+L’investissement en capital dans une PME via le financement participatif a l’avantage d’être en partie
+défiscalisable, sous certaines conditions. Par ailleurs, depuis janvier 2016, les pertes liées à des
+prêts consentis par des particuliers à des PME sur une plateforme de crowdfunding sont désormais
+fiscalement déductibles, sous certaines conditions 1 également.
+Chaque modèle étant soumis à une réglementation spécifique, les plateformes sont généralement
+spécialisées dans l’un des trois modèles de levée de fonds mais certaines plateformes proposent
+parfois plusieurs modes de financement.
+2.2. Les étapes d’une levée de fonds en crowdfunding
+1) Sélection du porteur de projet par la plateforme
+Les plateformes se réservent le droit de sélectionner les porteurs de projet à présenter aux
+contributeurs et investisseurs selon leurs propres critères d’éligibilité (secteurs admis, modèle de
+collecte bien déterminé...). Le revenu des plateformes dépend en effet de l’aboutissement et de la
+popularité du projet publié.
+2) Rédaction et publication de la page projet
+Le porteur de projet fait une proposition en détaillant :
+— l’origine, les étapes et les objectifs du projet ainsi que sa biographie ;
+— le montant (total et par dépenses), la durée et les conditions de la collecte selon le mode de levée
+de fonds ;
+— les contreparties éventuellement offertes, l’échéancier de remboursement ou le retour sur
+investissement espéré.
+En outre, le porteur de projet peut utiliser un visuel pertinent et attractif afin de se démarquer de ses
+concurrents.
+3) Collecte des fonds
+Les contributeurs sont libres d’investir le montant souhaité en conformité avec la réglementation.
+Pour chaque contribution, un contrat à distance est conclu et dans les cas de prêt ou titres financiers,
+un questionnaire de connaissance des risques encourus est à remplir avant la finalisation de la
+collecte pour chaque investisseur.
+4) Réalisation du projet
+En cas d’atteinte ou de dépassement du montant de la collecte, le porteur de projet peut bénéficier
+des fonds collectés pour réaliser son projet. La plateforme perçoit alors une commission sur les
+fonds effectivement collectés en guise de remboursement des frais de transaction 2 et de gestion liés
+à l’opération. À l’inverse, si l’objectif n’est pas atteint à l’issue de la collecte, l’opération est annulée :
+les contributeurs sont remboursés (avec une possible retenue pour frais bancaires) et la plateforme
+ne perçoit aucune rémunération.
+1. Amendement n° 718 – Loi de finances rectificative 2015.
+2. Il s’agit de frais relatifs aux transactions bancaires sécurisées pour garantir les collectes effectuées par CB ou virement.
+
+----- page 4 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 332 : Le financement participatif (crowdfunding)
+5) Remboursement des prêts et revente des titres financiers
+Les conditions de remboursement et/ou de retrait du capital sont indiquées dans le contrat
+préalablement signé.
+3. RÉGLEMENTATION APPLICABLE AU FINANCEMENT PARTICIPATIF
+En 2014, un cadre juridique a été défini afin d’accompagner le développement de ce nouveau mode de
+financement et d’en protéger ses différents acteurs en France : l’ordonnance 2014-559 du 30 mai 2014
+et le décret 2014-1053 du 16 septembre 2014. Entrée en application le 1er octobre 2014, la législation
+diffère sensiblement selon le type d’activité des plateformes : dons, prêts ou prises de participation.
+Ainsi, deux statuts légaux propres à l’activité de financement participatif ont été créés sous respect de
+certaines conditions d’honorabilité et de compétences professionnelles. La réforme définit également
+les obligations en matière de transparence et d’information ainsi que les plafonds d’investissement
+et de collecte, révisés en octobre 2016 par le décret n° 2016-1453.
+La loi du 8 octobre 2021 portant diverses dispositions d’adaptation au droit de l’Union européenne
+dans le domaine des transports, de l’environnement, de l’économie et des finances, permet à partir du
+1er janvier 2022 aux collectivités territoriales qui le souhaitent de financer leurs projets de financement
+participatif par des obligations. Il s’agit une expérimentation de trois ans.
+Le décret n° 2022-110 du 1er février 2022 fait évoluer le cadre applicable au financement participatif, afin
+d’être en conformité avec le règlement (UE) 2020/1503 et la directive (UE) 2020/1504. Ces textes mènent
+vers la création d’un statut unique européen de prestataire de services de financement participatif.
+Le règlement européen crée un statut unique européen de prestataire de services de financement
+participatif, soumis à l’agrément de l’autorité compétente. Une fois agréé, le prestataire pourra
+proposer des activités de financement participatif sous forme de souscription de titres (« crowdequity »)
+et/ou de prêts portant intérêt (« crowdlending »), selon l’étendue de son programme d’activité, dans
+l’ensemble de l’Union européenne.
+Le règlement est entré en application le 10 novembre 2021, rendant obligatoire pour les plateformes
+de prêts et de titres financiers le statut de prestataire de services de financement participatif (PSFP).
+Désormais, les plateformes existantes qui souhaitent continuer à fournir des services de financement
+participatif ont jusqu’au 10 novembre 2022, pour obtenir l’agrément de prestataire européen de
+services de financement participatif. Cette période de transition pourra être prolongée par la
+Commission européenne de 12 mois supplémentaires, jusqu’au 10 novembre 2023. À l’expiration
+de cette période de transition (telle que prolongée, le cas échéant), seuls les prestataires agréés
+conformément au règlement européen pourront offrir des services de financement participatif
+relevant du champ d’application du Règlement. L’exercice illégal de cette activité, sans agrément,
+est pénalement répréhensible (articles L. 573-12 et suivants du Code monétaire et financier).
+En France, ce régime remplace les régimes existants des conseillers en investissements participatifs
+(CIP) et des intermédiaires en financement participatif (IFP).
+Le champ d’application du règlement ne couvre pas les dons. Les plateformes de dons conservent
+donc la réglementation antérieure : depuis le 1er mars 2017, elles ont une obligation d’immatriculation
+au registre unique des intermédiaires en assurance, banque et finance géré par l’Orias en tant
+qu’intermédiaire en financement participatif (IFP), statut créé par l’ordonnance du 30 mai 2014.
+En tant qu’IFP, les plateformes de dons doivent souscrire une assurance de responsabilité civile
+professionnelle. Le montant des garanties ne peut être inférieur à 100 000 euros par sinistre et
+200 000 euros par année d’assurance.
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029008408
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029463569
+[lien] https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033317337&dateTexte=&categorieLien=id
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000044176983
+[lien] https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000045113617
+[lien] https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32020R1503
+[lien] https://eur-lex.europa.eu/legal-content/fr/ALL/?uri=CELEX:32020L1504
+
+----- page 5 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 332 : Le financement participatif (crowdfunding)
+Mais le statut d’IFP n’autorise pas la plateforme à recevoir des fonds. Pour recevoir des fonds de
+la part des donateurs, pour le compte des porteurs de projets, la plateforme de dons doit disposer
+d’agréments supplémentaires.
+La plateforme de financement participatif, qui encaisse des fonds pour le compte de tiers dans le
+cadre des opérations de financement participatif, doit être agréée a minima en qualité d’établissement
+de paiement (EP) par l’ACPR ou être enregistrée en tant qu’agent de prestataire de services de
+paiement (APSP).
+Si la plateforme fournit elle-même ces services de paiement, elle doit être agréée en tant
+qu’établissement de paiement. Cet agrément est délivré par l’Autorité de contrôle prudentiel et de
+résolution (ACPR), autorité administrative indépendante adossée à la Banque de France, chargée
+de l’agrément et de la surveillance des établissements bancaires et d’assurance. Si la plateforme
+confie l’encaissement des fonds à un prestataire de services de paiement agréé, dans le cadre d’un
+partenariat, elle doit être agréée en qualité d’agent de services de paiement (ce qui nécessite un
+enregistrement auprès de l’ACPR).
+4. LE MARCHÉ EN FRANCE
+L’association Financement Participatif France (FPF) publie depuis 2013 un baromètre semestriel et
+annuel du crowdfunding en France.
+Selon les rapports qui ont été publiés, le marché du financement participatif a atteint 1 880 millions
+d’euros en 2021, en hausse de 84 % par rapport à 2020. Depuis 2015, le financement a été multiplié
+par 11,2. Initialement porté par les dons, le marché est désormais nettement dynamisé par les prêts.
+Ainsi, sur les 1 880 M€ collectés en France en 2021, 84 % proviennent des prêts (1 580 M€ environ),
+10,5 % des dons (196,8 M€) et 5,5 % des prises de participation (103,5 M€).
+En 2021, 168 712 projets ont été financés contre 115 516 projets en 2020.
+Deux plateformes ont contribué à l’octroi des prêts garantis par l’État (PGE) en 2021, pour un total
+de 7,3 M€ et un montant moyen de 83 328 euros.
+Le Royaume-Uni est en première position au niveau du développement du crowdfunding (environ
+70 % des fonds récoltés ces dernières années). La France et l’Allemagne se situent en seconde
+position, loin derrière. Cependant, la nouvelle réglementation européenne devraient permettre des
+campagnes transnationales et ainsi dynamiser le crowdfunding au sein de l’Union européenne.
+Typologie des contributeurs et porteurs de projet (baromètre FPF 2021)
+L’âge moyen des financeurs est de 44 ans pour les dons, 46 ans pour les prêts et 47 ans pour
+l’investissement. Dans l’investissement en capital, les femmes représentent 29,1 % des financeurs
+de projet participatif (+ 9 points par rapport à 2020). Environ un tiers des investisseurs se situent
+en Île‐de‐France.
+La typologie des porteurs de projet dépend également du modèle de crowdfunding. Modèle
+privilégié par les porteurs de projets particuliers et associatifs, la collecte par dons rapporte en
+moyenne en 2021 894 euros par projet pour les dons sans récompense ; 7 890 euros par projet
+pour les dons avec récompenses. Le montant moyen des collectes par projet est de 175 435 euros
+pour les prêts rémunérés, 123 978 euros pour les mini-bons et 1 086 379 euros pour les obligations.
+Majoritairement initiés par les entreprises (98 %), les prêts sont également collectés par les
+particuliers (1,6 %). Enfin, la collecte par capital permet de collecter en moyenne 392 370 euros pour
+le financement participatif en capital et 36 520 euros pour le financement participatif en royalties.
+
+----- page 6 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 332 : Le financement participatif (crowdfunding)
+Les catégories de projets proposés sont diverses (création d’un produit, lancement d’un album
+ou d’un livre, projet humanitaire, création d’entreprise) et concernent différents secteurs tels que
+l’audiovisuel, l’édition, la technologie, l’humanitaire... En 2021, 234 immatriculations, portées par
+210 entités juridiques distinctes, étaient inscrites à l’ORIAS dont 173 IFP et 61 CIP. Majoritairement
+généralistes, certaines plateformes choisissent parfois de se spécialiser dans un secteur d’activité
+ou une zone géographique spécifique.
+Selon le baromètre Fundimmo Hellocrowdfunding 3, le crowdfunding immobilier représente
+958 millions d’euros collectés en 2021 soit une hausse de 90 % par rapport à 2020 (505 k€). Il permet
+aux particuliers et professionnels d’investir collectivement dans des projets immobiliers. Le taux de
+rendement est d’environ 9 % par an. Le montant moyen d’une collecte est de 900 k€, avec un nombre
+d’investisseurs moyen par collecte de 313.
+En 2017, le label nommé « Financement participatif pour la croissance verte » voit le jour. Ce label
+a pour but de favoriser les projets écologiques en garantissant la transparence écologique et en
+donnant les informations sur la qualité environnementale du projet.
+Afin de faciliter le choix des contributeurs parmi les nombreuses plateformes et projets, Bpifrance a
+créé une place de marché du crowdfunding via le site tousnosprojets.bpifrance.fr qui répertorie les
+projets de l’ensemble des plateformes de crowdfunding partenaires. Sélectionnées conformément
+à un cahier des charges, elles s’engagent à fournir chaque jour leur stock de projets actualisé.
+3. Baromètre réalisé auprès de 40 plateformes (dont 26 ont été actives en 2021) ouvertes ou ayant financé des
+projets immobiliers, et immatriculées auprès de l’AMF ou de l’ACPR (données analysées sur la période de janvier
+à décembre 2021): Anaxago, Axymo, Baltis Capital, Beefordeal, Citesia, ClubFunding, Credit.fr, CrowdStone,
+Euroraiser, Feedelios, Find & Fund, Finple, Fundimmo, GwenneG, Hexagone, Homunity, immocratie, immovesting,
+Inidev, Koregraf, La Première Brique, Lendopolis, Les Entreprêteurs, Lita.co, Look&Fin, Lymo, Monego,
+My capital Immo, October, Pretup, Proximea, Raizers, StoneRaise, Tributile, Tylia Invest, Upstone, Vatel Direct,
+WeShareBonds, WeeXimmo, WiSEED.
+RÉFÉRENCES
+Textes réglementaires :
+• Ordonnance 2014-559 du 30 mai 2014.
+• Décret 2014-1053 du 16 septembre 2014.
+• Amendement 718 du 30 novembre 2015 – Loi de finances rectificative 2015 (déductibilité fiscale).
+• Ordonnance n° 2016-520 du 28 avril 2016 (minibons).
+• Décret n° 2016-1453 du 28 octobre 2016.
+Guides explicatifs du crowdfunding :
+• AMF et ACPR, Guide « S’informer sur le nouveau cadre applicable au financement participatif
+(crowdfunding) », publié le 30 septembre 2014.
+• AMF et ACPR, « Guide du financement participatif (crowdfunding) à destination des plateformes
+et des porteurs de projet », publié le 14 mai 2013.
+• Devenir prestataire de services de financement participatif (PSFP) | AMF (amf-france.org).
+Études de marché :
+• Rapport « Crowdfunding in the EU Capital Markets Union », Commission européenne, 3 mai 2016.
+• Rapport paneuropéen « Moving Mainstream – The European Alternative Finance Benchmarking
+Report » réalisé par l’Université de Cambridge et Ernst & Young, février 2015.
+• Qu’est-ce que le financement participatif ? | economie.gouv.fr
+• Site de BPI France : http://tousnosprojets.bpifrance.fr/
+• Site de Financement Participatif France (FPF) : http://financeparticipative.org/
+[lien] https://tousnosprojets.bpifrance.fr/
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029008408
+[lien] http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029463569
+[lien] http://www.assemblee-nationale.fr/14/amendements/3217/AN/718.asp
+[lien] https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000032465520&dateTexte=&categorieLien=id
+[lien] https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000033317337&dateTexte=&categorieLien=id
+[lien] https://www.amf-france.org/fr/actualites-publications/publications/guides/guides-professionnels/sinformer-sur-le-nouveau-cadre-applicable-au-financement-participatif-crowdfunding
+[lien] https://www.amf-france.org/fr/actualites-publications/publications/guides/guides-professionnels/sinformer-sur-le-nouveau-cadre-applicable-au-financement-participatif-crowdfunding
+[lien] https://www.amf-france.org/fr/actualites-publications/publications/guides/guides-professionnels/guide-du-financement-participatif-crowdfunding-destination-des-plates-formes-et-des-porteurs-de
+[lien] https://www.amf-france.org/fr/actualites-publications/publications/guides/guides-professionnels/guide-du-financement-participatif-crowdfunding-destination-des-plates-formes-et-des-porteurs-de
+[lien] https://www.amf-france.org/fr/espace-professionnels/fintech/mes-relations-avec-lamf/devenir-prestataire-de-services-de-financement-participatif-psfp
+[lien] http://www.finyear.com/attachment/683049/
+[lien] https://financeparticipative.org/wp-content/uploads/2015/02/2015-uk-alternative-finance-benchmarking-report-1.pdf
+[lien] https://financeparticipative.org/wp-content/uploads/2015/02/2015-uk-alternative-finance-benchmarking-report-1.pdf
+[lien] https://www.economie.gouv.fr/cedef/financement-participatif
+[lien] http://tousnosprojets.bpifrance.fr/
+[lien] http://financeparticipative.org/

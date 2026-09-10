@@ -1,0 +1,86 @@
+
+----- page 1 -----
+05/2021
+—
+LE RÉFÉRENTIEL DES FINANCEMENTS DES ENTREPRISES
+ Les obligations remboursables
+en actions (ORA) et les obligations
+échangeables en actions (OECA)
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 327 : Les obligations remboursables
+en actions (ORA) et les obligations échangeables en actions (OECA)
+MOTS CLÉS
+obligations,
+actions,
+endettement,
+capitaux propres
+SOMMAIRE
+1. PRÉSENTATION GÉNÉRALE
+1.1. Les obligations remboursables en actions (ORA)
+1.2. Les obligations échangeables en actions (OECA)
+NB Pour plus d’informations sur les obligations convertibles en actions, voir la fiche 325.
+
+----- page 2 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 327 : Les obligations remboursables
+en actions (ORA) et les obligations échangeables en actions (OECA)
+1. PRÉSENTATION GÉNÉRALE
+1.1. Les obligations remboursables en actions (ORA)
+Contrairement aux obligations convertibles en actions, pour lesquelles il subsiste toujours un risque
+de non conversion (l’option de conversion rattachée à l’obligation peut ne pas être exercée), les
+obligations remboursables en actions se transforment obligatoirement en capitaux propres. En effet,
+elles sont remboursées (sauf en cas de défaillance de l’émetteur) par remise d’actions de la société
+émettrice selon une parité définie dans le contrat d’émission. En outre, l’opération d’échange se
+réalise à l’échéance finale de l’emprunt et non pas à tout moment.
+La formule est moins attrayante pour le souscripteur qui prend le risque de se retrouver à l’échéance,
+en cas de baisse du cours, avec des actions dont la valeur sera inférieure à la somme souscrite en
+obligation. Seul avantage pendant toute la durée où il est obligataire avant de devenir fatalement
+actionnaire, il jouit d’une rémunération en général supérieure à celle que lui aurait rapporté la détention
+directe d’action. Elle est plutôt utilisée dans des montages très spécifiques pour des entreprises
+non cotées, souvent en présence d’une préoccupation fiscale ou juridique.
+Des ORA peuvent également être émises avec un remboursement en titres d’une filiale cotée.
+Ce produit s’analyse alors comme une cession à terme de la participation.
+Les ORA sont fiscalement considérées comme des obligations jusqu’à leur remboursement, puis
+sont ultérieurement considérées comme des actions.
+1.2. Les obligations échangeables en actions (OECA)
+Une obligation échangeable est une obligation émise par une société qui est remboursable en actions
+d’une autre entreprise dans laquelle elle détient une participation. L’OECA est assortie d’une option
+d’échange. À l’échéance de l’emprunt, soit le cours de l’action sous-jacente a suffisamment progressé
+pour que les investisseurs demandent le remboursement de l’obligation échangeable en actions
+sous-jacentes, la dette disparaît alors du bilan de la société ainsi que les actions sous-jacentes ; soit
+le cours n’a pas suffisamment progressé et l’emprunt est alors remboursé en liquidités, la société
+gardant les actions sous-jacentes. En aucun cas, il n’y a un apport de capitaux propres. L’obligation
+échangeable s’assimile donc à un prêt sur gages avec une option d’achat consentie à l’investisseur
+sur les titres détenus en portefeuille.
+Cette combinaison permet à l’émetteur d’obtenir à la fois un financement attractif et un moyen de
+céder à terme une participation en cas d’exercice de l’option d’échange.
+Depuis 1998, sont apparues un nouveau type d’obligations échangeables, les OCEANE (obligations
+convertibles échangeables en actions nouvelles ou existantes), qui se sont développées en particulier
+dans le cadre des programmes de rachat d’actions. La conversion se traduit par la création
+d’actions nouvelles par augmentation de capital et l’échange par la remise d’actions existantes.
+À la différence des OECA, ici c’est l’émetteur qui se réserve le droit de choisir entre l’échange avec
+des actions existantes ou l’émission d’actions nouvelles. Les OCEANE sont donc des titres hybrides
+d’obligations convertibles et d’obligations échangeables.
+
+----- page 3 -----
+—
+Chapitre 3 : Les financements de marché et alternatifs | Fiche 327 : Les obligations remboursables
+en actions (ORA) et les obligations échangeables en actions (OECA)
+Les obligations échangeables n’ont aucun effet dilutif 1 et se traduisent, en cas d’absence de
+remboursement, par une modification de l’actionnariat et non pas par une opération en capital. En effet,
+à la différence des obligations convertibles, l’action servant à l’échange préexiste à l’émission de
+l’obligation échangeable (ou tout du moins est émise en même temps) et n’est donc pas créée à l’occasion
+de la décision d’échange du porteur. Ces actions sont déposées auprès d’un tiers (une banque) qui
+s’engage à fournir ces titres aux détenteurs d’obligations échangeables et à la demande de ces derniers.
+Les obligations échangeables ont connu jusqu’à ce jour un succès très mitigé. La procédure
+d’émission est en effet un peu plus compliquée que pour les OC puisqu’elle fait intervenir un tiers, et
+surtout elles ne constituent guère un instrument de restructuration du passif des sociétés.
+RÉFÉRENCES
+• Code monétaire, Art. L 228-91, al. 1
+• Vernimmen, Finance d’entreprise 2021
+• Francis LEFEBVRE, Mémento Comptable 2016
+1. Le terme de dilution a deux acceptions bien distinctes :
+– On parle tout d’abord de dilution lorsqu’une modification de la structure financière de l’entreprise ou qu’une
+opération de fusion ou d’acquisition provoque une baisse du bénéfice par action.
+– La dilution peut également caractériser la réduction du pourcentage d’un actionnaire dans le capital d’une société
+suite à une augmentation de capital, une fusion.
+[lien] http://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000006228584&cidTexte=LEGITEXT000005634379&dateTexte=20120309&oldAction=rechCodeArticle

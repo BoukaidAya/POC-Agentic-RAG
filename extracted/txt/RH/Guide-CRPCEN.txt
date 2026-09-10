@@ -549,6 +549,9 @@ détailler les consignes déclaratives pour le cas général et le cas des appre
 hors Alsace-Moselle et d’Alsace-Moselle.  
 Bon à savoir 
 Le calcul des cotisations vieillesse et maladie
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
+[lien] https://www.crpcen.fr/etudes/taux-et-indices-de-references
+[lien] http://www.net-entreprises.fr/
 
 ----- page 17 -----
 17 
@@ -640,6 +643,8 @@ Le taux de la CSA est consultable sur le site urssaf.fr et crpcen.fr.
  
  
 Le calcul de la contribution
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
+[lien] https://www.crpcen.fr/
 
 ----- page 20 -----
 20 
@@ -749,6 +754,9 @@ Le taux du complément maladie est consultable sur le site urssaf.fr et crpcen.f
  
  
 Le calcul du complément
+[lien] https://www.urssaf.fr/portail/home/employeur/calculer-les-cotisations/les-taux-de-cotisations/la-cotisation-maladie---maternit/reduction-de-6-points-du-taux-de/regle-de-cumul-et-modalites-decl.html
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
+[lien] https://www.crpcen.fr/
 
 ----- page 23 -----
 23 
@@ -885,6 +893,7 @@ est ainsi imputé sur le CTP 085 pour les salariés embauchés avant le 1er
 septembre 2023 et sur le CTP 084 pour les nouveaux salariés entrants au 1er 
 septembre 2023. 
 Bon à savoir
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
 
 ----- page 27 -----
 27 
@@ -1164,6 +1173,7 @@ déduction.
  
  
 Le calcul de la déduction
+[lien] https://www.urssaf.fr/portail/home/employeur/beneficier-dune-exoneration/exonerations-ou-aides-a-caracter/les-zones-franches-urbaines-zfu.html
 
 ----- page 35 -----
 35 
@@ -1309,6 +1319,8 @@ Le taux de la cotisation est consultable sur le site urssaf.fr et crpcen.fr.
  
  
 Le calcul de la cotisation
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
+[lien] https://www.crpcen.fr/
 
 ----- page 38 -----
 38 
@@ -1366,6 +1378,7 @@ du code du travail.
  
  
 L’assujettissement à la cotisation
+[lien] https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006904381&dateTexte=&categorieLien=cid
 
 ----- page 40 -----
 40 
@@ -1389,6 +1402,8 @@ Les taux des cotisations sont consultables sur le site urssaf.fr et crpcen.fr.
  
  
 Le calcul des cotisations vieillesse et maladie
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/assiettes-forfaitaires-et-franch/les-stagiaires-de-la-formation-p.html
+[lien] https://www.crpcen.fr/
 
 ----- page 41 -----
 41 
@@ -1484,6 +1499,8 @@ la CRPCEN.
  
  
 Le calcul de la cotisation
+[lien] https://www.urssaf.fr/portail/home/taux-et-baremes/taux-de-cotisations/les-employeurs/les-taux-de-cotisations-de-droit.html
+[lien] https://www.crpcen.fr/
 
 ----- page 44 -----
 44 
@@ -2208,6 +2225,15 @@ de la CRPCEN pour les salariés affiliés avant le 01/09/2023.
  
 Les modalités déclaratives et de versement 
 Rappel sur la déclaration de la CSG/CRDS
+[lien] https://www.urssaf.fr/portail/files/live/sites/urssaf/files/documents/DSN-Guide-declaration-regularisation-cotisations-sociales-Urssaf.pdf
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/838/kw/838
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/838/kw/838
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/839/kw/839
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/1252/kw/1252
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/1252/kw/1252
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2642/kw/CRPCEN
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2642/kw/CRPCEN
+[lien] https://net-entreprises.custhelp.com/app/answers/detail_dsn/a_id/2642/kw/CRPCEN
 
 ----- page 53 -----
 53 
@@ -2684,6 +2710,7 @@ Les services de l’Urssaf
 > Tél. 3957 du lundi au vendredi - de 9h00 à 17h00 
  
 Rôle de l’Urssaf
+[lien] http://www.urssaf.fr/
 
 ----- page 62 -----
 62 
@@ -2715,6 +2742,7 @@ Les services de la CRPCEN
  
  
 Rôle de la CRPCEN
+[lien] https://recouv.sharepoint.com/sites/RecouvrementCRPCEN2023/Documents%20partages/General/MOA%20Projet/Guide%20du%20d%C3%A9clarant/www.crpcen.fr
 
 ----- page 63 -----
 63 
@@ -2784,6 +2812,7 @@ Par téléphone
  
 Toutes les informations sur le 
 transfert des cotisations CRPCEN
+[lien] http://www.crpcen.fr/
 
 ----- page 65 -----
 65 
@@ -2797,6 +2826,8 @@ Par téléphone
 > 3957 du lundi au vendredi - de 9h00 à 17h00
 Toutes les informations sur  
 la déclaration en DSN
+[lien] https://www.urssaf.fr/portail/home.html
+[lien] https://www.net-entreprises.fr/
 
 ----- page 66 -----
 66 
