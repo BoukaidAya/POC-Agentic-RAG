@@ -1,0 +1,60 @@
+services:
+  opensearch:
+    image: opensearchproject/opensearch:2.19.1
+    container_name: opensearch
+    environment:
+      - cluster.name=opensearch-cluster
+      - node.name=opensearch
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true
+      - "OPENSEARCH_JAVA_OPTS=-Xms1g -Xmx1g"
+      - "DISABLE_INSTALL_DEMO_CONFIG=true"
+      - "DISABLE_SECURITY_PLUGIN=true"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+      nofile:
+        soft: 65536
+        hard: 65536
+    volumes:
+      - opensearch-data:/usr/share/opensearch/data
+    ports:
+      - 9200:9200
+      - 9600:9600
+    networks:
+      - agentic-rag-net
+
+  opensearch-dashboards:
+    image: opensearchproject/opensearch-dashboards:2.19.1
+    container_name: opensearch-dashboards
+    ports:
+      - 5601:5601
+    environment:
+      - 'OPENSEARCH_HOSTS=["http://opensearch:9200"]'
+      - "DISABLE_SECURITY_DASHBOARDS_PLUGIN=true"
+    networks:
+      - agentic-rag-net
+    depends_on:
+      - opensearch
+
+  postgres:
+    image: postgres:16-alpine
+    container_name: postgres-acl
+    environment:
+      - POSTGRES_USER=ragadmin
+      - POSTGRES_PASSWORD=ragadmin_dev_only
+      - POSTGRES_DB=agentic_rag
+    ports:
+      - 5432:5432
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    networks:
+      - agentic-rag-net
+
+networks:
+  agentic-rag-net:
+
+volumes:
+  opensearch-data:
+  postgres-data:

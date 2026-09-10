@@ -1,0 +1,6 @@
+# Regenerable : uv run python embed_chunks.py (~45 min sur CPU).
+# 117 Mo pour le corpus complet -- au-dessus de la limite de 100 Mo de GitHub.
+extracted/embeddings/
+
+# Logs de debug locaux, pas du contenu du projet
+*.log

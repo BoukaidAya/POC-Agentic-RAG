@@ -1,0 +1,52 @@
+{
+  "settings": {
+    "index": {
+      "knn": true
+    },
+    "analysis": {
+      "analyzer": {
+        "francais": {
+          "type": "french"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "properties": {
+      "chunk_id":     { "type": "keyword" },
+      "doc_path":     { "type": "keyword" },
+      "folder":       { "type": "keyword" },
+      "filename":     { "type": "keyword" },
+      "doc_type":     { "type": "keyword" },
+      "type":         { "type": "keyword" },
+      "article":      { "type": "keyword" },
+      "fil_ariane":   { "type": "text", "analyzer": "francais" },
+      "page_debut":   { "type": "integer" },
+      "page_fin":     { "type": "integer" },
+      "n_chars":      { "type": "integer" },
+
+      "texte": { "type": "text", "analyzer": "francais" },
+
+      "groupes_acl": { "type": "keyword" },
+
+      "liens": {
+        "type": "object",
+        "properties": {
+          "uri":     { "type": "keyword" },
+          "domaine": { "type": "keyword" }
+        }
+      },
+
+      "embedding": {
+        "type": "knn_vector",
+        "dimension": 1024,
+        "method": {
+          "name": "hnsw",
+          "space_type": "cosinesimil",
+          "engine": "faiss",
+          "parameters": { "ef_construction": 128, "m": 24 }
+        }
+      }
+    }
+  }
+}
