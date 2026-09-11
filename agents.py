@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Premiere version simple des agents par domaine : un routeur (Mistral)
+"""Premiere version simple des agents par domaine : un routeur (Claude)
 identifie quel(s) domaine(s) sont pertinents pour la question, puis chaque
 domaine pertinent ET autorise pour l'utilisateur est interroge separement
 (un "agent" = recherche + generation restreinte a ce domaine).
@@ -20,7 +20,7 @@ import sys
 from sentence_transformers import SentenceTransformer
 
 from acl_config import FOLDER_TO_GROUPE
-from rag_query import appeler_mistral, construire_contexte, groupes_utilisateur, rechercher, reference
+from rag_query import appeler_llm, construire_contexte, groupes_utilisateur, rechercher, reference
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -36,7 +36,9 @@ ROUTEUR_SYSTEM = (
 
 
 def classer_domaines(question: str) -> list[str]:
-    brut = appeler_mistral(ROUTEUR_SYSTEM, question, temperature=0.0)
+    # Pas de parametre "temperature" ici : supprime sur claude-opus-5 (400 si
+    # fourni) -- le format de sortie strict est impose par le prompt.
+    brut = appeler_llm(ROUTEUR_SYSTEM, question)
     try:
         domaines = json.loads(brut)
     except json.JSONDecodeError:
@@ -57,7 +59,7 @@ def agent_domaine(domaine: str, question: str, modele: SentenceTransformer) -> t
         "en francais, de maniere concise."
     )
     message = f"<extraits>\n{construire_contexte(chunks)}\n</extraits>\n\nQuestion : {question}"
-    return appeler_mistral(system_prompt, message), chunks
+    return appeler_llm(system_prompt, message), chunks
 
 
 def main():

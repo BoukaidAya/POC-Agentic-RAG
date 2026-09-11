@@ -1,45 +1,45 @@
 #!/usr/bin/env python3
 """Boucle RAG minimale, sans framework : question -> droits reels de
 l'utilisateur (PostgreSQL) -> recherche hybride filtree (OpenSearch) ->
-Mistral API -> reponse sourcee.
+Claude (API Anthropic) -> reponse sourcee.
 
 Volontairement sans LangChain/LlamaIndex pour l'instant : valider que
 la chaine complete marche, un maillon a la fois, avant d'ajouter la
 complexite d'un framework d'orchestration par-dessus.
 
-Necessite la variable d'environnement MISTRAL_API_KEY (jamais dans le code
-ni en argument de ligne de commande).
+Necessite la variable d'environnement ANTHROPIC_API_KEY (dans .env, jamais
+dans le code ni en argument de ligne de commande) -- voir .env.example.
 
 Usage:
     python rag_query.py --email alice@art.fr "question en francais"
 """
 import argparse
-import os
 import sys
-import time
 
+import anthropic
 import psycopg2
-import requests
 from dotenv import load_dotenv
 from opensearchpy import OpenSearch
 from sentence_transformers import SentenceTransformer
 
 sys.stdout.reconfigure(encoding="utf-8")
-load_dotenv()  # lit .env s'il existe -- MISTRAL_API_KEY n'a plus besoin
-                # d'etre exporte manuellement a chaque session de terminal
+load_dotenv()  # lit .env s'il existe -- doit s'executer avant la creation
+                # du client Anthropic ci-dessous
 
 DSN = "host=localhost port=5432 dbname=agentic_rag user=ragadmin password=ragadmin_dev_only"
 HOTE, PORT = "localhost", 9200
 INDEX_NAME = "chunks_rag"
 PIPELINE_NAME = "hybrid-search-pipeline"
 MODELE_EMBEDDING = "BAAI/bge-m3"
-MODELE_MISTRAL = "mistral-small-latest"
+MODELE_CLAUDE = "claude-opus-5"
 K = 6
 
-# Instructions et contenu recupere strictement separes (deux messages
-# differents) : le modele ne doit jamais confondre "ce qu'on lui demande de
-# faire" et "le contenu qu'on lui donne a lire", meme si ce contenu vient de
-# documents externes.
+client_anthropic = anthropic.Anthropic()  # lit ANTHROPIC_API_KEY automatiquement
+
+# Instructions et contenu recupere strictement separes (system prompt vs
+# message utilisateur) : le modele ne doit jamais confondre "ce qu'on lui
+# demande de faire" et "le contenu qu'on lui donne a lire", meme si ce
+# contenu vient de documents externes.
 SYSTEM_PROMPT = (
     "Tu es un assistant interne qui repond UNIQUEMENT a partir des extraits "
     "de documents fournis entre balises <extraits>. N'utilise aucune autre "
@@ -106,59 +106,38 @@ def construire_contexte(chunks: list[dict]) -> str:
     return "\n\n".join(blocs)
 
 
-MAX_TENTATIVES_429 = 4
-
-
-def appeler_mistral(system_prompt: str, message: str, temperature: float = 0.2) -> str:
+def appeler_llm(system_prompt: str, message: str) -> str:
     """Appel generique -- reutilise par la generation finale (rag_query.py)
     et par le routeur de domaines (agents.py), chacun avec son propre
     system_prompt.
 
-    Retente automatiquement sur 429 (limite de debit, frequente sur les cles
-    gratuites/d'essai Mistral) en respectant l'en-tete Retry-After si present,
-    sinon un backoff court. Si ca echoue quand meme, on affiche le corps de
-    la reponse -- il precise generalement s'il s'agit d'une limite par
-    seconde/minute (passagere) ou d'un quota mensuel epuise (pas de retry qui
-    tienne dans ce cas)."""
-    cle = os.environ.get("MISTRAL_API_KEY")
-    if not cle:
-        raise SystemExit(
-            "Variable d'environnement MISTRAL_API_KEY manquante.\n"
-            "Copier .env.example en .env et y mettre ta cle.")
-
-    for tentative in range(1, MAX_TENTATIVES_429 + 1):
-        reponse = requests.post(
-            "https://api.mistral.ai/v1/chat/completions",
-            headers={"Authorization": f"Bearer {cle}", "Content-Type": "application/json"},
-            json={
-                "model": MODELE_MISTRAL,
-                "messages": [
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": message},
-                ],
-                "temperature": temperature,
-            },
-            timeout=60,
+    Pas de parametre "temperature" : sur claude-opus-5, temperature/top_p/
+    top_k sont supprimes et renvoient une erreur 400 (contrairement aux
+    anciens modeles) -- le controle de determinisme passe desormais par le
+    prompt, pas par un parametre d'echantillonnage."""
+    try:
+        reponse = client_anthropic.messages.create(
+            model=MODELE_CLAUDE,
+            max_tokens=16000,
+            system=system_prompt,
+            messages=[{"role": "user", "content": message}],
         )
-        if reponse.status_code != 429:
-            reponse.raise_for_status()
-            return reponse.json()["choices"][0]["message"]["content"]
+    except anthropic.RateLimitError as e:
+        retry_after = e.response.headers.get("retry-after", "60")
+        raise SystemExit(f"[Claude] limite de debit atteinte -- reessaie dans {retry_after}s.")
+    except anthropic.APIStatusError as e:
+        raise SystemExit(f"[Claude] erreur API ({e.status_code}) : {e.message}")
+    except anthropic.APIConnectionError:
+        raise SystemExit(
+            "[Claude] impossible de joindre l'API -- verifie ta connexion et "
+            "ANTHROPIC_API_KEY dans .env.")
 
-        attente = int(reponse.headers.get("Retry-After", 2 * tentative))
-        print(f"[Mistral] 429 (limite de debit), tentative {tentative}/{MAX_TENTATIVES_429}, "
-              f"nouvel essai dans {attente}s. Detail : {reponse.text[:200]}")
-        if tentative < MAX_TENTATIVES_429:
-            time.sleep(attente)
-
-    raise SystemExit(
-        "Limite de debit Mistral toujours atteinte apres plusieurs tentatives -- "
-        "verifie ton quota/plan sur https://console.mistral.ai (limite par "
-        "seconde/minute passagere, ou quota mensuel epuise).")
+    return next((b.text for b in reponse.content if b.type == "text"), "(pas de reponse textuelle)")
 
 
 def repondre(contexte: str, question: str) -> str:
     message = f"<extraits>\n{contexte}\n</extraits>\n\nQuestion : {question}"
-    return appeler_mistral(SYSTEM_PROMPT, message)
+    return appeler_llm(SYSTEM_PROMPT, message)
 
 
 def main():
