@@ -4,3 +4,6 @@ extracted/embeddings/
 
 # Logs de debug locaux, pas du contenu du projet
 *.log
+
+__pycache__/
+*.pyc

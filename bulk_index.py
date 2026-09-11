@@ -2,9 +2,9 @@
 """Indexe extracted/embeddings/chunks_embeddings.jsonl dans OpenSearch.
 
 Ajoute le champ "groupes_acl" a chaque chunk a partir de son dossier source
-(FOLDER_TO_GROUPE) : c'est ce champ que le filtre de droits utilisera avant
-toute recherche. Pour ce POC, un dossier = un groupe -- voir la discussion
-sur la granularite de l'ACL (par domaine, pas par document).
+(acl_config.py) : c'est ce champ que le filtre de droits utilisera avant
+toute recherche. Valeur initiale seulement -- sync_acl.py la re-ecrit
+ensuite depuis PostgreSQL (source de verite des droits reels).
 
 Usage:
     python bulk_index.py
@@ -14,23 +14,16 @@ from pathlib import Path
 
 from opensearchpy import OpenSearch, helpers
 
+from acl_config import groupe_pour_dossier
+
 ROOT = Path(__file__).resolve().parent
 EMBEDDINGS_PATH = ROOT / "extracted" / "embeddings" / "chunks_embeddings.jsonl"
 HOTE, PORT = "localhost", 9200
 INDEX_NAME = "chunks_rag"
 
-FOLDER_TO_GROUPE = {
-    "RH": "rh",
-    "juridique droit du travail": "juridique",
-    "Management direction": "management",
-    "marketing Communication": "marketing",
-    "securité rgpd informatique": "securite",
-    "Finance": "finance",
-}
-
 
 def vers_document(chunk: dict) -> dict:
-    groupe = FOLDER_TO_GROUPE.get(chunk["folder"], chunk["folder"].lower())
+    groupe = groupe_pour_dossier(chunk["folder"])
     return {
         "_index": INDEX_NAME,
         "_id": chunk["chunk_id"],
