@@ -20,11 +20,29 @@ import sys
 from sentence_transformers import SentenceTransformer
 
 from acl_config import FOLDER_TO_GROUPE
-from rag_query import appeler_llm, construire_contexte, groupes_utilisateur, rechercher, reference
+from rag_query import (
+    MODELE_EMBEDDING,
+    appeler_llm,
+    construire_contexte,
+    groupes_utilisateur,
+    rechercher,
+    reference,
+)
 
 sys.stdout.reconfigure(encoding="utf-8")
 
 DOMAINES = sorted(set(FOLDER_TO_GROUPE.values()))
+
+_modele_embedding = None  # charge une seule fois, reutilise entre appels
+                           # (important pour l'API Flask : recharger le
+                           # modele a chaque requete serait trop lent)
+
+
+def get_modele_embedding() -> SentenceTransformer:
+    global _modele_embedding
+    if _modele_embedding is None:
+        _modele_embedding = SentenceTransformer(MODELE_EMBEDDING)
+    return _modele_embedding
 
 ROUTEUR_SYSTEM = (
     "Tu identifies quel(s) domaine(s) parmi cette liste exacte sont pertinents "
@@ -62,38 +80,63 @@ def agent_domaine(domaine: str, question: str, modele: SentenceTransformer) -> t
     return appeler_llm(system_prompt, message), chunks
 
 
+def traiter_question(question: str, email: str) -> dict:
+    """Logique complete, sans aucun print -- reutilisable par le CLI (main)
+    et par l'API Flask (api.py). Retourne un dict serialisable en JSON."""
+    groupes = groupes_utilisateur(email)
+    if not groupes:
+        return {"erreur": f"Aucun groupe trouve pour {email} (utilisateur inconnu de PostgreSQL ?)"}
+
+    domaines_pertinents = classer_domaines(question)
+    autorises = [d for d in domaines_pertinents if d in groupes]
+    refuses = [d for d in domaines_pertinents if d not in groupes]
+
+    resultats = []
+    if autorises:
+        modele = get_modele_embedding()
+        for domaine in autorises:
+            reponse, chunks = agent_domaine(domaine, question, modele)
+            resultats.append({
+                "domaine": domaine,
+                "reponse": reponse,
+                "sources": [reference(c) for c in chunks],
+            })
+
+    return {
+        "utilisateur": email,
+        "groupes": groupes,
+        "domaines_identifies": domaines_pertinents,
+        "domaines_refuses": refuses,
+        "resultats": resultats,
+    }
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("question")
     ap.add_argument("--email", required=True)
     args = ap.parse_args()
 
-    groupes = groupes_utilisateur(args.email)
-    if not groupes:
-        print(f"Aucun groupe trouve pour {args.email}")
+    r = traiter_question(args.question, args.email)
+    if "erreur" in r:
+        print(r["erreur"])
         return
-    print(f"Utilisateur : {args.email}  (groupes : {groupes})")
 
-    domaines_pertinents = classer_domaines(args.question)
-    print(f"Domaines identifies par le routeur : {domaines_pertinents or '(aucun)'}")
-
-    autorises = [d for d in domaines_pertinents if d in groupes]
-    refuses = [d for d in domaines_pertinents if d not in groupes]
-    if refuses:
-        print(f"Domaines pertinents mais NON autorises pour cet utilisateur (ignores) : {refuses}")
-    if not autorises:
+    print(f"Utilisateur : {r['utilisateur']}  (groupes : {r['groupes']})")
+    print(f"Domaines identifies par le routeur : {r['domaines_identifies'] or '(aucun)'}")
+    if r["domaines_refuses"]:
+        print(f"Domaines pertinents mais NON autorises pour cet utilisateur (ignores) : {r['domaines_refuses']}")
+    if not r["resultats"]:
         print("Aucun domaine pertinent et autorise -- pas de reponse possible.")
         return
 
-    modele = SentenceTransformer("BAAI/bge-m3")
-    for domaine in autorises:
-        reponse, chunks = agent_domaine(domaine, args.question, modele)
-        print(f"\n=== Agent '{domaine}' ===")
-        print(reponse)
-        if chunks:
+    for res in r["resultats"]:
+        print(f"\n=== Agent '{res['domaine']}' ===")
+        print(res["reponse"])
+        if res["sources"]:
             print("Sources :")
-            for c in chunks:
-                print(f"  - {reference(c)}")
+            for s in res["sources"]:
+                print(f"  - {s}")
 
 
 if __name__ == "__main__":
