@@ -16,6 +16,7 @@ Usage:
 import argparse
 import os
 import sys
+import time
 
 import psycopg2
 import requests
@@ -105,31 +106,54 @@ def construire_contexte(chunks: list[dict]) -> str:
     return "\n\n".join(blocs)
 
 
+MAX_TENTATIVES_429 = 4
+
+
 def appeler_mistral(system_prompt: str, message: str, temperature: float = 0.2) -> str:
     """Appel generique -- reutilise par la generation finale (rag_query.py)
     et par le routeur de domaines (agents.py), chacun avec son propre
-    system_prompt."""
+    system_prompt.
+
+    Retente automatiquement sur 429 (limite de debit, frequente sur les cles
+    gratuites/d'essai Mistral) en respectant l'en-tete Retry-After si present,
+    sinon un backoff court. Si ca echoue quand meme, on affiche le corps de
+    la reponse -- il precise generalement s'il s'agit d'une limite par
+    seconde/minute (passagere) ou d'un quota mensuel epuise (pas de retry qui
+    tienne dans ce cas)."""
     cle = os.environ.get("MISTRAL_API_KEY")
     if not cle:
         raise SystemExit(
             "Variable d'environnement MISTRAL_API_KEY manquante.\n"
             "Copier .env.example en .env et y mettre ta cle.")
 
-    reponse = requests.post(
-        "https://api.mistral.ai/v1/chat/completions",
-        headers={"Authorization": f"Bearer {cle}", "Content-Type": "application/json"},
-        json={
-            "model": MODELE_MISTRAL,
-            "messages": [
-                {"role": "system", "content": system_prompt},
-                {"role": "user", "content": message},
-            ],
-            "temperature": temperature,
-        },
-        timeout=60,
-    )
-    reponse.raise_for_status()
-    return reponse.json()["choices"][0]["message"]["content"]
+    for tentative in range(1, MAX_TENTATIVES_429 + 1):
+        reponse = requests.post(
+            "https://api.mistral.ai/v1/chat/completions",
+            headers={"Authorization": f"Bearer {cle}", "Content-Type": "application/json"},
+            json={
+                "model": MODELE_MISTRAL,
+                "messages": [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": message},
+                ],
+                "temperature": temperature,
+            },
+            timeout=60,
+        )
+        if reponse.status_code != 429:
+            reponse.raise_for_status()
+            return reponse.json()["choices"][0]["message"]["content"]
+
+        attente = int(reponse.headers.get("Retry-After", 2 * tentative))
+        print(f"[Mistral] 429 (limite de debit), tentative {tentative}/{MAX_TENTATIVES_429}, "
+              f"nouvel essai dans {attente}s. Detail : {reponse.text[:200]}")
+        if tentative < MAX_TENTATIVES_429:
+            time.sleep(attente)
+
+    raise SystemExit(
+        "Limite de debit Mistral toujours atteinte apres plusieurs tentatives -- "
+        "verifie ton quota/plan sur https://console.mistral.ai (limite par "
+        "seconde/minute passagere, ou quota mensuel epuise).")
 
 
 def repondre(contexte: str, question: str) -> str:
