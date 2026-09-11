@@ -123,5 +123,63 @@ Corrigé : `pypdf` retiré (non utilisé par le code — c'est `pymupdf` qui ser
   liens) avait été emporté par erreur lors de la création de
   `embeddings-indexing`. Corrigé en committant d'abord sur `data-extraction`
   (sa vraie place), puis en recréant `embeddings-indexing` proprement.
-- Prochaines branches prévues : `acl-postgres`, `reranking`, `agents`,
+- Prochaines branches prévues : `reranking`, `agents`,
   `interface-journalisation` — une branche par couche fonctionnelle.
+- `embeddings-indexing` mergée dans `data-extraction` une fois validée
+  (embeddings + index + ACL simulé), puis `acl-postgres` créée à partir du
+  tronc à jour.
+
+## Validation de bout en bout (branche `embeddings-indexing`, avant merge)
+
+- Embedding complet : 4783/4783 chunks vectorisés (~45 min CPU).
+- Bug trouvé et corrigé : la clause `filter` au niveau racine d'une requête
+  `hybrid` n'existe qu'à partir d'OpenSearch 3.0 (on est fixé en 2.19.1) —
+  d'où une `parsing_exception`. Corrigé en dupliquant le filtre ACL dans
+  chaque sous-requête (`bool.filter` pour le BM25, paramètre `filter` natif
+  du `knn`). A imposé de changer le moteur du champ `embedding` dans
+  `mapping.json` de `nmslib` à `faiss` (seul `faiss`/`lucene` supporte le
+  filtrage pendant la recherche kNN).
+- Bug trouvé et corrigé : `search_test.py` plantait sur certains caractères
+  Unicode (tiret cadratin) car PowerShell affiche par défaut en `cp1252` —
+  `sys.stdout.reconfigure(encoding="utf-8")` ajouté.
+- Tests validés : RH, juridique, sécurité — résultats pertinents. Test
+  décisif : une question explicitement sur le financement obligataire,
+  posée avec le groupe `rh` seul, ne renvoie **aucun** contenu du dossier
+  Finance — confirme que le filtre ACL bloque bien avant le scoring, pas
+  après.
+- **Problème de données trouvé** (pas un bug du pipeline) : les 27 PDF du
+  dossier Finance (série "Référentiel des financements des entreprises",
+  Banque de France) ont un nom de fichier qui ne correspond pas à leur
+  contenu réel (décalage systématique, probablement au téléchargement).
+  Corrigé en extrayant le vrai titre depuis le texte du document
+  (`Fiche NNN : <titre>`, avec recollage des titres coupés sur 2 lignes
+  via un signal d'espace résiduel en fin de ligne physique) plutôt que de
+  faire confiance au nom de fichier pour la citation.
+
+## Branche `acl-postgres`
+
+### `schema.sql`, `acl_config.py`
+- Tables : `groupes`, `utilisateurs`, `utilisateur_groupes`, `documents`,
+  `document_groupes`.
+- `acl_config.py` centralise la correspondance dossier → groupe (utilisée à
+  la fois par `bulk_index.py` et `seed_acl.py` pour éviter que les deux
+  scripts divergent).
+
+### `seed_acl.py` — peuplement initial
+- Applique `schema.sql`, insère un groupe par dossier, un document par
+  `doc_path` unique de `chunks.jsonl`, et les droits associés (un dossier =
+  un groupe, cohérent avec le choix de granularité du POC).
+- 4 utilisateurs de test avec des combinaisons de groupes différentes
+  (mono-domaine, multi-domaine, tous domaines) — pour tester le filtre ACL
+  sous plusieurs profils, pas seulement un par dossier.
+
+### `sync_acl.py` — synchronisation PostgreSQL → OpenSearch
+- Relit les droits réels depuis PostgreSQL (jointure `documents` +
+  `document_groupes` + `groupes`) et réécrit `groupes_acl` dans OpenSearch
+  via `update_by_query`, par `doc_path`.
+- PostgreSQL reste la seule source modifiée — jamais OpenSearch
+  directement, sinon écrasé au prochain sync.
+- **Validé en conditions réelles** : ajout d'un droit `rh` sur un document
+  Finance précis dans PostgreSQL → invisible avant `sync_acl.py`, visible
+  après, et limité à ce seul document (aucune fuite sur le reste du dossier
+  Finance). Droit retiré ensuite pour revenir à l'état par défaut.

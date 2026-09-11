@@ -120,7 +120,25 @@ uv run python chunk_corpus.py     # -> extracted/chunks/chunks.jsonl
 uv run python embed_chunks.py     # -> extracted/embeddings/chunks_embeddings.jsonl
                                    #    (~0.5s/chunk sur CPU, prevoir du temps)
 uv run python create_index.py     # cree l'index OpenSearch + le pipeline hybride
-uv run python bulk_index.py       # indexe les chunks vectorises
+uv run python bulk_index.py       # indexe les chunks vectorises (droits initiaux par dossier)
+uv run python seed_acl.py         # PostgreSQL : schema + documents + droits + utilisateurs de test
+uv run python sync_acl.py         # re-ecrit groupes_acl dans OpenSearch depuis PostgreSQL
+```
+
+### Modifier un droit d'acces
+
+PostgreSQL est la source de verite -- ne jamais modifier `groupes_acl`
+directement dans OpenSearch, ce serait ecrase au prochain sync et
+desynchronise de la vraie source :
+
+```sql
+-- ex: donner au groupe "rh" l'acces a un document Finance precis
+INSERT INTO document_groupes (doc_path, groupe_id)
+SELECT 'Finance/Le financement obligataire (1).pdf', id FROM groupes WHERE nom = 'rh';
+```
+
+```bash
+uv run python sync_acl.py   # repercute le changement dans OpenSearch
 ```
 
 ### Tester la recherche
@@ -134,9 +152,10 @@ uv run python search_test.py "taux de cotisation VTC auto-entrepreneur" --groupe
 | Phase | Statut |
 |---|---|
 | Extraction, nettoyage, chunking | fait, validé sur 128 PDF / 123 retenus / 4783 chunks |
-| Embeddings BGE-M3 | script écrit et testé (échantillon), exécution complète en cours |
-| Index OpenSearch + recherche hybride | code écrit, **non encore validé de bout en bout** (dépend du démarrage de Docker) |
-| ACL PostgreSQL | non commencé (branche `acl-postgres` prévue) |
+| Embeddings BGE-M3 | fait, 4783/4783 chunks vectorisés |
+| Index OpenSearch + recherche hybride | fait, validé (RH/juridique/finance/sécurité, filtre ACL confirmé) |
+| Titres réels des documents | fait — corrige un décalage nom de fichier/contenu sur les 27 PDF Finance |
+| ACL PostgreSQL | fait, validé — modification de droit dans Postgres répercutée dans OpenSearch via `sync_acl.py`, testé en conditions réelles (ajout puis retrait d'un accès) |
 | Reranking | non commencé |
 | Agents (LangChain/LlamaIndex) | non commencé |
 | Interface + journalisation | non commencé |
