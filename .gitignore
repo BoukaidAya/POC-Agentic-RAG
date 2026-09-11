@@ -7,3 +7,6 @@ extracted/embeddings/
 
 __pycache__/
 *.pyc
+
+# Cles/secrets -- .env.example (le modele, sans vraie cle) reste versionne
+.env

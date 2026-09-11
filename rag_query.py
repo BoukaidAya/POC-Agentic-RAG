@@ -19,10 +19,13 @@ import sys
 
 import psycopg2
 import requests
+from dotenv import load_dotenv
 from opensearchpy import OpenSearch
 from sentence_transformers import SentenceTransformer
 
 sys.stdout.reconfigure(encoding="utf-8")
+load_dotenv()  # lit .env s'il existe -- MISTRAL_API_KEY n'a plus besoin
+                # d'etre exporte manuellement a chaque session de terminal
 
 DSN = "host=localhost port=5432 dbname=agentic_rag user=ragadmin password=ragadmin_dev_only"
 HOTE, PORT = "localhost", 9200
@@ -102,12 +105,15 @@ def construire_contexte(chunks: list[dict]) -> str:
     return "\n\n".join(blocs)
 
 
-def appeler_mistral(contexte: str, question: str) -> str:
+def appeler_mistral(system_prompt: str, message: str, temperature: float = 0.2) -> str:
+    """Appel generique -- reutilise par la generation finale (rag_query.py)
+    et par le routeur de domaines (agents.py), chacun avec son propre
+    system_prompt."""
     cle = os.environ.get("MISTRAL_API_KEY")
     if not cle:
         raise SystemExit(
             "Variable d'environnement MISTRAL_API_KEY manquante.\n"
-            'PowerShell : $env:MISTRAL_API_KEY = "ta_cle"')
+            "Copier .env.example en .env et y mettre ta cle.")
 
     reponse = requests.post(
         "https://api.mistral.ai/v1/chat/completions",
@@ -115,15 +121,20 @@ def appeler_mistral(contexte: str, question: str) -> str:
         json={
             "model": MODELE_MISTRAL,
             "messages": [
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": f"<extraits>\n{contexte}\n</extraits>\n\nQuestion : {question}"},
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": message},
             ],
-            "temperature": 0.2,
+            "temperature": temperature,
         },
         timeout=60,
     )
     reponse.raise_for_status()
     return reponse.json()["choices"][0]["message"]["content"]
+
+
+def repondre(contexte: str, question: str) -> str:
+    message = f"<extraits>\n{contexte}\n</extraits>\n\nQuestion : {question}"
+    return appeler_mistral(SYSTEM_PROMPT, message)
 
 
 def main():
@@ -144,7 +155,7 @@ def main():
         print("Aucun document accessible ne correspond a la question.")
         return
 
-    reponse = appeler_mistral(construire_contexte(chunks), args.question)
+    reponse = repondre(construire_contexte(chunks), args.question)
 
     print("\n--- Reponse ---")
     print(reponse)
