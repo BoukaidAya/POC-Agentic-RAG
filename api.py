@@ -50,4 +50,8 @@ def chat():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+    # host 0.0.0.0 : l'API tourne en conteneur (elle importe torch, bloque par
+    # Smart App Control hors Docker) -- il faut ecouter sur toutes les interfaces
+    # pour que le port publie soit joignable depuis l'hote (le navigateur).
+    # debug=True : POC local uniquement.
+    app.run(debug=True, host="0.0.0.0", port=5000)
