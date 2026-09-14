@@ -15,13 +15,15 @@ Usage:
 """
 import argparse
 import json
+import re
 import sys
 
 from sentence_transformers import SentenceTransformer
 
-from acl_config import FOLDER_TO_GROUPE
+from acl_config import DOMAIN_DESCRIPTIONS, FOLDER_TO_GROUPE
 from rag_query import (
     MODELE_EMBEDDING,
+    LLMError,
     appeler_llm,
     construire_contexte,
     groupes_utilisateur,
@@ -44,23 +46,38 @@ def get_modele_embedding() -> SentenceTransformer:
         _modele_embedding = SentenceTransformer(MODELE_EMBEDDING)
     return _modele_embedding
 
+# Chaque domaine est presente avec sa description (acl_config.DOMAIN_DESCRIPTIONS)
+# pour que le routeur sache CE QUE CONTIENT chaque domaine et ne classe pas a
+# l'aveugle a partir du seul nom (ex: "RGPD" -> 'securite', pas 'rh').
+_CATALOGUE = "\n".join(f'- "{d}" : {DOMAIN_DESCRIPTIONS.get(d, d)}' for d in DOMAINES)
 ROUTEUR_SYSTEM = (
-    "Tu identifies quel(s) domaine(s) parmi cette liste exacte sont pertinents "
-    f"pour repondre a la question : {DOMAINES}. "
-    "Reponds UNIQUEMENT avec un tableau JSON de chaines prises dans cette liste "
-    "exacte, sans aucun texte autour. Exemple : [\"rh\", \"finance\"]. "
-    "Si un seul domaine est clairement pertinent, ne renvoie que celui-la."
+    "Tu identifies quel(s) domaine(s), parmi cette liste, sont pertinents pour "
+    "repondre a la question. Voici les domaines et ce que chacun couvre :\n"
+    f"{_CATALOGUE}\n\n"
+    "Reponds UNIQUEMENT avec un tableau JSON des cles de domaine pertinentes "
+    "(exactement telles qu'ecrites entre guillemets ci-dessus), sans aucun texte "
+    "ni balise de code autour. Exemple : [\"rh\", \"finance\"]. Si un seul "
+    "domaine est clairement pertinent, ne renvoie que celui-la."
 )
+
+# Le routeur doit repondre en JSON pur, mais un modele glisse parfois un bloc
+# ```json ... ``` autour -- on l'enleve avant de parser plutot que de rejeter
+# une reponse par ailleurs correcte.
+RE_BLOC_CODE = re.compile(r"^```(?:json)?\s*|\s*```$", re.I)
 
 
 def classer_domaines(question: str) -> list[str]:
     # Pas de parametre "temperature" ici : supprime sur claude-opus-5 (400 si
     # fourni) -- le format de sortie strict est impose par le prompt.
-    brut = appeler_llm(ROUTEUR_SYSTEM, question)
+    brut = appeler_llm(ROUTEUR_SYSTEM, question).strip()
+    nettoye = RE_BLOC_CODE.sub("", brut).strip()
     try:
-        domaines = json.loads(brut)
+        domaines = json.loads(nettoye)
     except json.JSONDecodeError:
         print(f"[routeur] reponse non-JSON, ignoree : {brut!r}")
+        return []
+    if not isinstance(domaines, list):
+        print(f"[routeur] reponse JSON inattendue (pas une liste), ignoree : {brut!r}")
         return []
     return [d for d in domaines if d in DOMAINES]
 
@@ -117,7 +134,11 @@ def main():
     ap.add_argument("--email", required=True)
     args = ap.parse_args()
 
-    r = traiter_question(args.question, args.email)
+    try:
+        r = traiter_question(args.question, args.email)
+    except LLMError as e:
+        print(e.message)
+        return
     if "erreur" in r:
         print(r["erreur"])
         return
