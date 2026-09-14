@@ -246,6 +246,9 @@ def main():
                 c["liens"] = liens_chunk
                 c["doc_path"] = rec["path"]
                 c["folder"] = rec["folder"]
+                # tous les dossiers d'ou vient ce contenu (>1 si dedup) -> sert
+                # a attribuer TOUS les groupes ACL correspondants en aval
+                c["folders"] = rec.get("folders", [rec["folder"]])
                 c["filename"] = rec["filename"]
                 c["titre_document"] = rec.get("title", "")
                 c["doc_type"] = type_doc

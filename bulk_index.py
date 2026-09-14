@@ -15,15 +15,19 @@ from pathlib import Path
 from opensearchpy import OpenSearch, helpers
 
 from acl_config import groupe_pour_dossier
+from config import OS_HOST, OS_PORT
 
 ROOT = Path(__file__).resolve().parent
 EMBEDDINGS_PATH = ROOT / "extracted" / "embeddings" / "chunks_embeddings.jsonl"
-HOTE, PORT = "localhost", 9200
 INDEX_NAME = "chunks_rag"
 
 
 def vers_document(chunk: dict) -> dict:
-    groupe = groupe_pour_dossier(chunk["folder"])
+    # tous les groupes des dossiers d'origine (>1 si le contenu etait duplique
+    # entre dossiers) -- valeur initiale, que sync_acl.py re-ecrit ensuite depuis
+    # PostgreSQL (source de verite).
+    folders = chunk.get("folders") or [chunk["folder"]]
+    groupes = sorted({groupe_pour_dossier(f) for f in folders})
     return {
         "_index": INDEX_NAME,
         "_id": chunk["chunk_id"],
@@ -41,7 +45,7 @@ def vers_document(chunk: dict) -> dict:
             "page_fin": chunk["page_fin"],
             "n_chars": chunk["n_chars"],
             "texte": chunk["texte"],
-            "groupes_acl": [groupe],
+            "groupes_acl": groupes,
             "liens": chunk.get("liens", []),
             "embedding": chunk["embedding"],
         },
@@ -53,9 +57,9 @@ def main():
         print(f"Introuvable : {EMBEDDINGS_PATH} (lancer d'abord embed_chunks.py)")
         return
 
-    client = OpenSearch(hosts=[{"host": HOTE, "port": PORT}], use_ssl=False, verify_certs=False)
+    client = OpenSearch(hosts=[{"host": OS_HOST, "port": OS_PORT}], use_ssl=False, verify_certs=False)
     if not client.ping():
-        print(f"Impossible de joindre OpenSearch sur {HOTE}:{PORT}")
+        print(f"Impossible de joindre OpenSearch sur {OS_HOST}:{OS_PORT}")
         return
 
     chunks = [json.loads(l) for l in EMBEDDINGS_PATH.open(encoding="utf-8")]

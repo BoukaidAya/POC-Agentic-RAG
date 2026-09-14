@@ -14,12 +14,11 @@ from pathlib import Path
 import psycopg2
 
 from acl_config import FOLDER_TO_GROUPE, groupe_pour_dossier
+from config import DSN
 
 ROOT = Path(__file__).resolve().parent
 CHUNKS_PATH = ROOT / "extracted" / "chunks" / "chunks.jsonl"
 SCHEMA_PATH = ROOT / "schema.sql"
-
-DSN = "host=localhost port=5432 dbname=agentic_rag user=ragadmin password=ragadmin_dev_only"
 
 # Quelques utilisateurs de test, avec des combinaisons de groupes differentes
 # -- utile pour verifier le filtre ACL sur un utilisateur multi-domaine.
@@ -64,14 +63,19 @@ def main():
                  titre_document = EXCLUDED.titre_document""",
             (doc_path, c["folder"], c["filename"], c.get("titre_document", "")),
         )
-        groupe = groupe_pour_dossier(c["folder"])
-        cur.execute("SELECT id FROM groupes WHERE nom = %s", (groupe,))
-        groupe_id = cur.fetchone()[0]
-        cur.execute(
-            """INSERT INTO document_groupes (doc_path, groupe_id) VALUES (%s, %s)
-               ON CONFLICT DO NOTHING""",
-            (doc_path, groupe_id),
-        )
+        # un lien document->groupe par dossier d'origine : un contenu present
+        # dans plusieurs dossiers (dedup) est accessible a TOUS les groupes
+        # correspondants, pas seulement au premier.
+        folders = c.get("folders") or [c["folder"]]
+        for folder in folders:
+            groupe = groupe_pour_dossier(folder)
+            cur.execute("SELECT id FROM groupes WHERE nom = %s", (groupe,))
+            groupe_id = cur.fetchone()[0]
+            cur.execute(
+                """INSERT INTO document_groupes (doc_path, groupe_id) VALUES (%s, %s)
+                   ON CONFLICT DO NOTHING""",
+                (doc_path, groupe_id),
+            )
     conn.commit()
     print(f"{len(docs)} documents et leurs droits inseres.")
 

@@ -20,748 +20,1121 @@
   "doublons": [
     {
       "path": "RH/vosdroits_F22570.pdf",
-      "doublon_de": "juridique droit du travail/vosdroits_F22570.pdf"
+      "doublon_de": "juridique droit du travail/vosdroits_F22570.pdf",
+      "dossier_fusionne": "RH"
     },
     {
       "path": "securité rgpd informatique/bpi-cnil-rgpd_guide-tpe-pme.pdf",
-      "doublon_de": "marketing Communication/bpi-cnil-rgpd_guide-tpe-pme.pdf"
+      "doublon_de": "marketing Communication/bpi-cnil-rgpd_guide-tpe-pme.pdf",
+      "dossier_fusionne": "securité rgpd informatique"
     }
   ],
   "retenus": [
     {
       "path": "Finance/Euro Private Placement (Euro PP) (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 41485,
       "chars_apres": 39835,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Le crédit-bail et les autres techniques de financement apparentées (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 15318,
       "chars_apres": 14584,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Le financement des investissements par Bpifrance (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 12668,
       "chars_apres": 12396,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Le financement obligataire (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 4299,
       "chars_apres": 4232,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "Finance/Le financement par fonds propres (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 12422,
       "chars_apres": 12164,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Le financement participatif (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 3554,
       "chars_apres": 3438,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les acteurs du financement des entreprises (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 15327,
       "chars_apres": 15013,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les actions (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 13359,
       "chars_apres": 13018,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les actions de préférence (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 3582,
       "chars_apres": 3524,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "Finance/Les fonds d_investissement (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 4757,
       "chars_apres": 4617,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les investissements en fonds propres par Bpifrance (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 8537,
       "chars_apres": 8348,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les nouveaux acteurs les entreprises les assurances mutuelles et les particuliers (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 5789,
       "chars_apres": 5647,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les obligations convertibles en actions (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 18035,
       "chars_apres": 17722,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/les obligations ORA et OECA (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 11912,
       "chars_apres": 11665,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les obligations à bons de souscription en actions (OBSA) (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 4378,
       "chars_apres": 4259,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les Partenariats Public Privé (PPP) (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 8527,
       "chars_apres": 7946,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les prêts bancaires aux entreprises adossés au LDD et au livret A (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 5286,
       "chars_apres": 5158,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les prêts bancaires classiques (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 6665,
       "chars_apres": 6372,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les prêts de la Banque Européenne d_Investissement (BEI) (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 18683,
       "chars_apres": 17908,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les prêts participatifs (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 19989,
       "chars_apres": 19587,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les sociétés d_assurance-crédit (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 7753,
       "chars_apres": 7260,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les titres de créances négociables (TCN) (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 6634,
       "chars_apres": 6252,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les titres hybrides (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 11767,
       "chars_apres": 11512,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les titres participatifs (TP) (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 5692,
       "chars_apres": 5550,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les titres super subordonnés (TSS) (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 7333,
       "chars_apres": 7138,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/Les établissements du secteur bancaire (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 8436,
       "chars_apres": 8232,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Finance/schema general et encours du financement (1).pdf",
+      "folders": [
+        "Finance"
+      ],
       "chars_avant": 10492,
       "chars_apres": 10270,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "juridique droit du travail/Livre II _ Le contrat de travail (Articles L1211-1 à L1273-6) - Légifrance.pdf",
+      "folders": [
+        "juridique droit du travail"
+      ],
       "chars_avant": 583033,
       "chars_apres": 532566,
       "lignes_boilerplate_supprimees": 3
     },
     {
       "path": "juridique droit du travail/Livre II _ Le contrat de travail (Articles R1221-1 à D1273-9) - Légifrance.pdf",
+      "folders": [
+        "juridique droit du travail"
+      ],
       "chars_avant": 387458,
       "chars_apres": 353306,
       "lignes_boilerplate_supprimees": 3
     },
     {
       "path": "juridique droit du travail/particuliers_vosdroits_F31576.pdf",
+      "folders": [
+        "juridique droit du travail"
+      ],
       "chars_avant": 9777,
       "chars_apres": 9301,
       "lignes_boilerplate_supprimees": 6
     },
     {
       "path": "juridique droit du travail/particuliers_vosdroits_F34732.pdf",
+      "folders": [
+        "juridique droit du travail"
+      ],
       "chars_avant": 11845,
       "chars_apres": 11842,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "juridique droit du travail/particuliers_vosdroits_R10338_aide-remarque.pdf",
+      "folders": [
+        "juridique droit du travail"
+      ],
       "chars_avant": 10203,
       "chars_apres": 8852,
       "lignes_boilerplate_supprimees": 3
     },
     {
       "path": "juridique droit du travail/particuliers_vosdroits_R45128_aide-remarque.pdf",
+      "folders": [
+        "juridique droit du travail"
+      ],
       "chars_avant": 3449,
       "chars_apres": 3451,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "juridique droit du travail/vosdroits_F22570.pdf",
+      "folders": [
+        "RH",
+        "juridique droit du travail"
+      ],
       "chars_avant": 15351,
       "chars_apres": 15351,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "Management direction/AMI Pacte Entreprises - Webinaire - Questions réponses - 27 mai 2025.pdf",
+      "folders": [
+        "Management direction"
+      ],
       "chars_avant": 8602,
       "chars_apres": 8556,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "Management direction/Appel à Manifestation d'Intérêt Pacte Entreprises - Détails et modalités V5.pdf",
+      "folders": [
+        "Management direction"
+      ],
       "chars_avant": 28262,
       "chars_apres": 27592,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "Management direction/Enquete-INRS-utilisateurs-OiRA-2024.pdf",
+      "folders": [
+        "Management direction"
+      ],
       "chars_avant": 12527,
       "chars_apres": 11922,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "Management direction/FAQ PACTE Entreprises Actualisation 1er aout 2025.pdf",
+      "folders": [
+        "Management direction"
+      ],
       "chars_avant": 13138,
       "chars_apres": 12179,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "Management direction/Guide de catégorisation des dépenses.pdf",
+      "folders": [
+        "Management direction"
+      ],
       "chars_avant": 12097,
       "chars_apres": 11880,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "Management direction/Guide de dépôt.pdf",
+      "folders": [
+        "Management direction"
+      ],
       "chars_avant": 7837,
       "chars_apres": 7315,
       "lignes_boilerplate_supprimees": 2
     },
     {
       "path": "Management direction/particuliers_vosdroits_F19134.pdf",
+      "folders": [
+        "Management direction"
+      ],
       "chars_avant": 36287,
       "chars_apres": 35980,
       "lignes_boilerplate_supprimees": 2
     },
     {
       "path": "Management direction/particuliers_vosdroits_F78.pdf",
+      "folders": [
+        "Management direction"
+      ],
       "chars_avant": 11081,
       "chars_apres": 11087,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "Management direction/Système d'aide au changement de comportement.pdf",
+      "folders": [
+        "Management direction"
+      ],
       "chars_avant": 8404,
       "chars_apres": 8091,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "marketing Communication/bpi-cnil-rgpd_guide-tpe-pme.pdf",
+      "folders": [
+        "marketing Communication",
+        "securité rgpd informatique"
+      ],
       "chars_avant": 58597,
       "chars_apres": 57637,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "marketing Communication/lignes_directrices_de_la_cnil_sur_les_cookies_et_autres_traceurs.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 28343,
       "chars_apres": 27819,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "marketing Communication/Performance_Numerique_10_Fev2015.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 7329,
       "chars_apres": 7023,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_11_Mars2015.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 10376,
       "chars_apres": 10006,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_12_Avril2015.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 6557,
       "chars_apres": 6445,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "marketing Communication/Performance_Numerique_13_Mai2015.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 13401,
       "chars_apres": 12996,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_14_Juin2015.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 11926,
       "chars_apres": 11544,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/performance_numerique_15_juil2015.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 9859,
       "chars_apres": 9505,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_16_Sept2015.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 6728,
       "chars_apres": 6458,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_17_nov2015.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 8640,
       "chars_apres": 8332,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_18_janv2016.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 11047,
       "chars_apres": 10657,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_19_fevrier2016.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 9447,
       "chars_apres": 9126,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_20_mars2016.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 10466,
       "chars_apres": 10129,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_21_avril2016.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 11302,
       "chars_apres": 10872,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_22_mai2016.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 14633,
       "chars_apres": 14135,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_23_juin2016.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 7716,
       "chars_apres": 7575,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "marketing Communication/Performance_Numerique_6_Oct2014.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 13590,
       "chars_apres": 13127,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_7_Nov2014.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 12476,
       "chars_apres": 11996,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_Numerique_8_Dec2014.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 11563,
       "chars_apres": 11208,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/performance_numerique_9_jan2015.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 13020,
       "chars_apres": 12578,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_numerique_Avril_V1.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 15129,
       "chars_apres": 14839,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "marketing Communication/Performance_numerique_Juillet2014.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 11260,
       "chars_apres": 11080,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "marketing Communication/Performance_numerique_Juin_V1.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 14332,
       "chars_apres": 13848,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "marketing Communication/Performance_numerique_Mai_V1.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 12916,
       "chars_apres": 12691,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "marketing Communication/Performance_numerique_Sept2014.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 9922,
       "chars_apres": 9750,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "marketing Communication/recommandation-cookies-et-autres-traceurs.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 31224,
       "chars_apres": 30558,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "marketing Communication/referentiel_grh_novembre_2019_0.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 44789,
       "chars_apres": 43373,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "marketing Communication/synthese-contributions-cookies-et-autres-traceurs.pdf",
+      "folders": [
+        "marketing Communication"
+      ],
       "chars_avant": 18717,
       "chars_apres": 18114,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/AA-Norme-fichier-declaratif-Diffuseur.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 25789,
       "chars_apres": 23524,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/API-DPAE-Fonctionnement.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 24461,
       "chars_apres": 23924,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/C3S-Charte-entreprise-controlee.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 19852,
       "chars_apres": 19398,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "RH/C3S-Notice.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 54581,
       "chars_apres": 53460,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "RH/Guide-API-DPAE-Impl.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 7435,
       "chars_apres": 6672,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-BonusMalus-2026.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 60555,
       "chars_apres": 57391,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-BonusMalus-assurance-chomage.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 64604,
       "chars_apres": 61365,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-CFPTA.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 116925,
       "chars_apres": 113463,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-CNIEG.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 43534,
       "chars_apres": 41194,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-CRPCEN.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 55364,
       "chars_apres": 51523,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-CSE.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 28710,
       "chars_apres": 27945,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-Declarant-Conventionnelles.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 22770,
       "chars_apres": 21569,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-declaration-regularisation-cotisations-sociales-Urssaf-DSN.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 85503,
       "chars_apres": 83186,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-OETH.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 169541,
       "chars_apres": 163739,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-PASRAU.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 383252,
       "chars_apres": 372002,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-Pharma-CA-CNAM.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 15668,
       "chars_apres": 15323,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-Pharma-ContributionM.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 24524,
       "chars_apres": 24001,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-Pharma-DispositifsMedicaux.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 20936,
       "chars_apres": 20526,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-Pharma-PromoMedicaments.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 32662,
       "chars_apres": 31988,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-pratique-VenteEnGros.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 20852,
       "chars_apres": 20263,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-RevenusDeRemplacement.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 11832,
       "chars_apres": 11543,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-TSA-2025.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 30798,
       "chars_apres": 30167,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/Guide-TSA-2026.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 31453,
       "chars_apres": 30809,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/PPN-Annexes-Contrat-Interface-Declaration-Schemas-XSD-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 47142,
       "chars_apres": 22709,
       "lignes_boilerplate_supprimees": 2
     },
     {
       "path": "RH/PPN-Annexes-Contrat-Interface-Identification-Schemas-XSD-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 30067,
       "chars_apres": 17816,
       "lignes_boilerplate_supprimees": 2
     },
     {
       "path": "RH/PPN-Contrat-Interface-Phase-Declaration-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 88106,
       "chars_apres": 82249,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "RH/PPN-Contrat-Interface-Phase-Identification-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 90122,
       "chars_apres": 82911,
       "lignes_boilerplate_supprimees": 2
     },
     {
       "path": "RH/PPN-FP-02-Natures-activite-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 5732,
       "chars_apres": 5178,
       "lignes_boilerplate_supprimees": 4
     },
     {
       "path": "RH/PPN-FP-03-Chiffre-affaires-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 4475,
       "chars_apres": 4467,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "RH/PPN-FP-04-TVA-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 8209,
       "chars_apres": 7597,
       "lignes_boilerplate_supprimees": 4
     },
     {
       "path": "RH/PPN-FP-06-Prelevement-FR.pdf.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 12811,
       "chars_apres": 11545,
       "lignes_boilerplate_supprimees": 7
     },
     {
       "path": "RH/PPN-FP-07-Declaration-reversement-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 7507,
       "chars_apres": 6718,
       "lignes_boilerplate_supprimees": 4
     },
     {
       "path": "RH/PPN-FP-08-Regularisation-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 21065,
       "chars_apres": 19386,
       "lignes_boilerplate_supprimees": 4
     },
     {
       "path": "RH/PPN-FP-09-Obligations-info-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 11356,
       "chars_apres": 10222,
       "lignes_boilerplate_supprimees": 4
     },
     {
       "path": "RH/PPN-FP-Presentation-generale-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 8889,
       "chars_apres": 8120,
       "lignes_boilerplate_supprimees": 4
     },
     {
       "path": "RH/PPN-Guide-utilisateur-FR.pdf",
+      "folders": [
+        "RH"
+      ],
       "chars_avant": 22223,
       "chars_apres": 20458,
       "lignes_boilerplate_supprimees": 2
     },
     {
       "path": "securité rgpd informatique/bpi-cnil-rgpd_fiche-1_que-faire-quand-votre-entreprise-communique-vend-en-ligne.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 5874,
       "chars_apres": 5803,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "securité rgpd informatique/bpi-cnil-rgpd_fiche_2_ameliorez-maitrisez-votre-relation-client_0.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 7034,
       "chars_apres": 6960,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "securité rgpd informatique/bpi-cnil-rgpd_fiche_3_protegez-les-donnees-de-vos-collaborateurs.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 6945,
       "chars_apres": 6872,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "securité rgpd informatique/check-list_rgpd_pour_les_tpe-pme.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 5879,
       "chars_apres": 5756,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "securité rgpd informatique/cnil_guide_securite_personnelle.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 135634,
       "chars_apres": 134412,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "securité rgpd informatique/gdpr_guide-for-processors_en.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 40513,
       "chars_apres": 37983,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "securité rgpd informatique/guide_has_cnil_recommandations_ia.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 161090,
       "chars_apres": 150609,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "securité rgpd informatique/guide_tiers_autorises.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 35629,
       "chars_apres": 34652,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "securité rgpd informatique/ia_liste_de_verification.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 17838,
       "chars_apres": 17657,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "securité rgpd informatique/outil_d_auto-evaluation_mesure_d_audience.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 16491,
       "chars_apres": 15611,
       "lignes_boilerplate_supprimees": 2
     },
     {
       "path": "securité rgpd informatique/plaquette_cybersecurite_2026_0.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 14525,
       "chars_apres": 14312,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "securité rgpd informatique/recueil-procedures-tiers-autorises.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 164774,
       "chars_apres": 157609,
       "lignes_boilerplate_supprimees": 2
     },
     {
       "path": "securité rgpd informatique/rgpd-guide_sous-traitant-cnil.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 46570,
       "chars_apres": 43644,
       "lignes_boilerplate_supprimees": 1
     },
     {
       "path": "securité rgpd informatique/suis-je_concerne_-_les_principes_vd.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 3683,
       "chars_apres": 3564,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "securité rgpd informatique/synthese_des_contributions_questionnaire_modeles_ia.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 72756,
       "chars_apres": 71175,
       "lignes_boilerplate_supprimees": 0
     },
     {
       "path": "securité rgpd informatique/synthese_des_reponses_annotation_et_securite-ia_0.pdf",
+      "folders": [
+        "securité rgpd informatique"
+      ],
       "chars_avant": 24891,
       "chars_apres": 24421,
       "lignes_boilerplate_supprimees": 0

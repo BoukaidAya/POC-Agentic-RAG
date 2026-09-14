@@ -138,37 +138,59 @@ def main():
 
     rapport = {"total_docs": len(docs), "rejetes_junk": [], "doublons": [], "retenus": []}
 
-    vus_par_hash: dict[str, str] = {}  # hash -> path du 1er exemplaire garde
+    # hash de contenu -> doc retenu (nettoye). On collecte les records en memoire
+    # au lieu d'ecrire au fil de l'eau : un doublon peut apparaitre APRES son
+    # original, et il faut alors pouvoir fusionner son dossier dans l'original
+    # deja retenu. Sinon, dedupliquer par contenu ferait perdre silencieusement
+    # les droits d'acces du dossier abandonne (le champ "folders" porte TOUS les
+    # dossiers ou ce contenu apparait -> tous les groupes ACL correspondants).
+    vus_par_hash: dict[str, dict] = {}
+    ordre: list[str] = []  # hashes dans l'ordre d'apparition, pour une sortie stable
+    chars_avant: dict[str, int] = {}  # hash -> total_chars source (pour le rapport)
+
+    for rec in docs:
+        # 1) doc probablement bloque/vide (page anti-bot, erreur de telechargement)
+        texte_brut = " ".join(p["text"] for p in rec["pages"])
+        if rec["total_chars"] < JUNK_MAX_CHARS or RE_JS_BLOCK.search(texte_brut):
+            rapport["rejetes_junk"].append({
+                "path": rec["path"], "total_chars": rec["total_chars"],
+                "raison": "contenu quasi vide ou page de blocage (a re-televerser/re-extraire)",
+            })
+            continue
+
+        # 2) doublon exact deja retenu (meme contenu, dossier different) :
+        #    on FUSIONNE son dossier dans le doc deja garde plutot que de le jeter.
+        h = hash_contenu(rec)
+        if h in vus_par_hash:
+            retenu = vus_par_hash[h]
+            if rec["folder"] not in retenu["folders"]:
+                retenu["folders"].append(rec["folder"])
+            rapport["doublons"].append({
+                "path": rec["path"], "doublon_de": retenu["path"],
+                "dossier_fusionne": rec["folder"],
+            })
+            continue
+
+        # 3) nettoyage du contenu retenu
+        propre = nettoyer_doc(rec)
+        if propre["total_chars"] < JUNK_MAX_CHARS:
+            rapport["rejetes_junk"].append({
+                "path": rec["path"], "total_chars": propre["total_chars"],
+                "raison": "vide apres nettoyage (ne contenait que du boilerplate)",
+            })
+            continue
+
+        propre["folders"] = [propre["folder"]]  # dossier(s) d'ou vient ce contenu
+        vus_par_hash[h] = propre
+        ordre.append(h)
+        chars_avant[h] = rec["total_chars"]
+
+    # ecriture apres coup, une fois tous les dossiers des doublons fusionnes
     clean_path = OUT / "corpus_clean.jsonl"
     with clean_path.open("w", encoding="utf-8") as sortie:
-        for rec in docs:
-            # 1) doc probablement bloque/vide (page anti-bot, erreur de telechargement)
-            texte_brut = " ".join(p["text"] for p in rec["pages"])
-            if rec["total_chars"] < JUNK_MAX_CHARS or RE_JS_BLOCK.search(texte_brut):
-                rapport["rejetes_junk"].append({
-                    "path": rec["path"], "total_chars": rec["total_chars"],
-                    "raison": "contenu quasi vide ou page de blocage (a re-televerser/re-extraire)",
-                })
-                continue
-
-            # 2) doublon exact deja vu (meme contenu, chemin different)
-            h = hash_contenu(rec)
-            if h in vus_par_hash:
-                rapport["doublons"].append({
-                    "path": rec["path"], "doublon_de": vus_par_hash[h],
-                })
-                continue
-            vus_par_hash[h] = rec["path"]
-
-            # 3) nettoyage du contenu retenu
-            propre = nettoyer_doc(rec)
-            if propre["total_chars"] < JUNK_MAX_CHARS:
-                rapport["rejetes_junk"].append({
-                    "path": rec["path"], "total_chars": propre["total_chars"],
-                    "raison": "vide apres nettoyage (ne contenait que du boilerplate)",
-                })
-                continue
-
+        for h in ordre:
+            propre = vus_par_hash[h]
+            propre["folders"] = sorted(propre["folders"])
             sortie.write(json.dumps(propre, ensure_ascii=False) + "\n")
 
             txt_out = (TXT_DIR / propre["path"]).with_suffix(".txt")
@@ -181,7 +203,8 @@ def main():
 
             rapport["retenus"].append({
                 "path": propre["path"],
-                "chars_avant": rec["total_chars"],
+                "folders": propre["folders"],
+                "chars_avant": chars_avant[h],
                 "chars_apres": propre["total_chars"],
                 "lignes_boilerplate_supprimees": len(propre["boilerplate_supprime"]),
             })
