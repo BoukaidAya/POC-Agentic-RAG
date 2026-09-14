@@ -22,12 +22,12 @@ from dotenv import load_dotenv
 from opensearchpy import OpenSearch
 from sentence_transformers import SentenceTransformer
 
+from config import DSN, OS_HOST, OS_PORT
+
 sys.stdout.reconfigure(encoding="utf-8")
 load_dotenv()  # lit .env s'il existe -- doit s'executer avant la creation
                 # du client Anthropic ci-dessous
 
-DSN = "host=localhost port=5432 dbname=agentic_rag user=ragadmin password=ragadmin_dev_only"
-HOTE, PORT = "localhost", 9200
 INDEX_NAME = "chunks_rag"
 PIPELINE_NAME = "hybrid-search-pipeline"
 MODELE_EMBEDDING = "BAAI/bge-m3"
@@ -66,7 +66,7 @@ def groupes_utilisateur(email: str) -> list[str]:
 
 
 def rechercher(question: str, groupes: list[str], modele: SentenceTransformer) -> list[dict]:
-    client = OpenSearch(hosts=[{"host": HOTE, "port": PORT}], use_ssl=False, verify_certs=False)
+    client = OpenSearch(hosts=[{"host": OS_HOST, "port": OS_PORT}], use_ssl=False, verify_certs=False)
     vecteur = modele.encode(question, normalize_embeddings=True).tolist()
     filtre_acl = {"terms": {"groupes_acl": groupes}}
     requete = {
@@ -106,6 +106,21 @@ def construire_contexte(chunks: list[dict]) -> str:
     return "\n\n".join(blocs)
 
 
+class LLMError(Exception):
+    """Erreur lors de l'appel au LLM.
+
+    Ne herite PAS de SystemExit : sur le chemin Flask (api.py), un SystemExit
+    (BaseException) n'est pas rattrape par la gestion d'erreurs normale et
+    casse la requete/le worker. Porte le statut HTTP a renvoyer cote API ; le
+    CLI, lui, se contente d'afficher le message."""
+
+    def __init__(self, message: str, http_status: int = 502, retry_after: str | None = None):
+        super().__init__(message)
+        self.message = message
+        self.http_status = http_status
+        self.retry_after = retry_after
+
+
 def appeler_llm(system_prompt: str, message: str) -> str:
     """Appel generique -- reutilise par la generation finale (rag_query.py)
     et par le routeur de domaines (agents.py), chacun avec son propre
@@ -124,13 +139,16 @@ def appeler_llm(system_prompt: str, message: str) -> str:
         )
     except anthropic.RateLimitError as e:
         retry_after = e.response.headers.get("retry-after", "60")
-        raise SystemExit(f"[Claude] limite de debit atteinte -- reessaie dans {retry_after}s.")
+        raise LLMError(
+            f"[Claude] limite de debit atteinte -- reessaie dans {retry_after}s.",
+            http_status=429, retry_after=retry_after)
     except anthropic.APIStatusError as e:
-        raise SystemExit(f"[Claude] erreur API ({e.status_code}) : {e.message}")
+        raise LLMError(f"[Claude] erreur API ({e.status_code}) : {e.message}",
+                       http_status=502)
     except anthropic.APIConnectionError:
-        raise SystemExit(
+        raise LLMError(
             "[Claude] impossible de joindre l'API -- verifie ta connexion et "
-            "ANTHROPIC_API_KEY dans .env.")
+            "ANTHROPIC_API_KEY dans .env.", http_status=503)
 
     return next((b.text for b in reponse.content if b.type == "text"), "(pas de reponse textuelle)")
 
@@ -158,7 +176,11 @@ def main():
         print("Aucun document accessible ne correspond a la question.")
         return
 
-    reponse = repondre(construire_contexte(chunks), args.question)
+    try:
+        reponse = repondre(construire_contexte(chunks), args.question)
+    except LLMError as e:
+        print(e.message)
+        return
 
     print("\n--- Reponse ---")
     print(reponse)

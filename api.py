@@ -12,6 +12,7 @@ from flask import Flask, jsonify, request
 from flask_cors import CORS
 
 from agents import traiter_question
+from rag_query import LLMError
 
 app = Flask(__name__)
 CORS(app)  # POC : autorise toutes les origines -- a restreindre avant toute mise en prod
@@ -31,7 +32,17 @@ def chat():
     if not question or not email:
         return jsonify({"erreur": "'question' et 'email' sont requis"}), 400
 
-    resultat = traiter_question(question, email)
+    try:
+        resultat = traiter_question(question, email)
+    except LLMError as e:
+        # Erreur du LLM traduite en statut HTTP (429 avec Retry-After sur limite
+        # de debit, 502/503 sinon) -- surtout pas de SystemExit qui casserait le
+        # worker Flask.
+        reponse = jsonify({"erreur": e.message})
+        if e.retry_after:
+            reponse.headers["Retry-After"] = e.retry_after
+        return reponse, e.http_status
+
     if "erreur" in resultat:
         return jsonify(resultat), 404
 
