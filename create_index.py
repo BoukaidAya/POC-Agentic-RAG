@@ -16,10 +16,10 @@ from pathlib import Path
 
 from opensearchpy import OpenSearch
 
+from config import OS_HOST, OS_PORT
+
 ROOT = Path(__file__).resolve().parent
 MAPPING_PATH = ROOT / "mapping.json"
-HOTE = "localhost"
-PORT = 9200
 INDEX_NAME = "chunks_rag"
 PIPELINE_NAME = "hybrid-search-pipeline"
 
@@ -45,10 +45,10 @@ def main():
                      help="supprime l'index existant avant de le recreer")
     args = ap.parse_args()
 
-    client = OpenSearch(hosts=[{"host": HOTE, "port": PORT}], use_ssl=False, verify_certs=False)
+    client = OpenSearch(hosts=[{"host": OS_HOST, "port": OS_PORT}], use_ssl=False, verify_certs=False)
 
     if not client.ping():
-        print(f"Impossible de joindre OpenSearch sur {HOTE}:{PORT} "
+        print(f"Impossible de joindre OpenSearch sur {OS_HOST}:{OS_PORT} "
               f"(Docker Desktop + docker compose up ?)")
         return
 

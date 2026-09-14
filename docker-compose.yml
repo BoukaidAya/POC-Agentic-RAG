@@ -20,7 +20,12 @@ services:
     volumes:
       - opensearch-data:/usr/share/opensearch/data
     ports:
-      - 9200:9200
+      # Publie sur 9201 cote hote : le port 9200 est deja pris par un autre
+      # conteneur OpenSearch sur cette machine. En interne le port reste 9200,
+      # et le service "app" y accede par le nom "opensearch:9200" (nom de service
+      # Docker), donc ce remapping n'impacte pas l'app -- seulement l'acces
+      # depuis l'hote (debug/dashboards), qui passe alors par localhost:9201.
+      - 9201:9200
       - 9600:9600
     networks:
       - agentic-rag-net
@@ -52,9 +57,31 @@ services:
     networks:
       - agentic-rag-net
 
+  # Partie Python/torch, en Linux, pour contourner Smart App Control de Windows.
+  # Le code est monte en volume (.:/app) -> les sorties atterrissent sur l'hote.
+  # Reseau : par defaut on parle a OpenSearch/PostgreSQL par leur nom de service
+  # (variables OS_HOST / PG_DSN, surchargeables). Le cache HuggingFace est
+  # persiste (hf-cache) pour ne pas re-telecharger BGE-M3 (~2.2 Go) a chaque run.
+  app:
+    build: .
+    container_name: ragapp
+    environment:
+      - OS_HOST=${OS_HOST:-opensearch}
+      - OS_PORT=${OS_PORT:-9200}
+      - PG_DSN=${PG_DSN:-host=postgres port=5432 dbname=agentic_rag user=ragadmin password=ragadmin_dev_only}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY:-}
+    volumes:
+      - .:/app
+      - hf-cache:/models
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - agentic-rag-net
+
 networks:
   agentic-rag-net:
 
 volumes:
   opensearch-data:
   postgres-data:
+  hf-cache:

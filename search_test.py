@@ -20,11 +20,12 @@ import sys
 from opensearchpy import OpenSearch
 from sentence_transformers import SentenceTransformer
 
+from config import OS_HOST, OS_PORT
+
 sys.stdout.reconfigure(encoding="utf-8")  # PowerShell est souvent en cp1252,
                                            # qui plante sur certains caracteres
                                            # du texte extrait des PDF
 
-HOTE, PORT = "localhost", 9200
 INDEX_NAME = "chunks_rag"
 PIPELINE_NAME = "hybrid-search-pipeline"
 MODELE = "BAAI/bge-m3"
@@ -38,9 +39,9 @@ def main():
     ap.add_argument("--k", type=int, default=5)
     args = ap.parse_args()
 
-    client = OpenSearch(hosts=[{"host": HOTE, "port": PORT}], use_ssl=False, verify_certs=False)
+    client = OpenSearch(hosts=[{"host": OS_HOST, "port": OS_PORT}], use_ssl=False, verify_certs=False)
     if not client.ping():
-        print(f"Impossible de joindre OpenSearch sur {HOTE}:{PORT}")
+        print(f"Impossible de joindre OpenSearch sur {OS_HOST}:{OS_PORT}")
         return
 
     modele = SentenceTransformer(MODELE)

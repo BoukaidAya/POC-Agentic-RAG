@@ -34,6 +34,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--test", type=int, default=0,
                      help="n'encoder que les N premiers chunks, pour estimer le temps")
+    ap.add_argument("--fresh", action="store_true",
+                     help="ignorer les embeddings deja calcules et tout recalculer")
     args = ap.parse_args()
 
     if not CHUNKS_IN.exists():
@@ -44,15 +46,34 @@ def main():
     if args.test:
         chunks = chunks[:args.test]
 
-    print(f"Chargement du modele {MODELE} (premier lancement : telechargement ~2.2 Go)...")
-    modele = SentenceTransformer(MODELE)
-
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     suffixe = f".test{args.test}" if args.test else ""
     out_path = OUT_DIR / f"chunks_embeddings{suffixe}.jsonl"
 
+    # Reprise sur interruption : l'encodage complet (~45 min CPU) ecrit au fil de
+    # l'eau ; s'il est coupe, le fichier de sortie est un prefixe valide mais
+    # incomplet. On relit les chunk_id deja encodes pour ne pas les recalculer, et
+    # on ecrit en mode "append". --fresh force un recalcul complet.
+    mode = "w"
+    deja_faits: set[str] = set()
+    if out_path.exists() and not args.fresh:
+        deja_faits = {json.loads(l)["chunk_id"] for l in out_path.open(encoding="utf-8")}
+        mode = "a"
+    a_faire = [c for c in chunks if c["chunk_id"] not in deja_faits]
+
+    if not a_faire:
+        print(f"Rien a faire : les {len(chunks)} chunks sont deja encodes ({out_path}).")
+        return
+    if deja_faits:
+        print(f"Reprise : {len(deja_faits)} chunks deja encodes ignores, "
+              f"{len(a_faire)} restants a encoder.")
+
+    print(f"Chargement du modele {MODELE} (premier lancement : telechargement ~2.2 Go)...")
+    modele = SentenceTransformer(MODELE)
+
+    chunks = a_faire
     debut = time.time()
-    with out_path.open("w", encoding="utf-8") as sortie:
+    with out_path.open(mode, encoding="utf-8") as sortie:
         for i in range(0, len(chunks), TAILLE_BATCH):
             lot = chunks[i:i + TAILLE_BATCH]
             textes = [c["texte_avec_contexte"] for c in lot]

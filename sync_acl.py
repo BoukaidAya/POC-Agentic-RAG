@@ -15,9 +15,9 @@ from pathlib import Path
 import psycopg2
 from opensearchpy import OpenSearch
 
+from config import DSN, OS_HOST, OS_PORT
+
 ROOT = Path(__file__).resolve().parent
-DSN = "host=localhost port=5432 dbname=agentic_rag user=ragadmin password=ragadmin_dev_only"
-HOTE, PORT = "localhost", 9200
 INDEX_NAME = "chunks_rag"
 
 
@@ -39,9 +39,9 @@ def main():
         print("Aucun document dans PostgreSQL (lancer d'abord seed_acl.py).")
         return
 
-    client = OpenSearch(hosts=[{"host": HOTE, "port": PORT}], use_ssl=False, verify_certs=False)
+    client = OpenSearch(hosts=[{"host": OS_HOST, "port": OS_PORT}], use_ssl=False, verify_certs=False)
     if not client.ping():
-        print(f"Impossible de joindre OpenSearch sur {HOTE}:{PORT}")
+        print(f"Impossible de joindre OpenSearch sur {OS_HOST}:{OS_PORT}")
         return
 
     for doc_path, groupes in droits:
