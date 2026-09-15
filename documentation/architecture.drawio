@@ -1,0 +1,126 @@
+<mxfile host="app.diagrams.net" type="device">
+  <diagram id="poc-agentic-rag" name="Architecture POC Agentic RAG">
+    <mxGraphModel dx="1000" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <!-- ================= Groupes (fonds) ================= -->
+        <mxCell id="gA" value="1 · Ingestion du corpus  (hors-ligne)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FB;strokeColor=#6C8EBF;dashed=1;verticalAlign=top;align=left;spacingLeft=12;spacingTop=6;fontStyle=1;fontSize=13;fontColor=#274472;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="1000" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="gB" value="2 · Mise en place des droits d'accès" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF2FB;strokeColor=#6C8EBF;dashed=1;verticalAlign=top;align=left;spacingLeft=12;spacingTop=6;fontStyle=1;fontSize=13;fontColor=#274472;" vertex="1" parent="1">
+          <mxGeometry x="20" y="228" width="1000" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gC" value="4 · Requête en ligne" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4EA;strokeColor=#D79B00;dashed=1;verticalAlign=top;align=left;spacingLeft=12;spacingTop=6;fontStyle=1;fontSize=13;fontColor=#7A5200;" vertex="1" parent="1">
+          <mxGeometry x="20" y="545" width="1000" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="lblStores" value="3 · Stockage (source de vérité des droits + moteur de recherche)" style="text;html=1;align=left;fontStyle=1;fontSize=13;fontColor=#3B6E3B;" vertex="1" parent="1">
+          <mxGeometry x="20" y="352" width="560" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lblExt" value="Services externes / modèles" style="text;html=1;align=left;fontStyle=1;fontSize=13;fontColor=#8A2E2A;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="352" width="220" height="20" as="geometry" />
+        </mxCell>
+
+        <!-- ================= 1 · Ingestion ================= -->
+        <mxCell id="A_src" value="Corpus PDF&#10;Finance · RH · Juridique&#10;Marketing · Sécurité · Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F5F5F5;strokeColor=#666666;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="40" y="92" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="A_extract" value="Extraction du texte&#10;des PDF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="210" y="94" width="145" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="A_clean" value="Nettoyage du corpus&#10;déduplication + fusion&#10;des dossiers" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="370" y="94" width="155" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="A_chunk" value="Découpage en chunks&#10;(adaptatif selon&#10;le type de document)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="540" y="94" width="150" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="A_embed" value="Calcul des embeddings&#10;BGE-M3 · 1024 dimensions" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="705" y="94" width="150" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="A_bulk" value="Indexation&#10;dans OpenSearch&#10;(+ droits initiaux)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="865" y="94" width="150" height="66" as="geometry" />
+        </mxCell>
+
+        <!-- ================= 2 · Droits ================= -->
+        <mxCell id="B_create" value="Création de l'index&#10;+ pipeline de recherche hybride" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="70" y="263" width="190" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="B_seed" value="Initialisation des droits&#10;schéma · droits · utilisateurs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="410" y="263" width="190" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="B_sync" value="Synchronisation des droits&#10;PostgreSQL → OpenSearch" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="740" y="263" width="210" height="55" as="geometry" />
+        </mxCell>
+
+        <!-- ================= 3 · Stockage ================= -->
+        <mxCell id="S_os" value="OpenSearch — moteur de recherche&#10;lexicale (BM25) + vectorielle (kNN)&#10;recherche hybride&#10;droits d'accès par document" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=14;fillColor=#D5E8D4;strokeColor=#82B366;verticalAlign=top;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="330" y="378" width="250" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="S_pg" value="PostgreSQL — source de vérité des droits&#10;utilisateurs · groupes&#10;documents · droits document ↔ groupe" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=14;fillColor=#D5E8D4;strokeColor=#82B366;verticalAlign=top;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="650" y="378" width="270" height="125" as="geometry" />
+        </mxCell>
+
+        <!-- ================= Externals ================= -->
+        <mxCell id="X_bge" value="BGE-M3&#10;modèle d'embeddings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="380" width="170" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="X_claude" value="Claude (Anthropic)&#10;génération de texte" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CECC;strokeColor=#B85450;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="632" width="170" height="64" as="geometry" />
+        </mxCell>
+
+        <!-- ================= 4 · Requête ================= -->
+        <mxCell id="C_user" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C_front" value="Interface de chat&#10;(frontend web)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E1D5E7;strokeColor=#9673A6;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="120" y="637" width="120" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="C_api" value="API HTTP du chatbot&#10;(point d'entrée des requêtes)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="290" y="638" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="C_agents" value="Routage par domaine&#10;identifie les domaines pertinents&#10;→ un agent par domaine autorisé" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="490" y="618" width="215" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C_rag" value="Traitement RAG&#10;• droits de l'utilisateur&#10;• recherche hybride filtrée&#10;• génération de la réponse sourcée" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=11;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="745" y="612" width="235" height="110" as="geometry" />
+        </mxCell>
+
+        <!-- ================= Notes ================= -->
+        <mxCell id="Cfg" value="Configuration partagée&#10;• accès réseau (OpenSearch / PostgreSQL)&#10;• correspondance dossier → domaine + descriptions" style="shape=note;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=11;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="20" y="815" width="500" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="Dock" value="Infrastructure Docker : conteneur applicatif Linux (traitements + API, contourne Smart App Control) · OpenSearch · PostgreSQL · Dashboards" style="shape=note;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=11;align=left;spacingLeft=8;" vertex="1" parent="1">
+          <mxGeometry x="560" y="815" width="660" height="72" as="geometry" />
+        </mxCell>
+
+        <!-- ================= Arêtes : ingestion ================= -->
+        <mxCell id="e1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="A_src" target="A_extract"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e2" value="texte brut&#10;(par page)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="A_extract" target="A_clean"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e3" value="texte nettoyé&#10;(+ dossiers fusionnés)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="A_clean" target="A_chunk"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e4" value="chunks" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="A_chunk" target="A_embed"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e5" value="chunks + vecteurs" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="A_embed" target="A_bulk"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e6" value="indexe" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="A_bulk" target="S_os"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e7" value="encode les chunks" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=open;dashed=1;fontSize=9;" edge="1" parent="1" source="A_embed" target="X_bge"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+        <!-- ================= Arêtes : droits ================= -->
+        <mxCell id="e8" value="mapping + pipeline" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="B_create" target="S_os"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e9" value="peuple les droits" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="B_seed" target="S_pg"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e10" value="lit les droits" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=9;" edge="1" parent="1" source="S_pg" target="B_sync"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e11" value="réécrit les droits d'accès" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="B_sync" target="S_os"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+        <!-- ================= Arêtes : requête ================= -->
+        <mxCell id="e12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="C_user" target="C_front"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e13" value="question + utilisateur" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="C_front" target="C_api"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" edge="1" parent="1" source="C_api" target="C_agents"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e15" value="par domaine autorisé" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="C_agents" target="C_rag"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e16" value="routage (appel au LLM)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=open;dashed=1;fontSize=9;" edge="1" parent="1" source="C_agents" target="X_claude"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e17" value="1 · droits de l'utilisateur" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="C_rag" target="S_pg"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e18" value="2 · recherche hybride filtrée par droits" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="C_rag" target="S_os"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e19" value="3 · génération sourcée" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;fontSize=9;" edge="1" parent="1" source="C_rag" target="X_claude"><mxGeometry relative="1" as="geometry" /></mxCell>
+        <mxCell id="e20" value="encode la question" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=open;dashed=1;fontSize=9;" edge="1" parent="1" source="C_rag" target="X_bge"><mxGeometry relative="1" as="geometry" /></mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

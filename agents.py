@@ -28,7 +28,7 @@ from rag_query import (
     construire_contexte,
     groupes_utilisateur,
     rechercher,
-    reference,
+    source_detaillee,
 )
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -116,7 +116,7 @@ def traiter_question(question: str, email: str) -> dict:
             resultats.append({
                 "domaine": domaine,
                 "reponse": reponse,
-                "sources": [reference(c) for c in chunks],
+                "sources": [source_detaillee(c) for c in chunks],
             })
 
     return {
@@ -157,7 +157,7 @@ def main():
         if res["sources"]:
             print("Sources :")
             for s in res["sources"]:
-                print(f"  - {s}")
+                print(f"  - {s['label']}  ({s['doc_path']})")
 
 
 if __name__ == "__main__":

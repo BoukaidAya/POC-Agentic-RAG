@@ -101,6 +101,17 @@ def reference(chunk: dict) -> str:
     return f"{titre} {pos}"
 
 
+def source_detaillee(chunk: dict) -> dict:
+    """Source structuree pour le frontend : libelle affichable + de quoi
+    construire un lien vers le PDF (chemin relatif du document + page de debut).
+    Le chemin sert le PDF via la route /document de l'API."""
+    return {
+        "label": reference(chunk),
+        "doc_path": chunk.get("doc_path") or chunk.get("filename"),
+        "page": chunk.get("page_debut"),
+    }
+
+
 def construire_contexte(chunks: list[dict]) -> str:
     blocs = [f"Source {i} -- {reference(c)} :\n{c['texte']}" for i, c in enumerate(chunks, 1)]
     return "\n\n".join(blocs)
