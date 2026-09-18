@@ -9,10 +9,13 @@ CREATE TABLE IF NOT EXISTS groupes (
 );
 
 CREATE TABLE IF NOT EXISTS utilisateurs (
-    id     SERIAL PRIMARY KEY,
-    email  TEXT UNIQUE NOT NULL,
-    nom    TEXT NOT NULL
+    id             SERIAL PRIMARY KEY,
+    email          TEXT UNIQUE NOT NULL,
+    nom            TEXT NOT NULL,
+    password_hash  TEXT
 );
+-- Pour les bases créées avant l'ajout de l'authentification :
+ALTER TABLE utilisateurs ADD COLUMN IF NOT EXISTS password_hash TEXT;
 
 CREATE TABLE IF NOT EXISTS utilisateur_groupes (
     utilisateur_id  INTEGER NOT NULL REFERENCES utilisateurs(id) ON DELETE CASCADE,

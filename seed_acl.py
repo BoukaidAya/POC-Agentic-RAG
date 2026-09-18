@@ -12,9 +12,14 @@ import json
 from pathlib import Path
 
 import psycopg2
+from werkzeug.security import generate_password_hash
 
 from acl_config import FOLDER_TO_GROUPE, groupe_pour_dossier
 from config import DSN
+
+# Mot de passe commun aux utilisateurs de test, pour pouvoir se connecter via
+# l'interface (POC uniquement). A NE PAS reproduire en production.
+MOT_DE_PASSE_TEST = "demo1234"
 
 ROOT = Path(__file__).resolve().parent
 CHUNKS_PATH = ROOT / "extracted" / "chunks" / "chunks.jsonl"
@@ -82,10 +87,11 @@ def main():
     # utilisateurs de test
     for email, nom, groupes in UTILISATEURS_TEST:
         cur.execute(
-            """INSERT INTO utilisateurs (email, nom) VALUES (%s, %s)
-               ON CONFLICT (email) DO UPDATE SET nom = EXCLUDED.nom
+            """INSERT INTO utilisateurs (email, nom, password_hash) VALUES (%s, %s, %s)
+               ON CONFLICT (email) DO UPDATE SET
+                 nom = EXCLUDED.nom, password_hash = EXCLUDED.password_hash
                RETURNING id""",
-            (email, nom),
+            (email, nom, generate_password_hash(MOT_DE_PASSE_TEST)),
         )
         utilisateur_id = cur.fetchone()[0]
         for groupe in groupes:
