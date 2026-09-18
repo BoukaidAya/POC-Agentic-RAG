@@ -8,5 +8,15 @@ extracted/embeddings/
 __pycache__/
 *.pyc
 
+# Fichiers temporaires d'editeurs (draw.io : .$*.dtmp / .bkp ; Word : ~$*)
+.$*
+*.dtmp
+*.bkp
+~$*
+*.tmp
+
+# Environnement virtuel local
+.venv/
+
 # Cles/secrets -- .env.example (le modele, sans vraie cle) reste versionne
 .env

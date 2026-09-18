@@ -18,6 +18,11 @@ from urllib.parse import urlparse
 import pymupdf  # PyMuPDF
 
 ROOT = Path(__file__).resolve().parent
+# Les PDF sources sont regroupes sous "donnees/" (un sous-dossier par domaine).
+# On calcule les chemins RELATIVEMENT a ce dossier : "folder"/"path" restent
+# "Finance", "RH/..."  (sans le prefixe "donnees/") -> le mapping des droits
+# (acl_config) et les doc_path deja indexes ne changent pas.
+DATA_DIR = ROOT / "données"
 OUT = ROOT / "extracted"
 TXT_DIR = OUT / "txt"
 MIN_CHARS_PER_PAGE = 20  # en dessous -> page probablement scannée (image)
@@ -66,7 +71,7 @@ def extraire_liens(page) -> list[dict]:
 
 
 def extract_one(pdf_path: Path):
-    rel = pdf_path.relative_to(ROOT)
+    rel = pdf_path.relative_to(DATA_DIR)
     doc = pymupdf.open(pdf_path)
     meta = doc.metadata or {}
     pages = []
@@ -100,7 +105,7 @@ def extract_one(pdf_path: Path):
 
 
 def main():
-    pdfs = sorted(ROOT.rglob("*.pdf"))
+    pdfs = sorted(DATA_DIR.rglob("*.pdf"))
     if not pdfs:
         print("Aucun PDF trouve.")
         return
@@ -117,8 +122,8 @@ def main():
             except Exception as e:  # PDF corrompu / protege
                 print(f"[{n}/{len(pdfs)}] ERREUR {pdf.name}: {e}", file=sys.stderr)
                 index_rows.append({
-                    "path": str(pdf.relative_to(ROOT)).replace("\\", "/"),
-                    "folder": str(pdf.relative_to(ROOT).parent).replace("\\", "/"),
+                    "path": str(pdf.relative_to(DATA_DIR)).replace("\\", "/"),
+                    "folder": str(pdf.relative_to(DATA_DIR).parent).replace("\\", "/"),
                     "filename": pdf.name, "num_pages": 0, "total_chars": 0,
                     "likely_scanned": "ERROR", "error": str(e),
                     "num_liens": 0, "domaines": "",

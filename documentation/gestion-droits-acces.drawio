@@ -1,0 +1,98 @@
+<mxfile host="Electron">
+  <diagram id="droits-acces" name="Gestion des droits d&#39;accès">
+    <mxGraphModel dx="1583" dy="894" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1300" pageHeight="800" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;fontStyle=1;fontSize=16;fontColor=#333333;" value="Gestion des droits d&#39;accès — modèle et application" vertex="1">
+          <mxGeometry height="28" width="700" x="20" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gPG" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF7EE;strokeColor=#82B366;dashed=1;verticalAlign=top;align=left;spacingLeft=12;spacingTop=6;fontStyle=1;fontSize=13;fontColor=#3B6E3B;" value="PostgreSQL — source de vérité des droits" vertex="1">
+          <mxGeometry height="400" width="700" x="20" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gOS" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EAF7EE;strokeColor=#82B366;dashed=1;verticalAlign=top;align=left;spacingLeft=12;spacingTop=6;fontStyle=1;fontSize=13;fontColor=#3B6E3B;" value="OpenSearch — copie dénormalisée (pour la recherche filtrée)" vertex="1">
+          <mxGeometry height="230" width="520" x="760" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gEnf" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF4EA;strokeColor=#D79B00;dashed=1;verticalAlign=top;align=left;spacingLeft=12;spacingTop=6;fontStyle=1;fontSize=13;fontColor=#7A5200;" value="Application des droits à chaque requête" vertex="1">
+          <mxGeometry height="270" width="1260" x="20" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="E_user" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=12;" value="Utilisateur&#xa;email · nom" vertex="1">
+          <mxGeometry height="60" width="170" x="50" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="J_ug" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=11;" value="utilisateur_groupes&#xa;(table de liaison N–N)" vertex="1">
+          <mxGeometry height="46" width="160" x="55" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="E_group" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=12;" value="Groupe = Domaine&#xa;rh · juridique · finance&#xa;securite · marketing · management" vertex="1">
+          <mxGeometry height="110" width="200" x="280" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="E_doc" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;fontSize=12;" value="Document&#xa;doc_path · dossier" vertex="1">
+          <mxGeometry height="60" width="170" x="530" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="J_dg" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=11;" value="document_groupes&#xa;(table de liaison N–N)" vertex="1">
+          <mxGeometry height="46" width="160" x="535" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="N_folder" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=11;align=left;spacingLeft=8;" value="Le(s) dossier(s) d&#39;un document → groupe(s)&#xa;(acl_config : RH→rh, Finance→finance…).&#xa;Un doublon fusionné = plusieurs groupes&#xa;= plusieurs droits d&#39;accès." vertex="1">
+          <mxGeometry height="90" width="260" x="440" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="r1" edge="1" parent="1" source="E_user" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=none;fontSize=10;" target="J_ug" value="appartient à">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r2" edge="1" parent="1" source="J_ug" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=none;" target="E_group">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r3" edge="1" parent="1" source="E_doc" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=none;fontSize=10;" target="J_dg" value="rattaché à">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r4" edge="1" parent="1" source="J_dg" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=none;" target="E_group">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r5" edge="1" parent="1" source="N_folder" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;dashed=1;fontSize=10;" target="J_dg" value="détermine">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_chunk" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=12;fillColor=#D5E8D4;strokeColor=#82B366;verticalAlign=top;fontSize=11;" value="Chunk indexé&#xa;{ texte · embedding · groupes_acl }&#xa;&#xa;groupes_acl = liste des groupes du document&#xa;(copie, sert à filtrer la recherche)" vertex="1">
+          <mxGeometry height="140" width="440" x="800" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="r_sync" edge="1" parent="1" source="J_dg" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;strokeColor=#82B366;strokeWidth=2;fontSize=11;fontColor=#3B6E3B;" target="E_chunk" value="sync_acl : recopie document → groupes&#xa;dans groupes_acl  (jamais l&#39;inverse)">
+          <mxGeometry relative="1" x="0.185" y="-6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_user" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=12;" value="① L&#39;utilisateur pose&#xa;une question (son email)" vertex="1">
+          <mxGeometry height="70" width="180" x="50" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_lookup" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=12;" value="② groupes_utilisateur(email)&#xa;lit PostgreSQL →&#xa;groupes de l&#39;utilisateur" vertex="1">
+          <mxGeometry height="80" width="220" x="280" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_filter" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=12;align=left;spacingLeft=8;" value="③ Recherche OpenSearch filtrée&#xa;garde un chunk si :&#xa;groupes_acl ∩ groupes_utilisateur ≠ ∅&#xa;(appliqué AVANT le scoring, BM25 + kNN)" vertex="1">
+          <mxGeometry height="110" width="290" x="550" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_result" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#D79B00;fontSize=12;" value="④ Seuls les chunks autorisés&#xa;remontent → réponse sourcée" vertex="1">
+          <mxGeometry height="80" width="200" x="890" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_route" parent="1" style="shape=note;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#D6B656;fontSize=11;align=left;spacingLeft=8;" value="Agents : un domaine pertinent mais&#xa;NON autorisé est écarté (bandeau 🔒)" vertex="1">
+          <mxGeometry height="80" width="140" x="1120" y="575" as="geometry" />
+        </mxCell>
+        <mxCell id="q1" edge="1" parent="1" source="Q_user" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" target="Q_lookup">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q2" edge="1" parent="1" source="Q_lookup" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" target="Q_filter">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q3" edge="1" parent="1" source="Q_filter" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=block;" target="Q_result">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q4" edge="1" parent="1" source="Q_filter" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=open;dashed=1;fontSize=10;" target="Q_route">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q_read_pg" edge="1" parent="1" source="Q_lookup" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=open;dashed=1;fontSize=10;fontColor=#3B6E3B;" target="J_ug" value="lit les groupes de l&#39;utilisateur">
+          <mxGeometry relative="1" x="0.1575" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q_read_os" edge="1" parent="1" source="Q_filter" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;endArrow=open;dashed=1;fontSize=10;fontColor=#3B6E3B;" target="E_chunk" value="filtre sur groupes_acl">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
